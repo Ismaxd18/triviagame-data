@@ -1,4 +1,9 @@
 {
+  "category": "ciencia",
+  "name": "Ciencia",
+  "color": "#0057e7",
+  "levels": [
+    {
       "level": 1,
       "questions": [
         {
@@ -179,3 +184,7 @@
           "difficulty": "difícil",
           "points": 5000
         }
+      ]
+    }
+  ]
+}
