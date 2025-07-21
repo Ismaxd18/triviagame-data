@@ -1,0 +1,181 @@
+{
+      "level": 1,
+      "questions": [
+        {
+          "id": "c1-1",
+          "question": "¿Cuál es el elemento químico con símbolo H?",
+          "options": ["Helio", "Hidrógeno", "Hafnio", "Holmio"],
+          "answer": 1,
+          "difficulty": "fácil",
+          "points": 2000
+        },
+        {
+          "id": "c1-2",
+          "question": "¿Qué planeta es conocido como el planeta rojo?",
+          "options": ["Venus", "Júpiter", "Marte", "Saturno"],
+          "answer": 2,
+          "difficulty": "fácil",
+          "points": 2000
+        },
+        {
+          "id": "c1-3",
+          "question": "¿Qué científico propuso la teoría de la relatividad?",
+          "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+          "answer": 1,
+          "difficulty": "fácil",
+          "points": 2000
+        },
+        {
+          "id": "c1-4",
+          "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+          "options": ["Húmero", "Fémur", "Tibia", "Columna vertebral"],
+          "answer": 1,
+          "difficulty": "fácil",
+          "points": 2000
+        },
+        {
+          "id": "c1-5",
+          "question": "¿Cuál es el planeta más grande del sistema solar?",
+          "options": ["Tierra", "Saturno", "Júpiter", "Neptuno"],
+          "answer": 2,
+          "difficulty": "fácil",
+          "points": 2000
+        },
+        {
+          "id": "c1-6",
+          "question": "¿Cuál es el órgano que produce la insulina?",
+          "options": ["Hígado", "Riñón", "Páncreas", "Bazo"],
+          "answer": 2,
+          "difficulty": "fácil",
+          "points": 2000
+        },
+        {
+          "id": "c1-7",
+          "question": "¿Cuál es la unidad básica de la materia?",
+          "options": ["Átomo", "Célula", "Molécula", "Electrón"],
+          "answer": 0,
+          "difficulty": "fácil",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "c2-1",
+          "question": "¿Cuál es la velocidad de la luz?",
+          "options": ["300,000 km/s", "150,000 km/s", "200,000 km/s", "250,000 km/s"],
+          "answer": 0,
+          "difficulty": "medio",
+          "points": 3000
+        },
+        {
+          "id": "c2-2",
+          "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+          "options": ["Corazón", "Hígado", "Pulmones", "Piel"],
+          "answer": 3,
+          "difficulty": "medio",
+          "points": 3000
+        },
+        {
+          "id": "c2-3",
+          "question": "¿Qué elemento tiene el número atómico 1?",
+          "options": ["Helio", "Hidrógeno", "Litio", "Oxígeno"],
+          "answer": 1,
+          "difficulty": "medio",
+          "points": 3000
+        },
+        {
+          "id": "c2-4",
+          "question": "¿Cuál es la hormona responsable de la respuesta al estrés?",
+          "options": ["Insulina", "Melatonina", "Cortisol", "Oxitocina"],
+          "answer": 2,
+          "difficulty": "medio",
+          "points": 3000
+        },
+        {
+          "id": "c2-5",
+          "question": "¿Cómo se llama el proceso por el cual las plantas fabrican su alimento?",
+          "options": ["Fotosíntesis", "Respiración", "Digestión", "Fermentación"],
+          "answer": 0,
+          "difficulty": "medio",
+          "points": 3000
+        },
+        {
+          "id": "c2-6",
+          "question": "¿Qué gas compone mayoritariamente la atmósfera terrestre?",
+          "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Argón"],
+          "answer": 1,
+          "difficulty": "medio",
+          "points": 3000
+        },
+        {
+          "id": "c2-7",
+          "question": "¿Cuántas cámaras tiene el corazón humano?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 2,
+          "difficulty": "medio",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "c3-1",
+          "question": "¿Qué partícula subatómica tiene carga positiva?",
+          "options": ["Electrón", "Neutrón", "Protón", "Positrón"],
+          "answer": 2,
+          "difficulty": "difícil",
+          "points": 5000
+        },
+        {
+          "id": "c3-2",
+          "question": "¿Cuál es la ley que establece que la energía no se crea ni se destruye, solo se transforma?",
+          "options": ["Ley de la conservación de la energía", "Primera ley de la termodinámica", "Ley de la entropía", "Ley de Newton"],
+          "answer": 0,
+          "difficulty": "difícil",
+          "points": 5000
+        },
+        {
+          "id": "c3-3",
+          "question": "¿Qué científico formuló la teoría de la selección natural?",
+          "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Alexander Fleming"],
+          "answer": 1,
+          "difficulty": "difícil",
+          "points": 5000
+        },
+        {
+          "id": "c3-4",
+          "question": "¿Cuál es el ácido presente en el jugo gástrico?",
+          "options": ["Ácido acético", "Ácido cítrico", "Ácido clorhídrico", "Ácido sulfúrico"],
+          "answer": 2,
+          "difficulty": "difícil",
+          "points": 5000
+        },
+        {
+          "id": "c3-5",
+          "question": "¿Qué teoría explica cómo se formó el universo?",
+          "options": ["Teoría del Big Bang", "Teoría de la relatividad", "Teoría de cuerdas", "Teoría cuántica"],
+          "answer": 0,
+          "difficulty": "difícil",
+          "points": 5000
+        },
+        {
+          "id": "c3-6",
+          "question": "¿Qué tipo de radiación tiene la longitud de onda más corta?",
+          "options": ["Rayos X", "Rayos gamma", "Ultravioleta", "Infrarrojo"],
+          "answer": 1,
+          "difficulty": "difícil",
+          "points": 5000
+        },
+        {
+          "id": "c3-7",
+          "question": "¿Cuál de estos no es un tipo de sangre humana?",
+          "options": ["Tipo A", "Tipo B", "Tipo C", "Tipo AB"],
+          "answer": 2,
+          "difficulty": "difícil",
+          "points": 5000
+        }
