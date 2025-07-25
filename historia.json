@@ -1,1 +1,382 @@
 
+{
+  "category": "historia",
+  "name": "Historia",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "h1-1",
+          "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+          "options": ["1938", "1939", "1940", "1941"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-2",
+          "question": "¿Quién fue el primer presidente de Estados Unidos?",
+          "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-3",
+          "question": "¿En qué año llegó Cristóbal Colón a América?",
+          "options": ["1490", "1491", "1492", "1493"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-4",
+          "question": "¿Qué evento histórico ocurrió el 9 de noviembre de 1989?",
+          "options": ["Fin de la Guerra Fría", "Caída del Muro de Berlín", "Reunificación alemana", "Disolución de la URSS"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-5",
+          "question": "¿Quién fue el líder de la Revolución Francesa más conocido por el período del Terror?",
+          "options": ["Napoleón Bonaparte", "Maximilien Robespierre", "Jacques Danton", "Jean-Paul Marat"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-6",
+          "question": "¿En qué siglo vivió Leonardo da Vinci?",
+          "options": ["Siglo XIV", "Siglo XV", "Siglo XVI", "Siglo XVII"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-7",
+          "question": "¿Qué imperio construyó Machu Picchu?",
+          "options": ["Imperio Azteca", "Imperio Maya", "Imperio Inca", "Imperio Olmeca"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-8",
+          "question": "¿En qué año terminó la Primera Guerra Mundial?",
+          "options": ["1917", "1918", "1919", "1920"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-9",
+          "question": "¿Quién fue conocido como 'El Libertador' de América del Sur?",
+          "options": ["José de San Martín", "Simón Bolívar", "Miguel Hidalgo", "Bernardo O'Higgins"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-10",
+          "question": "¿Qué civilización antigua construyó las pirámides de Giza?",
+          "options": ["Babilonios", "Asirios", "Egipcios", "Persas"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-11",
+          "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+          "options": ["1774", "1775", "1776", "1777"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-12",
+          "question": "¿Quién fue el emperador romano cuando se crucificó a Jesucristo?",
+          "options": ["Augusto", "Tiberio", "Calígula", "Nerón"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-13",
+          "question": "¿Qué guerra civil española ocurrió entre 1936 y 1939?",
+          "options": ["Guerra de Sucesión", "Guerra de la Independencia", "Guerra Civil Española", "Guerra Carlista"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-14",
+          "question": "¿En qué continente se originó la especie humana?",
+          "options": ["Asia", "Europa", "África", "América"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-15",
+          "question": "¿Qué evento marcó el inicio de la Edad Media?",
+          "options": ["Caída del Imperio Romano", "Nacimiento de Cristo", "Invasiones bárbaras", "Coronación de Carlomagno"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "h2-1",
+          "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+          "options": ["Tratado de Versalles", "Tratado de Trianón", "Tratado de Sèvres", "Tratado de Saint-Germain"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-2",
+          "question": "¿Quién fue el último zar de Rusia?",
+          "options": ["Alejandro III", "Nicolás II", "Miguel II", "Alejandro II"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-3",
+          "question": "¿En qué batalla derrotó Napoleón a las fuerzas austro-rusas en 1805?",
+          "options": ["Batalla de Jena", "Batalla de Austerlitz", "Batalla de Wagram", "Batalla de Borodino"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-4",
+          "question": "¿Qué dinastía china construyó la Ciudad Prohibida?",
+          "options": ["Dinastía Tang", "Dinastía Song", "Dinastía Ming", "Dinastía Qing"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-5",
+          "question": "¿En qué año se produjo la Revolución de Octubre en Rusia?",
+          "options": ["1916", "1917", "1918", "1919"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-6",
+          "question": "¿Qué imperio controlaba Constantinopla antes de su caída en 1453?",
+          "options": ["Imperio Romano", "Imperio Bizantino", "Imperio Otomano", "Imperio Búlgaro"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-7",
+          "question": "¿Quién fue el líder de los mongoles que conquistó gran parte de Asia?",
+          "options": ["Kublai Kan", "Gengis Kan", "Ögedei Kan", "Möngke Kan"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-8",
+          "question": "¿Qué conflicto se conoce como 'La Guerra de los Cien Años'?",
+          "options": ["Conflicto entre Inglaterra y Francia", "Conflicto entre España e Inglaterra", "Conflicto entre Francia y España", "Conflicto entre Inglaterra y España"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-9",
+          "question": "¿En qué año se abolió la esclavitud en Estados Unidos?",
+          "options": ["1863", "1865", "1867", "1870"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-10",
+          "question": "¿Qué faraón egipcio ordenó la construcción de la Gran Pirámide de Giza?",
+          "options": ["Kefrén", "Micerino", "Keops", "Djoser"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-11",
+          "question": "¿Qué guerra civil estadounidense se libró entre 1861 y 1865?",
+          "options": ["Guerra de Secesión", "Guerra de Independencia", "Guerra Hispano-Estadounidense", "Guerra de 1812"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-12",
+          "question": "¿Quién fue el primer ministro británico durante la mayor parte de la Segunda Guerra Mundial?",
+          "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Anthony Eden"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-13",
+          "question": "¿Qué revolución industrial comenzó en Inglaterra en el siglo XVIII?",
+          "options": ["Primera Revolución Industrial", "Segunda Revolución Industrial", "Revolución Agrícola", "Revolución Comercial"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-14",
+          "question": "¿En qué año se fundó el Imperio Romano?",
+          "options": ["31 a.C.", "27 a.C.", "23 a.C.", "19 a.C."],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-15",
+          "question": "¿Qué explorador portugués fue el primero en llegar a la India por mar?",
+          "options": ["Bartolomé Díaz", "Vasco da Gama", "Alfonso de Albuquerque", "Pedro Álvares Cabral"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "h3-1",
+          "question": "¿Qué batalla marcó el fin del Imperio Bizantino en 1453?",
+          "options": ["Sitio de Constantinopla", "Batalla de Manzikert", "Batalla de Lepanto", "Sitio de Viena"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-2",
+          "question": "¿Quién fue el arquitecto principal de la unificación alemana en el siglo XIX?",
+          "options": ["Kaiser Guillermo I", "Otto von Bismarck", "Helmuth von Moltke", "Albrecht von Roon"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-3",
+          "question": "¿Qué concilio ecuménico estableció el Credo Niceno en 325 d.C.?",
+          "options": ["Concilio de Calcedonia", "Primer Concilio de Nicea", "Concilio de Constantinopla", "Concilio de Éfeso"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-4",
+          "question": "¿Qué emperador mogol construyó el Taj Mahal?",
+          "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-5",
+          "question": "¿En qué año se produjo la Defenestración de Praga que inició la Guerra de los Treinta Años?",
+          "options": ["1616", "1617", "1618", "1619"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-6",
+          "question": "¿Qué tratado estableció el principio de 'cuius regio, eius religio' en 1555?",
+          "options": ["Paz de Westfalia", "Paz de Augsburgo", "Concordato de Worms", "Dieta de Worms"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-7",
+          "question": "¿Quién fue el último emperador del Sacro Imperio Romano Germánico?",
+          "options": ["Francisco I", "Francisco II", "José II", "Leopoldo II"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-8",
+          "question": "¿Qué dinastía francesa reinó durante la mayor parte del siglo XVII?",
+          "options": ["Dinastía Valois", "Dinastía Borbón", "Dinastía Capeto", "Dinastía Orleans"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-9",
+          "question": "¿En qué batalla naval de 1571 fue derrotada la flota otomana?",
+          "options": ["Batalla de Actium", "Batalla de Salamina", "Batalla de Lepanto", "Batalla de Navarino"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-10",
+          "question": "¿Qué código legal napoleónico influyó en muchos sistemas jurídicos modernos?",
+          "options": ["Código Civil", "Código Penal", "Código de Comercio", "Código de Procedimientos"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-11",
+          "question": "¿Quién fue el primer califa del Islam después de Mahoma?",
+          "options": ["Umar ibn al-Jattab", "Abu Bakr", "Utman ibn Affan", "Ali ibn Abi Talib"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-12",
+          "question": "¿Qué civilización mesoamericana desarrolló el calendario más preciso del mundo antiguo?",
+          "options": ["Aztecas", "Mayas", "Olmecas", "Zapotecas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-13",
+          "question": "¿En qué año se firmó la Magna Carta en Inglaterra?",
+          "options": ["1213", "1214", "1215", "1216"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-14",
+          "question": "¿Qué emperador romano legalizó el cristianismo con el Edicto de Milán?",
+          "options": ["Constantino I", "Teodosio I", "Justiniano I", "Diocleciano"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-15",
+          "question": "¿Qué guerra entre Atenas y Esparta duró 27 años en la antigua Grecia?",
+          "options": ["Guerras Médicas", "Guerra del Peloponeso", "Guerra de los Aliados", "Guerra Sagrada"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
