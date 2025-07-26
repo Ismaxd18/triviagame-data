@@ -1,1 +1,381 @@
-
+{
+  "category": "deportes",
+  "name": "Deportes",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "d1-1",
+          "question": "¿Cada cuántos años se celebran los Juegos Olímpicos de Verano?",
+          "options": ["2 años", "3 años", "4 años", "5 años"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-2",
+          "question": "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
+          "options": ["10", "11", "12", "9"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-3",
+          "question": "¿En qué deporte se usa una raqueta y una pelota amarilla?",
+          "options": ["Bádminton", "Squash", "Tenis", "Ping pong"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-4",
+          "question": "¿Cuántos puntos vale un touchdown en fútbol americano?",
+          "options": ["3", "6", "7", "2"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-5",
+          "question": "¿Qué país ganó la Copa Mundial de Fútbol 2018?",
+          "options": ["Brasil", "Francia", "Alemania", "Argentina"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-6",
+          "question": "¿En qué deporte compite Michael Jordan famosamente?",
+          "options": ["Fútbol", "Béisbol", "Baloncesto", "Tenis"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-7",
+          "question": "¿Cuántos sets se necesitan ganar para ganar un partido de tenis masculino en Grand Slam?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-8",
+          "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2016?",
+          "options": ["Londres", "Tokio", "Río de Janeiro", "Pekín"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-9",
+          "question": "¿Qué deporte practica Serena Williams?",
+          "options": ["Tenis", "Golf", "Atletismo", "Natación"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-10",
+          "question": "¿Cuántos periodos tiene un partido de básquetbol de la NBA?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-11",
+          "question": "¿En qué deporte se usa un palo llamado 'bat'?",
+          "options": ["Hockey", "Críquet", "Béisbol", "Golf"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-12",
+          "question": "¿Cuántos jugadores forman un equipo de voleibol en cancha?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-13",
+          "question": "¿Qué color es tradicionalmente la camiseta del líder en el Tour de Francia?",
+          "options": ["Verde", "Amarillo", "Rojo", "Azul"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-14",
+          "question": "¿En qué deporte se compete por la Copa Stanley?",
+          "options": ["Fútbol", "Hockey sobre hielo", "Béisbol", "Baloncesto"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-15",
+          "question": "¿Cuántas medallas de oro olímpicas ganó Michael Phelps en total?",
+          "options": ["20", "21", "22", "23"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "d2-1",
+          "question": "¿Quién tiene el récord de más goles en una Copa Mundial de Fútbol?",
+          "options": ["Pelé", "Just Fontaine", "Ronaldo", "Miroslav Klose"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-2",
+          "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+          "options": ["1892", "1896", "1900", "1904"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-3",
+          "question": "¿Cuál es el récord mundial masculino de los 100 metros planos (hasta 2023)?",
+          "options": ["9.58 segundos", "9.63 segundos", "9.69 segundos", "9.72 segundos"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-4",
+          "question": "¿Qué tenista masculino tiene más títulos de Grand Slam?",
+          "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-5",
+          "question": "¿En qué estadio juega como local el FC Barcelona?",
+          "options": ["Santiago Bernabéu", "Camp Nou", "Metropolitano", "San Mamés"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-6",
+          "question": "¿Cuántas veces ha ganado Brasil la Copa Mundial de Fútbol?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-7",
+          "question": "¿Qué jugador de baloncesto es conocido como 'His Airness'?",
+          "options": ["Kobe Bryant", "LeBron James", "Michael Jordan", "Magic Johnson"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-8",
+          "question": "¿En qué deporte se otorga el 'Green Jacket'?",
+          "options": ["Tenis", "Golf", "Críquet", "Rugby"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-9",
+          "question": "¿Cuál es la distancia oficial de una maratón?",
+          "options": ["42.195 km", "42.5 km", "41.8 km", "43 km"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-10",
+          "question": "¿Qué equipo de la NFL nunca ha perdido un Super Bowl?",
+          "options": ["Dallas Cowboys", "Pittsburgh Steelers", "Baltimore Ravens", "New York Jets"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-11",
+          "question": "¿En qué año se introdujo el tiebreak en Wimbledon?",
+          "options": ["1968", "1970", "1971", "1973"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-12",
+          "question": "¿Qué país tiene más medallas olímpicas en la historia?",
+          "options": ["Unión Soviética", "Alemania", "Estados Unidos", "Reino Unido"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-13",
+          "question": "¿Cuántos majors de golf ha ganado Tiger Woods?",
+          "options": ["14", "15", "16", "17"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-14",
+          "question": "¿En qué año se celebró la primera Copa Mundial de Fútbol?",
+          "options": ["1928", "1930", "1932", "1934"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-15",
+          "question": "¿Qué nadador tiene el récord mundial de los 200 metros libres?",
+          "options": ["Caeleb Dressel", "Paul Biedermann", "Adam Peaty", "Katie Ledecky"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "d3-1",
+          "question": "¿Quién es el único jugador que ha ganado la Liga de Campeones con tres equipos diferentes?",
+          "options": ["Cristiano Ronaldo", "Clarence Seedorf", "Andrea Pirlo", "Xavi Hernández"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-2",
+          "question": "¿Cuál es el récord mundial femenino de salto con pértiga?",
+          "options": ["5.06m", "5.07m", "5.08m", "5.09m"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-3",
+          "question": "¿En qué año se estableció el récord mundial de Usain Bolt en 100m?",
+          "options": ["2008", "2009", "2012", "2016"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-4",
+          "question": "¿Qué tenista completó el Golden Slam en 1988?",
+          "options": ["Martina Navratilova", "Chris Evert", "Steffi Graf", "Monica Seles"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-5",
+          "question": "¿Cuántos puntos perfectos se otorgaron en gimnasia antes de Nadia Comaneci?",
+          "options": ["0", "1", "2", "3"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-6",
+          "question": "¿Qué boxeador tiene el récord de más defensas consecutivas del título de peso pesado?",
+          "options": ["Muhammad Ali", "Joe Louis", "Larry Holmes", "Wladimir Klitschko"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-7",
+          "question": "¿En qué olimpiadas se introdujo el breaking como deporte olímpico?",
+          "options": ["Tokio 2020", "París 2024", "Los Ángeles 2028", "Brisbane 2032"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-8",
+          "question": "¿Cuál es el tiempo récord en el Indianapolis 500?",
+          "options": ["2:37:11", "2:29:06", "2:24:24", "2:35:05"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-9",
+          "question": "¿Qué jugador de la NBA tiene el récord de más asistencias en una temporada?",
+          "options": ["Magic Johnson", "John Stockton", "Chris Paul", "Steve Nash"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-10",
+          "question": "¿En qué año se introdujo el VAR en la Copa Mundial de Fútbol?",
+          "options": ["2014", "2016", "2018", "2020"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-11",
+          "question": "¿Cuál es el récord mundial masculino en lanzamiento de martillo?",
+          "options": ["86.74m", "86.90m", "86.98m", "87.12m"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-12",
+          "question": "¿Qué ciclista tiene más victorias en el Tour de Francia?",
+          "options": ["Lance Armstrong", "Eddy Merckx", "Miguel Indurain", "Jacques Anquetil"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-13",
+          "question": "¿Cuántos juegos perfectos se han lanzado en la historia de las Grandes Ligas?",
+          "options": ["21", "23", "24", "25"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-14",
+          "question": "¿En qué año se jugó el partido de fútbol conocido como 'Maracanazo'?",
+          "options": ["1948", "1950", "1954", "1958"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-15",
+          "question": "¿Qué país ha ganado más medallas de oro olímpicas en hockey sobre hielo masculino?",
+          "options": ["Canadá", "Estados Unidos", "Unión Soviética/Rusia", "Suecia"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
