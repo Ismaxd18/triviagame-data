@@ -1,1 +1,393 @@
-
+{
+  "category": "entretenimiento",
+  "name": "Entretenimiento",
+  "description": "Películas, música, TV y cultura pop",
+  "color": "#9b59b6",
+  "icon": "🎬",
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "easy",
+      "description": "Nivel básico - Películas taquilleras y cultura mainstream",
+      "questions": [
+        {
+          "id": "ent1-1",
+          "question": "¿Quién interpretó a Jack en la película Titanic?",
+          "options": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Matt Damon"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-2",
+          "question": "¿Cuál es la película más taquillera de Marvel?",
+          "options": ["Iron Man", "Avengers: Endgame", "Black Panther", "Spider-Man"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-3",
+          "question": "¿Quién canta la canción 'Shape of You'?",
+          "options": ["Justin Bieber", "Ed Sheeran", "Bruno Mars", "The Weeknd"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-4",
+          "question": "¿Cuál es el nombre del ratón más famoso de Disney?",
+          "options": ["Jerry", "Stuart", "Mickey Mouse", "Speedy Gonzales"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-5",
+          "question": "¿En qué serie aparece el personaje Walter White?",
+          "options": ["Lost", "Breaking Bad", "Prison Break", "The Walking Dead"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-6",
+          "question": "¿Quién dirigió la película 'El Padrino'?",
+          "options": ["Martin Scorsese", "Steven Spielberg", "Francis Ford Coppola", "Quentin Tarantino"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-7",
+          "question": "¿Cuál es la banda de rock más vendida de todos los tiempos?",
+          "options": ["Queen", "The Beatles", "Led Zeppelin", "The Rolling Stones"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-8",
+          "question": "¿En qué película aparece la frase 'Que la fuerza te acompañe'?",
+          "options": ["Star Trek", "Star Wars", "Blade Runner", "Matrix"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-9",
+          "question": "¿Quién interpreta a Harry Potter en las películas?",
+          "options": ["Tom Felton", "Rupert Grint", "Daniel Radcliffe", "Matthew Lewis"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-10",
+          "question": "¿Cuál es la serie de Netflix más vista?",
+          "options": ["Stranger Things", "La Casa de Papel", "Squid Game", "Bridgerton"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-11",
+          "question": "¿Quién canta 'Billie Jean'?",
+          "options": ["Elvis Presley", "Michael Jackson", "Prince", "Stevie Wonder"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-12",
+          "question": "¿Cuál es la princesa de Disney con cabello más largo?",
+          "options": ["Bella", "Ariel", "Rapunzel", "Cenicienta"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-13",
+          "question": "¿En qué saga aparece el personaje Darth Vader?",
+          "options": ["Star Trek", "Star Wars", "Guardians of the Galaxy", "Dune"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-14",
+          "question": "¿Quién interpreta a Iron Man en Marvel?",
+          "options": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Chris Hemsworth"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-15",
+          "question": "¿Cuál es la canción más reproducida en Spotify de todos los tiempos?",
+          "options": ["Despacito", "Shape of You", "Blinding Lights", "Someone Like You"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "medium",
+      "description": "Nivel intermedio - Cine clásico, música variada y series populares",
+      "questions": [
+        {
+          "id": "ent2-1",
+          "question": "¿Quién ganó el Oscar a Mejor Actor por 'Joker' (2019)?",
+          "options": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-2",
+          "question": "¿En qué año se estrenó la primera película de 'Jurassic Park'?",
+          "options": ["1991", "1992", "1993", "1994"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-3",
+          "question": "¿Cuál es el álbum más vendido de Michael Jackson?",
+          "options": ["Off the Wall", "Thriller", "Bad", "Dangerous"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-4",
+          "question": "¿Quién creó la serie 'Game of Thrones' para TV?",
+          "options": ["George R.R. Martin", "David Benioff y D.B. Weiss", "Vince Gilligan", "Shonda Rhimes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-5",
+          "question": "¿Cuál es la película animada más taquillera de Pixar?",
+          "options": ["Toy Story 4", "Finding Dory", "Incredibles 2", "Coco"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-6",
+          "question": "¿Quién compuso la música de 'El Rey León'?",
+          "options": ["Alan Menken", "Hans Zimmer", "John Williams", "Danny Elfman"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-7",
+          "question": "¿En qué película aparece la canción 'My Heart Will Go On'?",
+          "options": ["Ghost", "Dirty Dancing", "Titanic", "The Bodyguard"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-8",
+          "question": "¿Quién dirigió 'Pulp Fiction'?",
+          "options": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Christopher Nolan"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-9",
+          "question": "¿Cuál es el nombre real de Lady Gaga?",
+          "options": ["Stefani Germanotta", "Gabriella Wilson", "Alecia Moore", "Robyn Fenty"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-10",
+          "question": "¿En qué serie aparece el café 'Central Perk'?",
+          "options": ["Seinfeld", "Friends", "How I Met Your Mother", "The Big Bang Theory"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-11",
+          "question": "¿Quién interpretó a Forrest Gump?",
+          "options": ["Kevin Costner", "Tom Hanks", "Robin Williams", "Tom Cruise"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-12",
+          "question": "¿Cuál fue el primer largometraje completamente animado por computadora?",
+          "options": ["Shrek", "Toy Story", "A Bug's Life", "Monsters, Inc."],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-13",
+          "question": "¿Qué actor interpreta a Sherlock Holmes en la serie de BBC?",
+          "options": ["Robert Downey Jr.", "Benedict Cumberbatch", "Jeremy Brett", "Jonny Lee Miller"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-14",
+          "question": "¿Cuál es la banda sonora más vendida de todos los tiempos?",
+          "options": ["Titanic", "The Bodyguard", "Saturday Night Fever", "Grease"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-15",
+          "question": "¿En qué año murió Elvis Presley?",
+          "options": ["1975", "1976", "1977", "1978"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "hard",
+      "description": "Nivel avanzado - Cine independiente, música especializada y datos curiosos",
+      "questions": [
+        {
+          "id": "ent3-1",
+          "question": "¿Quién dirigió '2001: Una Odisea del Espacio'?",
+          "options": ["Ridley Scott", "Stanley Kubrick", "George Lucas", "Steven Spielberg"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-2",
+          "question": "¿Cuál es el nombre real de Freddie Mercury?",
+          "options": ["Frederick Bulsara", "Farrokh Bulsara", "Frederick Mercury", "Farrokh Mercury"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-3",
+          "question": "¿Qué película ganó el Oscar a Mejor Película en 2020?",
+          "options": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-4",
+          "question": "¿Cuál es el álbum debut de Nirvana?",
+          "options": ["Nevermind", "In Utero", "Bleach", "MTV Unplugged"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-5",
+          "question": "¿Quién compuso la banda sonora de 'Blade Runner'?",
+          "options": ["John Carpenter", "Vangelis", "Giorgio Moroder", "Jean-Michel Jarre"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-6",
+          "question": "¿En qué película de Hitchcock aparece la famosa escena de la ducha?",
+          "options": ["Vértigo", "Psicosis", "Los Pájaros", "La Ventana Indiscreta"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-7",
+          "question": "¿Cuál es el verdadero nombre de The Weeknd?",
+          "options": ["Abel Tesfaye", "Ahmad Balshe", "Aubrey Graham", "Jacques Webster"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-8",
+          "question": "¿Qué director ganó el Oscar por 'Birdman'?",
+          "options": ["Alfonso Cuarón", "Alejandro G. Iñárritu", "Guillermo del Toro", "Denis Villeneuve"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-9",
+          "question": "¿Cuál fue el último álbum de estudio de The Beatles?",
+          "options": ["Let It Be", "Abbey Road", "Sgt. Pepper's", "The White Album"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-10",
+          "question": "¿Quién creó la serie 'Twin Peaks'?",
+          "options": ["David Lynch", "Charlie Kaufman", "David Cronenberg", "Lynch y Mark Frost"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-11",
+          "question": "¿Cuál es la ópera más representada del mundo?",
+          "options": ["La Traviata", "Carmen", "La Bohème", "Rigoletto"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-12",
+          "question": "¿Qué actor rechazó el papel de Neo en Matrix?",
+          "options": ["Brad Pitt", "Will Smith", "Tom Cruise", "Johnny Depp"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-13",
+          "question": "¿Cuál es el festival de cine más antiguo del mundo?",
+          "options": ["Cannes", "Venecia", "Berlín", "Sundance"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-14",
+          "question": "¿Qué banda grabó el álbum 'OK Computer'?",
+          "options": ["Coldplay", "Radiohead", "Muse", "Blur"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-15",
+          "question": "¿Cuál fue la primera película en ganar Oscar a Mejor Película siendo de habla no inglesa?",
+          "options": ["Amour", "Roma", "Parasite", "Crouching Tiger"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ],
+  "total_questions": 45,
+  "created_date": "2025-01-25",
+  "version": "1.0"
+        }
