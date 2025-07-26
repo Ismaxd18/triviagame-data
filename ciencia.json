@@ -1,7 +1,6 @@
 {
   "category": "ciencia",
   "name": "Ciencia",
-  "color": "#0057e7",
   "levels": [
     {
       "level": 1,
@@ -11,7 +10,7 @@
           "question": "¿Cuál es el elemento químico con símbolo H?",
           "options": ["Helio", "Hidrógeno", "Hafnio", "Holmio"],
           "answer": 1,
-          "difficulty": "fácil",
+          "difficulty": "easy",
           "points": 2000
         },
         {
@@ -19,47 +18,111 @@
           "question": "¿Qué planeta es conocido como el planeta rojo?",
           "options": ["Venus", "Júpiter", "Marte", "Saturno"],
           "answer": 2,
-          "difficulty": "fácil",
+          "difficulty": "easy",
           "points": 2000
         },
         {
           "id": "c1-3",
-          "question": "¿Qué científico propuso la teoría de la relatividad?",
-          "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+          "question": "¿Cuántos huesos tiene aproximadamente el cuerpo humano adulto?",
+          "options": ["186", "206", "226", "246"],
           "answer": 1,
-          "difficulty": "fácil",
+          "difficulty": "easy",
           "points": 2000
         },
         {
           "id": "c1-4",
-          "question": "¿Cuál es el hueso más largo del cuerpo humano?",
-          "options": ["Húmero", "Fémur", "Tibia", "Columna vertebral"],
+          "question": "¿Qué gas es más abundante en la atmósfera terrestre?",
+          "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Argón"],
           "answer": 1,
-          "difficulty": "fácil",
+          "difficulty": "easy",
           "points": 2000
         },
         {
           "id": "c1-5",
-          "question": "¿Cuál es el planeta más grande del sistema solar?",
-          "options": ["Tierra", "Saturno", "Júpiter", "Neptuno"],
-          "answer": 2,
-          "difficulty": "fácil",
+          "question": "¿Cuál es la velocidad de la luz en el vacío?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "answer": 0,
+          "difficulty": "easy",
           "points": 2000
         },
         {
           "id": "c1-6",
-          "question": "¿Cuál es el órgano que produce la insulina?",
-          "options": ["Hígado", "Riñón", "Páncreas", "Bazo"],
-          "answer": 2,
-          "difficulty": "fácil",
+          "question": "¿Qué científico propuso la teoría de la relatividad?",
+          "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+          "answer": 1,
+          "difficulty": "easy",
           "points": 2000
         },
         {
           "id": "c1-7",
-          "question": "¿Cuál es la unidad básica de la materia?",
-          "options": ["Átomo", "Célula", "Molécula", "Electrón"],
+          "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+          "options": ["El hígado", "Los pulmones", "La piel", "El cerebro"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-8",
+          "question": "¿Qué tipo de animal es una ballena?",
+          "options": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-9",
+          "question": "¿Cuántos cromosomas tiene una célula humana normal?",
+          "options": ["23", "46", "48", "50"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-10",
+          "question": "¿Qué instrumento se usa para medir la temperatura?",
+          "options": ["Barómetro", "Termómetro", "Higrómetro", "Anemómetro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-11",
+          "question": "¿Cuál es la fórmula química del agua?",
+          "options": ["H2O", "CO2", "NaCl", "CH4"],
           "answer": 0,
-          "difficulty": "fácil",
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-12",
+          "question": "¿Qué planeta está más cerca del Sol?",
+          "options": ["Venus", "Tierra", "Mercurio", "Marte"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-13",
+          "question": "¿Cuál es la unidad básica de la vida?",
+          "options": ["El átomo", "La molécula", "La célula", "El tejido"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-14",
+          "question": "¿Qué proceso usan las plantas para producir su alimento?",
+          "options": ["Respiración", "Fotosíntesis", "Digestión", "Fermentación"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-15",
+          "question": "¿Cuántos estados de la materia existen tradicionalmente?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "easy",
           "points": 2000
         }
       ]
@@ -69,58 +132,122 @@
       "questions": [
         {
           "id": "c2-1",
-          "question": "¿Cuál es la velocidad de la luz?",
-          "options": ["300,000 km/s", "150,000 km/s", "200,000 km/s", "250,000 km/s"],
-          "answer": 0,
-          "difficulty": "medio",
+          "question": "¿Cuál es el número atómico del carbono?",
+          "options": ["4", "6", "8", "12"],
+          "answer": 1,
+          "difficulty": "medium",
           "points": 3000
         },
         {
           "id": "c2-2",
-          "question": "¿Cuál es el órgano más grande del cuerpo humano?",
-          "options": ["Corazón", "Hígado", "Pulmones", "Piel"],
-          "answer": 3,
-          "difficulty": "medio",
+          "question": "¿Qué partícula subatómica tiene carga negativa?",
+          "options": ["Protón", "Neutrón", "Electrón", "Positrón"],
+          "answer": 2,
+          "difficulty": "medium",
           "points": 3000
         },
         {
           "id": "c2-3",
-          "question": "¿Qué elemento tiene el número atómico 1?",
-          "options": ["Helio", "Hidrógeno", "Litio", "Oxígeno"],
+          "question": "¿Cuál es la distancia promedio de la Tierra al Sol?",
+          "options": ["93 millones de millas", "150 millones de km", "200 millones de km", "120 millones de km"],
           "answer": 1,
-          "difficulty": "medio",
+          "difficulty": "medium",
           "points": 3000
         },
         {
           "id": "c2-4",
-          "question": "¿Cuál es la hormona responsable de la respuesta al estrés?",
-          "options": ["Insulina", "Melatonina", "Cortisol", "Oxitocina"],
-          "answer": 2,
-          "difficulty": "medio",
+          "question": "¿Qué científico descubrió la penicilina?",
+          "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Charles Darwin"],
+          "answer": 1,
+          "difficulty": "medium",
           "points": 3000
         },
         {
           "id": "c2-5",
-          "question": "¿Cómo se llama el proceso por el cual las plantas fabrican su alimento?",
-          "options": ["Fotosíntesis", "Respiración", "Digestión", "Fermentación"],
-          "answer": 0,
-          "difficulty": "medio",
+          "question": "¿Cuál es la fuerza que mantiene a los planetas en órbita alrededor del Sol?",
+          "options": ["Magnetismo", "Gravedad", "Fricción", "Inercia"],
+          "answer": 1,
+          "difficulty": "medium",
           "points": 3000
         },
         {
           "id": "c2-6",
-          "question": "¿Qué gas compone mayoritariamente la atmósfera terrestre?",
-          "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Argón"],
+          "question": "¿Qué tipo de enlace químico se forma cuando los átomos comparten electrones?",
+          "options": ["Iónico", "Covalente", "Metálico", "Van der Waals"],
           "answer": 1,
-          "difficulty": "medio",
+          "difficulty": "medium",
           "points": 3000
         },
         {
           "id": "c2-7",
-          "question": "¿Cuántas cámaras tiene el corazón humano?",
-          "options": ["2", "3", "4", "5"],
+          "question": "¿Cuál es la unidad de medida de la frecuencia?",
+          "options": ["Hertz", "Watt", "Joule", "Newton"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-8",
+          "question": "¿Qué hormona regula el nivel de azúcar en la sangre?",
+          "options": ["Adrenalina", "Insulina", "Cortisol", "Tiroxina"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-9",
+          "question": "¿Cuál es la temperatura de ebullición del agua a nivel del mar?",
+          "options": ["90°C", "95°C", "100°C", "105°C"],
           "answer": 2,
-          "difficulty": "medio",
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-10",
+          "question": "¿Qué ley física establece que la energía no se crea ni se destruye?",
+          "options": ["Ley de Newton", "Ley de la conservación de la energía", "Ley de Ohm", "Ley de Boyle"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-11",
+          "question": "¿Cuál es el gas noble más abundante en la atmósfera?",
+          "options": ["Helio", "Neón", "Argón", "Xenón"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-12",
+          "question": "¿Qué estructura celular contiene el material genético en las células eucariotas?",
+          "options": ["Mitocondria", "Ribosoma", "Núcleo", "Cloroplasto"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-13",
+          "question": "¿Cuál es la fórmula de la glucosa?",
+          "options": ["C6H12O6", "C12H22O11", "C2H6O", "C6H6"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-14",
+          "question": "¿Qué científico desarrolló la tabla periódica moderna?",
+          "options": ["Antoine Lavoisier", "Dmitri Mendeleev", "John Dalton", "Ernest Rutherford"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-15",
+          "question": "¿Cuál es la molécula que transporta energía en las células?",
+          "options": ["DNA", "RNA", "ATP", "ADP"],
+          "answer": 2,
+          "difficulty": "medium",
           "points": 3000
         }
       ]
@@ -130,61 +257,125 @@
       "questions": [
         {
           "id": "c3-1",
-          "question": "¿Qué partícula subatómica tiene carga positiva?",
-          "options": ["Electrón", "Neutrón", "Protón", "Positrón"],
-          "answer": 2,
-          "difficulty": "difícil",
-          "points": 5000
+          "question": "¿Cuál es la constante de Planck aproximadamente?",
+          "options": ["6.63 × 10^-34 J·s", "9.81 m/s²", "3.00 × 10^8 m/s", "1.38 × 10^-23 J/K"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
         },
         {
           "id": "c3-2",
-          "question": "¿Cuál es la ley que establece que la energía no se crea ni se destruye, solo se transforma?",
-          "options": ["Ley de la conservación de la energía", "Primera ley de la termodinámica", "Ley de la entropía", "Ley de Newton"],
-          "answer": 0,
-          "difficulty": "difícil",
-          "points": 5000
+          "question": "¿Qué partícula mediadora es responsable de la fuerza electromagnética?",
+          "options": ["Gluón", "Fotón", "Bosón W", "Gravitón"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         },
         {
           "id": "c3-3",
-          "question": "¿Qué científico formuló la teoría de la selección natural?",
-          "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Alexander Fleming"],
-          "answer": 1,
-          "difficulty": "difícil",
-          "points": 5000
+          "question": "¿Cuál es el nombre del proceso por el cual las estrellas fusionan hidrógeno en helio?",
+          "options": ["Fisión nuclear", "Fusión nuclear", "Cadena protón-protón", "Ciclo CNO"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
         },
         {
           "id": "c3-4",
-          "question": "¿Cuál es el ácido presente en el jugo gástrico?",
-          "options": ["Ácido acético", "Ácido cítrico", "Ácido clorhídrico", "Ácido sulfúrico"],
-          "answer": 2,
-          "difficulty": "difícil",
-          "points": 5000
+          "question": "¿Qué científico propuso el principio de incertidumbre?",
+          "options": ["Niels Bohr", "Werner Heisenberg", "Erwin Schrödinger", "Max Planck"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         },
         {
           "id": "c3-5",
-          "question": "¿Qué teoría explica cómo se formó el universo?",
-          "options": ["Teoría del Big Bang", "Teoría de la relatividad", "Teoría de cuerdas", "Teoría cuántica"],
-          "answer": 0,
-          "difficulty": "difícil",
-          "points": 5000
+          "question": "¿Cuál es la enzima que replica el ADN?",
+          "options": ["ARN polimerasa", "ADN polimerasa", "Ligasa", "Helicasa"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         },
         {
           "id": "c3-6",
-          "question": "¿Qué tipo de radiación tiene la longitud de onda más corta?",
-          "options": ["Rayos X", "Rayos gamma", "Ultravioleta", "Infrarrojo"],
-          "answer": 1,
-          "difficulty": "difícil",
-          "points": 5000
+          "question": "¿Qué fenómeno cuántico explica el efecto túnel?",
+          "options": ["Dualidad onda-partícula", "Entrelazamiento cuántico", "Mecánica cuántica", "Superposición cuántica"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
         },
         {
           "id": "c3-7",
-          "question": "¿Cuál de estos no es un tipo de sangre humana?",
-          "options": ["Tipo A", "Tipo B", "Tipo C", "Tipo AB"],
+          "question": "¿Cuál es la configuración electrónica del oxígeno?",
+          "options": ["1s² 2s² 2p⁴", "1s² 2s² 2p⁶", "1s² 2s² 2p² 3s²", "1s² 2s² 2p⁵"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-8",
+          "question": "¿Qué estructura proteica se refiere al plegamiento tridimensional?",
+          "options": ["Estructura primaria", "Estructura secundaria", "Estructura terciaria", "Estructura cuaternaria"],
           "answer": 2,
-          "difficulty": "difícil",
-          "points": 5000
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-9",
+          "question": "¿Cuál es el nombre del campo que unifica la electromagnetismo y la fuerza débil?",
+          "options": ["Campo electromagnético", "Campo electrodébil", "Campo de Higgs", "Campo de gauge"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-10",
+          "question": "¿Qué modelo atómico introdujo los orbitales?",
+          "options": ["Modelo de Rutherford", "Modelo de Bohr", "Modelo de Schrödinger", "Modelo de Thomson"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-11",
+          "question": "¿Cuál es la velocidad de escape de la Tierra?",
+          "options": ["9.8 km/s", "11.2 km/s", "15.3 km/s", "7.9 km/s"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-12",
+          "question": "¿Qué tipo de radiación tiene la mayor energía por fotón?",
+          "options": ["Rayos X", "Rayos gamma", "Luz ultravioleta", "Ondas de radio"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-13",
+          "question": "¿Cuál es el límite de Chandrasekhar para las enanas blancas?",
+          "options": ["1.4 masas solares", "3.0 masas solares", "0.8 masas solares", "2.1 masas solares"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-14",
+          "question": "¿Qué proceso celular produce la mayor cantidad de ATP?",
+          "options": ["Glucólisis", "Ciclo de Krebs", "Cadena de transporte de electrones", "Fermentación"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-15",
+          "question": "¿Cuál es la ecuación de Einstein para la energía-masa?",
+          "options": ["E = mc", "E = mc²", "E = m²c", "E = mc³"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ]
-}
+    }
