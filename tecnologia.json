@@ -1,1 +1,394 @@
 
+{
+  "category": "tecnologia",
+  "name": "Tecnología",
+  "description": "Gadgets, innovación y mundo digital",
+  "color": "#1abc9c",
+  "icon": "⚡",
+  "levels": [
+    {
+      "level": 1,
+      "difficulty": "easy",
+      "description": "Nivel básico - Tecnología cotidiana y marcas famosas",
+      "questions": [
+        {
+          "id": "tech1-1",
+          "question": "¿Qué empresa creó el iPhone?",
+          "options": ["Samsung", "Apple", "Google", "Microsoft"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-2",
+          "question": "¿Cuál es la red social más popular del mundo?",
+          "options": ["Twitter", "Instagram", "Facebook", "TikTok"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-3",
+          "question": "¿Qué significa 'WWW' en internet?",
+          "options": ["World Wide Web", "World Web Wire", "Wide World Web", "Web World Wide"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-4",
+          "question": "¿Qué empresa es propietaria de YouTube?",
+          "options": ["Microsoft", "Amazon", "Google", "Meta"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-5",
+          "question": "¿Cuál es el sistema operativo de los dispositivos Samsung Galaxy?",
+          "options": ["iOS", "Windows", "Android", "Linux"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-6",
+          "question": "¿Qué empresa creó la consola PlayStation?",
+          "options": ["Nintendo", "Microsoft", "Sony", "Sega"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-7",
+          "question": "¿Cuál es el navegador web más usado mundialmente?",
+          "options": ["Safari", "Firefox", "Chrome", "Edge"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-8",
+          "question": "¿Qué significan las siglas 'USB'?",
+          "options": ["Universal Serial Bus", "United System Bus", "Universal System Base", "United Serial Base"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-9",
+          "question": "¿Cuál es la plataforma de streaming más popular?",
+          "options": ["Amazon Prime", "Disney+", "Netflix", "HBO Max"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-10",
+          "question": "¿Qué empresa desarrolló Windows?",
+          "options": ["Apple", "Google", "Microsoft", "IBM"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-11",
+          "question": "¿Cuál es la criptomoneda más conocida?",
+          "options": ["Ethereum", "Bitcoin", "Dogecoin", "Litecoin"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-12",
+          "question": "¿Qué red social es conocida por sus videos cortos?",
+          "options": ["Instagram", "Snapchat", "TikTok", "Twitter"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-13",
+          "question": "¿Cuál es la tienda de aplicaciones de Apple?",
+          "options": ["Google Play", "App Store", "Microsoft Store", "Galaxy Store"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-14",
+          "question": "¿Qué significa 'Wi-Fi'?",
+          "options": ["Wireless Fidelity", "Wide Fidelity", "Wire Free", "Wireless Frequency"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-15",
+          "question": "¿Cuál es el motor de búsqueda más usado?",
+          "options": ["Bing", "Yahoo", "Google", "DuckDuckGo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "difficulty": "medium",
+      "description": "Nivel intermedio - Historia tech y fundadores",
+      "questions": [
+        {
+          "id": "tech2-1",
+          "question": "¿Quién fundó Tesla Motors?",
+          "options": ["Steve Jobs", "Elon Musk", "Bill Gates", "Jeff Bezos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-2",
+          "question": "¿En qué año fue fundado Google?",
+          "options": ["1996", "1998", "2000", "2002"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-3",
+          "question": "¿Cuál fue la primera red social masiva?",
+          "options": ["MySpace", "Friendster", "Orkut", "Facebook"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-4",
+          "question": "¿Qué empresa desarrolló el primer smartphone comercial?",
+          "options": ["Apple", "IBM", "Motorola", "Nokia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-5",
+          "question": "¿Cuál es el nombre del asistente virtual de Amazon?",
+          "options": ["Cortana", "Siri", "Alexa", "Google Assistant"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-6",
+          "question": "¿Qué significa 'CPU' en computación?",
+          "options": ["Central Processing Unit", "Computer Processing Unit", "Central Program Unit", "Computer Program Unit"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-7",
+          "question": "¿Quién creó el lenguaje de programación Python?",
+          "options": ["Linus Torvalds", "Guido van Rossum", "Dennis Ritchie", "James Gosling"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-8",
+          "question": "¿Cuál fue el primer videojuego comercial exitoso?",
+          "options": ["Pac-Man", "Space Invaders", "Pong", "Asteroids"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-9",
+          "question": "¿Qué empresa adquirió WhatsApp en 2014?",
+          "options": ["Google", "Microsoft", "Meta (Facebook)", "Apple"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-10",
+          "question": "¿Cuál es la velocidad de conexión de 5G teóricamente?",
+          "options": ["1 Gbps", "10 Gbps", "20 Gbps", "100 Gbps"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-11",
+          "question": "¿Qué significa 'IoT' en tecnología?",
+          "options": ["Internet of Things", "Input Output Technology", "Integrated Online Technology", "Interactive Online Tools"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-12",
+          "question": "¿Cuál fue el primer navegador web gráfico popular?",
+          "options": ["Internet Explorer", "Netscape", "Mosaic", "Opera"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-13",
+          "question": "¿Qué empresa desarrolló el chip M1?",
+          "options": ["Intel", "AMD", "Apple", "NVIDIA"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-14",
+          "question": "¿En qué año se lanzó el primer iPhone?",
+          "options": ["2005", "2006", "2007", "2008"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-15",
+          "question": "¿Qué significa 'VR' en tecnología?",
+          "options": ["Video Reality", "Virtual Reality", "Visual Reality", "Variable Reality"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "difficulty": "hard",
+      "description": "Nivel avanzado - Tecnología especializada y datos técnicos",
+      "questions": [
+        {
+          "id": "tech3-1",
+          "question": "¿Cuál es la arquitectura de procesador de 64 bits de Intel?",
+          "options": ["x86", "x64", "ARM64", "RISC-V"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-2",
+          "question": "¿Quién inventó el protocolo TCP/IP?",
+          "options": ["Tim Berners-Lee", "Vint Cerf y Bob Kahn", "Dennis Ritchie", "Linus Torvalds"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-3",
+          "question": "¿Cuál es el proceso de fabricación más avanzado actual en chips?",
+          "options": ["7nm", "5nm", "3nm", "2nm"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-4",
+          "question": "¿Qué empresa desarrolló el algoritmo PageRank?",
+          "options": ["Yahoo", "AltaVista", "Google", "Microsoft"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-5",
+          "question": "¿Cuál es el nombre del superordenador más rápido del mundo (2024)?",
+          "options": ["Summit", "Fugaku", "Frontier", "Aurora"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-6",
+          "question": "¿Qué significa 'OLED' en pantallas?",
+          "options": ["Organic Light-Emitting Diode", "Optical Light Electronic Display", "Optimized LED", "Organic Liquid Electronic Display"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-7",
+          "question": "¿Cuál fue el primer lenguaje de programación de alto nivel?",
+          "options": ["COBOL", "FORTRAN", "LISP", "ALGOL"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-8",
+          "question": "¿Qué protocolo utilizan las criptomonedas para validar transacciones?",
+          "options": ["Proof of Work", "Proof of Stake", "Ambos", "Proof of Authority"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-9",
+          "question": "¿Cuál es la capacidad máxima teórica del Bluetooth 5.0?",
+          "options": ["1 Mbps", "2 Mbps", "3 Mbps", "4 Mbps"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-10",
+          "question": "¿Qué empresa desarrolló el framework React?",
+          "options": ["Google", "Meta (Facebook)", "Microsoft", "Twitter"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-11",
+          "question": "¿Cuál es el tamaño mínimo de partícula en litografía EUV?",
+          "options": ["5nm", "3nm", "2nm", "1nm"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-12",
+          "question": "¿Qué algoritmo de machine learning popularizó el Deep Learning?",
+          "options": ["SVM", "Random Forest", "Neural Networks", "Decision Trees"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-13",
+          "question": "¿Cuál es el protocolo base de la Web3?",
+          "options": ["HTTP", "IPFS", "TCP/IP", "Blockchain"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-14",
+          "question": "¿Qué empresa creó el primer procesador gráfico (GPU)?",
+          "options": ["NVIDIA", "ATI", "3dfx", "Intel"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-15",
+          "question": "¿Cuál es la velocidad de transferencia máxima de USB 4.0?",
+          "options": ["20 Gbps", "40 Gbps", "60 Gbps", "80 Gbps"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ],
+  "total_questions": 45,
+  "created_date": "2025-01-25",
+  "version": "1.0"
+    }
