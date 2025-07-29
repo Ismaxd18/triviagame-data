@@ -1,1 +1,382 @@
 
+{
+  "category": "gastronomia",
+  "name": "Gastronomía",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "gas1-1",
+          "question": "¿Cuál es el ingrediente principal de la paella?",
+          "options": ["Pasta", "Arroz", "Quinoa", "Cebada"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-2",
+          "question": "¿De qué país es originaria la pizza?",
+          "options": ["Francia", "Grecia", "Italia", "España"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-3",
+          "question": "¿Qué especias le dan el color amarillo al curry?",
+          "options": ["Azafrán", "Cúrcuma", "Pimentón", "Jengibre"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-4",
+          "question": "¿Cuál es el ingrediente principal del guacamole?",
+          "options": ["Tomate", "Aguacate", "Cebolla", "Limón"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-5",
+          "question": "¿Qué bebida se obtiene de la fermentación de la uva?",
+          "options": ["Cerveza", "Vino", "Whisky", "Sake"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-6",
+          "question": "¿Cuál es la salsa más picante del mundo?",
+          "options": ["Tabasco", "Sriracha", "Carolina Reaper", "Habanero"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-7",
+          "question": "¿Qué fruto seco se usa tradicionalmente en el pesto?",
+          "options": ["Almendras", "Nueces", "Piñones", "Pistachos"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-8",
+          "question": "¿De qué animal proviene el jamón ibérico?",
+          "options": ["Vaca", "Cerdo", "Cabra", "Oveja"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-9",
+          "question": "¿Cuál es el ingrediente principal del hummus?",
+          "options": ["Lentejas", "Garbanzos", "Frijoles", "Guisantes"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-10",
+          "question": "¿Qué queso se usa tradicionalmente en la pizza Margherita?",
+          "options": ["Parmesano", "Cheddar", "Mozzarella", "Gorgonzola"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-11",
+          "question": "¿Cuál es la temperatura ideal para servir el vino tinto?",
+          "options": ["5-8°C", "10-12°C", "16-18°C", "22-25°C"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-12",
+          "question": "¿Qué tipo de pescado se usa tradicionalmente en el sushi?",
+          "options": ["Salmón", "Atún", "Ambos son correctos", "Bacalao"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-13",
+          "question": "¿Cuál es el dulce más famoso de Francia?",
+          "options": ["Croissant", "Macaron", "Éclair", "Todas son correctas"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-14",
+          "question": "¿Qué hierba es esencial en la salsa chimichurri?",
+          "options": ["Albahaca", "Perejil", "Cilantro", "Orégano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-15",
+          "question": "¿Cuál es la bebida nacional de Rusia?",
+          "options": ["Cerveza", "Vodka", "Brandy", "Whisky"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "gas2-1",
+          "question": "¿Qué es el 'mise en place' en cocina?",
+          "options": ["Una receta francesa", "Tener todo preparado antes de cocinar", "Un tipo de corte", "Una salsa madre"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-2",
+          "question": "¿Cuáles son las cinco salsas madres de la cocina francesa?",
+          "options": ["Bechamel, Velouté, Española, Holandesa, Tomate", "Mayonesa, Ketchup, Mostaza, Vinagreta, Alioli", "Solo existen tres", "Cambian según el chef"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-3",
+          "question": "¿Qué técnica culinaria es el 'sous vide'?",
+          "options": ["Cocinar al vapor", "Cocinar al vacío a baja temperatura", "Freír en aceite", "Cocinar a la plancha"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-4",
+          "question": "¿Cuál es la diferencia entre brunoise y juliana?",
+          "options": ["No hay diferencia", "Brunoise: cubos pequeños, Juliana: tiras finas", "Brunoise es más grande", "Se usan para diferentes verduras"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-5",
+          "question": "¿Qué chef popularizó la 'nouvelle cuisine'?",
+          "options": ["Auguste Escoffier", "Paul Bocuse", "Gordon Ramsay", "Julia Child"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-6",
+          "question": "¿Cuál es la temperatura interna segura para cocinar pollo?",
+          "options": ["60°C", "65°C", "74°C", "80°C"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-7",
+          "question": "¿Qué es la reacción de Maillard?",
+          "options": ["Caramelización del azúcar", "Pardeamiento de proteínas y azúcares", "Fermentación", "Emulsificación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-8",
+          "question": "¿Cuál es la diferencia entre champán y cava?",
+          "options": ["No hay diferencia", "Champán es de Francia, Cava de España", "Champán es más caro", "Usan diferentes uvas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-9",
+          "question": "¿Qué es el umami?",
+          "options": ["Un tipo de sushi", "El quinto sabor básico", "Una técnica japonesa", "Un ingrediente"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-10",
+          "question": "¿Cuál es la función del gluten en la masa de pan?",
+          "options": ["Da sabor", "Proporciona estructura y elasticidad", "Conserva el pan", "No tiene función"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-11",
+          "question": "¿Qué tipo de corte de carne es el 'ribeye'?",
+          "options": ["Del lomo", "Del costillar", "De la pierna", "Del cuello"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-12",
+          "question": "¿Cuál es la diferencia entre fermentación alcohólica y láctica?",
+          "options": ["No hay diferencia", "Alcohólica produce alcohol, láctica ácido láctico", "Solo cambia el tiempo", "Se usan diferentes ingredientes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-13",
+          "question": "¿Qué es la 'garde manger' en una cocina profesional?",
+          "options": ["El chef principal", "La estación de platos fríos", "La despensa", "El área de limpieza"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-14",
+          "question": "¿Cuál es la proporción clásica para hacer mayonesa?",
+          "options": ["1 yema por 100ml de aceite", "1 yema por 150ml de aceite", "1 yema por 200ml de aceite", "1 yema por 250ml de aceite"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-15",
+          "question": "¿Qué es la 'madre' en la elaboración de vinagre?",
+          "options": ["La receta original", "El cultivo de bacterias acéticas", "El primer vinagre", "La persona que lo hace"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "gas3-1",
+          "question": "¿Qué es la gelificación esférica en gastronomía molecular?",
+          "options": ["Hacer esferas sólidas", "Crear membranas líquidas con interior diferente", "Congelar en formas esféricas", "Una técnica de presentación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-2",
+          "question": "¿Cuál es la diferencia entre agar-agar y gelatina tradicional?",
+          "options": ["No hay diferencia", "Agar es vegetal, gelatina animal", "Agar es más fuerte", "Solo el origen"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-3",
+          "question": "¿Qué chef es considerado pionero de la gastronomía molecular?",
+          "options": ["Ferran Adrià", "Grant Achatz", "Heston Blumenthal", "Todos son pioneros"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-4",
+          "question": "¿Cuál es la función de la lecitina de soja en espumas culinarias?",
+          "options": ["Da sabor", "Actúa como emulsificante", "Conserva la espuma", "Da color"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-5",
+          "question": "¿Qué es la técnica de 'nitrógeno líquido' en cocina?",
+          "options": ["Congelación instantánea", "Crear texturas", "Efectos visuales", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-6",
+          "question": "¿Cuál es la temperatura exacta del nitrógeno líquido?",
+          "options": ["-180°C", "-196°C", "-200°C", "-220°C"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-7",
+          "question": "¿Qué es la transglutaminasa en cocina?",
+          "options": ["Un conservante", "Una enzima que une proteínas", "Un espesante", "Un saborizante"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-8",
+          "question": "¿Cuál es el principio detrás de la cocina al vacío (sous vide)?",
+          "options": ["Cocinar sin oxígeno", "Control preciso de temperatura", "Ahorrar tiempo", "Concentrar sabores"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-9",
+          "question": "¿Qué es la fermentación controlada en alta gastronomía?",
+          "options": ["Fermentación rápida", "Fermentación con condiciones específicas para sabores únicos", "Fermentación sin bacterias", "Fermentación artificial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-10",
+          "question": "¿Cuál es la diferencia entre hidrolizado y gelificado?",
+          "options": ["No hay diferencia", "Hidrolizado rompe moléculas, gelificado las une", "Solo la temperatura", "Solo el tiempo de proceso"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-11",
+          "question": "¿Qué es la técnica de 'caviarificación'?",
+          "options": ["Usar caviar real", "Crear esferas que imitan caviar", "Técnica de conservación", "Manera de servir"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-12",
+          "question": "¿Cuál es la función del cloruro cálcico en gastronomía molecular?",
+          "options": ["Da sabor salado", "Forma la membrana en gelificación esférica", "Conserva alimentos", "Cambia colores"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-13",
+          "question": "¿Qué es la liofilización en cocina?",
+          "options": ["Congelación normal", "Deshidratación por sublimación", "Técnica de cocción", "Método de conservación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-14",
+          "question": "¿Cuál es el rango de pH ideal para la gelificación esférica?",
+          "options": ["pH 3.6-4.5", "pH 5.0-6.0", "pH 7.0-8.0", "pH no importa"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-15",
+          "question": "¿Qué es la 'deconstrucción' en alta gastronomía?",
+          "options": ["Romper platos", "Presentar un plato clásico con nuevas texturas y formas", "Cocinar sin utensilios", "Técnica de corte"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
