@@ -1,0 +1,381 @@
+{
+  "category": "mitologia",
+  "name": "Mitología y Leyendas",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "mit1-1",
+          "question": "¿Quién es el rey de los dioses en la mitología griega?",
+          "options": ["Poseidón", "Zeus", "Hades", "Apolo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-2",
+          "question": "¿Cuál es el nombre romano de Zeus?",
+          "options": ["Marte", "Neptuno", "Júpiter", "Mercurio"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-3",
+          "question": "¿Qué diosa griega nació de la cabeza de Zeus?",
+          "options": ["Afrodita", "Atenea", "Artemisa", "Hera"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-4",
+          "question": "¿Quién es el dios del mar en la mitología griega?",
+          "options": ["Zeus", "Hades", "Poseidón", "Ares"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-5",
+          "question": "¿Qué héroe griego tenía como punto débil el talón?",
+          "options": ["Hércules", "Perseo", "Aquiles", "Teseo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-6",
+          "question": "¿Cuántos trabajos tuvo que realizar Hércules?",
+          "options": ["10", "12", "7", "15"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-7",
+          "question": "¿Qué criatura tenía cabeza de toro y cuerpo de hombre?",
+          "options": ["Centauro", "Minotauro", "Quimera", "Esfinge"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-8",
+          "question": "¿Quién abrió la caja que liberó todos los males del mundo?",
+          "options": ["Helena", "Pandora", "Penélope", "Casandra"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-9",
+          "question": "¿Cómo se llama el martillo de Thor en la mitología nórdica?",
+          "options": ["Gungnir", "Mjolnir", "Gram", "Excalibur"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-10",
+          "question": "¿Quién es el padre de Thor en la mitología nórdica?",
+          "options": ["Loki", "Odín", "Freyr", "Balder"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-11",
+          "question": "¿Qué animal representa la sabiduría en muchas culturas?",
+          "options": ["Águila", "Lobo", "Búho", "Serpiente"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-12",
+          "question": "¿Cuál es el nombre del caballo de ocho patas de Odín?",
+          "options": ["Pegaso", "Sleipnir", "Bucéfalo", "Rocinante"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-13",
+          "question": "¿Quién mató a la Medusa?",
+          "options": ["Teseo", "Perseo", "Hércules", "Jasón"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-14",
+          "question": "¿Cómo se llama el reino de los muertos en la mitología griega?",
+          "options": ["Olimpo", "Hades", "Tártaro", "Campos Elíseos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-15",
+          "question": "¿Qué rey convirtió todo lo que tocaba en oro?",
+          "options": ["Rey Midas", "Rey Creso", "Rey Príamo", "Rey Edipo"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "mit2-1",
+          "question": "¿Cuál es la diferencia entre Titanes y Olímpicos en la mitología griega?",
+          "options": ["No hay diferencia", "Los Titanes son la generación anterior de dioses", "Los Olímpicos son más poderosos", "Solo el lugar donde viven"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-2",
+          "question": "¿Quién es Quetzalcóatl en la mitología azteca?",
+          "options": ["Dios de la guerra", "Serpiente emplumada, dios del viento", "Dios del sol", "Dios de la muerte"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-3",
+          "question": "¿Cuál es el nombre del árbol cósmico en la mitología nórdica?",
+          "options": ["Yggdrasil", "Irminsul", "Glasir", "Læraðr"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-4",
+          "question": "¿Qué es el Ragnarök en la mitología nórdica?",
+          "options": ["Un héroe", "El fin del mundo", "Una batalla", "Un lugar"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-5",
+          "question": "¿Quién es Amaterasu en la mitología japonesa?",
+          "options": ["Diosa de la luna", "Diosa del sol", "Diosa del mar", "Diosa del viento"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-6",
+          "question": "¿Cuál es la maldición de Casandra en la mitología griega?",
+          "options": ["Volverse piedra", "Predecir el futuro sin ser creída", "No poder hablar", "Envejecer rápidamente"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-7",
+          "question": "¿Qué son los Valquirias en la mitología nórdica?",
+          "options": ["Gigantes", "Guerreras que llevan a los muertos al Valhalla", "Brujas", "Elfos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-8",
+          "question": "¿Quién es Set en la mitología egipcia?",
+          "options": ["Dios del sol", "Dios del desierto y el caos", "Dios de la muerte", "Dios del Nilo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-9",
+          "question": "¿Cuál es la diferencia entre un centauro y un sátiro?",
+          "options": ["No hay diferencia", "Centauro: mitad caballo, Sátiro: mitad cabra", "Solo la personalidad", "Solo el origen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-10",
+          "question": "¿Qué es el Feng Huang en la mitología china?",
+          "options": ["Dragón", "Fénix chino", "Tortuga", "Tigre"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-11",
+          "question": "¿Quién guía las almas al inframundo en la mitología griega?",
+          "options": ["Hades", "Caronte", "Hermes", "Thanatos"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-12",
+          "question": "¿Cuál es el nombre del gigante que sostiene la Tierra en la mitología griega?",
+          "options": ["Cronos", "Atlas", "Prometeo", "Titán"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-13",
+          "question": "¿Qué animal es sagrado para Ganesha en la mitología hindú?",
+          "options": ["Vaca", "Ratón", "Mono", "Cobra"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-14",
+          "question": "¿Cuál es la función de Anubis en la mitología egipcia?",
+          "options": ["Proteger el sol", "Guiar y juzgar a los muertos", "Controlar el Nilo", "Proteger los faraones"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-15",
+          "question": "¿Qué es el Miðgarðr en la mitología nórdica?",
+          "options": ["El reino de los dioses", "El mundo de los humanos", "El reino de los muertos", "El reino de los gigantes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "mit3-1",
+          "question": "¿Cuál es la diferencia entre mito cosmogónico y mito etiológico?",
+          "options": ["No hay diferencia", "Cosmogónico explica la creación, etiológico el origen de fenómenos", "Solo la cultura", "Solo la época"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-2",
+          "question": "¿Qué es la hierogamia en estudios mitológicos?",
+          "options": ["Matrimonio sagrado entre dioses", "Guerra entre dioses", "Sacrificio ritual", "Transformación divina"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-3",
+          "question": "¿Cuál es el concepto de 'monomito' según Joseph Campbell?",
+          "options": ["Un solo mito universal", "Estructura común en mitos de héroe", "Mito sin variaciones", "Mito moderno"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-4",
+          "question": "¿Qué representa el ouroboros en diversas mitologías?",
+          "options": ["La muerte", "Ciclo eterno, renovación", "El caos", "La guerra"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-5",
+          "question": "¿Cuál es la función del trickster en mitología comparada?",
+          "options": ["Héroe principal", "Figura que desafía el orden establecido", "Villano principal", "Guía espiritual"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-6",
+          "question": "¿Qué es la sincretismo religioso en contexto mitológico?",
+          "options": ["Pureza religiosa", "Fusión de tradiciones diferentes", "Rechazo de mitos", "Creación de nuevos dioses"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-7",
+          "question": "¿Cuál es la diferencia entre animismo y totemismo?",
+          "options": ["No hay diferencia", "Animismo: alma en objetos, Totemismo: relación con animal/planta específica", "Solo geográfica", "Solo temporal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-8",
+          "question": "¿Qué representa el axis mundi en cosmología mítica?",
+          "options": ["Eje de la Tierra", "Conexión entre mundos celestial, terrestre e infernal", "Centro geográfico", "Montaña sagrada"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-9",
+          "question": "¿Cuál es el concepto de 'muerte del dios' en mitología comparada?",
+          "options": ["Fin de religiones", "Ciclo de muerte y resurrección divina", "Ateísmo primitivo", "Guerra entre dioses"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-10",
+          "question": "¿Qué es la teogonía en estudios mitológicos?",
+          "options": ["Estudio de dioses", "Relato del origen de los dioses", "Genealogía humana", "Historia religiosa"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-11",
+          "question": "¿Cuál es la función del pharmakon en mitos griegos?",
+          "options": ["Medicina", "Elemento que es simultáneamente veneno y cura", "Ritual", "Ofrenda"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-12",
+          "question": "¿Qué representa la coincidentia oppositorum en simbolismo mítico?",
+          "options": ["Oposición total", "Unión de contrarios en lo sagrado", "Conflicto eterno", "Equilibrio natural"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-13",
+          "question": "¿Cuál es el concepto de 'tiempo mítico' según Mircea Eliade?",
+          "options": ["Tiempo lineal", "Tiempo cíclico sagrado del origen", "Tiempo futuro", "Tiempo personal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-14",
+          "question": "¿Qué es la hierofanía en fenomenología religiosa?",
+          "options": ["Texto sagrado", "Manifestación de lo sagrado en lo profano", "Ritual específico", "Lugar sagrado"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-15",
+          "question": "¿Cuál es la diferencia entre mito y leyenda según criterios académicos?",
+          "options": ["No hay diferencia", "Mito: tiempo primordial, Leyenda: tiempo histórico", "Solo la cultura", "Solo la popularidad"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
