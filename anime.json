@@ -124,6 +124,46 @@
           "answer": 0,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "ani1-16",
+          "question": "¿Cuál es el nombre de la espada de Ichigo en Bleach?",
+          "options": ["Zangetsu", "Bankai", "Shikai", "Zanpakuto"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-17",
+          "question": "¿En qué anime aparece el ninja Kakashi Hatake?",
+          "options": ["One Piece", "Dragon Ball", "Naruto", "Bleach"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-18",
+          "question": "¿Cuál es el nombre del protagonista de Hunter x Hunter?",
+          "options": ["Killua", "Kurapika", "Gon Freecss", "Leorio"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-19",
+          "question": "¿Qué animal representa a Totoro en Mi Vecino Totoro?",
+          "options": ["Un oso", "Un espíritu del bosque", "Un gato gigante", "Un conejo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-20",
+          "question": "¿En qué anime aparece la Academia U.A.?",
+          "options": ["My Hero Academia", "Assassination Classroom", "Soul Eater", "Fire Force"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -249,6 +289,86 @@
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "ani2-16",
+          "question": "¿Cuál es el nombre del clan de Sasuke Uchiha?",
+          "options": ["Clan Hyuga", "Clan Uchiha", "Clan Uzumaki", "Clan Hatake"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-17",
+          "question": "¿Qué género define mejor a 'Cowboy Bebop'?",
+          "options": ["Mecha", "Space Western", "Romance", "Magical Girl"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-18",
+          "question": "¿En qué anime aparece la organización Akatsuki?",
+          "options": ["Bleach", "One Piece", "Naruto", "Hunter x Hunter"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-19",
+          "question": "¿Cuál es el nombre del hermano menor de Edward Elric?",
+          "options": ["Roy Mustang", "Alphonse Elric", "Winry Rockbell", "Maes Hughes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-20",
+          "question": "¿Qué tipo de demonio es Nezuko en Demon Slayer?",
+          "options": ["Demonio común", "Demonio que no come humanos", "Demonio híbrido", "Demonio artificial"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-21",
+          "question": "¿Cuál es el nombre del capitán de los Piratas del Sombrero de Paja?",
+          "options": ["Zoro", "Sanji", "Luffy", "Nami"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-22",
+          "question": "¿En qué anime aparece la técnica 'Gear Second'?",
+          "options": ["Naruto", "One Piece", "Bleach", "Dragon Ball"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-23",
+          "question": "¿Qué significa 'shoujo' en géneros de manga?",
+          "options": ["Para chicos", "Para niñas jóvenes", "Para adultos", "Para ancianos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-24",
+          "question": "¿Cuál es el nombre del notebook en Code Geass?",
+          "options": ["Death Note", "Geass", "Code", "Power of Kings"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-25",
+          "question": "¿En qué anime aparece la frase 'Gotta catch 'em all'?",
+          "options": ["Digimon", "Yu-Gi-Oh!", "Pokémon", "Monster Rancher"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
@@ -371,6 +491,126 @@
           "id": "ani3-15",
           "question": "¿Cuál es la importancia del 'Animage' en la industria del anime?",
           "options": ["Primer anime", "Revista especializada que promovió la cultura anime", "Estudio de animación", "Técnica de animación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-16",
+          "question": "¿Qué significa 'josei' en demografías de manga?",
+          "options": ["Para mujeres adultas", "Para niñas", "Para hombres", "Para ancianos"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-17",
+          "question": "¿Cuál es el concepto de 'ikigai' representado en algunos anime?",
+          "options": ["Tristeza", "Razón de ser o propósito de vida", "Venganza", "Poder"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-18",
+          "question": "¿Qué estudio es famoso por la serie 'Evangelion'?",
+          "options": ["Studio Ghibli", "Gainax/Studio Khara", "Madhouse", "Toei Animation"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-19",
+          "question": "¿Cuál es la diferencia entre 'manga' y 'manhwa'?",
+          "options": ["No hay diferencia", "Manga es japonés, manhwa es coreano", "Solo el estilo", "Solo el idioma"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-20",
+          "question": "¿Qué es el 'Golden Age' del manga según críticos?",
+          "options": ["1950s-1960s", "1980s-1990s", "2000s-2010s", "1970s-1980s"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-21",
+          "question": "¿Cuál es el concepto de 'bushido' en anime samurai?",
+          "options": ["Arte marcial", "Código de honor del samurai", "Tipo de espada", "Técnica de combate"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+         {
+          "id": "ani3-22",
+          "question": "¿Qué significa 'gekiga' en la evolución del manga?",
+          "options": ["Manga cómico", "Manga dramático para adultos", "Manga en color", "Manga digital"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-23",
+          "question": "¿Cuál es la importancia de Osamu Tezuka en el anime?",
+          "options": ["Primer animador", "Padre del manga moderno y pionero del anime TV", "Mejor dibujante", "Creador de Studio Ghibli"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-24",
+          "question": "¿Qué es el 'otome game' adaptado frecuentemente a anime?",
+          "options": ["Juego de acción", "Juego de romance dirigido a mujeres", "Juego de deportes", "Juego de terror"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-25",
+          "question": "¿Cuál es el concepto de 'hanami' frecuentemente mostrado en anime?",
+          "options": ["Festival de fuegos artificiales", "Contemplación de flores de cerezo", "Ceremonía del té", "Festival de otoño"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-26",
+          "question": "¿Qué es el 'Weekly Shonen Jump' en la industria manga?",
+          "options": ["Estudio de animación", "Revista manga más influyente para shounen", "Técnica de dibujo", "Convención de anime"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-27",
+          "question": "¿Cuál es la diferencia entre 'anime original' y 'adaptación'?",
+          "options": ["No hay diferencia", "Original no está basado en manga, adaptación sí", "Solo la calidad", "Solo el estudio"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-28",
+          "question": "¿Qué significa 'iyashikei' como género de anime?",
+          "options": ["Acción intensa", "Sanación emocional y relajación", "Terror psicológico", "Romance dramático"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-29",
+          "question": "¿Cuál es el concepto de 'fan service' en anime?",
+          "options": ["Servicio al cliente", "Contenido destinado a complacer a los fans", "Técnica de animación", "Género musical"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-30",
+          "question": "¿Qué es la 'Anime Expo' y su importancia cultural?",
+          "options": ["Estudio de animación", "Convención de anime más grande de Norteamérica", "Revista especializada", "Técnica de dibujo"],
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
