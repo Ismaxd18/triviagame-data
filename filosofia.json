@@ -1,0 +1,381 @@
+{
+  "category": "filosofia",
+  "name": "Filosofía",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "fil1-1",
+          "question": "¿Quién es considerado el padre de la filosofía occidental?",
+          "options": ["Platón", "Sócrates", "Aristóteles", "Tales de Mileto"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-2",
+          "question": "¿Cuál es la pregunta central de la filosofía según Hamlet de Shakespeare?",
+          "options": ["¿Qué es la vida?", "¿Ser o no ser?", "¿Quién soy?", "¿Por qué existimos?"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-3",
+          "question": "¿Qué significa la palabra 'filosofía' literalmente?",
+          "options": ["Estudio del ser", "Amor a la sabiduría", "Búsqueda de la verdad", "Conocimiento puro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-4",
+          "question": "¿Quién escribió 'La República'?",
+          "options": ["Sócrates", "Platón", "Aristóteles", "Kant"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-5",
+          "question": "¿Cuál es la frase más famosa de René Descartes?",
+          "options": ["Solo sé que no sé nada", "Pienso, luego existo", "El hombre es lobo del hombre", "Dios ha muerto"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-6",
+          "question": "¿Qué estudia la ética?",
+          "options": ["La belleza", "El bien y el mal", "La existencia", "El conocimiento"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-7",
+          "question": "¿Quién fue el maestro de Aristóteles?",
+          "options": ["Sócrates", "Platón", "Tales", "Heráclito"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-8",
+          "question": "¿Qué rama de la filosofía estudia la naturaleza del conocimiento?",
+          "options": ["Ontología", "Epistemología", "Axiología", "Cosmología"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-9",
+          "question": "¿Cuál es la frase célebre de Sócrates?",
+          "options": ["Pienso, luego existo", "Solo sé que no sé nada", "El hombre es la medida", "Todo fluye"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-10",
+          "question": "¿Qué filósofo creó la teoría de las Ideas o Formas?",
+          "options": ["Sócrates", "Platón", "Aristóteles", "Kant"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-11",
+          "question": "¿Cómo se llama el método filosófico de hacer preguntas para llegar a la verdad?",
+          "options": ["Método cartesiano", "Método socrático", "Método aristotélico", "Método platónico"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-12",
+          "question": "¿Qué significa 'a priori' en filosofía?",
+          "options": ["Después de la experiencia", "Antes de la experiencia", "Durante la experiencia", "Sin experiencia"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-13",
+          "question": "¿Quién dijo 'El hombre es un animal político'?",
+          "options": ["Platón", "Sócrates", "Aristóteles", "Cicerón"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-14",
+          "question": "¿Qué estudia la estética en filosofía?",
+          "options": ["La moral", "La belleza y el arte", "La existencia", "La lógica"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-15",
+          "question": "¿Cuál es el nombre del discípulo más famoso de Sócrates?",
+          "options": ["Aristóteles", "Platón", "Diógenes", "Epicuro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "fil2-1",
+          "question": "¿Qué escuela filosófica fundó Epicuro?",
+          "options": ["Estoicismo", "Epicureísmo", "Cinismo", "Escepticismo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-2",
+          "question": "¿Cuál es el concepto central del existencialismo?",
+          "options": ["La esencia precede a la existencia", "La existencia precede a la esencia", "Esencia y existencia son lo mismo", "No hay esencia ni existencia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-3",
+          "question": "¿Qué filósofo escribió 'Crítica de la razón pura'?",
+          "options": ["Hegel", "Kant", "Schopenhauer", "Nietzsche"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-4",
+          "question": "¿Qué es el 'imperativo categórico' de Kant?",
+          "options": ["Una ley científica", "Un principio moral universal", "Una teoría del conocimiento", "Un método lógico"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-5",
+          "question": "¿Quién es considerado el padre del utilitarismo?",
+          "options": ["John Stuart Mill", "Jeremy Bentham", "David Hume", "Adam Smith"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-6",
+          "question": "¿Qué significa 'tabula rasa' según John Locke?",
+          "options": ["Mente en blanco al nacer", "Conocimiento innato", "Razón pura", "Experiencia total"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-7",
+          "question": "¿Cuál es la diferencia principal entre racionalismo y empirismo?",
+          "options": ["El origen del conocimiento", "El método científico", "La existencia de Dios", "La naturaleza humana"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-8",
+          "question": "¿Qué filósofo propuso la dialéctica como método de conocimiento?",
+          "options": ["Kant", "Hegel", "Marx", "Fichte"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-9",
+          "question": "¿Qué es el 'superhombre' (Übermensch) para Nietzsche?",
+          "options": ["Un ser físicamente superior", "El ideal humano que supera la moralidad tradicional", "Un líder político", "Un genio intelectual"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-10",
+          "question": "¿Quién escribió 'El ser y el tiempo'?",
+          "options": ["Sartre", "Heidegger", "Husserl", "Merleau-Ponty"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-11",
+          "question": "¿Qué es la 'cosa en sí' (noúmeno) para Kant?",
+          "options": ["Lo que podemos conocer", "La realidad independiente de nuestra percepción", "Una ilusión mental", "El mundo sensible"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-12",
+          "question": "¿Cuál es el principio fundamental del estoicismo?",
+          "options": ["Buscar el placer", "Vivir según la naturaleza y aceptar el destino", "Dudar de todo", "Seguir los instintos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-13",
+          "question": "¿Qué es la 'angustia' según Kierkegaard?",
+          "options": ["Miedo a la muerte", "La experiencia de la libertad y responsabilidad", "Tristeza profunda", "Ansiedad social"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-14",
+          "question": "¿Quién desarrolló la teoría de los 'actos de habla'?",
+          "options": ["Wittgenstein", "Austin", "Searle", "Chomsky"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-15",
+          "question": "¿Qué es la 'voluntad de poder' según Nietzsche?",
+          "options": ["Deseo de dominar a otros", "Impulso fundamental de toda vida", "Poder político", "Fuerza física"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "fil3-1",
+          "question": "¿Cuál es la paradoja central en el 'Menón' de Platón?",
+          "options": ["La paradoja del conocimiento", "La paradoja del ser", "La paradoja del tiempo", "La paradoja del alma"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-2",
+          "question": "¿Qué es la 'epojé' en la fenomenología de Husserl?",
+          "options": ["Suspensión del juicio", "Análisis lógico", "Intuición esencial", "Reducción eidética"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-3",
+          "question": "¿Cuál es la crítica principal de Gettier a la definición tradicional de conocimiento?",
+          "options": ["Que no incluye la verdad", "Que no incluye la creencia", "Que la justificación no es suficiente", "Que es circular"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-4",
+          "question": "¿Qué es el 'giro lingüístico' en filosofía del siglo XX?",
+          "options": ["Estudiar solo gramática", "Centrar la filosofía en el análisis del lenguaje", "Crear nuevos idiomas", "Traducir textos antiguos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-5",
+          "question": "¿Cuál es la diferencia entre 'mundo de la vida' (Lebenswelt) y mundo científico en Husserl?",
+          "options": ["No hay diferencia", "El mundo científico es más real", "El mundo de la vida es la experiencia vivida pre-teórica", "Son mundos paralelos"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-6",
+          "question": "¿Qué es la 'deconstrucción' según Derrida?",
+          "options": ["Destruir textos", "Estrategia de lectura que revela contradicciones internas", "Construcción lógica", "Análisis psicológico"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-7",
+          "question": "¿Cuál es el problema de la 'otras mentes' en filosofía de la mente?",
+          "options": ["Si los demás tienen mente", "Cómo conocer los estados mentales de otros", "Si existe la mente", "Qué es la conciencia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-8",
+          "question": "¿Qué es el 'círculo hermenéutico' según Gadamer?",
+          "options": ["Un error lógico", "La estructura circular de comprensión entre parte y todo", "Un método matemático", "Una figura retórica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-9",
+          "question": "¿Cuál es la paradoja de Buridan relacionada con el libre albedrío?",
+          "options": ["El asno entre dos montones de heno", "La piedra que rueda", "El gato de Schrödinger", "El demonio de Maxwell"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-10",
+          "question": "¿Qué es la 'diferancia' (différance) en Derrida?",
+          "options": ["Simple diferencia", "Juego de diferir y diferencia en el significado", "Semejanza", "Identidad"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-11",
+          "question": "¿Cuál es el argumento del 'zombie filosófico' en filosofía de la mente?",
+          "options": ["Contra el dualismo", "Contra el fisicalismo sobre la conciencia", "A favor del behaviorismo", "Sobre la inteligencia artificial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-12",
+          "question": "¿Qué es la 'aporía' en la filosofía de Derrida?",
+          "options": ["Una conclusión", "Un callejón sin salida conceptual", "Una demostración", "Una tautología"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-13",
+          "question": "¿Cuál es la crítica de Quine al distinción analítico/sintético?",
+          "options": ["Es muy útil", "No existe tal distinción clara", "Solo aplica a matemáticas", "Es solo lingüística"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-14",
+          "question": "¿Qué es el 'experimento mental' del cuarto chino de Searle?",
+          "options": ["Sobre traducción", "Crítica a la inteligencia artificial fuerte", "Sobre el aprendizaje", "Sobre la comunicación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-15",
+          "question": "¿Cuál es la tesis principal del 'segundo' Wittgenstein sobre el lenguaje?",
+          "options": ["El lenguaje es lógico", "El significado es uso en juegos de lenguaje", "El lenguaje es innato", "El lenguaje es matemático"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
