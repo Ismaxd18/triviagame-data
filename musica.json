@@ -1,0 +1,381 @@
+{
+  "category": "musica",
+  "name": "Música",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "mus1-1",
+          "question": "¿Quién cantó 'Billie Jean'?",
+          "options": ["Prince", "Michael Jackson", "Elvis Presley", "Whitney Houston"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-2",
+          "question": "¿Cuántas cuerdas tiene una guitarra estándar?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-3",
+          "question": "¿Qué banda interpretó 'Bohemian Rhapsody'?",
+          "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-4",
+          "question": "¿Cuántas teclas blancas tiene un piano?",
+          "options": ["50", "52", "54", "56"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-5",
+          "question": "¿Quién compuso 'La Novena Sinfonía'?",
+          "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-6",
+          "question": "¿Qué instrumento tocaba Louis Armstrong principalmente?",
+          "options": ["Saxofón", "Trompeta", "Piano", "Batería"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-7",
+          "question": "¿Cuál es el género musical de Bob Marley?",
+          "options": ["Blues", "Jazz", "Reggae", "Rock"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-8",
+          "question": "¿Qué significa 'forte' en música?",
+          "options": ["Suave", "Fuerte", "Rápido", "Lento"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-9",
+          "question": "¿Quién es conocido como 'El Rey del Pop'?",
+          "options": ["Elvis Presley", "Michael Jackson", "Prince", "David Bowie"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-10",
+          "question": "¿Cuántas notas musicales hay en la escala occidental?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-11",
+          "question": "¿Qué banda cantó 'Hotel California'?",
+          "options": ["Eagles", "Fleetwood Mac", "The Doors", "Pink Floyd"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-12",
+          "question": "¿Cómo se llama el símbolo al inicio del pentagrama que indica la altura de las notas?",
+          "options": ["Clave", "Compás", "Bemol", "Sostenido"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-13",
+          "question": "¿Quién cantó 'Like a Rolling Stone'?",
+          "options": ["Bob Dylan", "Johnny Cash", "Leonard Cohen", "Neil Young"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-14",
+          "question": "¿Qué instrumento es característico del tango argentino?",
+          "options": ["Guitarra", "Bandoneón", "Violín", "Piano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-15",
+          "question": "¿Cuál es el tempo más lento en música clásica?",
+          "options": ["Adagio", "Largo", "Andante", "Allegro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "mus2-1",
+          "question": "¿Qué compositor escribió 'Las Cuatro Estaciones'?",
+          "options": ["Bach", "Vivaldi", "Handel", "Pachelbel"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-2",
+          "question": "¿En qué ciudad se originó el jazz?",
+          "options": ["Chicago", "Nueva York", "Nueva Orleans", "Memphis"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-3",
+          "question": "¿Cuál es la afinación estándar de la primera cuerda de una guitarra?",
+          "options": ["Mi", "La", "Si", "Re"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-4",
+          "question": "¿Qué significa 'a cappella'?",
+          "options": ["Con instrumentos", "Sin instrumentos, solo voces", "En una capilla", "Muy rápido"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-5",
+          "question": "¿Quién fundó la discográfica Motown Records?",
+          "options": ["Quincy Jones", "Berry Gordy", "Phil Spector", "Sam Phillips"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-6",
+          "question": "¿Cuál es el intervalo entre Do y Sol?",
+          "options": ["Cuarta", "Quinta", "Sexta", "Séptima"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-7",
+          "question": "¿Qué álbum de Pink Floyd incluye la canción 'Money'?",
+          "options": ["The Wall", "Wish You Were Here", "The Dark Side of the Moon", "Animals"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-8",
+          "question": "¿Cuántas sinfonías compuso Beethoven?",
+          "options": ["8", "9", "10", "11"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-9",
+          "question": "¿Qué escala no tiene sostenidos ni bemoles?",
+          "options": ["Do mayor", "La menor", "Ambas son correctas", "Sol mayor"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-10",
+          "question": "¿Quién escribió la ópera 'La Flauta Mágica'?",
+          "options": ["Verdi", "Puccini", "Mozart", "Wagner"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-11",
+          "question": "¿Qué guitarra eléctrica es famosa por ser usada en Woodstock por Jimi Hendrix?",
+          "options": ["Gibson Les Paul", "Fender Telecaster", "Fender Stratocaster", "Gibson SG"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-12",
+          "question": "¿En qué año se lanzó el álbum 'Sgt. Pepper's' de The Beatles?",
+          "options": ["1966", "1967", "1968", "1969"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-13",
+          "question": "¿Qué compositor es conocido como 'El Poeta del Piano'?",
+          "options": ["Liszt", "Chopin", "Schumann", "Brahms"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-14",
+          "question": "¿Cuál es la frecuencia del La central (A4) en la afinación estándar?",
+          "options": ["420 Hz", "432 Hz", "440 Hz", "450 Hz"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-15",
+          "question": "¿Qué técnica usa un cantante para producir dos notas simultáneas?",
+          "options": ["Vibrato", "Glissando", "Canto difónico", "Portamento"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "mus3-1",
+          "question": "¿Cuál es la diferencia entre el temperamento igual y el temperamento justo?",
+          "options": ["No hay diferencia", "El igual divide la octava en 12 semitonos iguales", "El justo es más moderno", "Solo se usa en piano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-2",
+          "question": "¿Qué compositor desarrolló la técnica dodecafónica?",
+          "options": ["Stravinsky", "Schoenberg", "Bartók", "Debussy"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-3",
+          "question": "¿Cuál es la función armónica del acorde construido sobre el VII grado en modo mayor?",
+          "options": ["Dominante", "Subdominante", "Sensible disminuido", "Relativo menor"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-4",
+          "question": "¿Qué es una politonalidad?",
+          "options": ["Música muy rápida", "Uso simultáneo de múltiples tonalidades", "Música sin tonalidad", "Cambio constante de tonalidad"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-5",
+          "question": "¿Cuál es la diferencia principal entre una fuga y un canon?",
+          "options": ["No hay diferencia", "La fuga desarrolla el tema, el canon lo repite exactamente", "El canon es más complejo", "La fuga es solo para piano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-6",
+          "question": "¿Qué compositor escribió 'El Arte de la Fuga'?",
+          "options": ["Handel", "Bach", "Telemann", "Vivaldi"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-7",
+          "question": "¿Qué es un acorde napolitano?",
+          "options": ["Un acorde italiano", "Acorde de sexta construido sobre el II grado bemol", "Un acorde aumentado", "Un acorde de séptima"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-8",
+          "question": "¿Cuál es la serie armónica del Do fundamental?",
+          "options": ["Do, Sol, Do, Mi, Sol...", "Do, Re, Mi, Fa, Sol...", "Do, Do, Sol, Do, Mi, Sol, Do...", "Solo Do repetido"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-9",
+          "question": "¿Qué técnica compositiva usó Messiaen inspirada en el canto de los pájaros?",
+          "options": ["Serialismo", "Ornitología musical", "Modos de transposición limitada", "Música concreta"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-10",
+          "question": "¿Cuál es la diferencia entre ritmo aditivo y divisivo?",
+          "options": ["No hay diferencia", "Aditivo suma pulsos, divisivo subdivide", "Aditivo es más rápido", "Divisivo es solo occidental"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-11",
+          "question": "¿Qué es la 'Klangfarbenmelodie' de Schoenberg?",
+          "options": ["Una sinfonía", "Melodía de timbres", "Técnica de piano", "Teoría armónica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-12",
+          "question": "¿Cuál es el ciclo de quintas completo empezando por Do?",
+          "options": ["Do-Sol-Re-La-Mi-Si-Fa#-Do#-Sol#-Re#-La#-Fa-Do", "Do-Fa-Sib-Mib-Lab-Reb-Solb-Si-Mi-La-Re-Sol-Do", "Ambas son correctas dependiendo de la dirección", "Solo existe una forma"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-13",
+          "question": "¿Qué compositor desarrolló el 'Leitmotiv' más extensamente?",
+          "options": ["Verdi", "Puccini", "Wagner", "Strauss"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-14",
+          "question": "¿Qué es la microtonalidad?",
+          "options": ["Música muy suave", "Intervalos menores al semitono", "Música electrónica", "Técnica de piano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-15",
+          "question": "¿Cuál es la diferencia entre homofonía y polifonía?",
+          "options": ["No hay diferencia", "Homofonía: una melodía principal, Polifonía: múltiples melodías independientes", "Homofonía es más moderna", "Polifonía solo usa piano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
