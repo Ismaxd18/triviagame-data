@@ -1,0 +1,381 @@
+{
+  "category": "arte",
+  "name": "Arte y Cultura",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "art1-1",
+          "question": "¿Quién pintó la Mona Lisa?",
+          "options": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Donatello"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-2",
+          "question": "¿En qué museo se encuentra la Mona Lisa?",
+          "options": ["Museo del Prado", "Louvre", "MoMA", "Tate Modern"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-3",
+          "question": "¿Quién esculpió 'El David'?",
+          "options": ["Leonardo da Vinci", "Rafael", "Michelangelo", "Bernini"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-4",
+          "question": "¿Cuál es la obra más famosa de Van Gogh?",
+          "options": ["Los Girasoles", "La Noche Estrellada", "Ambas son muy famosas", "El Grito"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-5",
+          "question": "¿Quién pintó 'El Grito'?",
+          "options": ["Van Gogh", "Picasso", "Edvard Munch", "Dalí"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-6",
+          "question": "¿Qué pintor es famoso por sus relojes derretidos?",
+          "options": ["Picasso", "Dalí", "Miró", "Kandinsky"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-7",
+          "question": "¿En qué país nació Pablo Picasso?",
+          "options": ["Francia", "Italia", "España", "Portugal"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-8",
+          "question": "¿Cuál es la técnica de pintura que usa puntos de color?",
+          "options": ["Impresionismo", "Puntillismo", "Cubismo", "Surrealismo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-9",
+          "question": "¿Quién escribió 'Romeo y Julieta'?",
+          "options": ["Charles Dickens", "William Shakespeare", "Oscar Wilde", "Mark Twain"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-10",
+          "question": "¿Cuál es la obra literaria más famosa de Miguel de Cervantes?",
+          "options": ["La Celestina", "El Lazarillo de Tormes", "Don Quijote de la Mancha", "El Cid"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-11",
+          "question": "¿Qué colores primarios se usan en pintura?",
+          "options": ["Rojo, azul, amarillo", "Rojo, verde, azul", "Negro, blanco, gris", "Rosa, azul, verde"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-12",
+          "question": "¿Cómo se llama la técnica de pintura sobre pared húmeda?",
+          "options": ["Óleo", "Acuarela", "Fresco", "Pastel"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-13",
+          "question": "¿Quién compuso 'La Novena Sinfonía'?",
+          "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-14",
+          "question": "¿En qué ciudad italiana se encuentra la Capilla Sixtina?",
+          "options": ["Roma", "Florencia", "Venecia", "Milán"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-15",
+          "question": "¿Cuál es el material tradicional de las esculturas griegas?",
+          "options": ["Bronce", "Mármol", "Madera", "Arcilla"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "art2-1",
+          "question": "¿Cuál es la diferencia principal entre Impresionismo y Post-impresionismo?",
+          "options": ["El color", "Los post-impresionistas buscaron más estructura", "La época", "Los temas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-2",
+          "question": "¿Quién fundó el movimiento Bauhaus?",
+          "options": ["Le Corbusier", "Walter Gropius", "Frank Lloyd Wright", "Mies van der Rohe"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-3",
+          "question": "¿Qué técnica pictórica inventaron los hermanos Van Eyck?",
+          "options": ["Óleo", "Acuarela", "Tempera", "Acrílico"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-4",
+          "question": "¿Cuál es la obra más cara vendida en subasta hasta 2023?",
+          "options": ["La Mona Lisa", "Salvator Mundi", "Los Jugadores de Cartas", "Nafea Faa Ipoipo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-5",
+          "question": "¿Qué es el 'sfumato' en pintura?",
+          "options": ["Técnica de Leonardo para difuminar contornos", "Tipo de pincel", "Color específico", "Estilo arquitectónico"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-6",
+          "question": "¿Quién escribió 'Cien años de soledad'?",
+          "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Jorge Luis Borges", "Pablo Neruda"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-7",
+          "question": "¿Cuál es la característica principal del Art Nouveau?",
+          "options": ["Líneas geométricas", "Formas orgánicas inspiradas en la naturaleza", "Colores primarios", "Abstracción total"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-8",
+          "question": "¿Qué artista cortó su propia oreja?",
+          "options": ["Picasso", "Van Gogh", "Gauguin", "Cézanne"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-9",
+          "question": "¿Cuál es la diferencia entre una sinfonía y una sonata?",
+          "options": ["El número de instrumentos", "Sinfonía es para orquesta, sonata para solista", "La duración", "No hay diferencia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-10",
+          "question": "¿Qué es el 'ready-made' en arte?",
+          "options": ["Arte comercial", "Objeto cotidiano convertido en arte", "Técnica de escultura", "Estilo de pintura"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-11",
+          "question": "¿Quién pintó 'Guernica'?",
+          "options": ["Dalí", "Miró", "Picasso", "Goya"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-12",
+          "question": "¿Cuál es la técnica escultórica de Rodin más famosa?",
+          "options": ["Talla directa", "Modelado en arcilla y fundición en bronce", "Escultura en mármol", "Assemblage"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-13",
+          "question": "¿Qué movimiento artístico rechazaba la lógica y abrazaba lo absurdo?",
+          "options": ["Cubismo", "Dadaísmo", "Futurismo", "Constructivismo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-14",
+          "question": "¿Cuál es la obra teatral más representada de Shakespeare?",
+          "options": ["Romeo y Julieta", "Hamlet", "Macbeth", "Otelo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-15",
+          "question": "¿Qué arquitecto diseñó la Sagrada Familia?",
+          "options": ["Le Corbusier", "Frank Gehry", "Antoni Gaudí", "Oscar Niemeyer"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "art3-1",
+          "question": "¿Cuál es la diferencia entre arte conceptual y arte procesual?",
+          "options": ["No hay diferencia", "Conceptual prioriza la idea, procesual el proceso de creación", "Solo la época", "Solo los materiales"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-2",
+          "question": "¿Qué es la 'anamorfosis' en arte?",
+          "options": ["Técnica de color", "Distorsión que requiere punto de vista específico", "Estilo de escultura", "Movimiento artístico"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-3",
+          "question": "¿Quién desarrolló la técnica del 'dripping' o action painting?",
+          "options": ["Rothko", "Pollock", "De Kooning", "Kline"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-4",
+          "question": "¿Qué es la 'estética relacional' según Nicolas Bourriaud?",
+          "options": ["Arte que crea relaciones humanas", "Estética tradicional", "Arte digital", "Teoría musical"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-5",
+          "question": "¿Cuál es la diferencia entre performance y happening?",
+          "options": ["No hay diferencia", "Performance es estructurado, happening es espontáneo", "Solo la duración", "Solo el lugar"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-6",
+          "question": "¿Qué es la 'transvanguardia' en arte contemporáneo?",
+          "options": ["Vanguardia moderna", "Retorno a la pintura figurativa post-vanguardia", "Arte digital", "Escultura conceptual"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-7",
+          "question": "¿Cuál es el concepto de 'obra abierta' según Umberto Eco?",
+          "options": ["Obra sin terminar", "Obra que permite múltiples interpretaciones", "Obra exhibida al aire libre", "Obra colectiva"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-8",
+          "question": "¿Qué es el 'site-specific' en arte contemporáneo?",
+          "options": ["Arte para museos", "Arte creado para un lugar específico", "Arte digital", "Arte comercial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-9",
+          "question": "¿Cuál es la teoría de la 'muerte del autor' de Barthes?",
+          "options": ["Los autores mueren jóvenes", "La interpretación no depende del autor", "Los autores son anónimos", "Crítica biográfica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-10",
+          "question": "¿Qué es la 'estética de la desaparición' según Paul Virilio?",
+          "options": ["Arte que se destruye", "Impacto de la velocidad en la percepción", "Arte invisible", "Minimalismo extremo"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-11",
+          "question": "¿Cuál es la diferencia entre palimpsesto y pentimento en arte?",
+          "options": ["No hay diferencia", "Palimpsesto: capas de texto, Pentimento: cambios visibles en pintura", "Solo el soporte", "Solo la época"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-12",
+          "question": "¿Qué es la 'deconstrucción' en arquitectura según Derrida?",
+          "options": ["Demoler edificios", "Cuestionar los principios arquitectónicos tradicionales", "Construcción rápida", "Arquitectura ecológica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-13",
+          "question": "¿Cuál es el concepto de 'aura' según Walter Benjamin?",
+          "options": ["Luz en las obras", "Presencia única e irrepetible de la obra de arte", "Color especial", "Técnica pictórica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-14",
+          "question": "¿Qué es la 'estética de la recepción' de Jauss?",
+          "options": ["Estética clásica", "La obra se completa en la recepción del público", "Estética del artista", "Crítica tradicional"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-15",
+          "question": "¿Cuál es la diferencia entre arte contextual y arte textual?",
+          "options": ["No hay diferencia", "Contextual se relaciona con el entorno, textual usa texto como medio", "Solo el soporte", "Solo la época"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
