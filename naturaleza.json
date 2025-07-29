@@ -1,0 +1,381 @@
+{
+  "category": "naturaleza",
+  "name": "Naturaleza y Animales",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "nat1-1",
+          "question": "¿Cuál es el animal terrestre más grande del mundo?",
+          "options": ["Rinoceronte", "Hipopótamo", "Elefante africano", "Jirafa"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-2",
+          "question": "¿Cuántos corazones tiene un pulpo?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-3",
+          "question": "¿Qué animal es conocido como el 'rey de la selva'?",
+          "options": ["Tigre", "León", "Leopardo", "Jaguar"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-4",
+          "question": "¿Cuál es el ave más grande del mundo?",
+          "options": ["Águila", "Cóndor", "Avestruz", "Pingüino emperador"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-5",
+          "question": "¿Qué tipo de animal es una ballena?",
+          "options": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-6",
+          "question": "¿Cuántas patas tiene una araña?",
+          "options": ["6", "8", "10", "12"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-7",
+          "question": "¿Qué comen los pandas principalmente?",
+          "options": ["Carne", "Frutas", "Bambú", "Pescado"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-8",
+          "question": "¿Cuál es el animal más rápido del mundo?",
+          "options": ["Guepardo", "León", "Caballo", "Halcón peregrino"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-9",
+          "question": "¿Qué animal produce la miel?",
+          "options": ["Avispas", "Abejas", "Hormigas", "Mariposas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-10",
+          "question": "¿Dónde viven los pingüinos principalmente?",
+          "options": ["Ártico", "Antártida", "Ambos polos", "Solo en zoológicos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-11",
+          "question": "¿Qué animal es conocido por cambiar de color?",
+          "options": ["Iguana", "Camaleón", "Lagarto", "Salamandra"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-12",
+          "question": "¿Cuál es el insecto que produce luz propia?",
+          "options": ["Libélula", "Mariposa", "Luciérnaga", "Escarabajo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-13",
+          "question": "¿Qué flor se considera símbolo del amor?",
+          "options": ["Tulipán", "Rosa", "Girasol", "Margarita"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-14",
+          "question": "¿Cuál es el árbol más alto del mundo?",
+          "options": ["Roble", "Pino", "Secuoya", "Eucalipto"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-15",
+          "question": "¿Qué animal hiberna durante el invierno?",
+          "options": ["Lobo", "Oso", "Venado", "Ardilla"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "nat2-1",
+          "question": "¿Cuál es el único mamífero capaz de volar realmente?",
+          "options": ["Ardilla voladora", "Murciélago", "Lemur volador", "Pez volador"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-2",
+          "question": "¿Qué animal tiene la presión sanguínea más alta?",
+          "options": ["Elefante", "Ballena azul", "Jirafa", "Rinoceronte"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-3",
+          "question": "¿Cuál es la diferencia principal entre abejas y avispas?",
+          "options": ["El tamaño", "Las abejas son peludas, las avispas lisas", "El color", "No hay diferencia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-4",
+          "question": "¿Qué tipo de animal es un ornitorrinco?",
+          "options": ["Marsupial", "Monotrema", "Roedor", "Reptil"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-5",
+          "question": "¿Cuál es el proceso por el cual las plantas producen oxígeno?",
+          "options": ["Respiración", "Fotosíntesis", "Transpiración", "Germinación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-6",
+          "question": "¿Qué animal puede regenerar completamente sus extremidades?",
+          "options": ["Salamandra", "Estrella de mar", "Ambas son correctas", "Ninguna"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-7",
+          "question": "¿Cuál es la principal diferencia entre veneno y ponzoña?",
+          "options": ["No hay diferencia", "Veneno se inyecta, ponzoña se ingiere", "Veneno es más fuerte", "Solo el origen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-8",
+          "question": "¿Qué es la metamorfosis completa?",
+          "options": ["Cambio de color", "Transformación de larva a adulto con pupa", "Crecimiento normal", "Cambio de hábitat"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-9",
+          "question": "¿Cuál es el depredador más grande del océano?",
+          "options": ["Gran tiburón blanco", "Orca", "Calamar gigante", "Cocodrilo marino"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-10",
+          "question": "¿Qué es la ecolocalización?",
+          "options": ["Encontrar comida", "Navegación por sonido", "Migración", "Comunicación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-11",
+          "question": "¿Cuál es la función de los bigotes de un gato?",
+          "options": ["Decoración", "Sensores táctiles", "Comunicación", "Defensa"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-12",
+          "question": "¿Qué animal tiene el período de gestación más largo?",
+          "options": ["Ballena", "Elefante", "Jirafa", "Rinoceronte"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-13",
+          "question": "¿Cuál es la diferencia entre hibernación y letargo?",
+          "options": ["No hay diferencia", "Hibernación es sueño profundo, letargo es reducción de actividad", "Solo la duración", "Solo la temperatura"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-14",
+          "question": "¿Qué es una especie endémica?",
+          "options": ["Especie común", "Especie que solo existe en un lugar específico", "Especie migratoria", "Especie domesticada"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-15",
+          "question": "¿Cuál es la principal causa de extinción de especies actualmente?",
+          "options": ["Cambio climático", "Actividad humana", "Desastres naturales", "Enfermedades"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "nat3-1",
+          "question": "¿Cuál es el animal con el genoma más grande conocido?",
+          "options": ["Humano", "Ballena azul", "Ameba Polychaos dubium", "Secuoya"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-2",
+          "question": "¿Qué es la neotenia en biología evolutiva?",
+          "options": ["Desarrollo acelerado", "Retención de características juveniles en adultos", "Cambio de sexo", "Regeneración"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-3",
+          "question": "¿Cuál es la diferencia entre convergencia y divergencia evolutiva?",
+          "options": ["No hay diferencia", "Convergencia: especies diferentes desarrollan similitudes, Divergencia: especies similares se diferencian", "Solo temporal", "Solo geográfica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-4",
+          "question": "¿Qué es la partenogénesis?",
+          "options": ["Reproducción sexual", "Reproducción sin fertilización", "Clonación artificial", "Hibridación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-5",
+          "question": "¿Cuál es el concepto de 'efecto fundador' en genética de poblaciones?",
+          "options": ["El primer individuo de una especie", "Reducción de diversidad genética en poblaciones aisladas", "Creación de nuevas especies", "Hibridación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-6",
+          "question": "¿Qué es la quimiosíntesis?",
+          "options": ["Síntesis química", "Producción de energía sin luz solar", "Digestión química", "Respiración celular"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-7",
+          "question": "¿Cuál es la función del órgano de Jacobson?",
+          "options": ["Audición", "Detección de feromonas", "Equilibrio", "Navegación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-8",
+          "question": "¿Qué es la especiación alopátrica?",
+          "options": ["Especiación rápida", "Especiación por aislamiento geográfico", "Especiación por hibridación", "Especiación artificial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-9",
+          "question": "¿Cuál es la diferencia entre homeostasis y alostasis?",
+          "options": ["No hay diferencia", "Homeostasis mantiene equilibrio, alostasis adapta el punto de equilibrio", "Solo la duración", "Solo en mamíferos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-10",
+          "question": "¿Qué es la epigenética?",
+          "options": ["Estudio de genes", "Herencia de caracteres sin cambio de ADN", "Mutaciones genéticas", "Evolución rápida"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-11",
+          "question": "¿Cuál es el mecanismo detrás de la bioluminiscencia?",
+          "options": ["Reflexión de luz", "Reacción química con luciferina", "Fosforescencia", "Fluorescencia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-12",
+          "question": "¿Qué es el efecto Allee en ecología?",
+          "options": ["Sobrepoblación", "Menor fitness en poblaciones pequeñas", "Migración masiva", "Extinción rápida"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-13",
+          "question": "¿Cuál es la diferencia entre r-estrategas y K-estrategas?",
+          "options": ["No hay diferencia", "r: reproducción rápida, K: cuidado parental intensivo", "Solo el tamaño", "Solo el hábitat"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-14",
+          "question": "¿Qué es la transferencia horizontal de genes?",
+          "options": ["Herencia normal", "Intercambio de genes entre especies diferentes", "Mutación", "Recombinación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-15",
+          "question": "¿Cuál es el concepto de 'fitness inclusivo' en biología evolutiva?",
+          "options": ["Aptitud física", "Éxito reproductivo incluyendo parientes", "Supervivencia individual", "Dominancia social"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
