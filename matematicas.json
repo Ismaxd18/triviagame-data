@@ -1,0 +1,381 @@
+{
+  "category": "matematicas",
+  "name": "Matemáticas",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "mat1-1",
+          "question": "¿Cuánto es 7 × 8?",
+          "options": ["54", "56", "48", "64"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-2",
+          "question": "¿Cuál es el resultado de 15 + 27?",
+          "options": ["42", "41", "43", "40"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-3",
+          "question": "¿Cuántos grados tiene un triángulo en total?",
+          "options": ["90°", "180°", "360°", "270°"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-4",
+          "question": "¿Cuál es el valor de π (pi) aproximadamente?",
+          "options": ["3.14", "2.71", "1.41", "4.16"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-5",
+          "question": "¿Cuánto es 100 ÷ 4?",
+          "options": ["20", "25", "30", "15"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-6",
+          "question": "¿Cómo se llama un polígono de 8 lados?",
+          "options": ["Hexágono", "Heptágono", "Octágono", "Nonágono"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-7",
+          "question": "¿Cuál es la raíz cuadrada de 64?",
+          "options": ["6", "7", "8", "9"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-8",
+          "question": "¿Cuánto es 25% de 200?",
+          "options": ["25", "50", "75", "100"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-9",
+          "question": "¿Qué número es primo?",
+          "options": ["9", "15", "17", "21"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-10",
+          "question": "¿Cuántos minutos hay en 2 horas?",
+          "options": ["100", "110", "120", "130"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-11",
+          "question": "¿Cuál es el área de un cuadrado de lado 5?",
+          "options": ["20", "25", "30", "15"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-12",
+          "question": "¿Cuánto es 2³ (2 elevado a la 3)?",
+          "options": ["6", "8", "9", "12"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-13",
+          "question": "¿Cómo se llama la línea que va del centro de un círculo a su borde?",
+          "options": ["Diámetro", "Radio", "Cuerda", "Tangente"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-14",
+          "question": "¿Cuánto es 0.5 + 0.3?",
+          "options": ["0.7", "0.8", "0.9", "1.0"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-15",
+          "question": "¿Cuál es el siguiente número en la secuencia: 2, 4, 6, 8, ...?",
+          "options": ["9", "10", "11", "12"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "mat2-1",
+          "question": "¿Cuál es la fórmula del teorema de Pitágoras?",
+          "options": ["a + b = c", "a² + b² = c²", "a × b = c", "a² - b² = c²"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-2",
+          "question": "¿Cuánto es log₁₀(100)?",
+          "options": ["1", "2", "10", "100"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-3",
+          "question": "¿Cuál es la derivada de x²?",
+          "options": ["x", "2x", "x²", "2x²"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-4",
+          "question": "¿Cómo se llama una función que es su propia inversa?",
+          "options": ["Biyectiva", "Involutiva", "Inyectiva", "Sobreyectiva"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-5",
+          "question": "¿Cuál es el volumen de una esfera de radio r?",
+          "options": ["4πr²", "4/3πr³", "πr²", "2πr³"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-6",
+          "question": "¿Qué tipo de número es √2?",
+          "options": ["Racional", "Irracional", "Entero", "Natural"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-7",
+          "question": "¿Cuál es la suma de los ángulos internos de un pentágono?",
+          "options": ["540°", "720°", "900°", "1080°"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-8",
+          "question": "¿Qué es una matriz identidad?",
+          "options": ["Una matriz de ceros", "Una matriz con unos en la diagonal principal", "Una matriz cuadrada", "Una matriz simétrica"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-9",
+          "question": "¿Cuál es la fórmula de la ecuación cuadrática?",
+          "options": ["ax + b = 0", "ax² + bx + c = 0", "ax³ + bx² + c = 0", "ax + by = c"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-10",
+          "question": "¿Cuánto es sen(90°)?",
+          "options": ["0", "1", "1/2", "√3/2"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-11",
+          "question": "¿Qué es un número complejo?",
+          "options": ["Un número muy grande", "Un número de la forma a + bi", "Un número decimal", "Un número negativo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-12",
+          "question": "¿Cuál es la integral de 2x?",
+          "options": ["x²", "x² + C", "2", "2x + C"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-13",
+          "question": "¿Qué es una permutación?",
+          "options": ["Una combinación", "Un arreglo ordenado de elementos", "Una suma", "Una multiplicación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-14",
+          "question": "¿Cuál es el límite de (1 + 1/n)ⁿ cuando n tiende a infinito?",
+          "options": ["1", "e", "π", "∞"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-15",
+          "question": "¿Qué significa que dos rectas sean perpendiculares?",
+          "options": ["Son paralelas", "Se intersectan en 90°", "No se intersectan", "Son la misma recta"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "mat3-1",
+          "question": "¿Qué afirma la hipótesis de Riemann?",
+          "options": ["Sobre números primos", "Sobre la distribución de ceros de la función zeta", "Sobre geometría", "Sobre álgebra"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-2",
+          "question": "¿Cuál es el teorema de Fermat que tardó más de 350 años en demostrarse?",
+          "options": ["Último teorema de Fermat", "Pequeño teorema de Fermat", "Teorema de Fermat-Euler", "Lema de Fermat"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-3",
+          "question": "¿Qué es un espacio vectorial?",
+          "options": ["Un conjunto de vectores", "Una estructura algebraica con operaciones definidas", "Un espacio geométrico", "Una función matemática"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-4",
+          "question": "¿Cuál es la cardinalidad del conjunto de números reales?",
+          "options": ["ℵ₀ (alef cero)", "ℵ₁ (alef uno)", "c (continuo)", "Finita"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-5",
+          "question": "¿Qué estudia la topología?",
+          "options": ["Números", "Propiedades que se preservan bajo deformaciones continuas", "Ecuaciones", "Gráficas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-6",
+          "question": "¿Qué es un grupo abeliano?",
+          "options": ["Un grupo con operación conmutativa", "Un grupo infinito", "Un grupo de matrices", "Un grupo finito"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-7",
+          "question": "¿Cuál es la conjetura de Goldbach?",
+          "options": ["Todo número par mayor que 2 es suma de dos primos", "Los números primos son infinitos", "Existe una fórmula para números primos", "π es trascendente"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-8",
+          "question": "¿Qué es una variedad diferenciable?",
+          "options": ["Una función", "Un espacio topológico localmente euclidiano", "Una ecuación", "Un número"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-9",
+          "question": "¿Cuál es el teorema de incompletitud de Gödel?",
+          "options": ["Todo es demostrable", "Hay verdades indemostrables en sistemas formales", "Las matemáticas son completas", "Todo es falso"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-10",
+          "question": "¿Qué es la transformada de Fourier?",
+          "options": ["Una ecuación", "Una operación que descompone funciones en frecuencias", "Un teorema", "Una función especial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-11",
+          "question": "¿Cuál es la dimensión fractal del conjunto de Cantor?",
+          "options": ["0", "1", "log(2)/log(3)", "2"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-12",
+          "question": "¿Qué es un anillo en álgebra abstracta?",
+          "options": ["Una figura geométrica", "Una estructura con suma y multiplicación", "Un conjunto de números", "Una función"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-13",
+          "question": "¿Cuál es la relación de Euler para poliedros?",
+          "options": ["V + E = F", "V - E + F = 2", "V × E = F", "V² + E² = F²"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-14",
+          "question": "¿Qué es la función gamma Γ(n)?",
+          "options": ["Una extensión del factorial", "Una función trigonométrica", "Una función exponencial", "Una función logarítmica"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-15",
+          "question": "¿Cuál es la conjetura de Collatz (3n+1)?",
+          "options": ["Sobre números pares", "Toda secuencia eventualmente llega a 1", "Sobre números primos", "Sobre raíces cuadradas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
