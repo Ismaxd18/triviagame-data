@@ -1,0 +1,381 @@
+{
+  "category": "anime",
+  "name": "Anime y Manga",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "ani1-1",
+          "question": "¿Quién es el protagonista de Dragon Ball?",
+          "options": ["Vegeta", "Piccolo", "Goku", "Gohan"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-2",
+          "question": "¿Cuál es el sueño de Monkey D. Luffy en One Piece?",
+          "options": ["Ser el ninja más fuerte", "Convertirse en el Rey Pirata", "Ser un chef famoso", "Encontrar el tesoro perdido"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-3",
+          "question": "¿Cómo se llama el protagonista de Naruto?",
+          "options": ["Sasuke Uchiha", "Naruto Uzumaki", "Kakashi Hatake", "Sakura Haruno"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-4",
+          "question": "¿Qué tipo de criatura es Pikachu en Pokémon?",
+          "options": ["Un ratón eléctrico", "Un gato", "Un perro", "Un conejo"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-5",
+          "question": "¿En qué anime aparece el personaje Sailor Moon?",
+          "options": ["Sailor Moon", "Card Captor Sakura", "Magical Girl Lyrical Nanoha", "Pretty Cure"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-6",
+          "question": "¿Cuál es el nombre del Death Note en el anime del mismo nombre?",
+          "options": ["Cuaderno de la Muerte", "Death Note", "Libro Negro", "Nota Fatal"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-7",
+          "question": "¿Quién es el creador del manga Dragon Ball?",
+          "options": ["Eiichiro Oda", "Masashi Kishimoto", "Akira Toriyama", "Tite Kubo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-8",
+          "question": "¿Cómo se llama el titán principal en Attack on Titan?",
+          "options": ["Titán Acorazado", "Titán Colosal", "Titán de Ataque", "Titán Bestia"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-9",
+          "question": "¿Cuál es el nombre del protagonista de My Hero Academia?",
+          "options": ["Katsuki Bakugo", "Shoto Todoroki", "Izuku Midoriya", "Tenya Iida"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-10",
+          "question": "¿En qué anime aparecen los Cazadores de Demonios?",
+          "options": ["Demon Slayer", "Blue Exorcist", "D.Gray-man", "Soul Eater"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-11",
+          "question": "¿Cuál es el poder especial de Saitama en One Punch Man?",
+          "options": ["Super velocidad", "Derrotar a cualquier enemigo de un golpe", "Volar", "Teletransportarse"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-12",
+          "question": "¿Cómo se llama el gato robot en Doraemon?",
+          "options": ["Doraemon", "Nobita", "Shizuka", "Gian"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-13",
+          "question": "¿En qué anime aparece el personaje Edward Elric?",
+          "options": ["Fullmetal Alchemist", "Soul Eater", "Fairy Tail", "Bleach"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-14",
+          "question": "¿Cuál es el nombre del estudiante que encuentra el Death Note?",
+          "options": ["L", "Light Yagami", "Ryuk", "Misa Amane"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ani1-15",
+          "question": "¿Qué significa 'otaku' en la cultura japonesa?",
+          "options": ["Fan del anime", "Samurai", "Ninja", "Estudiante"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "ani2-1",
+          "question": "¿Cuál es el estudio de animación que creó Spirited Away?",
+          "options": ["Toei Animation", "Studio Ghibli", "Madhouse", "Studio Pierrot"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-2",
+          "question": "¿Qué significa 'shounen' en géneros de manga?",
+          "options": ["Para niñas", "Para chicos jóvenes", "Para adultos", "Para niños"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-3",
+          "question": "¿Quién dirigió la película 'Akira' (1988)?",
+          "options": ["Hayao Miyazaki", "Katsuhiro Otomo", "Mamoru Oshii", "Satoshi Kon"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-4",
+          "question": "¿Cuál es la diferencia entre 'anime' y 'manga'?",
+          "options": ["No hay diferencia", "Anime es animado, manga es cómic", "Solo el origen", "Solo la popularidad"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-5",
+          "question": "¿Qué es un 'tsundere' en términos de personalidad de personajes?",
+          "options": ["Tímido", "Hostil que se vuelve cariñoso", "Siempre feliz", "Muy serio"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-6",
+          "question": "¿Cuál es el nombre del festival cultural escolar típico en anime?",
+          "options": ["Hanami", "Bunka-sai", "Matsuri", "Tanabata"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-7",
+          "question": "¿Qué estudio animó 'Attack on Titan' en sus primeras temporadas?",
+          "options": ["Studio Ghibli", "Madhouse", "WIT Studio", "MAPPA"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-8",
+          "question": "¿Cuál es el nombre del mangaka de One Piece?",
+          "options": ["Akira Toriyama", "Eiichiro Oda", "Masashi Kishimoto", "Hajime Isayama"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-9",
+          "question": "¿Qué es un 'mecha' en anime?",
+          "options": ["Monstruo", "Robot gigante", "Arma especial", "Nave espacial"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-10",
+          "question": "¿Cuál es el nombre de la técnica especial de Goku?",
+          "options": ["Rasengan", "Kamehameha", "Chidori", "Bankai"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-11",
+          "question": "¿Qué significa 'seinen' en géneros de manga?",
+          "options": ["Para hombres adultos", "Para mujeres", "Para niños", "Para adolescentes"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-12",
+          "question": "¿Cuál es el nombre del anime donde aparece el Coronel Roy Mustang?",
+          "options": ["Bleach", "Fullmetal Alchemist", "Soul Eater", "Fire Force"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-13",
+          "question": "¿Qué es un 'OVA' en términos de anime?",
+          "options": ["Original Video Animation", "Official Visual Art", "Only Voice Acting", "Otaku Visual Arts"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-14",
+          "question": "¿Cuál es el nombre del Shinigami en Death Note?",
+          "options": ["Light", "L", "Ryuk", "Rem"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ani2-15",
+          "question": "¿En qué año se estrenó el primer episodio de Dragon Ball Z?",
+          "options": ["1988", "1989", "1990", "1991"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "ani3-1",
+          "question": "¿Cuál es la diferencia entre 'sakuga' y animación regular?",
+          "options": ["No hay diferencia", "Sakuga es animación de alta calidad con mucho detalle", "Sakuga es más barata", "Solo el estudio"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-2",
+          "question": "¿Qué director es conocido por 'Perfect Blue' y 'Paprika'?",
+          "options": ["Hayao Miyazaki", "Satoshi Kon", "Mamoru Oshii", "Hideaki Anno"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-3",
+          "question": "¿Cuál es el concepto de 'mono no aware' en anime y cultura japonesa?",
+          "options": ["Tristeza", "Belleza efímera de las cosas", "Alegría", "Nostalgia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-4",
+          "question": "¿Qué significa 'doujinshi' en la cultura manga?",
+          "options": ["Manga oficial", "Manga autopublicado por fans", "Manga digital", "Manga en color"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-5",
+          "question": "¿Cuál es la técnica de animación 'limited animation' que caracteriza al anime?",
+          "options": ["Animación fluida", "Usar menos frames para reducir costos", "Animación 3D", "Animación sin color"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-6",
+          "question": "¿Qué es el 'Comiket' en Japón?",
+          "options": ["Festival de anime", "Convención de doujinshi más grande del mundo", "Estudio de animación", "Revista de manga"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-7",
+          "question": "¿Cuál es la diferencia entre 'cel animation' y animación digital?",
+          "options": ["No hay diferencia", "Cel usa acetatos físicos, digital es computarizada", "Solo el costo", "Solo la calidad"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-8",
+          "question": "¿Qué es el 'moe' en cultura otaku?",
+          "options": ["Tipo de robot", "Atracción hacia personajes tiernos/adorables", "Género musical", "Estilo de arte"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-9",
+          "question": "¿Cuál es el concepto de 'ma' (間) en narrativa japonesa?",
+          "options": ["Velocidad", "Uso deliberado del silencio y pausa", "Diálogo", "Acción"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-10",
+          "question": "¿Qué significa 'seiyuu' en la industria del anime?",
+          "options": ["Director", "Actor de voz", "Animador", "Guionista"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-11",
+          "question": "¿Cuál es la técnica de 'multiplane camera' que influyó en el anime?",
+          "options": ["Cámara múltiple", "Crear profundidad con capas separadas", "Cámara rápida", "Cámara digital"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-12",
+          "question": "¿Qué es 'otaku no video' y su importancia cultural?",
+          "options": ["Primer anime", "Documental/parodia sobre cultura otaku por Gainax", "Revista otaku", "Estudio de animación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-13",
+          "question": "¿Cuál es el concepto de 'wabi-sabi' en estética anime?",
+          "options": ["Perfección", "Belleza en lo imperfecto e impermanente", "Simetría", "Colores brillantes"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-14",
+          "question": "¿Qué es el sistema de 'inbetweening' en animación tradicional?",
+          "options": ["Crear frames intermedios entre keyframes", "Colorear", "Añadir sonido", "Editar"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ani3-15",
+          "question": "¿Cuál es la importancia del 'Animage' en la industria del anime?",
+          "options": ["Primer anime", "Revista especializada que promovió la cultura anime", "Estudio de animación", "Técnica de animación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
