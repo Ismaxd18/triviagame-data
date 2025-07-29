@@ -1,0 +1,381 @@
+{
+  "category": "capciosas",
+  "name": "Preguntas Capciosas",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "cap1-1",
+          "question": "¿Cuántos meses tienen 28 días?",
+          "options": ["1", "2", "11", "12"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-2",
+          "question": "Si un avión se estrella justo en la frontera entre México y Estados Unidos, ¿dónde entierran a los sobrevivientes?",
+          "options": ["En México", "En Estados Unidos", "En ambos países", "No se entierra a los sobrevivientes"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-3",
+          "question": "¿Qué pesa más: un kilo de plumas o un kilo de plomo?",
+          "options": ["Un kilo de plumas", "Un kilo de plomo", "Pesan lo mismo", "Depende del lugar"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-4",
+          "question": "¿Cuántos animales de cada especie metió Moisés en el arca?",
+          "options": ["2", "7", "1", "Ninguno, fue Noé"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-5",
+          "question": "Un padre y su hijo tienen un accidente. El padre muere y el hijo es llevado al hospital. El cirujano dice: 'No puedo operar, es mi hijo'. ¿Cómo es posible?",
+          "options": ["El cirujano es su madre", "Es adoptado", "Tiene dos padres", "Es un error"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-6",
+          "question": "¿Qué es lo que sube y baja pero nunca se mueve?",
+          "options": ["Un ascensor", "La temperatura", "Una escalera", "El agua"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-7",
+          "question": "¿Cuántas veces puedes restar 10 de 100?",
+          "options": ["10 veces", "Infinitas veces", "1 vez", "Depende"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-8",
+          "question": "¿Qué es lo que tiene cuatro patas pero no puede caminar?",
+          "options": ["Un perro herido", "Una mesa", "Un caballo de juguete", "Todas las anteriores"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-9",
+          "question": "Si hay 3 manzanas y tomas 2, ¿cuántas tienes?",
+          "options": ["1", "2", "3", "5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-10",
+          "question": "¿Qué viene después del jueves que empieza con V?",
+          "options": ["Viernes", "Víspera", "Verano", "Velocidad"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-11",
+          "question": "Un gallo pone un huevo en el techo. ¿Hacia qué lado rueda?",
+          "options": ["Hacia la derecha", "Hacia la izquierda", "No rueda", "Los gallos no ponen huevos"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-12",
+          "question": "¿Qué palabra se vuelve más corta cuando le agregas dos letras?",
+          "options": ["Corta", "Carta", "Costa", "Cesta"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-13",
+          "question": "¿Cuántos cumpleaños tiene una persona promedio?",
+          "options": ["Depende de la edad", "75", "1", "Uno cada año"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-14",
+          "question": "¿Qué es lo que mientras más le quitas, más grande se hace?",
+          "options": ["La deuda", "Un agujero", "El hambre", "El tiempo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-15",
+          "question": "¿Puede un hombre casarse con la hermana de su viuda?",
+          "options": ["Sí, si no hay impedimentos", "No, está prohibido", "Depende del país", "No, porque está muerto"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "cap2-1",
+          "question": "Un tren eléctrico viaja hacia el norte. ¿Hacia dónde va el humo?",
+          "options": ["Hacia el sur", "Hacia el norte", "Los trenes eléctricos no producen humo", "Depende del viento"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-2",
+          "question": "¿Qué es lo que se rompe sin tocarlo?",
+          "options": ["El cristal", "Una promesa", "El hielo", "El silencio"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-3",
+          "question": "Un arqueólogo afirma haber encontrado monedas del año 46 a.C. ¿Por qué es imposible?",
+          "options": ["No existía el dinero", "No había arqueólogos", "No sabían el año antes de Cristo", "Es muy antigua"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-4",
+          "question": "¿Cuál es la siguiente letra en la secuencia: O, D, T, C, C, S, S...?",
+          "options": ["O", "N", "H", "E"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-5",
+          "question": "Una mujer da a luz gemelos, pero nacen en años diferentes. ¿Cómo es posible?",
+          "options": ["Error médico", "Uno nace antes de medianoche del 31 de diciembre", "Embarazo múltiple", "Es imposible"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-6",
+          "question": "¿Qué tiene llaves pero no puede abrir puertas?",
+          "options": ["Un llavero roto", "Un piano", "Un mapa", "Una cerradura"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-7",
+          "question": "En una carrera, adelantas al que va en segundo lugar. ¿En qué posición quedas?",
+          "options": ["Primero", "Segundo", "Tercero", "Depende de cuántos participen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-8",
+          "question": "¿Qué puede viajar por todo el mundo quedándose en una esquina?",
+          "options": ["Una persona sentada", "Un mapa", "Una estampilla", "Una cámara"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-9",
+          "question": "Tienes una caja de fósforos y entras a una habitación fría con una vela, una lámpara de queroseno y una chimenea. ¿Qué enciendes primero?",
+          "options": ["La vela", "La lámpara", "La chimenea", "El fósforo"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-10",
+          "question": "¿Qué es lo que puedes mantener después de dárselo a alguien?",
+          "options": ["Un regalo", "Tu palabra", "Un secreto", "Un abrazo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-11",
+          "question": "Un hombre vive en el piso 20. Todos los días toma el ascensor hasta el 10° piso y sube caminando el resto, excepto cuando llueve. ¿Por qué?",
+          "options": ["Hace ejercicio", "Es muy alto para alcanzar el botón 20 sin paraguas", "Le gusta caminar", "El ascensor se descompone"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-12",
+          "question": "¿Qué comienza con T, termina con T y está lleno de T?",
+          "options": ["Tomate", "Tarta", "Tetera", "Turrón"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-13",
+          "question": "Un pastor tiene 17 ovejas. Se le mueren todas menos 9. ¿Cuántas le quedan?",
+          "options": ["8", "9", "17", "0"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-14",
+          "question": "¿Qué puedes hacer que nadie más puede hacer contigo?",
+          "options": ["Respirar", "Pensar", "Ser tú mismo", "Dormir"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-15",
+          "question": "Un hombre empuja su auto hasta un hotel y le dice al dueño que está en bancarrota. ¿Qué pasó?",
+          "options": ["Está jugando Monopoly", "Su auto se descompuso", "Es un hotel para autos", "Perdió una apuesta"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "cap3-1",
+          "question": "La paradoja del barbero: En un pueblo, el barbero afeita solo a quienes no se afeitan a sí mismos. ¿Quién afeita al barbero?",
+          "options": ["Él mismo", "Otro barbero", "Nadie", "Es una paradoja sin solución lógica"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-2",
+          "question": "Un prisionero debe elegir entre dos puertas. Una lleva a la libertad, otra a la muerte. Hay dos guardias: uno siempre miente, otro siempre dice la verdad. Puedes hacer una pregunta a uno. ¿Qué preguntas?",
+          "options": ["¿Cuál es la puerta correcta?", "¿Eres el que dice la verdad?", "¿Qué puerta diría el otro guardia que es la incorrecta?", "¿Qué hay detrás de esta puerta?"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-3",
+          "question": "El problema de Monty Hall: Hay 3 puertas, detrás de una hay un auto. Eliges una puerta. El presentador abre otra puerta (sin auto). ¿Debes cambiar tu elección?",
+          "options": ["Sí, aumenta las probabilidades", "No, las probabilidades son iguales", "No importa", "Depende de la intuición"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-4",
+          "question": "¿Cuál es la siguiente figura en la secuencia?: ○△□○△□○△...?",
+          "options": ["○", "△", "□", "◇"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-5",
+          "question": "Tienes 12 bolas idénticas, pero una pesa diferente. Con una balanza de platillos y solo 3 pesadas, ¿cómo encuentras la bola diferente?",
+          "options": ["Es imposible", "Dividiendo en grupos de 4", "Dividiendo en grupos de 6", "Pesando de una en una"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-6",
+          "question": "La paradoja del abuelo: Si viajas al pasado y matas a tu abuelo antes de que tenga hijos, ¿cómo puedes existir para hacer el viaje?",
+          "options": ["Creas una línea temporal paralela", "Es imposible matarlo", "Es una paradoja temporal", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-7",
+          "question": "Un hombre mira una foto y dice: 'No tengo hermanos ni hermanas, pero el padre de este hombre es hijo de mi padre'. ¿Quién está en la foto?",
+          "options": ["Su hijo", "Su padre", "Él mismo", "Su nieto"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-8",
+          "question": "¿Cuántos triángulos hay en la figura? (Imagina un triángulo grande dividido en 4 triángulos pequeños)",
+          "options": ["4", "8", "13", "16"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-9",
+          "question": "El problema del cumpleaños: ¿Cuántas personas necesitas en una habitación para que haya 50% de probabilidad de que dos compartan cumpleaños?",
+          "options": ["183", "23", "50", "365"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-10",
+          "question": "Esta afirmación es falsa. ¿Es verdadera o falsa?",
+          "options": ["Verdadera", "Falsa", "Es una paradoja", "Depende del contexto"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-11",
+          "question": "Un tren sale de Ciudad A hacia B a 60 km/h. Otro sale de B hacia A a 90 km/h. ¿Cuál está más cerca de A cuando se encuentran?",
+          "options": ["El de 60 km/h", "El de 90 km/h", "Están a la misma distancia", "Depende de la distancia inicial"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-12",
+          "question": "¿Qué viene después en la secuencia?: 1, 11, 21, 1211, 111221, 312211, ...?",
+          "options": ["13112221", "1113213211", "13211311", "31131211"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-13",
+          "question": "El dilema del prisionero: Dos prisioneros pueden cooperar o traicionarse. Si cooperan ambos, castigo leve. Si uno traiciona, él libre, el otro castigo máximo. Si ambos traicionan, castigo medio. ¿Qué es racional hacer?",
+          "options": ["Cooperar siempre", "Traicionar siempre", "Depende del otro", "Es un dilema sin solución única"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-14",
+          "question": "¿Cuántos cubos pequeños forman un cubo de 3×3×3 si puedes ver todas las caras?",
+          "options": ["27", "26", "19", "8"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-15",
+          "question": "La paradoja de Aquiles y la tortuga: Aquiles corre 10 veces más rápido que una tortuga que tiene 100m de ventaja. ¿Por qué según Zenón nunca la alcanza?",
+          "options": ["Porque es más lenta", "Por la división infinita del espacio", "Es un error matemático", "Aquiles no corre lo suficiente"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
