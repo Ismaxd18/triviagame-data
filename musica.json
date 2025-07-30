@@ -124,6 +124,46 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "mus1-16",
+          "question": "¿Qué país es famoso por crear el reggaeton?",
+          "options": ["México", "Colombia", "Puerto Rico", "República Dominicana"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-17",
+          "question": "¿Cuántas líneas tiene un pentagrama?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-18",
+          "question": "¿Qué instrumento tocaba Beethoven principalmente?",
+          "options": ["Violín", "Piano", "Órgano", "Cello"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-19",
+          "question": "¿De qué país es originario el flamenco?",
+          "options": ["Portugal", "España", "Italia", "Francia"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mus1-20",
+          "question": "¿Qué significa 'piano' en términos musicales?",
+          "options": ["Rápido", "Lento", "Suave", "Fuerte"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -249,6 +289,86 @@
           "answer": 2,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "mus2-16",
+          "question": "¿Qué género musical popularizó Astor Piazzolla?",
+          "options": ["Tango tradicional", "Nuevo tango", "Milonga", "Vals criollo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-17",
+          "question": "¿Cuál es la diferencia principal entre mayor y menor en una escala?",
+          "options": ["El número de notas", "La distancia del tercer grado", "La velocidad", "El volumen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-18",
+          "question": "¿Qué instrumento inventó Adolphe Sax?",
+          "options": ["Trompeta", "Clarinete", "Saxofón", "Oboe"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-19",
+          "question": "¿En qué década surgió el hip hop?",
+          "options": ["1960s", "1970s", "1980s", "1990s"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-20",
+          "question": "¿Qué compositor escribió 'El Bolero'?",
+          "options": ["Debussy", "Ravel", "Satie", "Fauré"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-21",
+          "question": "¿Cuál es la familia de instrumentos del violín?",
+          "options": ["Viento", "Percusión", "Cuerda frotada", "Cuerda pulsada"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-22",
+          "question": "¿Qué significa 'BPM' en música?",
+          "options": ["Beats Por Minuto", "Bass Por Medida", "Balance Por Melodía", "Bajo Por Música"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-23",
+          "question": "¿Quién compuso la banda sonora de 'La Guerra de las Galaxias'?",
+          "options": ["Hans Zimmer", "John Williams", "Danny Elfman", "Ennio Morricone"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-24",
+          "question": "¿Qué es un acorde triada?",
+          "options": ["Tres instrumentos", "Tres notas superpuestas en terceras", "Tres compases", "Tres voces"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mus2-25",
+          "question": "¿En qué país se originó la bossa nova?",
+          "options": ["Argentina", "Brasil", "Colombia", "Cuba"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
@@ -371,6 +491,126 @@
           "id": "mus3-15",
           "question": "¿Cuál es la diferencia entre homofonía y polifonía?",
           "options": ["No hay diferencia", "Homofonía: una melodía principal, Polifonía: múltiples melodías independientes", "Homofonía es más moderna", "Polifonía solo usa piano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-16",
+          "question": "¿Qué es la modulación enarmónica?",
+          "options": ["Cambio de instrumento", "Cambio de tonalidad usando equivalencias enarmónicas", "Solo cambio de octava", "Técnica de afinación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-17",
+          "question": "¿Cuál es la función del acorde de sexta aumentada francesa?",
+          "options": ["Tónica", "Dominante de la dominante", "Subdominante", "Sensible"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-18",
+          "question": "¿Qué es el 'Sprechgesang' de Schoenberg?",
+          "options": ["Canto tradicional", "Técnica entre hablar y cantar", "Solo instrumental", "Ópera completa"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-19",
+          "question": "¿Cuál es la diferencia entre modalidad y tonalidad?",
+          "options": ["No hay diferencia", "Modal usa escalas antiguas, tonal sistema mayor/menor", "Modal es más moderno", "Solo cambia el nombre"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-20",
+          "question": "¿Qué compositor escribió 'Pierrot Lunaire'?",
+          "options": ["Berg", "Webern", "Schoenberg", "Boulez"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-21",
+          "question": "¿Qué es la técnica del 'cluster' en piano?",
+          "options": ["Tocar muy rápido", "Tocar muchas teclas adyacentes simultáneamente", "Solo usar pedales", "Técnica de afinación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-22",
+          "question": "¿Cuál es la diferencia entre serialismo integral y dodecafonismo?",
+          "options": ["No hay diferencia", "Integral serializa todos los parámetros, dodecafónico solo alturas", "Solo el nombre", "Solo la época"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-23",
+          "question": "¿Qué es un 'ostinato' en música?",
+          "options": ["Silencio largo", "Patrón rítmico o melódico repetitivo", "Solo final", "Técnica vocal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-24",
+          "question": "¿Cuál es la función del acorde de séptima disminuida?",
+          "options": ["Solo decorativa", "Acorde pivote para modular", "Solo en jazz", "No tiene función específica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-25",
+          "question": "¿Qué es la técnica del 'prepared piano' de John Cage?",
+          "options": ["Piano muy afinado", "Objetos insertados entre las cuerdas", "Piano eléctrico", "Solo usar pedales"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-26",
+          "question": "¿Cuál es la diferencia entre contratiempo y síncopa?",
+          "options": ["No hay diferencia", "Contratiempo: acento en tiempo débil, Síncopa: prolonga nota débil", "Solo el nombre", "Solo en jazz"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-27",
+          "question": "¿Qué es la 'música espectral'?",
+          "options": ["Música de fantasmas", "Composición basada en análisis de espectros sonoros", "Solo electrónica", "Técnica de afinación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-28",
+          "question": "¿Cuál es la función de la 'nota pedal' en armonía?",
+          "options": ["Solo decorativa", "Nota sostenida mientras cambia la armonía", "Solo en órgano", "Técnica de piano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-29",
+          "question": "¿Qué compositor desarrolló la técnica de 'música aleatoria'?",
+          "options": ["Stockhausen", "John Cage", "Boulez", "Xenakis"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mus3-30",
+          "question": "¿Cuál es la diferencia entre quartal y tertial harmony?",
+          "options": ["No hay diferencia", "Quartal usa cuartas, tertial usa terceras como base", "Solo el nombre", "Solo en jazz"],
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
