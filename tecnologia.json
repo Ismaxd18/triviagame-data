@@ -1,4 +1,3 @@
-
 {
   "category": "tecnologia",
   "name": "Tecnología",
@@ -130,6 +129,46 @@
           "answer": 2,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "tech1-16",
+          "question": "¿Qué empresa creó la Xbox?",
+          "options": ["Sony", "Nintendo", "Microsoft", "Sega"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-17",
+          "question": "¿Cuál es el formato de imagen más común en internet?",
+          "options": ["PNG", "JPEG", "GIF", "BMP"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-18",
+          "question": "¿Qué significa 'RAM' en computación?",
+          "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Real Access Memory"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-19",
+          "question": "¿Cuál es la extensión de archivo para documentos de Word?",
+          "options": [".txt", ".pdf", ".docx", ".xlsx"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "tech1-20",
+          "question": "¿Qué empresa desarrolló el juego Minecraft?",
+          "options": ["Microsoft", "Mojang", "Electronic Arts", "Activision"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -254,6 +293,86 @@
           "id": "tech2-15",
           "question": "¿Qué significa 'VR' en tecnología?",
           "options": ["Video Reality", "Virtual Reality", "Visual Reality", "Variable Reality"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-16",
+          "question": "¿Quién fundó PayPal junto con otros socios?",
+          "options": ["Jeff Bezos", "Elon Musk", "Mark Zuckerberg", "Larry Page"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-17",
+          "question": "¿Cuál es la resolución de una pantalla 4K?",
+          "options": ["1920x1080", "2560x1440", "3840x2160", "7680x4320"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-18",
+          "question": "¿Qué empresa creó el lenguaje de programación Java?",
+          "options": ["Microsoft", "Oracle", "Sun Microsystems", "IBM"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-19",
+          "question": "¿Cuál fue el primer procesador de Intel?",
+          "options": ["8008", "4004", "8080", "8086"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-20",
+          "question": "¿Qué significa 'SSD' en almacenamiento?",
+          "options": ["Solid State Drive", "Super Speed Drive", "Serial Storage Device", "System Storage Drive"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-21",
+          "question": "¿Quién inventó la World Wide Web?",
+          "options": ["Steve Jobs", "Bill Gates", "Tim Berners-Lee", "Vint Cerf"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-22",
+          "question": "¿Cuál es la empresa matriz de Instagram?",
+          "options": ["Google", "Twitter", "Meta", "Snapchat"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-23",
+          "question": "¿Qué tecnología permite los pagos sin contacto?",
+          "options": ["Bluetooth", "Wi-Fi", "NFC", "Infrarrojo"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-24",
+          "question": "¿Cuál es el sistema operativo móvil de Google?",
+          "options": ["iOS", "Windows Phone", "Android", "BlackBerry"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "tech2-25",
+          "question": "¿Qué empresa desarrolló el protocolo BitTorrent?",
+          "options": ["Microsoft", "BitTorrent Inc.", "Napster", "LimeWire"],
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
@@ -384,11 +503,131 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "tech3-16",
+          "question": "¿Qué significa 'API' en programación?",
+          "options": ["Application Programming Interface", "Advanced Programming Interface", "Automated Programming Interface", "Application Process Interface"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-17",
+          "question": "¿Cuál es la frecuencia base del procesador Apple M2?",
+          "options": ["2.4 GHz", "3.2 GHz", "3.5 GHz", "Variable"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-18",
+          "question": "¿Qué protocolo de red utiliza Ethereum?",
+          "options": ["Bitcoin Protocol", "Ethereum Protocol", "Proof of Stake", "EVM"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-19",
+          "question": "¿Cuál es la latencia típica de una red 5G?",
+          "options": ["50ms", "10ms", "1ms", "0.1ms"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-20",
+          "question": "¿Qué empresa desarrolló el lenguaje de programación C++?",
+          "options": ["Microsoft", "Bell Labs", "IBM", "Oracle"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-21",
+          "question": "¿Cuál es el ancho de banda máximo de PCIe 5.0 x16?",
+          "options": ["32 GB/s", "64 GB/s", "128 GB/s", "256 GB/s"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-22",
+          "question": "¿Qué significa 'ASIC' en minería de criptomonedas?",
+          "options": ["Application-Specific Integrated Circuit", "Advanced System Integration Chip", "Automated Secure Investment Circuit", "Application Standard Interface Circuit"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-23",
+          "question": "¿Cuál es la resolución nativa de las gafas Vision Pro de Apple?",
+          "options": ["4K por ojo", "8K por ojo", "2K por ojo", "16K por ojo"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-24",
+          "question": "¿Qué algoritmo de consenso utiliza Bitcoin?",
+          "options": ["Proof of Stake", "Proof of Work", "Delegated PoS", "Proof of Authority"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-25",
+          "question": "¿Cuál es la arquitectura de los procesadores Apple Silicon?",
+          "options": ["x86-64", "ARM64", "RISC-V", "PowerPC"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-26",
+          "question": "¿Qué empresa desarrolló el protocolo WebRTC?",
+          "options": ["Microsoft", "Apple", "Google", "Mozilla"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-27",
+          "question": "¿Cuál es la velocidad máxima teórica de Wi-Fi 7?",
+          "options": ["9.6 Gbps", "30 Gbps", "46 Gbps", "100 Gbps"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-28",
+          "question": "¿Qué significa 'RISC' en arquitectura de procesadores?",
+          "options": ["Reduced Instruction Set Computer", "Rapid Instruction Set Computer", "Real Instruction Set Computer", "Random Instruction Set Computer"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-29",
+          "question": "¿Cuál es el tamaño de transistor en los chips de 3nm?",
+          "options": ["3 nanómetros reales", "5-7 nanómetros", "1 nanómetro", "10 nanómetros"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "tech3-30",
+          "question": "¿Qué protocolo utiliza la tecnología Lightning Network?",
+          "options": ["Ethereum", "Bitcoin", "Litecoin", "Dogecoin"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ],
-  "total_questions": 45,
-  "created_date": "2025-01-25",
+  "total_questions": 75,
+  "created_date": "2025-01-30",
   "version": "1.0"
-    }
+}
