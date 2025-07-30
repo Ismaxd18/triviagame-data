@@ -124,6 +124,46 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "art1-16",
+          "question": "¿Quién pintó 'La Última Cena'?",
+          "options": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Botticelli"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-17",
+          "question": "¿Cuál es la técnica de escultura más antigua?",
+          "options": ["Fundición", "Talla", "Modelado", "Soldadura"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-18",
+          "question": "¿Qué instrumento tocaba Mozart principalmente?",
+          "options": ["Violín", "Piano", "Flauta", "Órgano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-19",
+          "question": "¿Cuál es la forma poética de 14 versos?",
+          "options": ["Soneto", "Romance", "Décima", "Octava"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "art1-20",
+          "question": "¿Qué color se obtiene mezclando rojo y azul?",
+          "options": ["Verde", "Naranja", "Morado", "Amarillo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -249,6 +289,86 @@
           "answer": 2,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "art2-16",
+          "question": "¿Cuál es la característica principal del Expresionismo Abstracto?",
+          "options": ["Figuración realista", "Expresión emocional a través de abstracción", "Uso de fotografías", "Arte político"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-17",
+          "question": "¿Quién escribió 'Ulises', considerada una de las obras maestras del siglo XX?",
+          "options": ["Virginia Woolf", "James Joyce", "Marcel Proust", "Franz Kafka"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-18",
+          "question": "¿Qué es el 'claroscuro' en pintura?",
+          "options": ["Técnica de color", "Contraste dramático entre luz y sombra", "Estilo de retrato", "Tipo de lienzo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-19",
+          "question": "¿Cuál es la diferencia entre ballet clásico y ballet neoclásico?",
+          "options": ["La música", "Neoclásico simplifica la técnica clásica", "Solo la época", "Los vestuarios"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-20",
+          "question": "¿Qué movimiento literario fundó André Breton?",
+          "options": ["Dadaísmo", "Surrealismo", "Existencialismo", "Futurismo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-21",
+          "question": "¿Cuál es la técnica principal del grabado en metal?",
+          "options": ["Serigrafía", "Litografía", "Aguafuerte", "Xilografía"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-22",
+          "question": "¿Qué compositor escribió 'Las Cuatro Estaciones'?",
+          "options": ["Bach", "Vivaldi", "Händel", "Telemann"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-23",
+          "question": "¿Cuál es la principal característica del Arte Pop?",
+          "options": ["Abstracción pura", "Uso de imágenes de la cultura popular", "Arte religioso", "Paisajismo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-24",
+          "question": "¿Qué es un 'fresco secco'?",
+          "options": ["Pintura sobre pared seca", "Técnica de escultura", "Tipo de cerámica", "Estilo arquitectónico"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "art2-25",
+          "question": "¿Quién es considerado el padre del cine moderno?",
+          "options": ["Alfred Hitchcock", "Orson Welles", "Jean-Luc Godard", "Akira Kurosawa"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
@@ -371,6 +491,126 @@
           "id": "art3-15",
           "question": "¿Cuál es la diferencia entre arte contextual y arte textual?",
           "options": ["No hay diferencia", "Contextual se relaciona con el entorno, textual usa texto como medio", "Solo el soporte", "Solo la época"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-16",
+          "question": "¿Qué es la 'mise en abyme' en teoría literaria y artística?",
+          "options": ["Técnica narrativa", "Estructura que se refleja a sí misma infinitamente", "Estilo pictórico", "Teoría musical"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-17",
+          "question": "¿Cuál es el concepto de 'simulacro' según Jean Baudrillard?",
+          "options": ["Copia perfecta", "Representación sin original", "Arte digital", "Imitación artística"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-18",
+          "question": "¿Qué es la 'intertextualidad' según Julia Kristeva?",
+          "options": ["Textos largos", "Relación dialógica entre textos", "Crítica textual", "Análisis gramatical"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-19",
+          "question": "¿Cuál es la diferencia entre arte procesual y arte temporal?",
+          "options": ["No hay diferencia", "Procesual enfoca el hacer, temporal la duración", "Solo los materiales", "Solo el lugar"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-20",
+          "question": "¿Qué es la 'heterotopía' según Michel Foucault?",
+          "options": ["Lugar normal", "Espacio que funciona con reglas diferentes", "Arquitectura moderna", "Espacio virtual"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-21",
+          "question": "¿Cuál es el concepto de 'rizoma' aplicado al arte según Deleuze y Guattari?",
+          "options": ["Estructura jerárquica", "Estructura no jerárquica, multiplicidad de conexiones", "Arte botánico", "Arte conceptual"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-22",
+          "question": "¿Qué es la 'arqueología del saber' de Foucault aplicada al arte?",
+          "options": ["Historia del arte", "Análisis de las condiciones de posibilidad del discurso artístico", "Arte prehistórico", "Técnicas antiguas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-23",
+          "question": "¿Cuál es la diferencia entre arte transgresivo y arte subversivo?",
+          "options": ["No hay diferencia", "Transgresivo rompe normas, subversivo las invierte", "Solo la intensidad", "Solo el contexto"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-24",
+          "question": "¿Qué es la 'espectacularización' según Guy Debord?",
+          "options": ["Teatro moderno", "Transformación de la experiencia en espectáculo", "Arte visual", "Performance art"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-25",
+          "question": "¿Cuál es el concepto de 'cronotopo' de Bajtín aplicado al arte?",
+          "options": ["Tiempo real", "Unidad espacio-temporal en la obra", "Cronología artística", "Arte temporal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-26",
+          "question": "¿Qué es la 'altermodernidad' según Nicolas Bourriaud?",
+          "options": ["Posmodernismo", "Modernidad global navegando entre culturas", "Arte alternativo", "Modernismo tardío"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-27",
+          "question": "¿Cuál es la diferencia entre arte político y arte politizado?",
+          "options": ["No hay diferencia", "Político es intencional, politizado es interpretado como tal", "Solo el mensaje", "Solo el contexto"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-28",
+          "question": "¿Qué es la 'biestética' según Mario Perniola?",
+          "options": ["Estética dual", "Estética que siente sin sentir", "Bio-arte", "Estética natural"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-29",
+          "question": "¿Cuál es el concepto de 'devenir' deleuziano en el arte?",
+          "options": ["Evolución artística", "Proceso de transformación constante", "Arte del futuro", "Desarrollo técnico"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "art3-30",
+          "question": "¿Qué es la 'estética posthumana' según Rosi Braidotti?",
+          "options": ["Arte del futuro", "Estética que supera el humanismo antropocéntrico", "Arte robótico", "Estética sin humanos"],
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
