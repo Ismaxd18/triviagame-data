@@ -1,4 +1,3 @@
-
 {
   "category": "gastronomia",
   "name": "Gastronomía",
@@ -123,6 +122,46 @@
           "question": "¿Cuál es la bebida nacional de Rusia?",
           "options": ["Cerveza", "Vodka", "Brandy", "Whisky"],
           "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-16",
+          "question": "¿Qué condimento se obtiene de las flores del azafrán?",
+          "options": ["Canela", "Azafrán", "Cardamomo", "Comino"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-17",
+          "question": "¿Cuál es el ingrediente principal del pan?",
+          "options": ["Arroz", "Maíz", "Harina", "Avena"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-18",
+          "question": "¿De qué país es originario el té?",
+          "options": ["India", "China", "Japón", "Sri Lanka"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-19",
+          "question": "¿Qué fruta se usa para hacer vino tradicionalmente?",
+          "options": ["Manzana", "Pera", "Uva", "Cereza"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "gas1-20",
+          "question": "¿Cuál es el chocolate más puro?",
+          "options": ["Chocolate blanco", "Chocolate con leche", "Chocolate negro", "Chocolate rosa"],
+          "answer": 2,
           "difficulty": "easy",
           "points": 2000
         }
@@ -250,6 +289,86 @@
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "gas2-16",
+          "question": "¿Cuál es la diferencia entre risotto y paella?",
+          "options": ["No hay diferencia", "Risotto es italiano con arroz cremoso, paella española más seca", "Solo los ingredientes", "Solo el país de origen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-17",
+          "question": "¿Qué tipo de masa se usa para hacer pasta fresca?",
+          "options": ["Harina y agua", "Harina, huevos y aceite", "Solo sémola", "Harina y leche"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-18",
+          "question": "¿Cuál es la técnica correcta para montar claras de huevo?",
+          "options": ["Batir muy rápido desde el inicio", "Empezar lento y acelerar gradualmente", "Solo batir en una dirección", "Agregar sal al inicio"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-19",
+          "question": "¿Qué es el punto de humo en aceites de cocina?",
+          "options": ["Cuando se evapora", "Temperatura donde empieza a descomponerse", "Cuando cambia de color", "Cuando hierve"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-20",
+          "question": "¿Cuál es la diferencia entre confitar y asar?",
+          "options": ["No hay diferencia", "Confitar usa aceite a baja temperatura, asar calor seco alto", "Solo el tiempo", "Solo el ingrediente"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-21",
+          "question": "¿Qué es la técnica de 'flambear'?",
+          "options": ["Cocinar a fuego alto", "Prender fuego al alcohol en el plato", "Usar especias picantes", "Quemar los bordes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-22",
+          "question": "¿Cuál es la función de la sal en la repostería?",
+          "options": ["Solo da sabor", "Realza sabores y fortalece estructura", "No tiene función", "Solo conserva"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-23",
+          "question": "¿Qué es el 'roux' en cocina francesa?",
+          "options": ["Un tipo de vino", "Mezcla de harina y grasa para espesar", "Una hierba", "Un corte de verduras"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-24",
+          "question": "¿Cuál es la diferencia entre caldo y consomé?",
+          "options": ["No hay diferencia", "Consomé es caldo clarificado y concentrado", "Solo la temperatura", "Solo los ingredientes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "gas2-25",
+          "question": "¿Qué corte de papa se usa para papas fritas francesas?",
+          "options": ["Daditos", "Bastones largos y gruesos", "Rodajas", "Chips"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
@@ -372,6 +491,126 @@
           "id": "gas3-15",
           "question": "¿Qué es la 'deconstrucción' en alta gastronomía?",
           "options": ["Romper platos", "Presentar un plato clásico con nuevas texturas y formas", "Cocinar sin utensilios", "Técnica de corte"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-16",
+          "question": "¿Qué temperatura se alcanza en la técnica de 'maltosa torching'?",
+          "options": ["100°C", "200°C", "500°C", "1000°C"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-17",
+          "question": "¿Cuál es la función del alginato de sodio en la esferificación?",
+          "options": ["Da color", "Forma gel en presencia de calcio", "Da sabor", "Conserva alimentos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-18",
+          "question": "¿Qué es la técnica de 'gelificación en caliente'?",
+          "options": ["Gelatina normal", "Gel que se mantiene estable a altas temperaturas", "Cocinar con gel", "Derretir gelatina"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-19",
+          "question": "¿Cuál es la concentración típica de agar-agar para gelificar?",
+          "options": ["0.1-0.3%", "0.8-1.2%", "3-5%", "10-15%"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-20",
+          "question": "¿Qué es la 'cocina nota a nota'?",
+          "options": ["Música mientras cocinas", "Cocinar con compuestos químicos puros", "Seguir recetas exactas", "Cocina molecular básica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-21",
+          "question": "¿Cuál es la diferencia entre esferificación básica y reversa?",
+          "options": ["No hay diferencia", "Básica: calcio afuera, Reversa: calcio adentro", "Solo el sabor", "Solo el tamaño"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-22",
+          "question": "¿Qué es el 'Texturas' de Ferran Adrià?",
+          "options": ["Un libro", "Kit de aditivos para gastronomía molecular", "Restaurante", "Técnica específica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-23",
+          "question": "¿Cuál es la función del cloruro de sodio en la esferificación reversa?",
+          "options": ["Da sabor", "Ayuda a la gelificación", "No tiene función específica", "Conserva el producto"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-24",
+          "question": "¿Qué es la 'transformación de texturas' en gastronomía molecular?",
+          "options": ["Cambiar colores", "Convertir líquidos en sólidos y viceversa", "Solo temperatura", "Solo presentación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-25",
+          "question": "¿Cuál es la vida útil típica de una esfera de alginato?",
+          "options": ["Minutos", "Horas", "Días", "Semanas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-26",
+          "question": "¿Qué es la 'cristalización controlada' en chocolate?",
+          "options": ["Romper chocolate", "Controlar la estructura cristalina para textura perfecta", "Solo temperatura", "Agregar cristales"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-27",
+          "question": "¿Cuál es la concentración ideal de lecitina para espumas?",
+          "options": ["0.1-0.3%", "1-2%", "5-10%", "15-20%"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-28",
+          "question": "¿Qué es la 'encapsulación' en gastronomía molecular?",
+          "options": ["Envolver comida", "Proteger sabores/aromas dentro de membranas comestibles", "Solo presentación", "Técnica de conservación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-29",
+          "question": "¿Cuál es el tiempo máximo recomendado para mantener esferas de alginato?",
+          "options": ["30 minutos", "2 horas", "24 horas", "1 semana"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "gas3-30",
+          "question": "¿Qué es la 'cocina de precisión'?",
+          "options": ["Cortes perfectos", "Control exacto de todas las variables de cocción", "Solo presentación", "Usar básculas"],
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
