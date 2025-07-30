@@ -124,6 +124,46 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "nat1-16",
+          "question": "¿Cuál es el animal marino más grande?",
+          "options": ["Tiburón blanco", "Ballena azul", "Calamar gigante", "Orca"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-17",
+          "question": "¿Qué gas producen las plantas durante la fotosíntesis?",
+          "options": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-18",
+          "question": "¿Cuál es el felino más grande del mundo?",
+          "options": ["León", "Leopardo", "Tigre", "Jaguar"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-19",
+          "question": "¿Qué tipo de animal es un delfín?",
+          "options": ["Pez", "Mamífero", "Reptil", "Anfibio"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nat1-20",
+          "question": "¿Cuántas cámaras tiene el estómago de una vaca?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -246,6 +286,86 @@
           "id": "nat2-15",
           "question": "¿Cuál es la principal causa de extinción de especies actualmente?",
           "options": ["Cambio climático", "Actividad humana", "Desastres naturales", "Enfermedades"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-16",
+          "question": "¿Qué es la simbiosis mutualista?",
+          "options": ["Competencia", "Relación beneficiosa para ambas especies", "Parasitismo", "Depredación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-17",
+          "question": "¿Cuál es la función principal de los manglares?",
+          "options": ["Decoración", "Protección costera y nursería marina", "Producción de madera", "Turismo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-18",
+          "question": "¿Qué animal tiene el cerebro más grande en proporción a su cuerpo?",
+          "options": ["Delfín", "Humano", "Hormiga", "Colibrí"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-19",
+          "question": "¿Cuál es la diferencia entre camuflaje y mimetismo?",
+          "options": ["No hay diferencia", "Camuflaje se mimetiza con entorno, mimetismo imita otra especie", "Solo el color", "Solo la forma"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-20",
+          "question": "¿Qué es la polinización cruzada?",
+          "options": ["Autopolinización", "Polen de una planta fertiliza otra", "Hibridación artificial", "Clonación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-21",
+          "question": "¿Cuál es el animal con mejor visión nocturna?",
+          "options": ["Gato", "Búho", "Murciélago", "Tarsero"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-22",
+          "question": "¿Qué es la migración vertical diaria en océanos?",
+          "options": ["Cambio de temperatura", "Movimiento de organismos hacia superficie de noche", "Corrientes marinas", "Mareas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-23",
+          "question": "¿Cuál es la función de las espinas en los cactus?",
+          "options": ["Fotosíntesis", "Reducir pérdida de agua y defensa", "Reproducción", "Almacenar agua"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-24",
+          "question": "¿Qué animal produce el sonido más fuerte del mundo?",
+          "options": ["León", "Ballena azul", "Mono aullador", "Elefante"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nat2-25",
+          "question": "¿Cuál es la diferencia entre un ecosistema y un bioma?",
+          "options": ["No hay diferencia", "Ecosistema es local, bioma es regional", "Solo el tamaño", "Solo el clima"],
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
@@ -374,8 +494,128 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "nat3-16",
+          "question": "¿Qué es la plasticidad fenotípica?",
+          "options": ["Flexibilidad física", "Capacidad de cambiar características según el ambiente", "Mutación genética", "Adaptación rápida"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-17",
+          "question": "¿Cuál es el concepto de 'cascada trófica'?",
+          "options": ["Cadena alimentaria", "Efectos indirectos entre niveles tróficos", "Migración de especies", "Competencia por recursos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-18",
+          "question": "¿Qué es la heterocromatina facultativa?",
+          "options": ["ADN siempre activo", "Cromatina que puede activarse o inactivarse", "ADN basura", "Cromosomas sexuales"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-19",
+          "question": "¿Cuál es la función de los telómeros?",
+          "options": ["Transporte celular", "Proteger extremos cromosómicos del envejecimiento", "Reproducción", "Metabolismo"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-20",
+          "question": "¿Qué es la deriva genética?",
+          "options": ["Mutación dirigida", "Cambio aleatorio en frecuencias alélicas", "Selección natural", "Hibridación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-21",
+          "question": "¿Cuál es el concepto de 'nicho ecológico multidimensional'?",
+          "options": ["Hábitat físico", "Conjunto completo de condiciones y recursos que usa una especie", "Territorio", "Cadena alimentaria"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-22",
+          "question": "¿Qué es la epistasis en genética?",
+          "options": ["Herencia simple", "Interacción entre genes diferentes", "Mutación puntual", "Recombinación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-23",
+          "question": "¿Cuál es la diferencia entre autotrofía y heterotrofía?",
+          "options": ["No hay diferencia", "Autótrofos producen su alimento, heterótrofos lo consumen", "Solo en plantas", "Solo en animales"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-24",
+          "question": "¿Qué es la coevolución?",
+          "options": ["Evolución rápida", "Evolución recíproca entre especies interactuantes", "Evolución paralela", "Evolución convergente"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-25",
+          "question": "¿Cuál es el concepto de 'selección sexual'?",
+          "options": ["Selección de pareja", "Selección basada en éxito reproductivo", "Selección natural", "Competencia territorial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-26",
+          "question": "¿Qué es la heterosis o vigor híbrido?",
+          "options": ["Debilidad genética", "Superioridad de híbridos sobre parentales", "Esterilidad", "Mutación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-27",
+          "question": "¿Cuál es la función de las células madre pluripotentes?",
+          "options": ["Solo reproducción", "Diferenciarse en múltiples tipos celulares", "Solo crecimiento", "Solo reparación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-28",
+          "question": "¿Qué es la biogeografía de islas?",
+          "options": ["Estudio de islas", "Teoría sobre colonización y extinción en hábitats aislados", "Geografía marina", "Evolución insular"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-29",
+          "question": "¿Cuál es el concepto de 'cuello de botella genético'?",
+          "options": ["Reproducción normal", "Reducción drástica de población y diversidad genética", "Hibridación", "Migración masiva"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nat3-30",
+          "question": "¿Qué es la regulación epigenética de la expresión génica?",
+          "options": ["Cambio de ADN", "Control de genes sin alterar secuencia de ADN", "Mutación", "Recombinación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ]
-        }
+}
