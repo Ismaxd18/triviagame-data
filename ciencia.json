@@ -1,9 +1,14 @@
 {
   "category": "ciencia",
   "name": "Ciencia",
+  "description": "Explora los misterios del universo, la vida y la materia",
+  "color": "#27ae60",
+  "icon": "🧬",
   "levels": [
     {
       "level": 1,
+      "difficulty": "easy",
+      "description": "Nivel básico - Conceptos científicos fundamentales",
       "questions": [
         {
           "id": "c1-1",
@@ -124,11 +129,53 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "c1-16",
+          "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+          "options": ["Hierro", "Aluminio", "Cobre", "Oro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-17",
+          "question": "¿Qué parte del ojo controla la cantidad de luz que entra?",
+          "options": ["Córnea", "Iris", "Retina", "Cristalino"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-18",
+          "question": "¿Cuál es el animal más rápido del mundo?",
+          "options": ["Guepardo", "Halcón peregrino", "Tiburón", "Caballo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-19",
+          "question": "¿Qué vitamina se produce cuando la piel se expone al sol?",
+          "options": ["Vitamina A", "Vitamina C", "Vitamina D", "Vitamina E"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "c1-20",
+          "question": "¿Cuántos pares de costillas tiene el ser humano?",
+          "options": ["10", "11", "12", "13"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
     {
       "level": 2,
+      "difficulty": "medium",
+      "description": "Nivel intermedio - Procesos científicos y teorías importantes",
       "questions": [
         {
           "id": "c2-1",
@@ -249,11 +296,93 @@
           "answer": 2,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "c2-16",
+          "question": "¿Qué tipo de radiación electromagnética tiene la longitud de onda más corta?",
+          "options": ["Rayos X", "Luz visible", "Rayos gamma", "Microondas"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-17",
+          "question": "¿Cuál es el pH de una solución neutra?",
+          "options": ["0", "7", "14", "1"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-18",
+          "question": "¿Qué proceso celular ocurre en los ribosomas?",
+          "options": ["Respiración", "Fotosíntesis", "Síntesis de proteínas", "Digestión"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-19",
+          "question": "¿Cuál es la densidad del agua pura a 4°C?",
+          "options": ["0.5 g/cm³", "1 g/cm³", "1.5 g/cm³", "2 g/cm³"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-20",
+          "question": "¿Qué científico propuso las leyes del movimiento planetario?",
+          "options": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Nicolás Copérnico"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-21",
+          "question": "¿Cuál es el elemento más electronegativo?",
+          "options": ["Oxígeno", "Flúor", "Cloro", "Nitrógeno"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-22",
+          "question": "¿Qué tipo de rock se forma por enfriamiento de magma?",
+          "options": ["Sedimentario", "Metamórfico", "Ígneos", "Volcánico"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-23",
+          "question": "¿Cuántos ventrínculos tiene el corazón humano?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-24",
+          "question": "¿Qué gas se libera durante la fotosíntesis?",
+          "options": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "c2-25",
+          "question": "¿Cuál es la unidad de medida de la resistencia eléctrica?",
+          "options": ["Voltio", "Amperio", "Ohmio", "Watt"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
     {
       "level": 3,
+      "difficulty": "hard",
+      "description": "Nivel avanzado - Conceptos científicos especializados y complejos",
       "questions": [
         {
           "id": "c3-1",
@@ -374,8 +503,131 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "c3-16",
+          "question": "¿Cuál es la constante de Boltzmann?",
+          "options": ["1.38 × 10^-23 J/K", "6.63 × 10^-34 J·s", "9.81 m/s²", "6.02 × 10^23 mol^-1"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-17",
+          "question": "¿Qué partícula subatómica fue descubierta en el CERN en 2012?",
+          "options": ["Quark top", "Neutrino", "Bosón de Higgs", "Gravitón"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-18",
+          "question": "¿Cuál es el número de Avogadro?",
+          "options": ["6.02 × 10^23", "3.14 × 10^8", "1.38 × 10^-23", "9.81 × 10^2"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-19",
+          "question": "¿Qué tipo de supernova resulta de la explosión de una enana blanca?",
+          "options": ["Tipo Ia", "Tipo Ib", "Tipo II", "Tipo III"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-20",
+          "question": "¿Cuál es la energía de ionización del hidrógeno?",
+          "options": ["13.6 eV", "10.4 eV", "15.8 eV", "12.1 eV"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-21",
+          "question": "¿Qué enzima corta el ADN en sitios específicos?",
+          "options": ["ADN polimerasa", "ARN polimerasa", "Endonucleasa de restricción", "Ligasa"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-22",
+          "question": "¿Cuál es la temperatura del cero absoluto en Celsius?",
+          "options": ["-273.15°C", "-273°C", "-270°C", "-275°C"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-23",
+          "question": "¿Qué tipo de enlace mantiene unidas las bases del ADN?",
+          "options": ["Enlace covalente", "Enlace iónico", "Puente de hidrógeno", "Fuerza de Van der Waals"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-24",
+          "question": "¿Cuál es la masa del electrón en reposo?",
+          "options": ["9.11 × 10^-31 kg", "1.67 × 10^-27 kg", "1.66 × 10^-27 kg", "9.11 × 10^-28 kg"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-25",
+          "question": "¿Qué proceso convierte el ARN mensajero en proteínas?",
+          "options": ["Transcripción", "Traducción", "Replicación", "Transducción"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-26",
+          "question": "¿Cuál es la constante de la velocidad de la luz en el vacío exactamente?",
+          "options": ["299,792,458 m/s", "300,000,000 m/s", "299,800,000 m/s", "298,000,000 m/s"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-27",
+          "question": "¿Qué tipo de cristal forma el carbono en el diamante?",
+          "options": ["Cúbico", "Hexagonal", "Tetraédrico", "Octaédrico"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-28",
+          "question": "¿Cuál es la vida media del carbono-14?",
+          "options": ["5,730 años", "5,000 años", "6,000 años", "5,500 años"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-29",
+          "question": "¿Qué principio establece que no pueden existir dos fermiones en el mismo estado cuántico?",
+          "options": ["Principio de incertidumbre", "Principio de exclusión de Pauli", "Principio de complementariedad", "Principio de correspondencia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "c3-30",
+          "question": "¿Cuál es la constante gravitacional universal G?",
+          "options": ["6.67 × 10^-11 N⋅m²/kg²", "9.81 m/s²", "3.00 × 10^8 m/s", "1.38 × 10^-23 J/K"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
-  ]
-    }
+  ],
+  "total_questions": 75,
+  "created_date": "2025-01-30",
+  "version": "1.0"
+}
