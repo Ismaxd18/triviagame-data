@@ -1,4 +1,3 @@
-
 {
   "category": "geografia",
   "name": "Geografía",
@@ -130,6 +129,46 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "geo1-16",
+          "question": "¿Cuál es la capital del Reino Unido?",
+          "options": ["Manchester", "Londres", "Liverpool", "Birmingham"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-17",
+          "question": "¿En qué país se encuentra la Gran Muralla China?",
+          "options": ["Japón", "China", "Corea del Sur", "Mongolia"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-18",
+          "question": "¿Cuál es la capital de Argentina?",
+          "options": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-19",
+          "question": "¿Qué continente es el más pequeño?",
+          "options": ["Europa", "Antártida", "Oceanía", "América del Norte"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-20",
+          "question": "¿En qué país se encuentra el Taj Mahal?",
+          "options": ["Pakistan", "India", "Bangladesh", "Nepal"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -255,6 +294,86 @@
           "question": "¿Qué río pasa por París?",
           "options": ["Loira", "Ródano", "Sena", "Garona"],
           "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-16",
+          "question": "¿Cuál es la capital de Noruega?",
+          "options": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-17",
+          "question": "¿En qué país se encuentra la región de Transilvania?",
+          "options": ["Hungría", "Rumania", "Bulgaria", "Serbia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-18",
+          "question": "¿Cuál es la moneda de Japón?",
+          "options": ["Won", "Yuan", "Yen", "Ringgit"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-19",
+          "question": "¿Qué país tiene frontera con 14 países diferentes?",
+          "options": ["Rusia", "China", "Brasil", "India"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-20",
+          "question": "¿En qué continente se encuentra Madagascar?",
+          "options": ["Asia", "África", "Oceanía", "América del Sur"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-21",
+          "question": "¿Cuál es la capital de Dinamarca?",
+          "options": ["Aarhus", "Copenhague", "Odense", "Aalborg"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-22",
+          "question": "¿Qué país está completamente rodeado por Sudáfrica?",
+          "options": ["Lesotho", "Suazilandia", "Botswana", "Namibia"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-23",
+          "question": "¿En qué país se encuentra la península de Yucatán?",
+          "options": ["Guatemala", "Belice", "México", "Honduras"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-24",
+          "question": "¿Cuál es la cascada más alta del mundo?",
+          "options": ["Cataratas del Niágara", "Salto Ángel", "Cataratas Victoria", "Iguazú"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-25",
+          "question": "¿Qué canal conecta el Mediterráneo con el Mar Rojo?",
+          "options": ["Canal de Panamá", "Canal de Suez", "Canal de Corinto", "Canal de Kiel"],
+          "answer": 1,
           "difficulty": "medium",
           "points": 3000
         }
@@ -384,11 +503,131 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "geo3-16",
+          "question": "¿Cuál es la capital de Brunéi?",
+          "options": ["Bandar Seri Begawan", "Kuala Belait", "Seria", "Tutong"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-17",
+          "question": "¿En qué país se encuentra el Monte Denali (antes McKinley)?",
+          "options": ["Canadá", "Estados Unidos", "Rusia", "Groenlandia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-18",
+          "question": "¿Cuál es el país africano que nunca fue colonizado?",
+          "options": ["Liberia", "Etiopía", "Egipto", "Marruecos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-19",
+          "question": "¿Qué país tiene el mayor número de fronteras terrestres?",
+          "options": ["Rusia", "China", "Brasil", "Alemania"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-20",
+          "question": "¿En qué océano se encuentra la Fosa de las Marianas?",
+          "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-21",
+          "question": "¿Cuál es la capital de Moldavia?",
+          "options": ["Chisináu", "Bălți", "Tiraspol", "Comrat"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-22",
+          "question": "¿Qué país tiene la línea costera más larga del mundo?",
+          "options": ["Rusia", "Australia", "Canadá", "Indonesia"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-23",
+          "question": "¿En qué país se encuentra la ciudad más austral del mundo?",
+          "options": ["Chile", "Argentina", "Nueva Zelanda", "Australia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-24",
+          "question": "¿Cuál es el único país que cruza tanto el ecuador como los trópicos?",
+          "options": ["Brasil", "Indonesia", "Ecuador", "Colombia"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-25",
+          "question": "¿Qué país tiene la mayor elevación promedio?",
+          "options": ["Nepal", "Bután", "Tibet (China)", "Afganistán"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-26",
+          "question": "¿En qué país se encuentra el punto triple de las fronteras de Argentina, Brasil y Paraguay?",
+          "options": ["En Argentina", "En Brasil", "En Paraguay", "En los tres países"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-27",
+          "question": "¿Cuál es la capital de Palau?",
+          "options": ["Koror", "Ngerulmud", "Airai", "Melekeok"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-28",
+          "question": "¿Qué país tiene la mayor densidad de población en Europa?",
+          "options": ["Mónaco", "Malta", "Países Bajos", "Bélgica"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-29",
+          "question": "¿En qué país se encuentra el volcán Cotopaxi?",
+          "options": ["Colombia", "Ecuador", "Perú", "Venezuela"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-30",
+          "question": "¿Cuál es el único país que no tiene forma cuadrada o rectangular en su bandera?",
+          "options": ["Nepal", "Suiza", "Bután", "Qatar"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ],
-  "total_questions": 45,
-  "created_date": "2025-01-25",
+  "total_questions": 75,
+  "created_date": "2025-01-30",
   "version": "1.0"
-        }
+}
