@@ -124,6 +124,46 @@
           "answer": 0,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "mit1-16",
+          "question": "¿Quién es la diosa del amor en la mitología griega?",
+          "options": ["Atenea", "Artemisa", "Afrodita", "Hera"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-17",
+          "question": "¿Cuál es el ave asociada con Zeus?",
+          "options": ["Búho", "Águila", "Cuervo", "Paloma"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-18",
+          "question": "¿Qué llevó Prometeo a los humanos?",
+          "options": ["Agua", "Fuego", "Comida", "Sabiduría"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-19",
+          "question": "¿Cómo se llama el perro de tres cabezas que guarda el inframundo?",
+          "options": ["Cerbero", "Argos", "Laelaps", "Ortros"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mit1-20",
+          "question": "¿Quién es el dios mensajero en la mitología griega?",
+          "options": ["Apolo", "Hermes", "Dionisio", "Hefesto"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -249,6 +289,86 @@
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "mit2-16",
+          "question": "¿Quién es Morrigan en la mitología celta?",
+          "options": ["Diosa de la primavera", "Diosa de la guerra y la muerte", "Diosa del mar", "Diosa de la luna"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-17",
+          "question": "¿Qué representa el símbolo del Yin y Yang en la filosofía china?",
+          "options": ["Día y noche", "Complementariedad y equilibrio de opuestos", "Bien y mal", "Vida y muerte"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-18",
+          "question": "¿Cuál es el nombre del barco de los muertos en la mitología egipcia?",
+          "options": ["Barca solar de Ra", "Nave de Isis", "Barco de Thot", "Embarcación de Osiris"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-19",
+          "question": "¿Qué diosa romana corresponde a Perséfone griega?",
+          "options": ["Diana", "Minerva", "Proserpina", "Vesta"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-20",
+          "question": "¿Cuál es el nombre de la serpiente que rodea el mundo en la mitología nórdica?",
+          "options": ["Nidhogg", "Jormungandr", "Fafnir", "Níðhöggr"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-21",
+          "question": "¿Qué dios azteca requería sacrificios humanos para mantener el sol en movimiento?",
+          "options": ["Quetzalcóatl", "Huitzilopochtli", "Tláloc", "Tezcatlipoca"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-22",
+          "question": "¿Cuál es la función de las Moiras en la mitología griega?",
+          "options": ["Proteger héroes", "Controlar el destino", "Guiar las almas", "Dar profecías"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-23",
+          "question": "¿Qué representa Kali en la mitología hindú?",
+          "options": ["Creación", "Destrucción y transformación", "Preservación", "Sabiduría"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-24",
+          "question": "¿Cuál es el nombre del lobo que persigue el sol en la mitología nórdica?",
+          "options": ["Fenrir", "Skoll", "Hati", "Garm"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mit2-25",
+          "question": "¿Qué es el Popol Vuh en la cultura maya?",
+          "options": ["Un dios", "Libro sagrado de la creación", "Ritual religioso", "Ciudad sagrada"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
@@ -371,6 +491,126 @@
           "id": "mit3-15",
           "question": "¿Cuál es la diferencia entre mito y leyenda según criterios académicos?",
           "options": ["No hay diferencia", "Mito: tiempo primordial, Leyenda: tiempo histórico", "Solo la cultura", "Solo la popularidad"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-16",
+          "question": "¿Qué es el concepto de 'muerte iniciática' en antropología religiosa?",
+          "options": ["Muerte real", "Muerte simbólica para renacer espiritualmente", "Asesinato ritual", "Suicidio ceremonial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-17",
+          "question": "¿Cuál es la función del shamán como psychopompos?",
+          "options": ["Curar enfermedades", "Guiar almas entre mundos", "Liderar rituales", "Predecir el futuro"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-18",
+          "question": "¿Qué representa el concepto de hieros gamos en religiones mistéricas?",
+          "options": ["Guerra sagrada", "Matrimonio sagrado cósmico", "Sacrificio divino", "Conocimiento secreto"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-19",
+          "question": "¿Cuál es la diferencia entre mito fundacional y mito de origen?",
+          "options": ["No hay diferencia", "Fundacional: establece instituciones, Origen: explica génesis", "Solo temporal", "Solo cultural"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-20",
+          "question": "¿Qué es la apokatástasis en escatología mítica?",
+          "options": ["Destrucción final", "Restauración universal al estado original", "Juicio final", "Reencarnación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-21",
+          "question": "¿Cuál es el concepto de 'centro del mundo' en cosmología tradicional?",
+          "options": ["Ubicación geográfica", "Punto de comunicación entre niveles cósmicos", "Capital política", "Lugar más sagrado"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-22",
+          "question": "¿Qué representa el albedo en alquimia simbólica tradicional?",
+          "options": ["Primera fase", "Fase de purificación blanca", "Fase final", "Fase de destrucción"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-23",
+          "question": "¿Cuál es la función del axis mundi como imago mundi?",
+          "options": ["Decoración", "Modelo cosmológico del universo", "Herramienta de navegación", "Símbolo político"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-24",
+          "question": "¿Qué es la henosis en filosofía mística platónica?",
+          "options": ["Separación", "Unión mística con lo divino", "Conocimiento racional", "Práctica ética"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-25",
+          "question": "¿Cuál es el concepto de 'eterno retorno' en cosmología cíclica?",
+          "options": ["Progreso lineal", "Repetición exacta de todos los eventos", "Memoria ancestral", "Vida después de la muerte"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-26",
+          "question": "¿Qué representa la coniunctio oppositorum en simbolismo alquímico?",
+          "options": ["Separación de elementos", "Unión de principios contrarios", "Destrucción de materia", "Creación de oro"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-27",
+          "question": "¿Cuál es la diferencia entre teofanía y hierofanía?",
+          "options": ["No hay diferencia", "Teofanía: manifestación divina, Hierofanía: manifestación sagrada", "Solo intensidad", "Solo duración"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-28",
+          "question": "¿Qué es el concepto de 'geografía sagrada' en estudios religiosos?",
+          "options": ["Mapeo de templos", "Organización cósmica del espacio según principios sagrados", "Turismo religioso", "Historia de lugares santos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-29",
+          "question": "¿Cuál es la función del mandala como yantra en tradiciones tántricas?",
+          "options": ["Decoración", "Herramienta de meditación y transformación", "Mapa geográfico", "Calendario ritual"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mit3-30",
+          "question": "¿Qué representa la nigredo en el proceso alquímico tradicional?",
+          "options": ["Purificación", "Fase inicial de putrefacción y muerte", "Resultado final", "Transformación dorada"],
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
