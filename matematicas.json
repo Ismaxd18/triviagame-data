@@ -124,6 +124,46 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "mat1-16",
+          "question": "¿Cuántos lados tiene un hexágono?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-17",
+          "question": "¿Cuál es el resultado de 12²?",
+          "options": ["124", "144", "134", "154"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-18",
+          "question": "¿Cuánto es 3/4 expresado como decimal?",
+          "options": ["0.25", "0.5", "0.75", "1.0"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-19",
+          "question": "¿Cuál es el perímetro de un rectángulo de 6 × 4?",
+          "options": ["20", "24", "10", "16"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mat1-20",
+          "question": "¿Cuánto es 50% de 80?",
+          "options": ["30", "35", "40", "45"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -247,6 +287,86 @@
           "question": "¿Qué significa que dos rectas sean perpendiculares?",
           "options": ["Son paralelas", "Se intersectan en 90°", "No se intersectan", "Son la misma recta"],
           "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-16",
+          "question": "¿Cuál es la fórmula para calcular combinaciones C(n,r)?",
+          "options": ["n!/(r!(n-r)!)", "n!/r!", "n!/(n-r)!", "n×r"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-17",
+          "question": "¿Cuánto es cos(60°)?",
+          "options": ["1/2", "√3/2", "√2/2", "1"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-18",
+          "question": "¿Qué es el determinante de una matriz 2×2?",
+          "options": ["ad + bc", "ad - bc", "a + d", "a × d"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-19",
+          "question": "¿Cuál es la fórmula de la distancia entre dos puntos (x₁,y₁) y (x₂,y₂)?",
+          "options": ["√[(x₂-x₁) + (y₂-y₁)]", "√[(x₂-x₁)² + (y₂-y₁)²]", "(x₂-x₁)² + (y₂-y₁)²", "√[(x₂+x₁)² + (y₂+y₁)²]"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-20",
+          "question": "¿Qué es una progresión aritmética?",
+          "options": ["Una secuencia con diferencia constante", "Una secuencia con razón constante", "Una secuencia aleatoria", "Una secuencia decreciente"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-21",
+          "question": "¿Cuál es la derivada de sen(x)?",
+          "options": ["cos(x)", "-cos(x)", "sen(x)", "-sen(x)"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-22",
+          "question": "¿Qué es un vector unitario?",
+          "options": ["Un vector de longitud 1", "Un vector en una dimensión", "Un vector de números enteros", "Un vector perpendicular"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-23",
+          "question": "¿Cuál es la suma de una progresión geométrica infinita con |r| < 1?",
+          "options": ["a/(1-r)", "a(1-r)", "a×r", "∞"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-24",
+          "question": "¿Qué es la moda en estadística?",
+          "options": ["El promedio", "El valor que más se repite", "El valor del medio", "La diferencia entre máximo y mínimo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mat2-25",
+          "question": "¿Cuál es la integral de 1/x?",
+          "options": ["ln|x| + C", "x²/2 + C", "1/x² + C", "x + C"],
+          "answer": 0,
           "difficulty": "medium",
           "points": 3000
         }
@@ -374,8 +494,128 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "mat3-16",
+          "question": "¿Qué es el teorema de los cuatro colores?",
+          "options": ["Sobre geometría plana", "Todo mapa puede colorearse con 4 colores", "Sobre números primos", "Sobre matrices"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-17",
+          "question": "¿Qué estudia la teoría de categorías?",
+          "options": ["Números", "Relaciones entre estructuras matemáticas", "Geometría", "Álgebra lineal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-18",
+          "question": "¿Qué es un espacio de Hilbert?",
+          "options": ["Un espacio vectorial", "Un espacio vectorial completo con producto interno", "Un espacio topológico", "Un espacio métrico"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-19",
+          "question": "¿Cuál es la conjetura de los números primos gemelos?",
+          "options": ["Hay infinitos pares de primos que difieren en 2", "Los primos son infinitos", "Existe una fórmula para primos", "Los primos se distribuyen uniformemente"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-20",
+          "question": "¿Qué es la hipótesis del continuo?",
+          "options": ["Sobre números reales", "No existe cardinalidad entre ℵ₀ y c", "Sobre funciones continuas", "Sobre topología"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-21",
+          "question": "¿Qué es un morfismo en teoría de categorías?",
+          "options": ["Una función", "Una flecha entre objetos", "Un conjunto", "Una operación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-22",
+          "question": "¿Cuál es el teorema de Banach-Tarski?",
+          "options": ["Sobre áreas", "Una esfera puede descomponerse en dos esferas idénticas", "Sobre volúmenes", "Sobre superficies"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-23",
+          "question": "¿Qué estudia la geometría algebraica?",
+          "options": ["Álgebra", "Variedades definidas por polinomios", "Geometría euclidiana", "Topología"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-24",
+          "question": "¿Qué es un campo en álgebra abstracta?",
+          "options": ["Un conjunto de números", "Un anillo donde todo elemento no nulo tiene inverso", "Un espacio vectorial", "Una función"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-25",
+          "question": "¿Cuál es la conjetura de Poincaré (ya demostrada)?",
+          "options": ["Sobre topología de 3-variedades", "Toda 3-variedad cerrada simplemente conexa es homeomorfa a S³", "Sobre números primos", "Sobre funciones"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-26",
+          "question": "¿Qué es la cohomología en matemáticas?",
+          "options": ["Una operación", "Una herramienta para estudiar espacios topológicos", "Una función", "Un número"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-27",
+          "question": "¿Cuál es el problema P vs NP?",
+          "options": ["Sobre números primos", "Si verificar es tan fácil como resolver", "Sobre geometría", "Sobre álgebra"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-28",
+          "question": "¿Qué es un ideal en un anillo?",
+          "options": ["Un elemento especial", "Un subconjunto cerrado bajo ciertas operaciones", "Un número", "Una función"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-29",
+          "question": "¿Qué estudia la teoría de números algebraicos?",
+          "options": ["Números enteros", "Extensiones de los racionales", "Números reales", "Números complejos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mat3-30",
+          "question": "¿Cuál es la conjetura ABC?",
+          "options": ["Sobre el alfabeto", "Relaciona la suma y producto de enteros coprimos", "Sobre geometría", "Sobre funciones"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ]
-        }
+}
