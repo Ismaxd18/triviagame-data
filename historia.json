@@ -1,10 +1,14 @@
-
 {
   "category": "historia",
   "name": "Historia",
+  "description": "Viaja a través del tiempo y descubre los eventos que cambiaron el mundo",
+  "color": "#8e44ad",
+  "icon": "🏛️",
   "levels": [
     {
       "level": 1,
+      "difficulty": "easy",
+      "description": "Nivel básico - Eventos históricos importantes y personajes famosos",
       "questions": [
         {
           "id": "h1-1",
@@ -125,11 +129,53 @@
           "answer": 0,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "h1-16",
+          "question": "¿Quién fue el último emperador de los aztecas?",
+          "options": ["Moctezuma I", "Moctezuma II", "Cuauhtémoc", "Axayácatl"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-17",
+          "question": "¿En qué año cayó el Imperio Romano de Occidente?",
+          "options": ["476 d.C.", "480 d.C.", "486 d.C.", "490 d.C."],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-18",
+          "question": "¿Qué revolución comenzó en Francia en 1789?",
+          "options": ["Revolución Industrial", "Revolución Francesa", "Revolución Americana", "Revolución Rusa"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-19",
+          "question": "¿Quién escribió 'El Origen de las Especies'?",
+          "options": ["Isaac Newton", "Charles Darwin", "Albert Einstein", "Galileo Galilei"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "h1-20",
+          "question": "¿En qué batalla fue derrotado definitivamente Napoleón?",
+          "options": ["Batalla de Leipzig", "Batalla de Waterloo", "Batalla de Austerlitz", "Batalla de Borodino"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
     {
       "level": 2,
+      "difficulty": "medium",
+      "description": "Nivel intermedio - Contexto histórico y procesos complejos",
       "questions": [
         {
           "id": "h2-1",
@@ -250,11 +296,93 @@
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "h2-16",
+          "question": "¿Qué emperador romano dividió el imperio en dos partes?",
+          "options": ["Constantino", "Diocleciano", "Teodosio", "Justiniano"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-17",
+          "question": "¿En qué año se produjo la independencia de la India?",
+          "options": ["1945", "1946", "1947", "1948"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-18",
+          "question": "¿Quién fue el líder de la independencia de México?",
+          "options": ["Miguel Hidalgo", "José María Morelos", "Agustín de Iturbide", "Vicente Guerrero"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-19",
+          "question": "¿Qué civilización mesopotámica creó el primer código de leyes escrito?",
+          "options": ["Sumerios", "Acadios", "Babilonios", "Asirios"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-20",
+          "question": "¿En qué batalla se decidió la independencia de Estados Unidos?",
+          "options": ["Batalla de Lexington", "Batalla de Saratoga", "Batalla de Yorktown", "Batalla de Bunker Hill"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-21",
+          "question": "¿Qué emperador bizantino reconquistó gran parte del Mediterráneo en el siglo VI?",
+          "options": ["Constantino VII", "Basilio II", "Justiniano I", "Heraclio"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-22",
+          "question": "¿En qué año se firmó la Paz de Westfalia que terminó la Guerra de los Treinta Años?",
+          "options": ["1646", "1647", "1648", "1649"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-23",
+          "question": "¿Quién fue el primer emperador del Sacro Imperio Romano Germánico?",
+          "options": ["Carlomagno", "Otón I", "Federico Barbarroja", "Enrique IV"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-24",
+          "question": "¿Qué revolución científica del siglo XVI cambió la visión del universo?",
+          "options": ["Revolución Copernicana", "Revolución Newtoniana", "Revolución Galileana", "Revolución Kepleriana"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "h2-25",
+          "question": "¿En qué año se inició la Guerra Fría?",
+          "options": ["1945", "1946", "1947", "1948"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
     {
       "level": 3,
+      "difficulty": "hard",
+      "description": "Nivel avanzado - Detalles específicos y conocimiento especializado",
       "questions": [
         {
           "id": "h3-1",
@@ -375,8 +503,131 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "h3-16",
+          "question": "¿Qué bula papal de 1493 dividió el Nuevo Mundo entre España y Portugal?",
+          "options": ["Inter caetera", "Romanus Pontifex", "Dudum siquidem", "Ea quae pro bono pacis"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-17",
+          "question": "¿Quién fue el líder jacobino que ejecutó a Robespierre?",
+          "options": ["Paul de Barras", "Joseph Fouché", "Jean-Lambert Tallien", "Jacques-Nicolas Billaud-Varenne"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-18",
+          "question": "¿Qué tratado de 1648 estableció el concepto moderno de soberanía estatal?",
+          "options": ["Tratado de Münster", "Tratado de Osnabrück", "Paz de Westfalia", "Tratado de Utrecht"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-19",
+          "question": "¿En qué año se estableció la República de Weimar en Alemania?",
+          "options": ["1918", "1919", "1920", "1921"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-20",
+          "question": "¿Qué emperador chino unificó por primera vez toda China?",
+          "options": ["Qin Shi Huang", "Wu de Han", "Tang Taizong", "Song Taizu"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-21",
+          "question": "¿Qué filósofo griego fue maestro de Aristóteles?",
+          "options": ["Sócrates", "Platón", "Heráclito", "Demócrito"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-22",
+          "question": "¿En qué año se produjo la Noche de los Cristales Rotos en Alemania?",
+          "options": ["1936", "1937", "1938", "1939"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-23",
+          "question": "¿Qué papa convocó el Primer Concilio Vaticano en 1869?",
+          "options": ["Pío VIII", "Pío IX", "León XIII", "Pío X"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-24",
+          "question": "¿Quién fue el último rey de Francia antes de la Revolución?",
+          "options": ["Luis XV", "Luis XVI", "Luis XVII", "Luis XVIII"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-25",
+          "question": "¿En qué batalla de 1683 se detuvo el avance otomano en Europa?",
+          "options": ["Sitio de Viena", "Batalla de Mohács", "Batalla de Lepanto", "Sitio de Malta"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-26",
+          "question": "¿Qué reforma religiosa iniciada en 1054 dividió el cristianismo?",
+          "options": ["Reforma Protestante", "Gran Cisma de Occidente", "Cisma de Oriente", "Reforma Gregoriana"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-27",
+          "question": "¿Quién fue el último emperador azteca antes de la conquista española?",
+          "options": ["Moctezuma II", "Cuitláhuac", "Cuauhtémoc", "Axayácatl"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-28",
+          "question": "¿En qué año se proclamó el Primer Imperio Francés?",
+          "options": ["1802", "1803", "1804", "1805"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-29",
+          "question": "¿Qué revolución de 1905 precedió a la Revolución Rusa de 1917?",
+          "options": ["Revolución de Febrero", "Domingo Sangriento", "Revolución de 1905", "Revolución Decembrista"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "h3-30",
+          "question": "¿Quién fue el último emperador de China?",
+          "options": ["Guangxu", "Puyi", "Xuantong", "Qianlong"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
-  ]
-        }
+  ],
+  "total_questions": 75,
+  "created_date": "2025-01-30",
+  "version": "1.0"
+}
