@@ -124,6 +124,46 @@
           "answer": 1,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "fil1-16",
+          "question": "¿Qué filósofo antiguo dijo 'Todo fluye'?",
+          "options": ["Parménides", "Heráclito", "Demócrito", "Empédocles"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-17",
+          "question": "¿Cuál es la obra más famosa de Maquiavelo?",
+          "options": ["La República", "El Príncipe", "Leviatán", "El Contrato Social"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-18",
+          "question": "¿Qué significa 'cogito ergo sum'?",
+          "options": ["Veo, luego existo", "Pienso, luego existo", "Siento, luego existo", "Dudo, luego existo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-19",
+          "question": "¿Quién escribió 'Así habló Zaratustra'?",
+          "options": ["Kant", "Hegel", "Nietzsche", "Schopenhauer"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "fil1-20",
+          "question": "¿Qué escuela filosófica buscaba la 'ataraxia' (tranquilidad del alma)?",
+          "options": ["Estoicismo", "Epicureísmo", "Ambas anteriores", "Cinismo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -246,6 +286,86 @@
           "id": "fil2-15",
           "question": "¿Qué es la 'voluntad de poder' según Nietzsche?",
           "options": ["Deseo de dominar a otros", "Impulso fundamental de toda vida", "Poder político", "Fuerza física"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-16",
+          "question": "¿Qué filósofo propuso el 'contrato social' como fundamento del Estado?",
+          "options": ["Hobbes", "Rousseau", "Ambos propusieron versiones diferentes", "Locke"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-17",
+          "question": "¿Cuál es la diferencia entre ética deontológica y consecuencialista?",
+          "options": ["No hay diferencia", "Una se basa en deberes, otra en resultados", "Una es antigua, otra moderna", "Una es religiosa, otra secular"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-18",
+          "question": "¿Qué es el 'velo de ignorancia' de John Rawls?",
+          "options": ["Una metáfora sobre el conocimiento", "Un experimento mental para la justicia", "Una teoría del arte", "Un concepto religioso"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-19",
+          "question": "¿Quién escribió 'El segundo sexo'?",
+          "options": ["Virginia Woolf", "Simone de Beauvoir", "Hannah Arendt", "Judith Butler"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-20",
+          "question": "¿Qué es la 'mala fe' según Sartre?",
+          "options": ["Mentir a otros", "Autoengaño sobre nuestra libertad", "No cumplir promesas", "Actuar sin pensar"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-21",
+          "question": "¿Cuál es el principio del 'placer' en Epicuro?",
+          "options": ["Buscar todos los placeres", "Ausencia de dolor (ataraxia)", "Placeres físicos únicamente", "Hedonismo extremo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-22",
+          "question": "¿Qué es la 'alienación' según Marx?",
+          "options": ["Estar solo", "Separación del trabajador de su producto", "Enfermedad mental", "Migración"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-23",
+          "question": "¿Quién propuso la 'navaja de Ockham'?",
+          "options": ["Guillermo de Ockham", "Tomás de Aquino", "Duns Escoto", "Anselmo de Canterbury"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-24",
+          "question": "¿Qué es el 'dasein' en Heidegger?",
+          "options": ["La muerte", "El ser-ahí humano", "El tiempo", "La angustia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "fil2-25",
+          "question": "¿Cuál es la crítica principal de Hume a la causalidad?",
+          "options": ["No existe", "No podemos observar la conexión necesaria", "Es solo matemática", "Es solo lógica"],
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
@@ -374,8 +494,128 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "fil3-16",
+          "question": "¿Qué es el 'argumento ontológico' de Anselmo de Canterbury?",
+          "options": ["Sobre la existencia del alma", "Demostración de la existencia de Dios por el concepto", "Sobre la naturaleza del tiempo", "Sobre la causalidad"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-17",
+          "question": "¿Cuál es la diferencia entre 'fenómeno' y 'noúmeno' en Kant?",
+          "options": ["No hay diferencia", "Fenómeno es lo que aparece, noúmeno la cosa en sí", "Fenómeno es real, noúmeno irreal", "Son sinónimos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-18",
+          "question": "¿Qué es la 'reducción trascendental' en Husserl?",
+          "options": ["Simplificar argumentos", "Poner entre paréntesis la actitud natural", "Traducir conceptos", "Resumir teorías"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-19",
+          "question": "¿Cuál es el problema de la 'inducción' según Hume?",
+          "options": ["Es muy útil", "No hay justificación racional para inferencias inductivas", "Solo funciona en ciencias", "Es solo matemática"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-20",
+          "question": "¿Qué es la 'intencionalidad' en la fenomenología?",
+          "options": ["Tener buenas intenciones", "La direccionalidad de la conciencia hacia objetos", "Planificar acciones", "Voluntad moral"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-21",
+          "question": "¿Cuál es la crítica de Austin a las falacias descriptivas del lenguaje?",
+          "options": ["El lenguaje solo describe", "El lenguaje también hace cosas (performativo)", "El lenguaje es solo gramática", "El lenguaje es solo lógica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-22",
+          "question": "¿Qué es el 'holismo confirmacional' de Quine?",
+          "options": ["Cada creencia se confirma individualmente", "Las creencias se confirman como un todo", "Solo la lógica se confirma", "Nada se puede confirmar"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-23",
+          "question": "¿Cuál es el 'argumento del lenguaje privado' de Wittgenstein?",
+          "options": ["A favor del lenguaje privado", "Crítica a la posibilidad de lenguaje privado", "Sobre idiomas secretos", "Sobre la telepaTía"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-24",
+          "question": "¿Qué es la 'facticidad' en el existencialismo?",
+          "options": ["Los hechos científicos", "Las circunstancias dadas de nuestra existencia", "La verdad lógica", "Los datos empíricos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-25",
+          "question": "¿Cuál es la paradoja de Moore sobre el conocimiento?",
+          "options": ["No podemos conocer nada", "Está lloviendo pero no creo que llueva", "Todo es conocimiento", "El conocimiento es imposible"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-26",
+          "question": "¿Qué es la 'tesis de la indeterminación de la traducción' de Quine?",
+          "options": ["Todo se puede traducir", "No hay traducción única correcta", "Solo se traduce la lógica", "La traducción es imposible"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-27",
+          "question": "¿Cuál es el 'argumento del conocimiento' de Jackson contra el fisicalismo?",
+          "options": ["Mary y los colores", "El cerebro en una cubeta", "El zombie filosófico", "La habitación china"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-28",
+          "question": "¿Qué es la 'teoría de la identidad' en filosofía de la mente?",
+          "options": ["La mente es diferente al cerebro", "Estados mentales son idénticos a estados cerebrales", "No existe la mente", "La mente es inmaterial"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-29",
+          "question": "¿Cuál es la crítica de Kripke a la teoría descriptiva de los nombres propios?",
+          "options": ["Los nombres no refieren", "Los nombres son designadores rígidos", "Los nombres son solo palabras", "Los nombres cambian sentido"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "fil3-30",
+          "question": "¿Qué es el 'externismo semántico' en filosofía del lenguaje?",
+          "options": ["El significado está en la mente", "El significado depende del entorno externo", "No hay significado", "El significado es universal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ]
-        }
+}
