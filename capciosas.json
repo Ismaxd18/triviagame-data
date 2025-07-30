@@ -124,6 +124,46 @@
           "answer": 3,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "cap1-16",
+          "question": "¿Qué es lo que siempre está delante de ti pero no puedes ver?",
+          "options": ["Tu nariz", "El futuro", "Tus ojos", "El aire"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-17",
+          "question": "Si escribes 'seda' al revés, ¿qué obtienes?",
+          "options": ["ades", "La palabra seda al revés", "Un error", "Un palíndromo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-18",
+          "question": "¿Cuál es la única cosa que puedes romper solo con nombrarla?",
+          "options": ["Una promesa", "El silencio", "Un hechizo", "La concentración"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-19",
+          "question": "¿Qué viene una vez en un minuto, dos veces en un momento y nunca en mil años?",
+          "options": ["La letra M", "El tiempo", "La letra O", "La letra N"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "cap1-20",
+          "question": "¿Qué es lo que pertenece solo a ti pero todos los demás lo usan más que tú?",
+          "options": ["Tu cerebro", "Tu nombre", "Tu tiempo", "Tu ropa"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -247,6 +287,86 @@
           "question": "Un hombre empuja su auto hasta un hotel y le dice al dueño que está en bancarrota. ¿Qué pasó?",
           "options": ["Está jugando Monopoly", "Su auto se descompuso", "Es un hotel para autos", "Perdió una apuesta"],
           "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-16",
+          "question": "¿Qué es lo que puedes servir pero nunca comer?",
+          "options": ["Una pelota de tenis", "Una comida quemada", "Un plato", "Una medicina"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-17",
+          "question": "¿Qué edificio tiene más pisos?",
+          "options": ["Un rascacielos", "Una biblioteca", "Un hospital", "Una escuela"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-18",
+          "question": "¿Qué es lo que corre pero nunca camina, tiene boca pero nunca habla?",
+          "options": ["Un caballo de ajedrez", "Un río", "Un reloj", "Un motor"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-19",
+          "question": "Si un médico te da 3 pastillas y te dice que tomes una cada media hora, ¿en cuánto tiempo te las tomarás todas?",
+          "options": ["1 hora", "1 hora y media", "2 horas", "30 minutos"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-20",
+          "question": "¿Qué animal puede saltar más alto que una casa?",
+          "options": ["Un canguro", "Un gato", "Cualquier animal", "Un caballo"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-21",
+          "question": "¿Qué es lo que aumenta pero nunca disminuye?",
+          "options": ["El dinero", "La edad", "El conocimiento", "La felicidad"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-22",
+          "question": "¿Qué tiene dientes pero no puede morder?",
+          "options": ["Un bebé", "Un peine", "Una sierra", "Un ajo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-23",
+          "question": "¿Qué se hace más húmedo mientras más se seca?",
+          "options": ["Una esponja", "Una toalla", "La ropa", "El cabello"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-24",
+          "question": "¿Qué es lo que tiene un ojo pero no puede ver?",
+          "options": ["Un ciego", "Una aguja", "Una tormenta", "Un huracán"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "cap2-25",
+          "question": "¿Qué es lo que vuela sin alas y llora sin ojos?",
+          "options": ["Un avión", "Una nube", "El tiempo", "El viento"],
+          "answer": 1,
           "difficulty": "medium",
           "points": 3000
         }
@@ -374,8 +494,124 @@
           "answer": 1,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "cap3-16",
+          "question": "El gato de Schrödinger: Un gato está en una caja con un mecanismo que puede matarlo. Antes de abrir la caja, ¿está vivo o muerto?",
+          "options": ["Vivo", "Muerto", "En superposición cuántica", "Depende del tiempo"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-17",
+          "question": "Paradoja de la omnipotencia: ¿Puede un ser omnipotente crear una piedra tan pesada que él mismo no pueda levantar?",
+          "options": ["Sí", "No", "Es una paradoja lógica", "Depende de la definición"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-18",
+          "question": "El teorema de incompletitud de Gödel: En cualquier sistema matemático complejo, ¿qué es siempre cierto?",
+          "options": ["Todo se puede demostrar", "Nada se puede demostrar", "Hay verdades que no se pueden demostrar", "Todo es falso"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-19",
+          "question": "El problema del viajero de comercio: ¿Por qué es tan difícil encontrar la ruta más corta visitando todas las ciudades una vez?",
+          "options": ["Hay muchas ciudades", "Las distancias cambian", "Es un problema NP-completo", "No hay solución"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-20",
+          "question": "La paradoja del hotel infinito de Hilbert: Si un hotel con infinitas habitaciones está lleno, ¿puede acomodar un huésped más?",
+          "options": ["No, está lleno", "Sí, moviendo a todos una habitación", "Solo si alguien se va", "Es imposible"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-21",
+          "question": "¿Cuál es el problema P vs NP en matemáticas?",
+          "options": ["Si todos los problemas son iguales", "Si verificar es tan fácil como resolver", "Si existen números primos", "Si las matemáticas son correctas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-22",
+          "question": "La paradoja de la tolerancia: ¿Debe una sociedad tolerante tolerar la intolerancia?",
+          "options": ["Siempre sí", "Siempre no", "Es una paradoja filosófica", "Depende del grado"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-23",
+          "question": "El problema de Molyneux: Una persona ciega de nacimiento aprende a distinguir formas por tacto. Si recupera la vista, ¿reconocerá las formas visualmente?",
+          "options": ["Sí, inmediatamente", "No, debe aprender", "Es un debate filosófico", "Depende de la edad"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-24",
+          "question": "La paradoja de Teseo: Si cambias todas las piezas de un barco una por una, ¿sigue siendo el mismo barco?",
+          "options": ["Sí", "No", "Es una paradoja de identidad", "Depende del tiempo"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-25",
+          "question": "El experimento mental del cerebro en una cubeta: ¿Cómo sabes que tu realidad no es una simulación?",
+          "options": ["Por los sentidos", "Por la lógica", "Es imposible saberlo con certeza", "Por la ciencia"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-26",
+          "question": "La paradoja de Fermi: Si el universo es tan grande, ¿dónde están todos los extraterrestres?",
+          "options": ["No existen", "Están muy lejos", "Es una paradoja científica", "Se esconden"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-27",
+          "question": "El trilema de Münchhausen: Todo argumento lleva a regresión infinita, circularidad o dogmatismo. ¿Cuál eliges?",
+          "options": ["Regresión infinita", "Circularidad", "Dogmatismo", "Es un trilema sin solución"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-28",
+          "question": "La paradoja del heap: Si quitas un grano de arena de una pila, ¿cuándo deja de ser una pila?",
+          "options": ["Con el último grano", "No hay punto específico", "Es una paradoja del vago", "Cuando queda la mitad"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-29",
+          "question": "El problema de la demarcación: ¿Cómo distinguir entre ciencia y pseudociencia?",
+          "options": ["Por los experimentos", "Por la matemática", "Es un problema filosófico complejo", "Por el consenso"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "cap3-30",
+          "question": "La paradoja del valor: ¿Por qué el agua (esencial) vale menos que los diamantes (no esenciales)?",
+          "options": ["Los diamantes son más útiles", "Por la escasez y utilidad marginal", "Es un error económico", "Por la tradición"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
-      ]
-    }
-  ]
-}
