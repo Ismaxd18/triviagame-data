@@ -129,6 +129,46 @@
           "answer": 2,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "ent1-16",
+          "question": "¿Quién interpreta a Capitán América en Marvel?",
+          "options": ["Chris Evans", "Chris Hemsworth", "Chris Pratt", "Sebastian Stan"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-17",
+          "question": "¿Cuál es la película animada más taquillera de todos los tiempos?",
+          "options": ["Frozen", "Toy Story 4", "Frozen 2", "El Rey León (2019)"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-18",
+          "question": "¿Quién canta 'Rolling in the Deep'?",
+          "options": ["Adele", "Taylor Swift", "Beyoncé", "Rihanna"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-19",
+          "question": "¿En qué plataforma se estrenó 'The Mandalorian'?",
+          "options": ["Netflix", "Amazon Prime", "Disney+", "HBO Max"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ent1-20",
+          "question": "¿Cuál es el nombre del protagonista de 'Indiana Jones'?",
+          "options": ["Henry Jones", "Indiana Smith", "Henry Smith", "Harrison Ford"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
@@ -254,6 +294,86 @@
           "question": "¿En qué año murió Elvis Presley?",
           "options": ["1975", "1976", "1977", "1978"],
           "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-16",
+          "question": "¿Quién dirigió 'E.T. el Extraterrestre'?",
+          "options": ["George Lucas", "Steven Spielberg", "Ridley Scott", "James Cameron"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-17",
+          "question": "¿Cuál es el nombre real de Eminem?",
+          "options": ["Marshall Mathers", "Calvin Broadus", "Curtis Jackson", "Andre Young"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-18",
+          "question": "¿En qué serie aparece la ciudad ficticia de Hawkins?",
+          "options": ["Supernatural", "The X-Files", "Stranger Things", "Twin Peaks"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-19",
+          "question": "¿Quién interpreta a Batman en 'The Dark Knight'?",
+          "options": ["Michael Keaton", "Christian Bale", "Ben Affleck", "Robert Pattinson"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-20",
+          "question": "¿Cuál fue la primera película de la saga 'Fast & Furious'?",
+          "options": ["2 Fast 2 Furious", "The Fast and the Furious", "Tokyo Drift", "Fast Five"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-21",
+          "question": "¿Quién canta 'Bohemian Rhapsody'?",
+          "options": ["Led Zeppelin", "Queen", "The Who", "Deep Purple"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-22",
+          "question": "¿En qué película aparece el personaje de Gollum?",
+          "options": ["Harry Potter", "El Señor de los Anillos", "Narnia", "Game of Thrones"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-23",
+          "question": "¿Quién creó la serie 'The Simpsons'?",
+          "options": ["Seth MacFarlane", "Matt Groening", "Mike Judge", "Trey Parker"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-24",
+          "question": "¿Cuál es el nombre del dragón en 'Shrek'?",
+          "options": ["Smaug", "Dragona", "Fiona", "No tiene nombre"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ent2-25",
+          "question": "¿Quién dirigió 'Gladiator'?",
+          "options": ["Ridley Scott", "Oliver Stone", "Mel Gibson", "Wolfgang Petersen"],
+          "answer": 0,
           "difficulty": "medium",
           "points": 3000
         }
@@ -383,11 +503,131 @@
           "answer": 2,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "ent3-16",
+          "question": "¿Quién dirigió 'Ciudadano Kane'?",
+          "options": ["John Ford", "Orson Welles", "Frank Capra", "William Wyler"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-17",
+          "question": "¿Cuál es el nombre real de Pink?",
+          "options": ["Alecia Moore", "Katy Hudson", "Stefani Germanotta", "Robyn Fenty"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-18",
+          "question": "¿Qué película de 1927 es considerada la primera con sonido sincronizado?",
+          "options": ["Metropolis", "El Cantante de Jazz", "Amanecer", "El General"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-19",
+          "question": "¿Quién compuso la música de 'La Guerra de las Galaxias'?",
+          "options": ["Hans Zimmer", "John Williams", "Danny Elfman", "James Horner"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-20",
+          "question": "¿Cuál es el verdadero nombre de Marilyn Monroe?",
+          "options": ["Norma Baker", "Norma Mortenson", "Marilyn Baker", "Mary Monroe"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-21",
+          "question": "¿Qué director es conocido por la 'Trilogía de la Venganza'?",
+          "options": ["Quentin Tarantino", "Park Chan-wook", "Wong Kar-wai", "Kim Ki-duk"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-22",
+          "question": "¿Cuál fue el primer álbum de Pink Floyd?",
+          "options": ["The Dark Side of the Moon", "The Piper at the Gates of Dawn", "Saucerful of Secrets", "Meddle"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-23",
+          "question": "¿Qué actriz ganó el Oscar por 'Monster' (2003)?",
+          "options": ["Halle Berry", "Nicole Kidman", "Charlize Theron", "Hilary Swank"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-24",
+          "question": "¿Cuál es el nombre del club de pelea en 'Fight Club'?",
+          "options": ["Project Mayhem", "Paper Street Soap Company", "No tiene nombre oficial", "Tyler's Club"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-25",
+          "question": "¿Qué compositor escribió 'Las Cuatro Estaciones'?",
+          "options": ["Bach", "Mozart", "Vivaldi", "Beethoven"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-26",
+          "question": "¿Cuál fue la primera película de Disney en usar CGI?",
+          "options": ["La Sirenita", "La Bella y la Bestia", "El Rey León", "Pocahontas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-27",
+          "question": "¿Qué banda lanzó el álbum 'Nevermind'?",
+          "options": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-28",
+          "question": "¿Quién dirigió 'Mulholland Drive'?",
+          "options": ["David Cronenberg", "David Lynch", "Darren Aronofsky", "Charlie Kaufman"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-29",
+          "question": "¿Cuál es el nombre real de Sting?",
+          "options": ["Gordon Sumner", "Stuart Copeland", "Andy Summers", "Henry Padovani"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ent3-30",
+          "question": "¿Qué película ganó la Palma de Oro en Cannes 2019?",
+          "options": ["Dolor y Gloria", "Parasite", "Once Upon a Time in Hollywood", "Portrait de la Jeune Fille"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
   ],
-  "total_questions": 45,
-  "created_date": "2025-01-25",
+  "total_questions": 75,
+  "created_date": "2025-01-30",
   "version": "1.0"
-        }
+}
