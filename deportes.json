@@ -1,9 +1,14 @@
 {
   "category": "deportes",
   "name": "Deportes",
+  "description": "Conoce el mundo del deporte, récords y atletas famosos",
+  "color": "#e74c3c",
+  "icon": "⚽",
   "levels": [
     {
       "level": 1,
+      "difficulty": "easy",
+      "description": "Nivel básico - Deportes populares y reglas básicas",
       "questions": [
         {
           "id": "d1-1",
@@ -124,11 +129,53 @@
           "answer": 3,
           "difficulty": "easy",
           "points": 2000
+        },
+        {
+          "id": "d1-16",
+          "question": "¿Cuántos minutos dura un partido de fútbol (sin tiempo extra)?",
+          "options": ["80 minutos", "90 minutos", "100 minutos", "120 minutos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-17",
+          "question": "¿En qué deporte se usa el término 'strike'?",
+          "options": ["Tenis", "Golf", "Boliche", "Ping pong"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-18",
+          "question": "¿Qué país ganó la Copa Mundial de Fútbol 2022?",
+          "options": ["Francia", "Argentina", "Brasil", "España"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-19",
+          "question": "¿Cuántos aros hay en una cancha de baloncesto?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "d1-20",
+          "question": "¿En qué deporte compite Lewis Hamilton?",
+          "options": ["Motociclismo", "Fórmula 1", "Rally", "Ciclismo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
         }
       ]
     },
     {
       "level": 2,
+      "difficulty": "medium",
+      "description": "Nivel intermedio - Historia deportiva y atletas famosos",
       "questions": [
         {
           "id": "d2-1",
@@ -249,11 +296,93 @@
           "answer": 1,
           "difficulty": "medium",
           "points": 3000
+        },
+        {
+          "id": "d2-16",
+          "question": "¿Qué jugador tiene más goles en la historia del Real Madrid?",
+          "options": ["Raúl González", "Alfredo Di Stéfano", "Cristiano Ronaldo", "Karim Benzema"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-17",
+          "question": "¿En qué año Muhammad Ali encendió la antorcha olímpica?",
+          "options": ["1992", "1996", "2000", "2004"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-18",
+          "question": "¿Cuál es el único Grand Slam que se juega en césped?",
+          "options": ["US Open", "Roland Garros", "Wimbledon", "Australian Open"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-19",
+          "question": "¿Qué futbolista brasileño es conocido como 'O Fenômeno'?",
+          "options": ["Ronaldinho", "Ronaldo Nazário", "Rivaldo", "Romário"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-20",
+          "question": "¿En qué deporte compite Max Verstappen?",
+          "options": ["MotoGP", "Fórmula 1", "Rally", "IndyCar"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-21",
+          "question": "¿Cuántos Super Bowls han ganado los New England Patriots?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-22",
+          "question": "¿Qué tenista femenina tiene más títulos de Wimbledon?",
+          "options": ["Serena Williams", "Steffi Graf", "Martina Navratilova", "Chris Evert"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-23",
+          "question": "¿En qué ciudad se jugó el primer partido de fútbol de la historia de los Mundiales?",
+          "options": ["Montevideo", "Buenos Aires", "Río de Janeiro", "São Paulo"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-24",
+          "question": "¿Cuál es el apodo de la selección argentina de rugby?",
+          "options": ["Los Toros", "Los Pumas", "Los Cóndores", "Los Gauchos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "d2-25",
+          "question": "¿Qué boxeador fue conocido como 'Iron Mike'?",
+          "options": ["Muhammad Ali", "Mike Tyson", "George Foreman", "Joe Frazier"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
         }
       ]
     },
     {
       "level": 3,
+      "difficulty": "hard",
+      "description": "Nivel avanzado - Récords específicos y datos técnicos",
       "questions": [
         {
           "id": "d3-1",
@@ -374,8 +503,131 @@
           "answer": 2,
           "difficulty": "hard",
           "points": 4000
+        },
+        {
+          "id": "d3-16",
+          "question": "¿Cuál es el récord mundial femenino de los 100 metros planos?",
+          "options": ["10.49s", "10.61s", "10.64s", "10.70s"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-17",
+          "question": "¿Qué jugador de fútbol tiene más partidos oficiales en su carrera?",
+          "options": ["Pelé", "Cristiano Ronaldo", "Peter Shilton", "Rogério Ceni"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-18",
+          "question": "¿En qué año se estableció el récord mundial de salto de altura masculino actual?",
+          "options": ["1991", "1993", "1995", "1997"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-19",
+          "question": "¿Cuántos puntos anotó Wilt Chamberlain en su famoso juego de 100 puntos?",
+          "options": ["98", "99", "100", "101"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-20",
+          "question": "¿Qué velocista femenina tiene el récord mundial de 200 metros?",
+          "options": ["Florence Griffith-Joyner", "Marion Jones", "Elaine Thompson", "Shelly-Ann Fraser-Pryce"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-21",
+          "question": "¿En qué año se jugó el primer partido oficial de fútbol femenino?",
+          "options": ["1881", "1885", "1889", "1892"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-22",
+          "question": "¿Cuál es el récord mundial masculino de lanzamiento de disco?",
+          "options": ["74.08m", "74.35m", "74.68m", "74.82m"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-23",
+          "question": "¿Qué tenista masculino tiene más semanas consecutivas como No. 1?",
+          "options": ["Roger Federer", "Novak Djokovic", "Ivan Lendl", "Jimmy Connors"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-24",
+          "question": "¿En qué año se introdujo la regla del gol de oro en el fútbol?",
+          "options": ["1993", "1995", "1997", "1999"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-25",
+          "question": "¿Cuál es el mayor número de goles anotados por un jugador en una temporada de la Premier League?",
+          "options": ["31", "32", "34", "36"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-26",
+          "question": "¿Qué nadadora tiene más medallas olímpicas en la historia?",
+          "options": ["Katie Ledecky", "Jenny Thompson", "Dara Torres", "Natalie Coughlin"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-27",
+          "question": "¿En qué año se estableció el récord mundial de maratón masculino actual?",
+          "options": ["2018", "2019", "2020", "2021"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-28",
+          "question": "¿Cuántas victorias consecutivas tuvo Byron Nelson en el PGA Tour?",
+          "options": ["11", "13", "15", "17"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-29",
+          "question": "¿Qué país ganó el primer Campeonato Mundial de Fútbol Femenino?",
+          "options": ["Estados Unidos", "Noruega", "Alemania", "Suecia"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "d3-30",
+          "question": "¿Cuál es el récord mundial de salto triple masculino?",
+          "options": ["18.29m", "18.43m", "18.50m", "18.69m"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
         }
       ]
     }
-  ]
-        }
+  ],
+  "total_questions": 75,
+  "created_date": "2025-01-30",
+  "version": "1.0"
+}
