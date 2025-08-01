@@ -1,0 +1,381 @@
+{
+  "category": "futbol",
+  "name": "Fútbol Mundial",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "futbol1-1",
+          "question": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+          "options": ["9", "10", "11", "12"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "futbol1-2",
+          "question": "¿Cada cuántos años se celebra la Copa del Mundo FIFA?",
+          "options": ["2 años", "3 años", "4 años", "5 años"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "futbol1-3",
+          "question": "¿Qué país ganó la Copa del Mundo 2018?",
+          "options": ["Brasil", "Francia", "Alemania", "Argentina"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-4",
+          "question": "¿Cuál es el nombre del trofeo del Mundial de fútbol?",
+          "options": ["Copa Jules Rimet", "Copa FIFA", "Copa del Mundo", "Copa de Oro"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-5",
+          "question": "¿Qué color de tarjeta significa expulsión?",
+          "options": ["Amarilla", "Roja", "Verde", "Azul"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "futbol1-6",
+          "question": "¿En qué continente se originó el fútbol moderno?",
+          "options": ["América", "África", "Asia", "Europa"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-7",
+          "question": "¿Cuánto dura un partido de fútbol oficialmente?",
+          "options": ["80 minutos", "90 minutos", "100 minutos", "110 minutos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "futbol1-8",
+          "question": "¿Qué jugador es conocido como 'El Rey del Fútbol'?",
+          "options": ["Maradona", "Pelé", "Cruyff", "Messi"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "futbol1-9",
+          "question": "¿Qué equipo tiene más Champions League ganadas?",
+          "options": ["Barcelona", "Real Madrid", "Milan", "Liverpool"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-10",
+          "question": "¿En qué país se jugó el primer Mundial de fútbol?",
+          "options": ["Brasil", "Argentina", "Uruguay", "Chile"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-11",
+          "question": "¿Cuál es la posición del jugador que puede usar las manos?",
+          "options": ["Defensa", "Portero", "Centrocampista", "Delantero"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "futbol1-12",
+          "question": "¿Qué significa FIFA?",
+          "options": ["Federación Internacional de Fútbol Asociación", "Federación Internacional de Fútbol Americano", "Federación Internacional de Fútbol Africano", "Federación Internacional de Fútbol Asiático"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "futbol1-13",
+          "question": "¿Qué selección ganó el Mundial 2022?",
+          "options": ["Francia", "Brasil", "Argentina", "España"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-14",
+          "question": "¿Cuántos metros mide el largo de un campo de fútbol profesional?",
+          "options": ["90-100 metros", "100-110 metros", "110-120 metros", "80-90 metros"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "futbol1-15",
+          "question": "¿Qué club argentino es conocido como 'Los Millonarios'?",
+          "options": ["Boca Juniors", "River Plate", "Independiente", "Racing"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "futbol2-1",
+          "question": "¿Qué jugador tiene más Balones de Oro en la historia?",
+          "options": ["Cristiano Ronaldo", "Lionel Messi", "Pelé", "Maradona"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "futbol2-2",
+          "question": "¿En qué año se fundó la Liga de Campeones de la UEFA?",
+          "options": ["1950", "1955", "1960", "1965"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "futbol2-3",
+          "question": "¿Qué entrenador tiene más Champions League ganadas?",
+          "options": ["Pep Guardiola", "José Mourinho", "Carlo Ancelotti", "Zinedine Zidane"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "futbol2-4",
+          "question": "¿Cuál fue el primer país africano en llegar a cuartos de final de un Mundial?",
+          "options": ["Nigeria", "Camerún", "Marruecos", "Ghana"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "futbol2-5",
+          "question": "¿Qué jugador marcó el gol más rápido en la historia de los Mundiales?",
+          "options": ["Hakan Şükür", "Clint Dempsey", "Tim Cahill", "Robin van Persie"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "futbol2-6",
+          "question": "¿Qué club inglés es conocido como 'The Red Devils'?",
+          "options": ["Liverpool", "Arsenal", "Manchester United", "Chelsea"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "futbol2-7",
+          "question": "¿Cuántos goles marcó Pelé en su carrera profesional oficial?",
+          "options": ["1000", "1281", "1365", "1500"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "futbol2-8",
+          "question": "¿En qué Mundial Diego Maradona marcó el 'Gol del Siglo'?",
+          "options": ["México 1986", "Italia 1990", "España 1982", "Argentina 1978"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "futbol2-9",
+          "question": "¿Qué selección tiene más participaciones en Mundiales sin ganarlo?",
+          "options": ["Inglaterra", "España", "México", "Polonia"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "futbol2-10",
+          "question": "¿Cuál es el estadio con mayor capacidad del mundo?",
+          "options": ["Camp Nou", "Wembley", "Maracaná", "Estadio Rungrado 1º de Mayo"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "futbol2-11",
+          "question": "¿Qué país organizó la primera Copa América?",
+          "options": ["Brasil", "Argentina", "Uruguay", "Chile"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "futbol2-12",
+          "question": "¿Cuál es el único jugador que ha ganado 3 Mundiales?",
+          "options": ["Pelé", "Ronaldinho", "Kaká", "Garrincha"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "futbol2-13",
+          "question": "¿Qué club tiene el récord de más ligas consecutivas en España?",
+          "options": ["Real Madrid", "Barcelona", "Athletic Bilbao", "Atlético Madrid"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "futbol2-14",
+          "question": "¿En qué año se introdujo la regla del fuera de juego moderno?",
+          "options": ["1863", "1925", "1930", "1950"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "futbol2-15",
+          "question": "¿Qué portero tiene más partidos internacionales en la historia?",
+          "options": ["Gianluigi Buffon", "Iker Casillas", "Ahmed Hassan", "Sergio Ramos"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "futbol3-1",
+          "question": "¿Qué jugador tiene el récord de goles en una sola temporada europea?",
+          "options": ["Lionel Messi", "Gerd Müller", "Cristiano Ronaldo", "Robert Lewandowski"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-2",
+          "question": "¿Cuál fue el primer club en ganar la Copa de Europa/Champions tres veces consecutivas en la era moderna?",
+          "options": ["Real Madrid", "Milan", "Ajax", "Bayern Múnich"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-3",
+          "question": "¿Qué jugador marcó el gol más rápido en la historia de la Champions League?",
+          "options": ["Alan Shearer", "Roy Makaay", "Karim Benzema", "Clarence Seedorf"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-4",
+          "question": "¿Cuál es el único país que ha participado en todos los Mundiales de fútbol?",
+          "options": ["Argentina", "Brasil", "Alemania", "Uruguay"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-5",
+          "question": "¿Qué entrenador creó el sistema táctico 'Catenaccio'?",
+          "options": ["Helenio Herrera", "Nereo Rocco", "Arrigo Sacchi", "Giovanni Trapattoni"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-6",
+          "question": "¿Cuál fue la primera selección no europea en ganar un Mundial fuera de su continente?",
+          "options": ["Brasil", "Argentina", "Uruguay", "Chile"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-7",
+          "question": "¿Qué club tiene más títulos internacionales oficiales reconocidos por FIFA?",
+          "options": ["Real Madrid", "Milan", "Boca Juniors", "Al Ahly"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-8",
+          "question": "¿Cuál es el único jugador que ha ganado la Champions con 3 clubes diferentes?",
+          "options": ["Clarence Seedorf", "Andrea Pirlo", "Paulo Maldini", "Kaká"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-9",
+          "question": "¿En qué año se estableció la regla de los tres puntos por victoria?",
+          "options": ["1981", "1995", "1993", "1990"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-10",
+          "question": "¿Qué jugador tiene el récord de más asistencias en una temporada de Champions League?",
+          "options": ["Lionel Messi", "Kevin De Bruyne", "Cristiano Ronaldo", "Cesc Fàbregas"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-11",
+          "question": "¿Cuál fue el primer Mundial en usar la tecnología de línea de gol?",
+          "options": ["Sudáfrica 2010", "Brasil 2014", "Rusia 2018", "Qatar 2022"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-12",
+          "question": "¿Qué club fue el primero en ganar el triplete (Liga, Copa y Champions) en España?",
+          "options": ["Real Madrid", "Barcelona", "Atlético Madrid", "Valencia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "futbol3-13",
+          "question": "¿Cuál es el único jugador que ha marcado en 5 Mundiales diferentes?",
+          "options": ["Pelé", "Cristiano Ronaldo", "Lionel Messi", "Miroslav Klose"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-14",
+          "question": "¿Qué selección tiene el récord de más goles marcados en un solo Mundial?",
+          "options": ["Brasil 1970", "Hungría 1954", "Francia 1958", "Alemania 2014"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "futbol3-15",
+          "question": "¿Cuál fue el primer club en alcanzar los 1000 millones de euros en ingresos anuales?",
+          "options": ["Real Madrid", "Manchester United", "Barcelona", "Bayern Múnich"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
