@@ -1,0 +1,381 @@
+{
+  "category": "starwars",
+  "name": "Star Wars",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "starwars1-1",
+          "question": "¿Cómo se llama el protagonista de la saga original?",
+          "options": ["Han Solo", "Luke Skywalker", "Obi-Wan Kenobi", "Darth Vader"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-2",
+          "question": "¿Cuál es el nombre del lado oscuro de la Fuerza?",
+          "options": ["Lado Sith", "Lado Oscuro", "Imperio", "Dark Side"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-3",
+          "question": "¿Quién es el padre de Luke Skywalker?",
+          "options": ["Obi-Wan Kenobi", "Han Solo", "Darth Vader", "Emperor Palpatine"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-4",
+          "question": "¿Cómo se llama la nave de Han Solo?",
+          "options": ["X-Wing", "Millennium Falcon", "TIE Fighter", "Star Destroyer"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-5",
+          "question": "¿Qué arma usan los Jedi?",
+          "options": ["Blaster", "Sable de luz", "Pistola láser", "Espada láser"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-6",
+          "question": "¿Cómo se llama el planeta natal de Luke?",
+          "options": ["Alderaan", "Tatooine", "Hoth", "Endor"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-7",
+          "question": "¿Quién es la hermana gemela de Luke?",
+          "options": ["Padmé", "Rey", "Leia", "Jyn"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-8",
+          "question": "¿Cómo se llama el droide dorado?",
+          "options": ["R2-D2", "C-3PO", "BB-8", "K-2SO"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-9",
+          "question": "¿Cuál es la frase más famosa de Yoda?",
+          "options": ["Que la Fuerza te acompañe", "Hacer o no hacer, no hay intentar", "Yo soy tu padre", "Esta no es la luna que buscas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-10",
+          "question": "¿Qué construye dos veces el Imperio?",
+          "options": ["Estrella de la Muerte", "Super Destructor", "Base Starkiller", "Supremacy"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-11",
+          "question": "¿Quién creó Star Wars?",
+          "options": ["Steven Spielberg", "George Lucas", "J.J. Abrams", "Rian Johnson"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-12",
+          "question": "¿En qué año se estrenó la primera película de Star Wars?",
+          "options": ["1975", "1976", "1977", "1978"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-13",
+          "question": "¿Cómo se llama el maestro Jedi de Luke?",
+          "options": ["Yoda", "Obi-Wan", "Qui-Gon", "Ambos A y B"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "starwars1-14",
+          "question": "¿Qué raza es Chewbacca?",
+          "options": ["Ewok", "Wookiee", "Hutt", "Rodiano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "starwars1-15",
+          "question": "¿Cuántas lunas tiene Tatooine?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "starwars2-1",
+          "question": "¿Cuál es el nombre real del Emperador?",
+          "options": ["Darth Sidious", "Sheev Palpatine", "Darth Plagueis", "Ambas A y B"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-2",
+          "question": "¿Quién entrenó a Obi-Wan Kenobi?",
+          "options": ["Yoda", "Qui-Gon Jinn", "Mace Windu", "Count Dooku"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-3",
+          "question": "¿En qué planeta se libra la batalla final de Return of the Jedi?",
+          "options": ["Endor", "La luna de Endor", "Yavin 4", "Hoth"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "starwars2-4",
+          "question": "¿Cuál es el nombre Sith de Anakin Skywalker?",
+          "options": ["Darth Vader", "Darth Sidious", "Darth Maul", "Darth Tyranus"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "starwars2-5",
+          "question": "¿Quién interpretó a Darth Vader en el traje?",
+          "options": ["James Earl Jones", "David Prowse", "Hayden Christensen", "Sebastian Shaw"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "starwars2-6",
+          "question": "¿Cuál fue la primera película de Star Wars cronológicamente?",
+          "options": ["A New Hope", "The Phantom Menace", "Attack of the Clones", "Revenge of the Sith"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-7",
+          "question": "¿Cómo murió Padmé Amidala?",
+          "options": ["Fue asesinada", "Murió en el parto", "Perdió la voluntad de vivir", "Ambas B y C"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "starwars2-8",
+          "question": "¿Cuál es el nombre del clon que traiciona a la Orden 66?",
+          "options": ["Rex", "Cody", "Fives", "No hubo ninguno específico"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "starwars2-9",
+          "question": "¿Quién compuso la música de Star Wars?",
+          "options": ["Hans Zimmer", "John Williams", "Danny Elfman", "Howard Shore"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-10",
+          "question": "¿Cuál es el planeta capital de la República/Imperio?",
+          "options": ["Alderaan", "Coruscant", "Naboo", "Kamino"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-11",
+          "question": "¿Qué significa AT-AT?",
+          "options": ["All Terrain Armored Transport", "Advanced Tactical Assault Transport", "Automated Tank Attack Transport", "Armored Transport Assault Tank"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "starwars2-12",
+          "question": "¿Cuántos soles tiene Tatooine?",
+          "options": ["1", "2", "3", "4"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-13",
+          "question": "¿Quién es el mentor de Darth Sidious?",
+          "options": ["Darth Plagueis", "Darth Tenebrous", "Darth Bane", "No se menciona"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "starwars2-14",
+          "question": "¿En qué batalla muere Qui-Gon Jinn?",
+          "options": ["Batalla de Naboo", "Duelo en Naboo", "No murió en batalla", "Batalla de Geonosis"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "starwars2-15",
+          "question": "¿Cuál es el episodio donde aparece por primera vez Yoda?",
+          "options": ["Episodio IV", "Episodio V", "Episodio I", "Episodio III"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "starwars3-1",
+          "question": "¿Cuál es el nombre de la especie de Yoda?",
+          "options": ["No se ha revelado oficialmente", "Yodeling", "Dagobiano", "Jedi"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-2",
+          "question": "¿Quién fue el primer actor considerado para Han Solo?",
+          "options": ["Harrison Ford", "Al Pacino", "Kurt Russell", "Todos fueron considerados"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "starwars3-3",
+          "question": "¿Cuál fue el título de trabajo original de Return of the Jedi?",
+          "options": ["Revenge of the Jedi", "Return of the Sith", "The Final Chapter", "Blue Harvest"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-4",
+          "question": "¿Cuántos midichlorians tenía Anakin Skywalker?",
+          "options": ["15,000", "20,000", "Más de 20,000", "27,700"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-5",
+          "question": "¿Cuál es el nombre del sistema estelar donde está Tatooine?",
+          "options": ["Sistema Tatoo", "Sistema Binary", "Sistema Outer Rim", "Sistema Hutt"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "starwars3-6",
+          "question": "¿Quién dirigió The Empire Strikes Back?",
+          "options": ["George Lucas", "Irvin Kershner", "Richard Marquand", "Lawrence Kasdan"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "starwars3-7",
+          "question": "¿Cuál es el nombre del cantinero en la cantina de Mos Eisley?",
+          "options": ["Wuher", "Figrin D'an", "Greedo", "No tiene nombre canon"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-8",
+          "question": "¿Cuántos formas de comunicación conoce C-3PO?",
+          "options": ["6 millones", "Más de 6 millones", "7 millones", "Varía según la película"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "starwars3-9",
+          "question": "¿Cuál es el nombre de la Orden que precedió a los Jedi?",
+          "options": ["Orden Je'daii", "Orden Prime", "No hubo una orden precedente", "Orden de los Sith"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-10",
+          "question": "¿En qué consistía la Regla de Dos de los Sith?",
+          "options": ["Solo dos Sith a la vez", "Un maestro y un aprendiz", "Dos planetas Sith", "Ambas A y B"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "starwars3-11",
+          "question": "¿Cuál es la longitud oficial del Millennium Falcon?",
+          "options": ["34.37 metros", "34.75 metros", "35 metros", "Ha variado según las fuentes"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-12",
+          "question": "¿Quién fue el emperador Sith anterior a Palpatine según las leyendas?",
+          "options": ["Darth Plagueis", "Darth Krayt", "Darth Vitiate", "No hubo ninguno"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-13",
+          "question": "¿Cuál es el nombre real de la base rebelde en Hoth?",
+          "options": ["Base Echo", "Outpost Beta", "Echo Base", "Base Hoth"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "starwars3-14",
+          "question": "¿Cuántos estudiantes tenía Luke en su academia Jedi según las Leyendas?",
+          "options": ["12", "20", "Variaba", "Más de 50"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "starwars3-15",
+          "question": "¿Cuál fue el primer nombre considerado para Luke Skywalker?",
+          "options": ["Luke Starkiller", "Annikin Starkiller", "Jake Skywalker", "Luke Starwalker"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
