@@ -1,0 +1,381 @@
+{
+  "category": "pokemon",
+  "name": "Pokémon",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "pokemon1-1",
+          "question": "¿Cuál es el Pokémon más famoso?",
+          "options": ["Charizard", "Pikachu", "Mew", "Mewtwo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-2",
+          "question": "¿Cómo se llama el protagonista del anime?",
+          "options": ["Red", "Blue", "Ash", "Gary"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-3",
+          "question": "¿Cuántos tipos de Pokémon había originalmente?",
+          "options": ["15", "17", "18", "20"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-4",
+          "question": "¿Cuáles son los Pokémon iniciales de Kanto?",
+          "options": ["Bulbasaur, Squirtle, Charmander", "Chikorita, Totodile, Cyndaquil", "Treecko, Mudkip, Torchic", "Turtwig, Piplup, Chimchar"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-5",
+          "question": "¿En qué región comienza la aventura original?",
+          "options": ["Johto", "Kanto", "Hoenn", "Sinnoh"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-6",
+          "question": "¿Cómo se llama el profesor de Kanto?",
+          "options": ["Profesor Oak", "Profesor Elm", "Profesor Birch", "Profesor Rowan"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-7",
+          "question": "¿Qué tipo de Pokémon es Pikachu?",
+          "options": ["Normal", "Eléctrico", "Amarillo", "Ratón"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-8",
+          "question": "¿Cuál es la evolución de Pikachu?",
+          "options": ["Pichu", "Raichu", "Pikablu", "No evoluciona"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-9",
+          "question": "¿Cuántos Pokémon había en la primera generación?",
+          "options": ["150", "151", "152", "200"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-10",
+          "question": "¿Cómo se llama la organización villana de Kanto?",
+          "options": ["Team Rocket", "Team Plasma", "Team Galactic", "Team Magma"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-11",
+          "question": "¿Quiénes son los miembros principales del Team Rocket?",
+          "options": ["Jessie y James", "Butch y Cassidy", "Giovanni y Persian", "Archer y Ariana"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-12",
+          "question": "¿Cuál es el Pokémon número 001 en la Pokédex Nacional?",
+          "options": ["Pikachu", "Mew", "Bulbasaur", "Charmander"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-13",
+          "question": "¿Qué significa 'Pokémon'?",
+          "options": ["Pocket Monsters", "Power Monsters", "Pokket Monsters", "Pokemon"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "pokemon1-14",
+          "question": "¿En qué año salió el primer juego de Pokémon?",
+          "options": ["1995", "1996", "1997", "1998"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "pokemon1-15",
+          "question": "¿Cuál es el objetivo principal de un entrenador Pokémon?",
+          "options": ["Ser el mejor", "Atrapar Pokémon", "Ser Maestro Pokémon", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "pokemon2-1",
+          "question": "¿Quién creó Pokémon?",
+          "options": ["Satoshi Tajiri", "Shigeru Miyamoto", "Ken Sugimori", "Junichi Masuda"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-2",
+          "question": "¿Cuál fue el primer Pokémon diseñado?",
+          "options": ["Pikachu", "Rhydon", "Clefairy", "Mew"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-3",
+          "question": "¿Qué Pokémon tiene el número 150 en la Pokédex?",
+          "options": ["Mew", "Mewtwo", "Dragonite", "Charizard"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-4",
+          "question": "¿Cuál es el único tipo que era inmune a Psíquico en la primera generación?",
+          "options": ["Siniestro", "No había ninguno", "Acero", "Fantasma"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-5",
+          "question": "¿Qué Pokémon legendario tiene la habilidad 'Presión'?",
+          "options": ["Mew", "Varios legendarios la tienen", "Mewtwo", "Arceus"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-6",
+          "question": "¿En qué generación se introdujeron las habilidades?",
+          "options": ["Segunda", "Tercera", "Cuarta", "Primera"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-7",
+          "question": "¿Cuál es el Pokémon más pesado?",
+          "options": ["Snorlax", "Wailord", "Groudon", "Celesteela"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-8",
+          "question": "¿Qué tipos se añadieron en la segunda generación?",
+          "options": ["Siniestro y Acero", "Hada", "Ninguno", "Volador"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-9",
+          "question": "¿Cuál es el único Pokémon que puede aprender todos los movimientos MT?",
+          "options": ["Mew", "Arceus", "Ditto", "Ninguno puede"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-10",
+          "question": "¿Qué significa IV en términos de Pokémon?",
+          "options": ["Individual Values", "Internal Values", "Inherent Values", "Initial Values"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-11",
+          "question": "¿Cuántos puntos de experiencia necesita Magikarp para llegar al nivel 100?",
+          "options": ["800,000", "1,000,000", "1,250,000", "600,000"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-12",
+          "question": "¿Qué Pokémon fue originalmente la mascota antes que Pikachu?",
+          "options": ["Clefairy", "Jigglypuff", "Eevee", "Poliwag"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "pokemon2-13",
+          "question": "¿Cuál es la evolución de Eevee introducida en Johto?",
+          "options": ["Umbreon y Espeon", "Solo Espeon", "Solo Umbreon", "Leafeon"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-14",
+          "question": "¿Qué empresa desarrolla los juegos principales de Pokémon?",
+          "options": ["Nintendo", "Game Freak", "Creatures Inc.", "The Pokémon Company"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "pokemon2-15",
+          "question": "¿Cuál es el Pokémon más rápido en términos de estadística base?",
+          "options": ["Ninjask", "Crobat", "Electrode", "Deoxys Velocidad"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "pokemon3-1",
+          "question": "¿Cuál es el único Pokémon que puede tener la habilidad 'Wonder Guard'?",
+          "options": ["Shedinja", "Spiritomb", "Sableye", "Wonder Guard no existe"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-2",
+          "question": "¿Qué Pokémon tiene el BST (Base Stat Total) más alto?",
+          "options": ["Arceus", "Eternatus Eternamax", "Mega Rayquaza", "Ultra Necrozma"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-3",
+          "question": "¿Cuál era el nombre original de Psyduck en japonés?",
+          "options": ["Koduck", "Psyduck", "Golduck", "Katsuyuki"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-4",
+          "question": "¿Qué glitch famoso permitía encontrar MissingNo?",
+          "options": ["Glitch de duplicación", "Glitch de la Costa Este", "Surf en Cinnabar", "Glitch del Safari"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "pokemon3-5",
+          "question": "¿Cuál es el único movimiento que Smeargle NO puede aprender?",
+          "options": ["Chatter", "Sketch", "Struggle", "Ninguno"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-6",
+          "question": "¿Qué significa el nombre 'Satoshi' en el contexto Pokémon?",
+          "options": ["Nombre del creador", "Ash en japonés", "Ambas A y B", "Un desarrollador"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "pokemon3-7",
+          "question": "¿Cuál es la única combinación de tipos que no existe hasta la actualidad?",
+          "options": ["Normal/Hielo", "Fuego/Hierba", "Varias combinaciones faltan", "Todas existen"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-8",
+          "question": "¿Qué Pokémon fue inspirado por el desarrollador Ken Sugimori?",
+          "options": ["Alakazam", "Jynx", "Mr. Mime", "Hypno"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-9",
+          "question": "¿Cuál es el ratio de género más raro para Pokémon no legendarios?",
+          "options": ["87.5% macho", "87.5% hembra", "100% de un género", "Sin género"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "pokemon3-10",
+          "question": "¿Qué Pokémon tiene las estadísticas base más balanceadas?",
+          "options": ["Mew", "Arceus", "Celebi", "Varios empatan"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "pokemon3-11",
+          "question": "¿Cuál fue el primer Pokémon en recibir una Mega Evolución revelada?",
+          "options": ["Mega Charizard", "Mega Mewtwo", "Mega Lucario", "Mega Blaziken"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-12",
+          "question": "¿Qué región está basada en Francia?",
+          "options": ["Kalos", "Galar", "Alola", "Paldea"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "pokemon3-13",
+          "question": "¿Cuál es el peso exacto de Cosmoem?",
+          "options": ["999.9 kg", "1000.0 kg", "2204.4 lbs", "No se especifica"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "pokemon3-14",
+          "question": "¿Qué significa 'EV' en el contexto de entrenamiento Pokémon?",
+          "options": ["Effort Values", "Experience Values", "Evolution Values", "Enhanced Values"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "pokemon3-15",
+          "question": "¿Cuál es el máximo número de EVs que puede tener un Pokémon?",
+          "options": ["510", "508", "255", "252"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
