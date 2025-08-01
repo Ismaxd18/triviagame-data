@@ -1,0 +1,381 @@
+{
+  "category": "dc",
+  "name": "DC Comics",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "dc1-1",
+          "question": "¿Cuál es el nombre real de Superman?",
+          "options": ["Clark Kent", "Kal-El", "Clark Joseph Kent", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "dc1-2",
+          "question": "¿Cuál es la debilidad principal de Superman?",
+          "options": ["Magia", "Kryptonita", "Radiación roja", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-3",
+          "question": "¿Cuál es el nombre real de Batman?",
+          "options": ["Bruce Wayne", "Dick Grayson", "Tim Drake", "Jason Todd"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "dc1-4",
+          "question": "¿En qué ciudad vive Batman?",
+          "options": ["Metropolis", "Star City", "Gotham City", "Central City"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "dc1-5",
+          "question": "¿Cuál es el nombre real de Wonder Woman?",
+          "options": ["Diana Prince", "Diana of Themyscira", "Princess Diana", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-6",
+          "question": "¿Cómo se llama el mayordomo de Batman?",
+          "options": ["Alfred", "Winston", "Jarvis", "Wadsworth"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "dc1-7",
+          "question": "¿Cuál es el nombre del planeta natal de Superman?",
+          "options": ["Krypton", "Kandor", "Argo", "Bizarro World"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "dc1-8",
+          "question": "¿Quién es el enemigo principal de Superman?",
+          "options": ["Joker", "Lex Luthor", "Doomsday", "Brainiac"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-9",
+          "question": "¿Cuál es el nombre del grupo de superhéroes más famoso de DC?",
+          "options": ["Teen Titans", "Justice League", "Doom Patrol", "Legion of Super-Heroes"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-10",
+          "question": "¿Qué significa DC en DC Comics?",
+          "options": ["Detective Comics", "Dynamic Comics", "Direct Comics", "Digital Comics"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "dc1-11",
+          "question": "¿Cuál es el nombre real de The Flash?",
+          "options": ["Wally West", "Jay Garrick", "Barry Allen", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-12",
+          "question": "¿Cuál es el arma principal de Wonder Woman?",
+          "options": ["Lazo de la Verdad", "Escudo", "Espada", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-13",
+          "question": "¿Quién es el enemigo principal de Batman?",
+          "options": ["Penguin", "Riddler", "Joker", "Two-Face"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "dc1-14",
+          "question": "¿Cuál es el poder principal de Green Lantern?",
+          "options": ["Volar", "Super fuerza", "Anillo de poder", "Invisibilidad"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "dc1-15",
+          "question": "¿Cómo se llama el primer Robin?",
+          "options": ["Tim Drake", "Jason Todd", "Dick Grayson", "Damian Wayne"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "dc2-1",
+          "question": "¿En qué año fue fundado DC Comics?",
+          "options": ["1934", "1935", "1938", "1939"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-2",
+          "question": "¿Quién creó a Superman?",
+          "options": ["Bob Kane y Bill Finger", "Jerry Siegel y Joe Shuster", "William Moulton Marston", "Gardner Fox"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-3",
+          "question": "¿En qué cómic apareció por primera vez Superman?",
+          "options": ["Action Comics #1", "Superman #1", "Detective Comics #27", "All-American Comics #16"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "dc2-4",
+          "question": "¿Cuál es el nombre real de Aquaman?",
+          "options": ["Arthur Curry", "Orin", "Arthur Joseph Curry", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-5",
+          "question": "¿Quién es el creador de Batman?",
+          "options": ["Bob Kane solo", "Bill Finger solo", "Bob Kane y Bill Finger", "Jerry Siegel"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "dc2-6",
+          "question": "¿Cuál es el nombre del multiverso de DC Comics?",
+          "options": ["DC Multiverse", "Crisis Multiverse", "Infinite Earths", "52 Multiverse"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-7",
+          "question": "¿Qué evento de DC reinició su continuidad en 1985?",
+          "options": ["Final Crisis", "Crisis on Infinite Earths", "Zero Hour", "Infinite Crisis"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "dc2-8",
+          "question": "¿Cuál es el nombre del padre adoptivo de Superman?",
+          "options": ["Jonathan Kent", "John Kent", "Joseph Kent", "James Kent"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "dc2-9",
+          "question": "¿Quién es Lex Luthor?",
+          "options": ["Científico", "Empresario", "Presidente de EE.UU.", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-10",
+          "question": "¿Cuál es el nombre del universo donde los héroes son villanos?",
+          "options": ["Earth-2", "Earth-3", "Bizarro World", "Earth-X"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "dc2-11",
+          "question": "¿Quién mató a los padres de Batman?",
+          "options": ["Joe Chill", "Joker", "Carmine Falcone", "Depende de la versión"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-12",
+          "question": "¿Cuál es el nombre real de Cyborg?",
+          "options": ["Victor Stone", "Vincent Stone", "Victor Stoner", "Vic Stone"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "dc2-13",
+          "question": "¿Quién es el líder de los Teen Titans?",
+          "options": ["Robin", "Starfire", "Raven", "Depende de la época"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "dc2-14",
+          "question": "¿Cuál es el nombre del villano que 'rompió' a Batman?",
+          "options": ["Joker", "Bane", "Ra's al Ghul", "Scarecrow"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "dc2-15",
+          "question": "¿Qué color de Kryptonita es la más común?",
+          "options": ["Roja", "Verde", "Azul", "Dorada"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "dc3-1",
+          "question": "¿Cuál fue el primer cómic publicado por DC Comics?",
+          "options": ["Action Comics #1", "Detective Comics #1", "New Fun Comics #1", "More Fun Comics #1"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-2",
+          "question": "¿Quién fue el primer Green Lantern?",
+          "options": ["Hal Jordan", "Guy Gardner", "Alan Scott", "John Stewart"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-3",
+          "question": "¿Cuál es el nombre real del primer Atom?",
+          "options": ["Ray Palmer", "Al Pratt", "Ryan Choi", "Adam Cray"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-4",
+          "question": "¿En qué tierra del multiverso viven los héroes de la Edad de Oro?",
+          "options": ["Earth-1", "Earth-2", "Earth-Prime", "Earth-0"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-5",
+          "question": "¿Quién es el Monitor?",
+          "options": ["Un villano cósmico", "Un vigilante del multiverso", "El creador del multiverso", "Un héroe del futuro"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-6",
+          "question": "¿Cuál es el verdadero nombre de The Spectre?",
+          "options": ["Jim Corrigan", "Hal Jordan", "Crispus Allen", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-7",
+          "question": "¿Quién escribió 'The Killing Joke'?",
+          "options": ["Frank Miller", "Alan Moore", "Grant Morrison", "Neil Gaiman"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-8",
+          "question": "¿Cuál es el nombre del Anti-Monitor?",
+          "options": ["Mobius", "Monitor", "No tiene nombre", "Anti-Mobius"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-9",
+          "question": "¿Quién es el creador de Sandman (Morpheus)?",
+          "options": ["Alan Moore", "Grant Morrison", "Neil Gaiman", "Garth Ennis"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-10",
+          "question": "¿Cuál es el nombre del reino de Wonder Woman?",
+          "options": ["Themyscira", "Paradise Island", "Amazon Island", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-11",
+          "question": "¿Quién fue el segundo Robin que murió?",
+          "options": ["Dick Grayson", "Jason Todd", "Tim Drake", "Damian Wayne"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-12",
+          "question": "¿Cuál es el nombre del dios del mal en el universo DC?",
+          "options": ["Darkseid", "Apokolips", "Anti-Life", "Desaad"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "dc3-13",
+          "question": "¿Qué editorial absorbió DC Comics para crear National Allied Publications?",
+          "options": ["All-American Publications", "Quality Comics", "Fawcett Publications", "Charlton Comics"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-14",
+          "question": "¿Cuál es el nombre del hermano de Lex Luthor?",
+          "options": ["Lionel Luthor", "Lena Luthor", "No tiene hermano", "Alexander Luthor"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "dc3-15",
+          "question": "¿Quién escribió 'Watchmen'?",
+          "options": ["Frank Miller", "Alan Moore", "Grant Morrison", "Warren Ellis"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
