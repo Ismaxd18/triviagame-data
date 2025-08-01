@@ -1,0 +1,381 @@
+{
+  "category": "roma",
+  "name": "Roma Imperial",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "roma1-1",
+          "question": "¿Quién fue el primer emperador de Roma?",
+          "options": ["Julio César", "Augusto", "Nerón", "Trajano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "roma1-2",
+          "question": "¿Cuál era el nombre del anfiteatro más famoso de Roma?",
+          "options": ["Circo Máximo", "Coliseo", "Teatro de Marcelo", "Estadio de Domiciano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "roma1-3",
+          "question": "¿Qué significa SPQR?",
+          "options": ["Senatus Populusque Romanus", "Senado y Pueblo Romano", "Ambas son correctas", "Solo la primera es correcta"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-4",
+          "question": "¿Cómo se llamaban los soldados romanos?",
+          "options": ["Legionarios", "Centuriones", "Pretorianos", "Gladiadores"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "roma1-5",
+          "question": "¿Qué emperador construyó un muro en Britania?",
+          "options": ["Trajano", "Adriano", "Marco Aurelio", "Antonino Pío"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-6",
+          "question": "¿Cuál era la unidad básica del ejército romano?",
+          "options": ["Centuria", "Legión", "Cohorte", "Manipulo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-7",
+          "question": "¿Qué emperador dividió el Imperio Romano?",
+          "options": ["Constantino", "Diocleciano", "Teodosio", "Justiniano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-8",
+          "question": "¿En qué año cayó el Imperio Romano de Occidente?",
+          "options": ["410 d.C.", "455 d.C.", "476 d.C.", "493 d.C."],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "roma1-9",
+          "question": "¿Qué idioma hablaban los romanos?",
+          "options": ["Italiano", "Latín", "Griego", "Galo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "roma1-10",
+          "question": "¿Cómo se llamaba la túnica característica de los romanos?",
+          "options": ["Toga", "Stola", "Tunica", "Pallium"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "roma1-11",
+          "question": "¿Qué volcán destruyó Pompeya?",
+          "options": ["Etna", "Vesubio", "Estrómboli", "Vulcano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "roma1-12",
+          "question": "¿Cuál era la capital del Imperio Romano de Oriente?",
+          "options": ["Roma", "Alejandría", "Constantinopla", "Antioquía"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-13",
+          "question": "¿Qué emperador legalizó el cristianismo?",
+          "options": ["Constantino", "Teodosio", "Justiniano", "Diocleciano"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-14",
+          "question": "¿Cómo se llamaban las carreras de carros en Roma?",
+          "options": ["Ludi", "Munera", "Circenses", "Naumachia"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "roma1-15",
+          "question": "¿Quién fue el último emperador romano de Occidente?",
+          "options": ["Rómulo Augústulo", "Odoacro", "Teodosio", "Honorio"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "roma2-1",
+          "question": "¿Cuál fue la dinastía que siguió a los Julio-Claudios?",
+          "options": ["Antoninos", "Flavios", "Severos", "Tetrarcas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-2",
+          "question": "¿Qué emperador construyó los Mercados de Trajano?",
+          "options": ["Trajano", "Adriano", "Antonino Pío", "Marco Aurelio"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-3",
+          "question": "¿Cuál era el nombre del sistema de gobierno antes del Imperio?",
+          "options": ["Monarquía", "República", "Dictadura", "Oligarquía"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "roma2-4",
+          "question": "¿Qué emperadores formaron el Primer Triunvirato?",
+          "options": ["César, Pompeyo, Craso", "Augusto, Marco Antonio, Lépido", "No era de emperadores", "Trajano, Adriano, Antonino"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "roma2-5",
+          "question": "¿Cuántos soldados tenía una legión romana completa?",
+          "options": ["3,000", "5,000", "6,000", "10,000"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "roma2-6",
+          "question": "¿Qué período se conoce como 'Pax Romana'?",
+          "options": ["27 a.C. - 180 d.C.", "14 d.C. - 192 d.C.", "96 d.C. - 180 d.C.", "Varía según el autor"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "roma2-7",
+          "question": "¿Quién fue el emperador filósofo?",
+          "options": ["Séneca", "Marco Aurelio", "Adriano", "Antonino Pío"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-8",
+          "question": "¿Qué emperador persiguió más cruelmente a los cristianos?",
+          "options": ["Nerón", "Diocleciano", "Decius", "Todos por igual"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-9",
+          "question": "¿Cuál era la diferencia entre 'ciudadano' y 'peregrino'?",
+          "options": ["No había diferencia", "Ciudadano tenía derechos plenos", "Peregrino era extranjero", "Ambas B y C"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "roma2-10",
+          "question": "¿Qué emperador dio ciudadanía romana a todos los habitantes libres?",
+          "options": ["Caracalla", "Septimio Severo", "Alejandro Severo", "Diocleciano"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "roma2-11",
+          "question": "¿Cuál era el nombre del consejo asesor del emperador?",
+          "options": ["Senado", "Consilium Principis", "Comitia", "Curia"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "roma2-12",
+          "question": "¿Qué crisis vivió Roma en el siglo III?",
+          "options": ["Crisis del siglo III", "Anarquía militar", "Crisis de los emperadores soldado", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-13",
+          "question": "¿Cuál era la capital de la Galia romana?",
+          "options": ["Paris", "Lyon", "Marsella", "Reims"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-14",
+          "question": "¿Qué emperador construyó las Termas de Caracalla?",
+          "options": ["Caracalla", "Septimio Severo", "Diocleciano", "Constantino"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "roma2-15",
+          "question": "¿Cuál era el nombre de la guardia personal del emperador?",
+          "options": ["Legiones", "Pretorianos", "Auxiliares", "Vigiles"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "roma3-1",
+          "question": "¿Cuál era el sistema monetario romano bajo Augusto?",
+          "options": ["Aureus, denarius, sestertius, as", "Solo aureus y denarius", "Solidus, follis, nummus", "Variaba por provincia"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-2",
+          "question": "¿Qué emperador estableció la Tetrarquía?",
+          "options": ["Diocleciano", "Constantino", "Galerio", "Maximiano"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-3",
+          "question": "¿Cuál era el nombre oficial completo de Augusto?",
+          "options": ["Imperator Caesar Divi Filius Augustus", "Caesar Augustus Imperator", "Gaius Octavius Augustus", "Princeps Augustus Caesar"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-4",
+          "question": "¿Qué significaba 'Imperium maius'?",
+          "options": ["Imperio mayor", "Autoridad suprema sobre todas las provincias", "Poder militar absoluto", "Título honorífico"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-5",
+          "question": "¿Cuál era la diferencia entre 'latifundium' y 'fundus'?",
+          "options": ["Tamaño de la propiedad", "Tipo de cultivo", "Ubicación geográfica", "Régimen de propiedad"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-6",
+          "question": "¿Qué emperador promulgó el Edicto de Milán?",
+          "options": ["Constantino solo", "Licinio solo", "Constantino y Licinio", "Galerio"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-7",
+          "question": "¿Cuál era el nombre del sistema de sucesión adoptiva?",
+          "options": ["Adoptio", "No tenía nombre específico", "Successio", "Hereditas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-8",
+          "question": "¿Qué prefecto del pretorio escribió el 'Digesto'?",
+          "options": ["Ulpiano", "Papiniano", "Paulo", "Modestino"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-9",
+          "question": "¿Cuál era la diferencia entre 'coloniae' y 'municipia'?",
+          "options": ["Origen de la fundación", "Derechos ciudadanos", "Ubicación geográfica", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-10",
+          "question": "¿Qué emperador estableció el 'cursus honorum' imperial?",
+          "options": ["Augusto", "Claudio", "Vespasiano", "Trajano"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-11",
+          "question": "¿Cuál era el nombre del impuesto de herencia romano?",
+          "options": ["Vicesima hereditatium", "Tributum capitis", "Vectigal", "Portorium"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "roma3-12",
+          "question": "¿Qué significaba el término 'Dominus et Deus'?",
+          "options": ["Señor y Dios", "Título de Domiciano", "Cambio hacia monarquía absoluta", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-13",
+          "question": "¿Cuál era el nombre del sistema de abastecimiento de grano?",
+          "options": ["Annona", "Frumentatio", "Congiarium", "Sportula"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-14",
+          "question": "¿Qué emperador promulgó la Constitutio Antoniniana?",
+          "options": ["Marco Aurelio", "Caracalla", "Antonino Pío", "Cómodo"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "roma3-15",
+          "question": "¿Cuál era la diferencia entre 'honestiores' y 'humiliores'?",
+          "options": ["Clases sociales", "Diferentes castigos legales", "Privilegios económicos", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
