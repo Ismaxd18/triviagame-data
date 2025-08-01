@@ -1,0 +1,381 @@
+{
+  "category": "disney",
+  "name": "Disney Clásicos",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "disney1-1",
+          "question": "¿Cuál fue la primera película animada de Disney?",
+          "options": ["Bambi", "Blancanieves y los siete enanitos", "Pinocho", "Fantasía"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-2",
+          "question": "¿Cómo se llama el ratón más famoso de Disney?",
+          "options": ["Mickey Mouse", "Jerry", "Stuart Little", "Speedy Gonzales"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-3",
+          "question": "¿Cuál es el nombre de la novia de Mickey Mouse?",
+          "options": ["Daisy", "Minnie Mouse", "Clarabelle", "Bella"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-4",
+          "question": "¿En qué película aparece la canción 'Hakuna Matata'?",
+          "options": ["Aladdin", "El Rey León", "La Sirenita", "Pocahontas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "disney1-5",
+          "question": "¿Cómo se llama el pez de Ariel en La Sirenita?",
+          "options": ["Sebastián", "Flounder", "Scuttle", "Max"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "disney1-6",
+          "question": "¿Cuántos enanitos acompañan a Blancanieves?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-7",
+          "question": "¿Qué animal es Bambi?",
+          "options": ["Conejo", "Venado", "Oso", "Zorro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-8",
+          "question": "¿Cómo se llama el protagonista de Aladdin?",
+          "options": ["Aladino", "Aladdin", "Ali", "Jasmine"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-9",
+          "question": "¿Cuál es el nombre del cangrejo en La Sirenita?",
+          "options": ["Sebastián", "Flounder", "Scuttle", "Eric"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "disney1-10",
+          "question": "¿Qué fruta envenenada come Blancanieves?",
+          "options": ["Pera", "Manzana", "Uva", "Cereza"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-11",
+          "question": "¿Cómo se llama el hada madrina de Cenicienta?",
+          "options": ["Merlín", "Blue Fairy", "Hada Madrina", "Flora"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "disney1-12",
+          "question": "¿Qué pierde Cenicienta en el baile?",
+          "options": ["Un guante", "Un zapato", "Un collar", "Un pendiente"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-13",
+          "question": "¿Cuál es el nombre del león protagonista de El Rey León?",
+          "options": ["Mufasa", "Scar", "Simba", "Timon"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "disney1-14",
+          "question": "¿Cómo se llama el mejor amigo de Winnie the Pooh?",
+          "options": ["Tigger", "Piglet", "Eeyore", "Christopher Robin"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "disney1-15",
+          "question": "¿En qué se convierte la carroza de Cenicienta a medianoche?",
+          "options": ["Calabaza", "Sandía", "Melón", "Desaparece"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "disney2-1",
+          "question": "¿En qué año se fundó The Walt Disney Company?",
+          "options": ["1923", "1928", "1930", "1937"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "disney2-2",
+          "question": "¿Cuál fue el primer cortometraje de Mickey Mouse?",
+          "options": ["Steamboat Willie", "Plane Crazy", "The Gallopin' Gaucho", "Mickey's Follies"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-3",
+          "question": "¿Qué película de Disney fue la primera en usar la técnica multiplane?",
+          "options": ["Blancanieves", "Pinocho", "El Patito Feo", "Bambi"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-4",
+          "question": "¿Cuántas hadas madrinas tiene la Bella Durmiente?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "disney2-5",
+          "question": "¿Cómo se llaman las hadas de la Bella Durmiente?",
+          "options": ["Flora, Fauna y Primavera", "Flora, Fauna y Merryweather", "Rosa, Azul y Verde", "Tinker Bell, Flora y Fauna"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-6",
+          "question": "¿En qué película Disney aparece por primera vez el Pato Donald?",
+          "options": ["Los Tres Cerditos", "La Gallinita Sabia", "Orphan's Benefit", "The Band Concert"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-7",
+          "question": "¿Cuál es el nombre real de la Bella Durmiente?",
+          "options": ["Aurora", "Rosa", "Briar Rose", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "disney2-8",
+          "question": "¿Qué estudio fundó Walt Disney antes de Disney?",
+          "options": ["Laugh-O-Gram Studio", "Iwerks-Disney", "Disney Brothers Studio", "Hyperion Studio"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-9",
+          "question": "¿Cuál fue la primera película de Disney en ganar un Oscar?",
+          "options": ["Blancanieves", "Flores y Árboles", "Los Tres Cerditos", "El Patito Feo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-10",
+          "question": "¿Quién fue el co-creador de Mickey Mouse junto a Walt Disney?",
+          "options": ["Roy Disney", "Ub Iwerks", "Carl Stalling", "Les Clark"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "disney2-11",
+          "question": "¿Cuál es el nombre del villano en El Rey León?",
+          "options": ["Scar", "Hyena", "Jafar", "Maleficent"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "disney2-12",
+          "question": "¿En qué ciudad está basada la película de La Sirenita?",
+          "options": ["Atlántida", "Dinamarca", "No especificada", "Copenhague"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "disney2-13",
+          "question": "¿Cuál fue la última película supervisada directamente por Walt Disney?",
+          "options": ["El Libro de la Selva", "Los Aristogatos", "Robin Hood", "El Rescate"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "disney2-14",
+          "question": "¿Qué significa el nombre Hakuna Matata?",
+          "options": ["Vive feliz", "Sin problemas", "No te preocupes", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "disney2-15",
+          "question": "¿Cuál es el nombre del reino en Frozen?",
+          "options": ["Arendelle", "Corona", "DunBroch", "Atlantica"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "disney3-1",
+          "question": "¿Cuál fue el nombre original de Mickey Mouse?",
+          "options": ["Mortimer Mouse", "Michael Mouse", "Marvin Mouse", "Martin Mouse"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "disney3-2",
+          "question": "¿En qué año murió Walt Disney?",
+          "options": ["1965", "1966", "1967", "1968"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "disney3-3",
+          "question": "¿Cuál fue la primera película de Disney en usar Technicolor?",
+          "options": ["Blancanieves", "Flores y Árboles", "Los Tres Cerditos", "El Patito Feo"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-4",
+          "question": "¿Cuánto duró la producción de Blancanieves y los siete enanitos?",
+          "options": ["2 años", "3 años", "4 años", "5 años"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-5",
+          "question": "¿Cuál es el nombre del estudio original de Disney en Los Ángeles?",
+          "options": ["Hyperion Studio", "Burbank Studio", "Disney Brothers Studio", "Walt Disney Studio"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "disney3-6",
+          "question": "¿Qué película de Disney tiene la primera secuencia completamente generada por computadora?",
+          "options": ["La Bella y la Bestia", "El Rey León", "Pocahontas", "Tron"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-7",
+          "question": "¿Cuál fue el primer largometraje de Disney distribuido por RKO?",
+          "options": ["Blancanieves", "Pinocho", "Fantasía", "Dumbo"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-8",
+          "question": "¿Quién fue el supervisor de animación de la secuencia de Mickey en Fantasía?",
+          "options": ["Les Clark", "Fred Moore", "Ward Kimball", "Ollie Johnston"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-9",
+          "question": "¿Cuál fue la primera película de Disney en ser nominada al Oscar a Mejor Película?",
+          "options": ["Blancanieves", "Pinocho", "La Bella y la Bestia", "El Rey León"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "disney3-10",
+          "question": "¿Qué innovación técnica introdujo Bambi en la animación Disney?",
+          "options": ["Multiplane camera", "Xerografía", "Cámara de profundidad", "Todas las anteriores"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-11",
+          "question": "¿Cuál fue el costo aproximado de producción de Fantasía?",
+          "options": ["1.5 millones", "2.3 millones", "3.1 millones", "4.2 millones"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-12",
+          "question": "¿Quién compuso la música para Fantasía junto con la Orquesta de Filadelfia?",
+          "options": ["Leopold Stokowski", "Igor Stravinsky", "Paul Dukas", "Johann Sebastian Bach"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "disney3-13",
+          "question": "¿Cuál fue la primera película de Disney en usar el sistema de sonido estereofónico?",
+          "options": ["Blancanieves", "Pinocho", "Fantasía", "Dumbo"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "disney3-14",
+          "question": "¿En qué año se abrió Disneyland?",
+          "options": ["1954", "1955", "1956", "1957"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "disney3-15",
+          "question": "¿Cuál fue el primer personaje de Disney en tener su propia serie de televisión?",
+          "options": ["Mickey Mouse", "Donald Duck", "Goofy", "Zorro"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
