@@ -1,0 +1,381 @@
+{
+  "category": "japon",
+  "name": "Cultura Japonesa",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "japon1-1",
+          "question": "¿Cuál es la capital de Japón?",
+          "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-2",
+          "question": "¿Cómo se saluda tradicionalmente en Japón?",
+          "options": ["Dándose la mano", "Con una reverencia", "Con un abrazo", "Con un beso en la mejilla"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-3",
+          "question": "¿Cuál es la moneda de Japón?",
+          "options": ["Yuan", "Won", "Yen", "Ringgit"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-4",
+          "question": "¿Qué significa 'sushi'?",
+          "options": ["Pescado crudo", "Arroz avinagrado", "Alga marina", "Palillos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "japon1-5",
+          "question": "¿Cuál es el monte más alto de Japón?",
+          "options": ["Monte Fuji", "Monte Asama", "Monte Hakone", "Monte Aso"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-6",
+          "question": "¿Qué son los 'kimono'?",
+          "options": ["Zapatos", "Vestimenta tradicional", "Instrumentos musicales", "Armas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-7",
+          "question": "¿Cuál es el deporte nacional de Japón?",
+          "options": ["Karate", "Judo", "Sumo", "Kendo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "japon1-8",
+          "question": "¿Qué significa 'anime'?",
+          "options": ["Cómic japonés", "Animación japonesa", "Música japonesa", "Teatro japonés"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-9",
+          "question": "¿Cuál es la escritura japonesa que usa caracteres chinos?",
+          "options": ["Hiragana", "Katakana", "Kanji", "Romaji"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "japon1-10",
+          "question": "¿Qué es el 'sakura'?",
+          "options": ["Flor de cerezo", "Té verde", "Samurai", "Templo"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "japon1-11",
+          "question": "¿Cómo se dice 'gracias' en japonés?",
+          "options": ["Konnichiwa", "Sayonara", "Arigato", "Ohayo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-12",
+          "question": "¿Qué son los 'manga'?",
+          "options": ["Frutas", "Cómics japoneses", "Danzas", "Festivales"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "japon1-13",
+          "question": "¿Cuál es la religión principal en Japón?",
+          "options": ["Budismo", "Shintoísmo", "Cristianismo", "Budismo y Shintoísmo"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "japon1-14",
+          "question": "¿Qué es el 'origami'?",
+          "options": ["Arte de doblar papel", "Cerámica", "Caligrafía", "Jardinería"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "japon1-15",
+          "question": "¿Cuántas islas principales forman Japón?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "japon2-1",
+          "question": "¿Cuál fue el período de aislamiento de Japón?",
+          "options": ["Edo/Tokugawa", "Meiji", "Heian", "Kamakura"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-2",
+          "question": "¿Qué significa 'bushido'?",
+          "options": ["Arte de guerra", "Código del samurai", "Ceremonia del té", "Arquitectura tradicional"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-3",
+          "question": "¿Cuántos sistemas de escritura usa el japonés moderno?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-4",
+          "question": "¿Qué emperador reinó durante la Restauración Meiji?",
+          "options": ["Emperador Meiji", "Emperador Taisho", "Emperador Showa", "Emperador Heisei"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-5",
+          "question": "¿Qué es el 'hanami'?",
+          "options": ["Festival de otoño", "Observación de flores de cerezo", "Ceremonia del té", "Festival de linternas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-6",
+          "question": "¿Cuál es la diferencia entre 'sushi' y 'sashimi'?",
+          "options": ["No hay diferencia", "Sashimi no lleva arroz", "Sushi es cocido", "Sashimi lleva verduras"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-7",
+          "question": "¿Qué es el 'tatami'?",
+          "options": ["Tipo de té", "Estera de paja de arroz", "Instrumento musical", "Arte marcial"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-8",
+          "question": "¿Cuál es el nombre del teatro tradicional japonés con máscaras?",
+          "options": ["Kabuki", "Noh", "Bunraku", "Kyogen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-9",
+          "question": "¿Qué significa 'ikigai'?",
+          "options": ["Ceremonia del té", "Razón de ser", "Arte floral", "Meditación zen"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-10",
+          "question": "¿Cuál es la diferencia entre 'sake' y 'shochu'?",
+          "options": ["Sake es destilado", "Shochu es destilado", "No hay diferencia", "Sake es más fuerte"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-11",
+          "question": "¿Qué es el 'ikebana'?",
+          "options": ["Arte marcial", "Arreglo floral", "Caligrafía", "Danza tradicional"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-12",
+          "question": "¿Cuándo terminó oficialmente el período samurai?",
+          "options": ["1867", "1868", "1876", "1877"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-13",
+          "question": "¿Qué es el 'zazen'?",
+          "options": ["Arte marcial", "Meditación sentada", "Ceremonia del té", "Caligrafía"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "japon2-14",
+          "question": "¿Cuál es el festival más importante del shintoísmo?",
+          "options": ["Obon", "Oshogatsu", "Tanabata", "No hay uno específico"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "japon2-15",
+          "question": "¿Qué significa 'kaizen'?",
+          "options": ["Perfección", "Mejora continua", "Disciplina", "Armonía"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "japon3-1",
+          "question": "¿Cuál es la diferencia entre 'on' y 'kun' en la lectura kanji?",
+          "options": ["On es japonés, kun es chino", "On es chino, kun es japonés", "No hay diferencia", "On es formal, kun es informal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-2",
+          "question": "¿Qué es el 'rinzai' y el 'soto' en el budismo zen?",
+          "options": ["Dos templos", "Dos escuelas zen", "Dos meditaciones", "Dos festivales"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "japon3-3",
+          "question": "¿Cuál es el concepto de 'wa' en la cultura japonesa?",
+          "options": ["Guerra", "Paz", "Armonía", "Respeto"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "japon3-4",
+          "question": "¿Qué es el 'wabi-sabi'?",
+          "options": ["Ceremonia del té", "Estética de la imperfección", "Arte marcial", "Tipo de sushi"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-5",
+          "question": "¿Cuántos niveles de cortesía (keigo) tiene el japonés?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-6",
+          "question": "¿Qué es el 'mono no aware'?",
+          "options": ["Festival de otoño", "Conciencia de la impermanencia", "Arte de espada", "Tipo de teatro"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-7",
+          "question": "¿Cuál es la diferencia entre 'kami' shintoísta y 'hotoke' budista?",
+          "options": ["Kami son espíritus, hotoke son budas", "No hay diferencia", "Kami son ancestros", "Hotoke son espíritus"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "japon3-8",
+          "question": "¿Qué es el 'mukoyoshi' en el sistema familiar japonés?",
+          "options": ["Hijo mayor", "Yerno adoptado", "Ceremonia matrimonial", "Herencia familiar"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-9",
+          "question": "¿Cuál es el principio del 'jo-ha-kyū' en las artes japonesas?",
+          "options": ["Inicio-desarrollo-clímax", "Lento-medio-rápido", "Simple-complejo-refinado", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-10",
+          "question": "¿Qué es el 'shinise' en la cultura empresarial japonesa?",
+          "options": ["Empresa nueva", "Empresa centenaria", "Empresa familiar", "Empresa tecnológica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "japon3-11",
+          "question": "¿Cuál es la diferencia entre 'tatemae' y 'honne'?",
+          "options": ["Público vs privado", "Formal vs informal", "Verdad social vs verdad personal", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-12",
+          "question": "¿Qué es el 'nemawashi' en la cultura empresarial?",
+          "options": ["Reunión formal", "Consenso previo informal", "Presentación", "Despedida"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "japon3-13",
+          "question": "¿Cuál es el concepto de 'shokunin'?",
+          "options": ["Trabajador", "Artesano dedicado", "Empresario", "Estudiante"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "japon3-14",
+          "question": "¿Qué representa el 'ensō' en el zen?",
+          "options": ["Círculo de iluminación", "Vacío", "Infinito", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "japon3-15",
+          "question": "¿Cuál es el principio del 'omotenashi'?",
+          "options": ["Hospitalidad sin expectativas", "Servicio perfecto", "Atención al cliente", "Cortesía extrema"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
