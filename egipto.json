@@ -1,0 +1,381 @@
+{
+  "category": "egipto",
+  "name": "Egipto Antiguo",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "egipto1-1",
+          "question": "¿Cuál es el río más importante del Antiguo Egipto?",
+          "options": ["Tigris", "Éufrates", "Nilo", "Jordán"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-2",
+          "question": "¿Cómo se llamaban los reyes del Antiguo Egipto?",
+          "options": ["Emperadores", "Faraones", "Sultanes", "Reyes"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-3",
+          "question": "¿Cuál es la pirámide más grande de Egipto?",
+          "options": ["Pirámide de Keops", "Pirámide de Kefrén", "Pirámide de Micerinos", "Pirámide Escalonada"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "egipto1-4",
+          "question": "¿Qué animal tenía cabeza la Gran Esfinge de Giza?",
+          "options": ["León", "Humana", "Águila", "Serpiente"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-5",
+          "question": "¿Cómo se llama el proceso de conservación de cuerpos en el Antiguo Egipto?",
+          "options": ["Embalsamamiento", "Momificación", "Preservación", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "egipto1-6",
+          "question": "¿Quién es el dios egipcio con cabeza de chacal?",
+          "options": ["Horus", "Anubis", "Thot", "Sobek"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-7",
+          "question": "¿Cuál era la capital del Antiguo Egipto durante el Reino Nuevo?",
+          "options": ["Memphis", "Tebas", "Alejandría", "El Cairo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "egipto1-8",
+          "question": "¿Qué piedra fue clave para descifrar los jeroglíficos?",
+          "options": ["Piedra de Rosetta", "Piedra de Palermo", "Obelisco de Filae", "Estela de Merneptah"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "egipto1-9",
+          "question": "¿Cuál es el dios egipcio del sol?",
+          "options": ["Ra", "Amón", "Ptah", "Khnum"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-10",
+          "question": "¿Cómo se llamaba la reina más famosa del Antiguo Egipto?",
+          "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Todas son famosas"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "egipto1-11",
+          "question": "¿Qué animal era sagrado para los antiguos egipcios?",
+          "options": ["Perro", "Gato", "Cabra", "Cerdo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-12",
+          "question": "¿Dónde están ubicadas las pirámides más famosas?",
+          "options": ["Giza", "Saqqara", "Dashur", "Meidum"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-13",
+          "question": "¿Qué escribían los antiguos egipcios?",
+          "options": ["Alfabeto", "Jeroglíficos", "Cuneiforme", "Latín"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "egipto1-14",
+          "question": "¿En qué material escribían principalmente los egipcios?",
+          "options": ["Piedra", "Papiro", "Arcilla", "Madera"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "egipto1-15",
+          "question": "¿Quién descifró los jeroglíficos egipcios?",
+          "options": ["Howard Carter", "Jean-François Champollion", "Flinders Petrie", "Auguste Mariette"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "egipto2-1",
+          "question": "¿Cuántas dinastías tuvo el Antiguo Egipto según Manetón?",
+          "options": ["25", "30", "31", "35"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-2",
+          "question": "¿Quién fue el faraón que construyó la primera pirámide?",
+          "options": ["Keops", "Zoser", "Snefru", "Menes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-3",
+          "question": "¿Cómo se llamaba el arquitecto de la pirámide escalonada?",
+          "options": ["Imhotep", "Hemiunu", "Amenhotep", "Senenmut"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-4",
+          "question": "¿Cuál fue el período de mayor esplendor del Antiguo Egipto?",
+          "options": ["Reino Antiguo", "Reino Medio", "Reino Nuevo", "Período Tardío"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-5",
+          "question": "¿Quién fue el faraón que intentó imponer el monoteísmo?",
+          "options": ["Tutankamón", "Akhenatón", "Ramsés II", "Seti I"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-6",
+          "question": "¿Cómo se llamaba la nueva capital de Akhenatón?",
+          "options": ["Amarna", "Avaris", "Tanis", "Heracleópolis"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-7",
+          "question": "¿Cuál era el nombre del dios del agua y las inundaciones?",
+          "options": ["Hapi", "Sobek", "Khnum", "Ptah"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-8",
+          "question": "¿Qué faraón conquistó más territorio?",
+          "options": ["Tutmosis III", "Ramsés II", "Seti I", "Amenhotep II"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-9",
+          "question": "¿Cuál era el libro de los muertos egipcio?",
+          "options": ["Textos de las Pirámides", "Textos de los Sarcófagos", "Libro de la Salida al Día", "Libro de las Cavernas"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-10",
+          "question": "¿Quién encontró la tumba de Tutankamón?",
+          "options": ["Howard Carter", "Lord Carnarvon", "Theodore Davis", "Giovanni Belzoni"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-11",
+          "question": "¿Cuál era la función principal de los escribas?",
+          "options": ["Escribir", "Administrar", "Educar", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-12",
+          "question": "¿Qué metal era más valioso que el oro en el Antiguo Egipto?",
+          "options": ["Plata", "Hierro", "Bronce", "Cobre"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "egipto2-13",
+          "question": "¿Cuál era el nombre del más allá en la mitología egipcia?",
+          "options": ["Duat", "Aaru", "Rostau", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-14",
+          "question": "¿Qué dinastía construyó las pirámides de Giza?",
+          "options": ["III Dinastía", "IV Dinastía", "V Dinastía", "VI Dinastía"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "egipto2-15",
+          "question": "¿Cuál era la diosa egipcia de la magia?",
+          "options": ["Isis", "Hathor", "Bastet", "Sekhmet"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "egipto3-1",
+          "question": "¿Cuál era el nombre del ritual de 'apertura de la boca'?",
+          "options": ["Uab", "Wep-ronpet", "Heb-sed", "No tenía nombre específico"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-2",
+          "question": "¿Cuántos canopes tenía una momia egipcia?",
+          "options": ["3", "4", "5", "7"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-3",
+          "question": "¿Cuál era el nombre de los hijos de Horus que protegían los órganos?",
+          "options": ["Imsety, Hapi, Duamutef, Qebehsenuef", "Anubis, Thot, Horus, Isis", "Ra, Amón, Ptah, Khnum", "Sobek, Taweret, Bes, Khonsu"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-4",
+          "question": "¿Cuál era el sistema de escritura hierática?",
+          "options": ["Jeroglíficos simplificados", "Escritura cursiva", "Escritura sagrada", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-5",
+          "question": "¿Qué faraón tuvo el reinado más largo de la historia?",
+          "options": ["Ramsés II", "Pepi II", "Tutmosis III", "Amenhotep III"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-6",
+          "question": "¿Cuál era el nombre del festival de renovación real?",
+          "options": ["Opet", "Heb-sed", "Khoiak", "Wep-ronpet"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-7",
+          "question": "¿Qué significa 'Per-aa' (faraón)?",
+          "options": ["Rey divino", "Gran casa", "Señor de las dos tierras", "Hijo de Ra"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-8",
+          "question": "¿Cuál era el metal usado en el cetro 'was'?",
+          "options": ["Oro", "Plata", "Bronce", "Variaba"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-9",
+          "question": "¿Qué representaba el ankh egipcio?",
+          "options": ["Vida", "Poder", "Protección", "Eternidad"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-10",
+          "question": "¿Cuál era la duración del calendario egipcio?",
+          "options": ["360 días", "365 días", "365.25 días", "370 días"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-11",
+          "question": "¿Qué escriba famoso sirvió bajo Amenhotep III?",
+          "options": ["Amenhotep hijo de Hapu", "Senenmut", "Imhotep", "Ptahhotep"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-12",
+          "question": "¿Cuál era el nombre del período de anarquía entre el Reino Antiguo y Medio?",
+          "options": ["Primer Período Intermedio", "Segundo Período Intermedio", "Tercer Período Intermedio", "Período de Amarna"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "egipto3-13",
+          "question": "¿Qué pueblo invadió Egipto con carros de guerra?",
+          "options": ["Nubios", "Hicsos", "Asirios", "Persas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-14",
+          "question": "¿Cuál era el nombre de la corona del Alto Egipto?",
+          "options": ["Corona Roja", "Corona Blanca", "Corona Doble", "Corona Azul"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "egipto3-15",
+          "question": "¿Qué diosa tenía cabeza de leona y representaba la guerra?",
+          "options": ["Sekhmet", "Bastet", "Taweret", "Hathor"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
