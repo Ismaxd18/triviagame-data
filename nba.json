@@ -1,0 +1,381 @@
+{
+  "category": "nba",
+  "name": "NBA Basketball",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "nba1-1",
+          "question": "¿Cuántos jugadores tiene un equipo de baloncesto en la cancha?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nba1-2",
+          "question": "¿Cuántos equipos tiene la NBA actualmente?",
+          "options": ["28", "30", "32", "34"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nba1-3",
+          "question": "¿Qué equipo tiene más campeonatos de la NBA?",
+          "options": ["Lakers", "Celtics", "Bulls", "Warriors"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-4",
+          "question": "¿Cuántos puntos vale una canasta de tres puntos?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nba1-5",
+          "question": "¿Qué significa NBA?",
+          "options": ["National Basketball Association", "North Basketball Association", "New Basketball Association", "National Basketball America"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-6",
+          "question": "¿Cuántos cuartos tiene un partido de NBA?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nba1-7",
+          "question": "¿Quién es conocido como 'His Airness'?",
+          "options": ["Magic Johnson", "Michael Jordan", "LeBron James", "Kobe Bryant"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "nba1-8",
+          "question": "¿En qué ciudad juegan los Lakers?",
+          "options": ["San Francisco", "Los Ángeles", "Sacramento", "San Diego"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-9",
+          "question": "¿Cuánto dura cada cuarto en la NBA?",
+          "options": ["10 minutos", "12 minutos", "15 minutos", "20 minutos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-10",
+          "question": "¿Qué equipo representa a Chicago?",
+          "options": ["Bears", "Bulls", "Hawks", "Fire"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nba1-11",
+          "question": "¿Cuál es la altura estándar de la canasta de baloncesto?",
+          "options": ["3 metros", "3.05 metros", "3.10 metros", "3.20 metros"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-12",
+          "question": "¿En qué conferencia juegan los Warriors?",
+          "options": ["Este", "Oeste", "Norte", "Sur"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-13",
+          "question": "¿Qué jugador usó el número 23 en los Bulls?",
+          "options": ["Scottie Pippen", "Dennis Rodman", "Michael Jordan", "Steve Kerr"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "nba1-14",
+          "question": "¿Cuántas faltas personales puede cometer un jugador antes de ser expulsado?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "nba1-15",
+          "question": "¿En qué mes típicamente termina la temporada regular de NBA?",
+          "options": ["Marzo", "Abril", "Mayo", "Junio"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "nba2-1",
+          "question": "¿Quién tiene el récord de más puntos en un solo partido en la NBA?",
+          "options": ["Michael Jordan", "Kobe Bryant", "Wilt Chamberlain", "LeBron James"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-2",
+          "question": "¿Cuántos puntos anotó Wilt Chamberlain en su partido histórico?",
+          "options": ["81", "100", "120", "150"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "nba2-3",
+          "question": "¿Qué equipo ganó el primer campeonato de la NBA en 1947?",
+          "options": ["Philadelphia Warriors", "Boston Celtics", "Minneapolis Lakers", "New York Knicks"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "nba2-4",
+          "question": "¿Cuántos campeonatos consecutivos ganaron los Bulls en los 90s?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-5",
+          "question": "¿Quién es el máximo anotador en la historia de la NBA?",
+          "options": ["Kareem Abdul-Jabbar", "Karl Malone", "LeBron James", "Michael Jordan"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-6",
+          "question": "¿Qué jugador tiene más anillos de campeonato en la NBA?",
+          "options": ["Michael Jordan", "Bill Russell", "Magic Johnson", "Tim Duncan"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "nba2-7",
+          "question": "¿En qué año se fundó la NBA?",
+          "options": ["1946", "1947", "1948", "1949"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-8",
+          "question": "¿Qué jugador es conocido como 'The King'?",
+          "options": ["Michael Jordan", "LeBron James", "Shaquille O'Neal", "Kevin Durant"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nba2-9",
+          "question": "¿Cuál fue el primer equipo de LeBron James en la NBA?",
+          "options": ["Miami Heat", "Cleveland Cavaliers", "Los Angeles Lakers", "Boston Celtics"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nba2-10",
+          "question": "¿Qué jugador tiene el récord de más triples en la historia de la NBA?",
+          "options": ["Ray Allen", "Reggie Miller", "Stephen Curry", "Kyle Korver"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-11",
+          "question": "¿Cuántos equipos originales tenía la NBA cuando se fundó?",
+          "options": ["8", "11", "14", "17"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "nba2-12",
+          "question": "¿Qué jugador ganó el MVP de las Finales en 2020?",
+          "options": ["LeBron James", "Anthony Davis", "Jimmy Butler", "Giannis Antetokounmpo"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-13",
+          "question": "¿Cuál es el apodo de Tim Duncan?",
+          "options": ["The Admiral", "The Big Fundamental", "The Tower", "The Senator"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "nba2-14",
+          "question": "¿Qué equipo tenía la mejor marca regular de la historia hasta 2016?",
+          "options": ["Chicago Bulls 1995-96", "Los Angeles Lakers 1971-72", "Boston Celtics 1985-86", "Golden State Warriors 2015-16"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "nba2-15",
+          "question": "¿Quién fue el primer jugador en promediar un triple-doble en una temporada desde Oscar Robertson?",
+          "options": ["LeBron James", "Russell Westbrook", "James Harden", "Magic Johnson"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "nba3-1",
+          "question": "¿Qué jugador tiene el récord de más rebotes en un solo partido?",
+          "options": ["Wilt Chamberlain", "Bill Russell", "Dennis Rodman", "Shaquille O'Neal"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "nba3-2",
+          "question": "¿Cuántos rebotes capturó Wilt Chamberlain en ese partido récord?",
+          "options": ["50", "55", "60", "65"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-3",
+          "question": "¿Qué jugador tiene el récord de más asistencias en la historia de la NBA?",
+          "options": ["Magic Johnson", "John Stockton", "Jason Kidd", "Steve Nash"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "nba3-4",
+          "question": "¿Cuál fue la primera franquicia en ganar 3000 partidos en la historia de la NBA?",
+          "options": ["Boston Celtics", "Los Angeles Lakers", "Philadelphia 76ers", "New York Knicks"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-5",
+          "question": "¿Qué jugador fue seleccionado #1 en el Draft de 2003?",
+          "options": ["LeBron James", "Carmelo Anthony", "Chris Bosh", "Dwyane Wade"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "nba3-6",
+          "question": "¿Cuál es el único equipo que ha completado una temporada perfecta en playoffs (sin perder un solo partido)?",
+          "options": ["Ninguno ha logrado esto", "Los Angeles Lakers 2001", "Boston Celtics 1986", "Chicago Bulls 1996"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-7",
+          "question": "¿Qué jugador tiene el récord de más puntos en un partido de playoffs?",
+          "options": ["Michael Jordan", "Elgin Baylor", "Wilt Chamberlain", "Donovan Mitchell"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-8",
+          "question": "¿Cuántos años consecutivos ganaron los Celtics el campeonato entre 1959-1966?",
+          "options": ["6", "7", "8", "9"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "nba3-9",
+          "question": "¿Qué jugador internacional fue el primer #1 del draft sin haber jugado baloncesto universitario en EE.UU.?",
+          "options": ["Dirk Nowitzki", "Yao Ming", "Andrea Bargnani", "Kristaps Porzingis"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-10",
+          "question": "¿Cuál fue el primer equipo en remontar una serie de playoffs estando 0-3 abajo?",
+          "options": ["Detroit Pistons", "Boston Celtics", "Miami Heat", "Nunca ha ocurrido"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-11",
+          "question": "¿Qué jugador tiene el récord de más robos en la historia de la NBA?",
+          "options": ["Michael Jordan", "Gary Payton", "John Stockton", "Jason Kidd"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "nba3-12",
+          "question": "¿En qué año se introdujo la línea de tres puntos en la NBA?",
+          "options": ["1979", "1980", "1981", "1982"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "nba3-13",
+          "question": "¿Qué equipo tiene el récord de más victorias consecutivas en temporada regular?",
+          "options": ["Los Angeles Lakers", "Miami Heat", "Golden State Warriors", "Boston Celtics"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-14",
+          "question": "¿Cuántas victorias consecutivas lograron los Lakers en esa racha récord?",
+          "options": ["33", "35", "37", "40"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "nba3-15",
+          "question": "¿Qué jugador fue el más joven en anotar 30,000 puntos en la NBA?",
+          "options": ["LeBron James", "Kobe Bryant", "Kevin Durant", "Michael Jordan"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
