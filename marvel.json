@@ -1,0 +1,381 @@
+{
+  "category": "marvel",
+  "name": "Marvel Universe",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "marvel1-1",
+          "question": "¿Cuál es el nombre real de Spider-Man?",
+          "options": ["Peter Parker", "Peter Benjamin", "Parker Peter", "Benjamin Parker"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "marvel1-2",
+          "question": "¿Qué color es el martillo de Thor?",
+          "options": ["Dorado", "Plateado", "Gris", "Negro"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "marvel1-3",
+          "question": "¿Cuál es el nombre del martillo de Thor?",
+          "options": ["Stormbreaker", "Mjolnir", "Gungnir", "Gram"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "marvel1-4",
+          "question": "¿Quién es el líder de los X-Men?",
+          "options": ["Wolverine", "Cyclops", "Professor X", "Storm"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "marvel1-5",
+          "question": "¿De qué metal están hechas las garras de Wolverine?",
+          "options": ["Titanio", "Vibranium", "Adamantium", "Acero"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "marvel1-6",
+          "question": "¿Cuál es el nombre real de Iron Man?",
+          "options": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Scott Lang"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "marvel1-7",
+          "question": "¿Qué le da poderes a Spider-Man?",
+          "options": ["Radiación", "Mordida de araña", "Experimento químico", "Accidente nuclear"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "marvel1-8",
+          "question": "¿Cuál es la identidad secreta de Hulk?",
+          "options": ["Bruce Banner", "Bruce Wayne", "Peter Parker", "Tony Stark"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "marvel1-9",
+          "question": "¿Cuántas Gemas del Infinito existen?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "marvel1-10",
+          "question": "¿Cuál es el nombre del escudo de Captain America?",
+          "options": ["No tiene nombre específico", "Liberty Shield", "Freedom Shield", "Star Shield"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "marvel1-11",
+          "question": "¿Quién es el hermano de Thor?",
+          "options": ["Loki", "Balder", "Odin", "Heimdall"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "marvel1-12",
+          "question": "¿En qué ciudad vive Spider-Man principalmente?",
+          "options": ["Los Ángeles", "Chicago", "Nueva York", "San Francisco"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "marvel1-13",
+          "question": "¿Cuál es el nombre del grupo de superhéroes más famoso de Marvel?",
+          "options": ["X-Men", "Fantastic Four", "Avengers", "Guardians of the Galaxy"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "marvel1-14",
+          "question": "¿De qué país ficticio es rey Black Panther?",
+          "options": ["Genosha", "Madripoor", "Wakanda", "Latveria"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "marvel1-15",
+          "question": "¿Cuál es el verdadero nombre de Black Widow?",
+          "options": ["Natasha Romanoff", "Wanda Maximoff", "Carol Danvers", "Jessica Jones"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "marvel2-1",
+          "question": "¿En qué año fue fundado Marvel Comics?",
+          "options": ["1939", "1941", "1951", "1961"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "marvel2-2",
+          "question": "¿Quién creó a Spider-Man junto con Stan Lee?",
+          "options": ["Jack Kirby", "Steve Ditko", "John Romita", "Gil Kane"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "marvel2-3",
+          "question": "¿Cuál fue el primer cómic de Marvel publicado?",
+          "options": ["Amazing Fantasy #15", "Fantastic Four #1", "Marvel Comics #1", "X-Men #1"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "marvel2-4",
+          "question": "¿Cuál es el nombre real de Doctor Doom?",
+          "options": ["Victor Von Doom", "Viktor Doom", "Vincent Doom", "Victor Domashev"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "marvel2-5",
+          "question": "¿Qué personaje fue el primer mutante introducido en Marvel?",
+          "options": ["Professor X", "Namor", "Wolverine", "Cyclops"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "marvel2-6",
+          "question": "¿Cuál es el nombre del mundo natal de Thor?",
+          "options": ["Midgard", "Asgard", "Jotunheim", "Vanaheim"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "marvel2-7",
+          "question": "¿Quién fue el primer Avenger según los cómics?",
+          "options": ["Iron Man", "Thor", "Ant-Man", "Wasp"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "marvel2-8",
+          "question": "¿Cuál es la debilidad principal de Superman? (Pregunta trampa - él es DC)",
+          "options": ["Kryptonita", "Es de DC Comics", "Magia", "Radiación roja"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "marvel2-9",
+          "question": "¿Qué Gema del Infinito está en la frente de Vision?",
+          "options": ["Gema del Tiempo", "Gema de la Mente", "Gema del Poder", "Gema de la Realidad"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "marvel2-10",
+          "question": "¿Cuál es el nombre real de Magneto?",
+          "options": ["Erik Lehnsherr", "Max Eisenhardt", "Magnus", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "marvel2-11",
+          "question": "¿Qué empresa fundó Tony Stark?",
+          "options": ["Stark Industries", "Stark Enterprises", "Stark Corporation", "Stark Technologies"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "marvel2-12",
+          "question": "¿Cuál es el nombre del clon de Spider-Man?",
+          "options": ["Kaine", "Ben Reilly", "Miles Morales", "Spider-Man 2099"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "marvel2-13",
+          "question": "¿Quién mató a los padres de Spider-Man según la historia original?",
+          "options": ["Green Goblin", "Doctor Octopus", "Accidente de avión", "Red Skull"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "marvel2-14",
+          "question": "¿Cuál es el planeta natal de los Skrulls?",
+          "options": ["Skrullos", "Tarnax IV", "Hala", "Chitauri Prime"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "marvel2-15",
+          "question": "¿Quién es el creador de los Sentinels?",
+          "options": ["Dr. Bolivar Trask", "William Stryker", "Sebastian Shaw", "Nathaniel Essex"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "marvel3-1",
+          "question": "¿Cuál es el verdadero nombre de Wolverine?",
+          "options": ["Logan", "James Howlett", "James Logan", "Weapon X"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "marvel3-2",
+          "question": "¿En qué cómic apareció por primera vez Wolverine?",
+          "options": ["X-Men #1", "Incredible Hulk #180", "Incredible Hulk #181", "Giant-Size X-Men #1"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-3",
+          "question": "¿Cuál es el nombre del primer Hulk que no era Bruce Banner?",
+          "options": ["Red Hulk", "She-Hulk", "A-Bomb", "Grey Hulk"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "marvel3-4",
+          "question": "¿Qué evento de Marvel Comics inició el multiverso?",
+          "options": ["Secret Wars", "Crisis on Infinite Earths", "Contest of Champions", "Marvel Super Heroes Secret Wars"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-5",
+          "question": "¿Cuál es el nombre real del Punisher?",
+          "options": ["Frank Castle", "Francis Castiglione", "Frank Castiglione", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "marvel3-6",
+          "question": "¿Quién fue el primer portador del título 'Captain Marvel' en Marvel?",
+          "options": ["Carol Danvers", "Mar-Vell", "Monica Rambeau", "Genis-Vell"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-7",
+          "question": "¿Cuál es la dimensión natal de Dormammu?",
+          "options": ["Dimensión Negativa", "Dimensión Oscura", "Limbo", "Asgard"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "marvel3-8",
+          "question": "¿Qué personaje Marvel ha sido tanto héroe como villano más veces?",
+          "options": ["Venom", "Magneto", "Loki", "Emma Frost"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-9",
+          "question": "¿Cuál es el nombre del simbionte de Venom?",
+          "options": ["Venom", "Klyntar", "No tiene nombre específico", "Symbiote"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-10",
+          "question": "¿Quién es el Beyonder?",
+          "options": ["Un mutante", "Un ser cósmico", "Un extraterrestre", "Un dios"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "marvel3-11",
+          "question": "¿Cuál es el nombre del padre biológico de Quicksilver y Scarlet Witch?",
+          "options": ["Magneto", "Whizzer", "Django Maximoff", "High Evolutionary"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-12",
+          "question": "¿En qué año murió Gwen Stacy en los cómics?",
+          "options": ["1971", "1973", "1975", "1977"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-13",
+          "question": "¿Cuál es el verdadero nombre de Mystique?",
+          "options": ["Raven Darkholme", "Raven Xavier", "Irene Adler", "Se desconoce"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "marvel3-14",
+          "question": "¿Qué personaje de Marvel tiene el factor de curación más poderoso?",
+          "options": ["Wolverine", "Deadpool", "Hulk", "Sentry"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "marvel3-15",
+          "question": "¿Cuál es el nombre del robot creado por Ultron para ser su 'hijo'?",
+          "options": ["Vision", "Machine Man", "Jocasta", "Living Laser"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
