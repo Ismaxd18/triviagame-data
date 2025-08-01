@@ -1,0 +1,381 @@
+{
+  "category": "netflix",
+  "name": "Netflix Series",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "netflix1-1",
+          "question": "¿Cuál fue la primera serie original de Netflix?",
+          "options": ["House of Cards", "Orange is the New Black", "Stranger Things", "Narcos"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "netflix1-2",
+          "question": "¿En qué década está ambientada Stranger Things?",
+          "options": ["1970s", "1980s", "1990s", "2000s"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "netflix1-3",
+          "question": "¿Cómo se llama el protagonista de Breaking Bad?",
+          "options": ["Jesse Pinkman", "Walter White", "Saul Goodman", "Hank Schrader"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-4",
+          "question": "¿En qué ciudad está ambientada Stranger Things?",
+          "options": ["Hawkins", "Mystic Falls", "Stars Hollow", "Twin Peaks"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-5",
+          "question": "¿Cuál es el nombre del mundo alterno en Stranger Things?",
+          "options": ["The Dark Side", "The Upside Down", "The Shadow Realm", "The Parallel World"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-6",
+          "question": "¿Qué tipo de series produce principalmente Netflix?",
+          "options": ["Solo documentales", "Solo comedias", "Contenido original variado", "Solo dramas"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "netflix1-7",
+          "question": "¿En qué año se lanzó Netflix como servicio de streaming?",
+          "options": ["2005", "2007", "2009", "2010"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-8",
+          "question": "¿Cuál es el nombre del personaje interpretado por Millie Bobby Brown en Stranger Things?",
+          "options": ["Max", "Eleven", "Nancy", "Joyce"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "netflix1-9",
+          "question": "¿Qué serie de Netflix está ambientada en una prisión femenina?",
+          "options": ["Wentworth", "Orange is the New Black", "Prison Break", "Locked Up"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-10",
+          "question": "¿Cuál es el tema principal de Black Mirror?",
+          "options": ["Crímenes reales", "Tecnología y sociedad", "Superhéroes", "Historia medieval"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-11",
+          "question": "¿En qué país está ambientada La Casa de Papel?",
+          "options": ["México", "Argentina", "España", "Colombia"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "netflix1-12",
+          "question": "¿Cómo se llamaba Netflix antes de ser servicio de streaming?",
+          "options": ["Netflix DVD", "Reed Hastings Company", "DVD by Mail", "Era Netflix desde el inicio"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-13",
+          "question": "¿Cuál es el nombre del algoritmo de recomendación de Netflix?",
+          "options": ["Netflix Algorithm", "Recommendation Engine", "Netflix usa varios algoritmos", "CineMatch"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 3000
+        },
+        {
+          "id": "netflix1-14",
+          "question": "¿Qué serie de Netflix popularizó el término 'binge-watching'?",
+          "options": ["House of Cards", "No popularizó ninguna específica", "Stranger Things", "Orange is the New Black"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "netflix1-15",
+          "question": "¿En qué año se estrenó Stranger Things?",
+          "options": ["2015", "2016", "2017", "2018"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "netflix2-1",
+          "question": "¿Cuánto invirtió Netflix en House of Cards para su primera temporada?",
+          "options": ["50 millones", "100 millones", "150 millones", "200 millones"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-2",
+          "question": "¿Qué serie de Netflix fue la primera en ganar un Emmy?",
+          "options": ["House of Cards", "Orange is the New Black", "Stranger Things", "The Crown"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-3",
+          "question": "¿En qué año Netflix superó los 100 millones de suscriptores globales?",
+          "options": ["2015", "2016", "2017", "2018"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-4",
+          "question": "¿Cuál fue la primera serie no inglesa exitosa de Netflix?",
+          "options": ["Dark", "La Casa de Papel", "Elite", "Narcos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-5",
+          "question": "¿Quién es el creador de Black Mirror?",
+          "options": ["David Fincher", "Charlie Brooker", "Vince Gilligan", "Ryan Murphy"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-6",
+          "question": "¿En qué año Netflix comenzó a producir contenido original?",
+          "options": ["2011", "2012", "2013", "2014"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-7",
+          "question": "¿Cuál es el presupuesto aproximado por episodio de The Crown?",
+          "options": ["5 millones", "10 millones", "13 millones", "20 millones"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-8",
+          "question": "¿Qué serie de Netflix tiene el récord de mayor audiencia en su estreno?",
+          "options": ["Stranger Things 4", "Bridgerton", "Squid Game", "Wednesday"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-9",
+          "question": "¿En cuántos países está disponible Netflix?",
+          "options": ["180+", "190+", "200+", "210+"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-10",
+          "question": "¿Qué tecnología utiliza Netflix para la compresión de video?",
+          "options": ["H.264", "H.265/HEVC", "AV1", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-11",
+          "question": "¿Cuál fue el primer documental original de Netflix?",
+          "options": ["Making a Murderer", "The Square", "Icarus", "Wild Wild Country"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-12",
+          "question": "¿En qué bolsa de valores cotiza Netflix?",
+          "options": ["NYSE", "NASDAQ", "London Stock Exchange", "Tokyo Stock Exchange"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-13",
+          "question": "¿Cuál es el símbolo bursátil de Netflix?",
+          "options": ["NFLX", "NETF", "NTFX", "NETFLIX"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "netflix2-14",
+          "question": "¿Qué porcentaje del tráfico de internet representa Netflix en horario pico?",
+          "options": ["10-15%", "15-20%", "20-25%", "25-30%"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "netflix2-15",
+          "question": "¿Cuántas temporadas tuvo House of Cards?",
+          "options": ["4", "5", "6", "7"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "netflix3-1",
+          "question": "¿Quiénes fundaron Netflix?",
+          "options": ["Reed Hastings y Marc Randolph", "Reed Hastings solo", "Marc Randolph y Ted Sarandos", "Reed Hastings y Ted Sarandos"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "netflix3-2",
+          "question": "¿Cuál fue la primera película que Netflix recomendó usando su algoritmo?",
+          "options": ["Titanic", "The Matrix", "Cinematch no recomendaba películas específicas", "Forrest Gump"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-3",
+          "question": "¿En qué año Netflix rechazó la oportunidad de comprar Blockbuster?",
+          "options": ["2000", "2002", "2004", "Netflix nunca tuvo esa oportunidad"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-4",
+          "question": "¿Cuál es el nombre del CDN (Content Delivery Network) propio de Netflix?",
+          "options": ["Netflix CDN", "Open Connect", "Netflix Edge", "Streaming Network"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "netflix3-5",
+          "question": "¿Cuánto gastó Netflix en contenido en 2021?",
+          "options": ["13 mil millones", "15 mil millones", "17 mil millones", "20 mil millones"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-6",
+          "question": "¿Qué empresa intentó comprar Netflix por $50 millones en 2000?",
+          "options": ["Blockbuster", "Amazon", "Yahoo", "AOL"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-7",
+          "question": "¿Cuál fue el premio del Netflix Prize para mejorar su algoritmo de recomendación?",
+          "options": ["500,000 dólares", "1 millón de dólares", "2 millones de dólares", "5 millones de dólares"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "netflix3-8",
+          "question": "¿En qué año Netflix separó su servicio de DVD y streaming?",
+          "options": ["2010", "2011", "2012", "2013"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "netflix3-9",
+          "question": "¿Cuál fue el nombre propuesto para el servicio de DVD separado?",
+          "options": ["Netflix DVD", "Qwikster", "FlixDVD", "NetDisc"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-10",
+          "question": "¿Cuántos servidores tiene aproximadamente Netflix en su infraestructura?",
+          "options": ["100,000+", "200,000+", "500,000+", "1,000,000+"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-11",
+          "question": "¿Qué porcentaje del contenido de Netflix es original?",
+          "options": ["30-40%", "40-50%", "50-60%", "60-70%"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "netflix3-12",
+          "question": "¿Cuál es la métrica principal que Netflix usa para medir el éxito?",
+          "options": ["Visualizaciones", "Tiempo de visualización", "Finalización de serie", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "netflix3-13",
+          "question": "¿En qué año Netflix alcanzó los 200 millones de suscriptores?",
+          "options": ["2019", "2020", "2021", "2022"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-14",
+          "question": "¿Cuál es el nombre del estudio de animación que Netflix adquirió?",
+          "options": ["Animal Logic", "Millarworld", "Night School Studio", "Ninguno específico de animación"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "netflix3-15",
+          "question": "¿Qué tecnología usa Netflix para predecir qué contenido será exitoso?",
+          "options": ["Machine Learning", "Big Data Analytics", "Inteligencia Artificial", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
