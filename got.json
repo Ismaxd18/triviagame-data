@@ -1,0 +1,381 @@
+{
+  "category": "got",
+  "name": "Game of Thrones",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "got1-1",
+          "question": "¿Cuál es el lema de la Casa Stark?",
+          "options": ["Fire and Blood", "Winter is Coming", "Hear Me Roar", "Ours is the Fury"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-2",
+          "question": "¿Cómo se llama el continente principal de Westeros?",
+          "options": ["Essos", "Westeros", "Sothoryos", "Ulthos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-3",
+          "question": "¿Quién es conocido como 'El Rey de la Noche'?",
+          "options": ["Jon Snow", "Night King", "Bran Stark", "The Night's Watch"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "got1-4",
+          "question": "¿Cuál es la capital de los Siete Reinos?",
+          "options": ["Winterfell", "King's Landing", "Oldtown", "Lannisport"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-5",
+          "question": "¿Cómo se llama la espada de hielo valyrio de Ned Stark?",
+          "options": ["Ice", "Longclaw", "Oathkeeper", "Widow's Wail"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "got1-6",
+          "question": "¿Quién escribió los libros de 'A Song of Ice and Fire'?",
+          "options": ["J.R.R. Tolkien", "George R.R. Martin", "Brandon Sanderson", "Robin Hobb"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-7",
+          "question": "¿Cuántas temporadas tuvo la serie de HBO?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-8",
+          "question": "¿Cómo se llama el bastardo de Ned Stark?",
+          "options": ["Robb Stark", "Jon Snow", "Bran Stark", "Rickon Stark"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-9",
+          "question": "¿Cuál es el apellido de la familia que controla Casterly Rock?",
+          "options": ["Stark", "Baratheon", "Lannister", "Targaryen"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-10",
+          "question": "¿Qué criatura legendaria tiene Daenerys Targaryen?",
+          "options": ["Lobos huargos", "Dragones", "Cuervos", "Leones"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "got1-11",
+          "question": "¿Cómo se llama el Muro que protege Westeros?",
+          "options": ["The Wall", "Ice Wall", "Northern Barrier", "Stark's Wall"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "got1-12",
+          "question": "¿Quién es el 'Imp' o enano de la serie?",
+          "options": ["Jaime Lannister", "Cersei Lannister", "Tyrion Lannister", "Tywin Lannister"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "got1-13",
+          "question": "¿Cómo se llama la religión del Dios de Muchas Caras?",
+          "options": ["Faith of the Seven", "Lord of Light", "Old Gods", "Faceless Men"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "got1-14",
+          "question": "¿Cuál es el nombre del rey que inició la serie?",
+          "options": ["Robert Baratheon", "Joffrey Baratheon", "Stannis Baratheon", "Renly Baratheon"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "got1-15",
+          "question": "¿Cómo muere Ned Stark?",
+          "options": ["En batalla", "Envenenado", "Decapitado", "Apuñalado"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "got2-1",
+          "question": "¿Cuáles son los nombres de los tres dragones de Daenerys?",
+          "options": ["Drogon, Rhaegal, Viserion", "Balerion, Vhagar, Meraxes", "Syrax, Caraxes, Meleys", "Arrax, Vermax, Tyraxes"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-2",
+          "question": "¿Quién mató al Rey Loco Aerys II?",
+          "options": ["Robert Baratheon", "Ned Stark", "Jaime Lannister", "Tywin Lannister"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "got2-3",
+          "question": "¿Cómo se llama la ancestral sede de la Casa Targaryen?",
+          "options": ["King's Landing", "Dragonstone", "Summerhall", "Vaes Dothrak"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-4",
+          "question": "¿Quién es conocido como 'The Hound'?",
+          "options": ["Gregor Clegane", "Sandor Clegane", "Bronn", "Ilyn Payne"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-5",
+          "question": "¿Cuál es el verdadero nombre de Jon Snow?",
+          "options": ["Aegon Targaryen", "Aemon Targaryen", "Jaehaerys Targaryen", "Rhaegar Targaryen"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "got2-6",
+          "question": "¿Qué casa tiene el lema 'Fire and Blood'?",
+          "options": ["Lannister", "Baratheon", "Targaryen", "Martell"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-7",
+          "question": "¿Cómo se llama la espada de Jon Snow?",
+          "options": ["Ice", "Needle", "Longclaw", "Dawn"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-8",
+          "question": "¿Quién es la madre de Jon Snow?",
+          "options": ["Catelyn Stark", "Lyanna Stark", "Ashara Dayne", "Wylla"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "got2-9",
+          "question": "¿Cómo se llama el consejo que asesora al rey?",
+          "options": ["Small Council", "King's Council", "Royal Council", "High Council"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-10",
+          "question": "¿Quién creó los White Walkers?",
+          "options": ["The Night King", "Children of the Forest", "First Men", "Los dioses"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "got2-11",
+          "question": "¿Cuál es el nombre del castillo de los Stark?",
+          "options": ["Winterfell", "The Dreadfort", "Karhold", "Last Hearth"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "got2-12",
+          "question": "¿Quién fue el primer rey de los Siete Reinos?",
+          "options": ["Robert Baratheon", "Aegon the Conqueror", "Torrhen Stark", "Harren the Black"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "got2-13",
+          "question": "¿Cómo se llama la religión principal de Westeros?",
+          "options": ["Faith of the Seven", "Old Gods", "Lord of Light", "Many-Faced God"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "got2-14",
+          "question": "¿Quién mata a Joffrey Baratheon?",
+          "options": ["Tyrion Lannister", "Olenna Tyrell", "Petyr Baelish", "Ambos B y C"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "got2-15",
+          "question": "¿Cuál es el apellido real de Petyr 'Littlefinger'?",
+          "options": ["Baelish", "Frey", "Bolton", "Royce"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "got3-1",
+          "question": "¿Cuál es el nombre completo de Daenerys Targaryen?",
+          "options": ["Daenerys Stormborn", "Daenerys of House Targaryen", "Daenerys Stormborn of House Targaryen", "Varía según la versión"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-2",
+          "question": "¿Cuántos libros planea escribir George R.R. Martin en total?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-3",
+          "question": "¿Cuál es el nombre del acero valyrio más famoso?",
+          "options": ["No tiene nombre específico", "Valyrian Steel", "Dragonsteel", "Varía según la espada"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-4",
+          "question": "¿Cuántos años duró la Larga Noche según las leyendas?",
+          "options": ["Una generación", "Varios años", "No se especifica exactamente", "100 años"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-5",
+          "question": "¿Cuál es el nombre del castillo ancestral de la Casa Dayne?",
+          "options": ["Starfall", "High Hermitage", "Sunspear", "Ghost Hill"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-6",
+          "question": "¿Qué significa 'Valar Morghulis'?",
+          "options": ["All men must die", "All men must serve", "What is dead may never die", "Fire and Blood"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-7",
+          "question": "¿Cuál es la respuesta a 'Valar Morghulis'?",
+          "options": ["Valar Dohaeris", "What is dead may never die", "The night is dark", "Winter is coming"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-8",
+          "question": "¿Cuántas casas principales juraron lealtad a Aegon el Conquistador?",
+          "options": ["5", "6", "7", "Varía según la fuente"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-9",
+          "question": "¿Cuál es el nombre del primer libro de la saga?",
+          "options": ["Game of Thrones", "A Game of Thrones", "The Game of Thrones", "Song of Ice and Fire"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-10",
+          "question": "¿Qué casa tiene el lema 'What is dead may never die'?",
+          "options": ["Stark", "Greyjoy", "Tully", "Arryn"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-11",
+          "question": "¿Cuál es el nombre del idioma de los Dothraki?",
+          "options": ["High Valyrian", "Dothraki", "Low Valyrian", "No tiene nombre específico"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-12",
+          "question": "¿Quién forjó el Trono de Hierro?",
+          "options": ["Aegon the Conqueror", "Los herreros de King's Landing", "Con fuego de dragón", "Ambas A y C"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-13",
+          "question": "¿Cuántas espadas se usaron para forjar el Trono de Hierro según los libros?",
+          "options": ["200", "1000", "Mil espadas de enemigos de Aegon", "No se especifica exactamente"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "got3-14",
+          "question": "¿Cuál es el nombre del continente al este de Westeros?",
+          "options": ["Essos", "Sothoryos", "Ulthos", "Yi Ti"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "got3-15",
+          "question": "¿En qué año se publicó el primer libro de la saga?",
+          "options": ["1995", "1996", "1997", "1998"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
