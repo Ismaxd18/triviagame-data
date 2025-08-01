@@ -1,0 +1,381 @@
+{
+  "category": "harry",
+  "name": "Harry Potter",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "harry1-1",
+          "question": "¿Cuál es el nombre completo del protagonista?",
+          "options": ["Harry James Potter", "Harry John Potter", "Henry James Potter", "Harold Potter"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-2",
+          "question": "¿Cómo se llama la escuela de magia?",
+          "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-3",
+          "question": "¿En qué casa de Hogwarts está Harry?",
+          "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-4",
+          "question": "¿Cuáles son los mejores amigos de Harry?",
+          "options": ["Ron y Hermione", "Neville y Luna", "Dean y Seamus", "Fred y George"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-5",
+          "question": "¿Quién es el principal enemigo de Harry?",
+          "options": ["Draco Malfoy", "Severus Snape", "Lord Voldemort", "Bellatrix Lestrange"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "harry1-6",
+          "question": "¿Qué deporte se juega en el mundo mágico?",
+          "options": ["Quidditch", "Quiditch", "Quiddish", "Quoditch"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-7",
+          "question": "¿Cómo se llama la lechuza de Harry?",
+          "options": ["Hedwig", "Errol", "Pigwidgeon", "Archimedes"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "harry1-8",
+          "question": "¿Quién escribió los libros de Harry Potter?",
+          "options": ["J.R.R. Tolkien", "J.K. Rowling", "C.S. Lewis", "Roald Dahl"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-9",
+          "question": "¿Cuántos libros hay en la serie principal?",
+          "options": ["6", "7", "8", "9"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-10",
+          "question": "¿Qué marca tiene Harry en la frente?",
+          "options": ["Una cicatriz en forma de rayo", "Una cicatriz redonda", "Una marca de nacimiento", "Un tatuaje"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "harry1-11",
+          "question": "¿Cómo se llama el director de Hogwarts?",
+          "options": ["Severus Snape", "Albus Dumbledore", "Minerva McGonagall", "Filius Flitwick"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "harry1-12",
+          "question": "¿Qué hechizo se usa para desarmar?",
+          "options": ["Expelliarmus", "Stupefy", "Petrificus Totalus", "Avada Kedavra"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "harry1-13",
+          "question": "¿Cómo se llama el gigante amigo de Harry?",
+          "options": ["Hagrid", "Grawp", "Maxime", "Olympe"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "harry1-14",
+          "question": "¿En qué calle viven los Dursley?",
+          "options": ["Grimmauld Place", "Diagon Alley", "Privet Drive", "Godric's Hollow"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "harry1-15",
+          "question": "¿Cuál es la mascota de Ron?",
+          "options": ["Scabbers", "Crookshanks", "Trevor", "Fang"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "harry2-1",
+          "question": "¿Cuál es el nombre completo de Hermione?",
+          "options": ["Hermione Jane Granger", "Hermione Jean Granger", "Hermione Grace Granger", "Hermione Joy Granger"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-2",
+          "question": "¿Qué son los Horrocruxes?",
+          "options": ["Objetos mágicos", "Fragmentos del alma de Voldemort", "Hechizos prohibidos", "Criaturas oscuras"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "harry2-3",
+          "question": "¿Cuál es el verdadero nombre de Lord Voldemort?",
+          "options": ["Tom Marvolo Riddle", "Tom Morvolo Riddle", "Thomas Riddle", "Timothy Riddle"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-4",
+          "question": "¿Qué significa el patronus de Harry?",
+          "options": ["Un lobo", "Un ciervo", "Un fénix", "Un león"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-5",
+          "question": "¿Quién es el padrino de Harry?",
+          "options": ["Remus Lupin", "Sirius Black", "James Potter", "Arthur Weasley"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "harry2-6",
+          "question": "¿Cuáles son las tres Reliquias de la Muerte?",
+          "options": ["Varita, Piedra, Capa", "Espada, Diadema, Anillo", "Copa, Guardapelo, Diario", "Varita, Anillo, Capa"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "harry2-7",
+          "question": "¿Cómo se llama la prisión de magos?",
+          "options": ["Azkaban", "Nurmengard", "Gringotts", "St. Mungo"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-8",
+          "question": "¿Quién mató a Dumbledore?",
+          "options": ["Voldemort", "Bellatrix", "Severus Snape", "Draco Malfoy"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-9",
+          "question": "¿Qué poción permite transformarse en otra persona?",
+          "options": ["Poción Multijugos", "Poción Veritaserum", "Amortentia", "Poción Felix Felicis"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "harry2-10",
+          "question": "¿Cuántos hermanos Weasley hay?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-11",
+          "question": "¿Qué criatura cuida la Piedra Filosofal?",
+          "options": ["Fluffy", "Aragog", "Buckbeak", "Fawkes"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-12",
+          "question": "¿Quién abre la Cámara de los Secretos?",
+          "options": ["Harry Potter", "Tom Riddle", "Ginny Weasley", "Ambas B y C"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "harry2-13",
+          "question": "¿Cómo se llama el elfo doméstico de los Malfoy?",
+          "options": ["Dobby", "Kreacher", "Winky", "Griphook"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "harry2-14",
+          "question": "¿Qué posición juega Harry en Quidditch?",
+          "options": ["Cazador", "Golpeador", "Guardián", "Buscador"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "harry2-15",
+          "question": "¿Cuál es el nombre del dragón que custodia Gringotts?",
+          "options": ["Norbert", "No se menciona específicamente", "Smaug", "Fawkes"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "harry3-1",
+          "question": "¿Cuál es el nombre completo de Ron?",
+          "options": ["Ronald Bilius Weasley", "Ronald William Weasley", "Ronald Arthur Weasley", "Ronald Wesley Weasley"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-2",
+          "question": "¿Qué hechizo creó Severus Snape?",
+          "options": ["Sectumsempra", "Levicorpus", "Muffliato", "Todos los anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-3",
+          "question": "¿Cuál es el núcleo de la varita de Harry?",
+          "options": ["Pluma de fénix", "Pelo de unicornio", "Nervio de corazón de dragón", "Cola de thestral"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "harry3-4",
+          "question": "¿Cuántos Horrocruxes creó Voldemort intencionalmente?",
+          "options": ["6", "7", "8", "9"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-5",
+          "question": "¿Cuál es el número del andén para ir a Hogwarts?",
+          "options": ["9 y 3/4", "9 y 1/2", "10 y 1/4", "Platform 9 3/4"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "harry3-6",
+          "question": "¿Qué significa 'Alohomora'?",
+          "options": ["Hechizo de apertura", "Palabra hawaiana", "Latín inventado", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "harry3-7",
+          "question": "¿Cuál es el apellido de soltera de la madre de Harry?",
+          "options": ["Evans", "Smith", "Jones", "Brown"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "harry3-8",
+          "question": "¿Qué día nació Harry Potter?",
+          "options": ["30 de julio", "31 de julio", "1 de agosto", "29 de julio"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "harry3-9",
+          "question": "¿Cuál es el verdadero nombre de Mundungus Fletcher?",
+          "options": ["No se revela", "Mundungus es su nombre real", "Magnus Fletcher", "Murray Fletcher"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-10",
+          "question": "¿Qué significa el nombre 'Severus'?",
+          "options": ["Severo", "Estricto", "Cortado", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-11",
+          "question": "¿Cuántas escaleras móviles hay en Hogwarts?",
+          "options": ["142", "143", "144", "No se especifica exactamente"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-12",
+          "question": "¿Cuál es el lema de Hogwarts?",
+          "options": ["Draco Dormiens Nunquam Titillandus", "Sapientia et Virtus", "Veritas et Virtus", "Scientia et Potentia"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-13",
+          "question": "¿Qué significa el lema de Hogwarts?",
+          "options": ["Nunca hagas cosquillas a un dragón dormido", "La sabiduría y la virtud", "Conocimiento y poder", "Verdad y virtud"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "harry3-14",
+          "question": "¿Cuál es el nombre del fabricante de varitas más famoso?",
+          "options": ["Ollivander", "Gregorovitch", "Antioch Peverell", "Garrick Ollivander"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "harry3-15",
+          "question": "¿Cuál es el número de la casa de los Dursley?",
+          "options": ["4", "12", "No se especifica", "2"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        }
+      ]
+    }
+  ]
+}
