@@ -1,0 +1,381 @@
+{
+  "category": "grecia",
+  "name": "Mitología Griega",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "grecia1-1",
+          "question": "¿Quién es el rey de los dioses en la mitología griega?",
+          "options": ["Poseidón", "Hades", "Zeus", "Apolo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-2",
+          "question": "¿Cuál es el arma característica de Zeus?",
+          "options": ["Tridente", "Rayo", "Espada", "Arco"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-3",
+          "question": "¿Quién es el dios del mar?",
+          "options": ["Zeus", "Poseidón", "Hades", "Hermes"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-4",
+          "question": "¿Cómo se llama la diosa de la sabiduría?",
+          "options": ["Afrodita", "Hera", "Atenea", "Artemisa"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "grecia1-5",
+          "question": "¿Quién es el dios de la guerra?",
+          "options": ["Ares", "Apolo", "Hefesto", "Hermes"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-6",
+          "question": "¿Cuál es el nombre del héroe que mató a Medusa?",
+          "options": ["Teseo", "Perseo", "Heracles", "Aquiles"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "grecia1-7",
+          "question": "¿Quién abrió la caja que liberó todos los males?",
+          "options": ["Helena", "Pandora", "Casandra", "Medea"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "grecia1-8",
+          "question": "¿Cómo se llama el caballo alado?",
+          "options": ["Pegaso", "Centauro", "Minotauro", "Cerbero"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-9",
+          "question": "¿Quién es la esposa de Zeus?",
+          "options": ["Afrodita", "Atenea", "Hera", "Deméter"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-10",
+          "question": "¿Cuántos trabajos tuvo que realizar Heracles?",
+          "options": ["10", "12", "15", "20"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "grecia1-11",
+          "question": "¿Quién es el mensajero de los dioses?",
+          "options": ["Apolo", "Hermes", "Dioniso", "Hefesto"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-12",
+          "question": "¿Cómo se llama el perro de tres cabezas que guarda el inframundo?",
+          "options": ["Cerbero", "Hidra", "Quimera", "Esfinge"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "grecia1-13",
+          "question": "¿Quién es la diosa del amor y la belleza?",
+          "options": ["Hera", "Atenea", "Afrodita", "Artemisa"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "grecia1-14",
+          "question": "¿Cuál es el punto débil de Aquiles?",
+          "options": ["Su corazón", "Su talón", "Su cabeza", "Su mano"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2500
+        },
+        {
+          "id": "grecia1-15",
+          "question": "¿Quién construyó el laberinto del Minotauro?",
+          "options": ["Ícaro", "Dédalo", "Hefesto", "Prometeo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "grecia2-1",
+          "question": "¿Quiénes eran los padres de Zeus?",
+          "options": ["Cronos y Rea", "Urano y Gea", "Caos y Nix", "Océano y Tetis"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-2",
+          "question": "¿Cuál fue el primer trabajo de Heracles?",
+          "options": ["Capturar el toro de Creta", "Matar al León de Nemea", "Limpiar los establos de Augías", "Capturar la cierva de Cerinea"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "grecia2-3",
+          "question": "¿Quién era el titán que robó el fuego para dárselo a los humanos?",
+          "options": ["Atlas", "Prometeo", "Epimeteo", "Cronos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-4",
+          "question": "¿Cómo se llamaban las tres hermanas que compartían un ojo?",
+          "options": ["Las Moiras", "Las Grayas", "Las Harpías", "Las Sirenas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "grecia2-5",
+          "question": "¿Quién era la madre de Aquiles?",
+          "options": ["Hera", "Tetis", "Afrodita", "Atenea"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-6",
+          "question": "¿Cuál era el nombre del barco de Jasón y los Argonautas?",
+          "options": ["Argo", "Olimpia", "Troya", "Creta"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-7",
+          "question": "¿Quién era la diosa de la caza y la luna?",
+          "options": ["Hera", "Atenea", "Afrodita", "Artemisa"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "grecia2-8",
+          "question": "¿Cómo murió Ícaro?",
+          "options": ["Se ahogó en el mar", "Lo mató un dios", "Sus alas se derritieron", "Fue convertido en piedra"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-9",
+          "question": "¿Quién era el rey de Troya durante la guerra?",
+          "options": ["Príamo", "Héctor", "Paris", "Eneas"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-10",
+          "question": "¿Cuántas cabezas tenía la Hidra de Lerna?",
+          "options": ["3", "7", "9", "Variaba según la fuente"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "grecia2-11",
+          "question": "¿Quién era el dios del vino?",
+          "options": ["Apolo", "Hermes", "Dioniso", "Pan"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "grecia2-12",
+          "question": "¿Cómo se llamaba la profetisa que nunca era creída?",
+          "options": ["Pitia", "Casandra", "Circe", "Medea"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "grecia2-13",
+          "question": "¿Quién era el dios del fuego y la forja?",
+          "options": ["Ares", "Apolo", "Hefesto", "Hermes"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        },
+        {
+          "id": "grecia2-14",
+          "question": "¿Cuál era el nombre del reino de Hades?",
+          "options": ["Tártaro", "Inframundo", "Elíseos", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 4000
+        },
+        {
+          "id": "grecia2-15",
+          "question": "¿Quién mató al Minotauro?",
+          "options": ["Heracles", "Perseo", "Teseo", "Belerofonte"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3500
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "grecia3-1",
+          "question": "¿Cuáles eran los nombres de las tres Moiras?",
+          "options": ["Cloto, Láquesis, Átropos", "Alecto, Megera, Tisífone", "Eunomia, Dike, Irene", "Aglaya, Eufrosina, Talía"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-2",
+          "question": "¿Quién fue la primera mujer según la mitología griega?",
+          "options": ["Eva", "Pandora", "Helena", "Gea"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "grecia3-3",
+          "question": "¿Cuál era el nombre del río del olvido en el inframundo?",
+          "options": ["Estigia", "Aqueronte", "Leteo", "Cocito"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-4",
+          "question": "¿Quién era la nodriza de Zeus cuando era bebé?",
+          "options": ["Rea", "Gea", "Amaltea", "Tetis"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-5",
+          "question": "¿Cuál era el nombre del gigante que sostenía el cielo?",
+          "options": ["Prometeo", "Atlas", "Tifón", "Briareo"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "grecia3-6",
+          "question": "¿Quién era la madre de las Musas?",
+          "options": ["Hera", "Mnemósine", "Rea", "Deméter"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-7",
+          "question": "¿Cuál era el nombre del águila que devoraba el hígado de Prometeo?",
+          "options": ["No tenía nombre específico", "Etón", "Harpía", "Estínfalo"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-8",
+          "question": "¿Quién era el primordial dios del tiempo?",
+          "options": ["Cronos", "Caos", "Aión", "Urano"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "grecia3-9",
+          "question": "¿Cuáles eran los nombres de los caballos de Helios?",
+          "options": ["Piroo, Eoo, Etón, Flegón", "Balio y Janto", "Ares y Deimos", "No tenían nombres"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-10",
+          "question": "¿Quién era la diosa primordial de la noche?",
+          "options": ["Nix", "Selene", "Hécate", "Artemisa"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "grecia3-11",
+          "question": "¿Cuál era el nombre del centauro que educó a muchos héroes?",
+          "options": ["Neso", "Folo", "Quirón", "Euritión"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "grecia3-12",
+          "question": "¿Quién era el padre de las sirenas según algunas versiones?",
+          "options": ["Poseidón", "Aqueloo", "Océano", "Forco"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-13",
+          "question": "¿Cuál era el nombre del viento del oeste?",
+          "options": ["Bóreas", "Noto", "Euro", "Céfiro"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 5000
+        },
+        {
+          "id": "grecia3-14",
+          "question": "¿Quién era la diosa de la discordia?",
+          "options": ["Eris", "Némesis", "Hasta", "Enio"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4500
+        },
+        {
+          "id": "grecia3-15",
+          "question": "¿Cuál era el nombre del barquero del inframundo?",
+          "options": ["Tánato", "Caronte", "Minos", "Radamantis"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4500
+        }
+      ]
+    }
+  ]
+}
