@@ -1,0 +1,381 @@
+{
+  "category": "aot",
+  "name": "Attack on Titan",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "aot1-1",
+          "question": "¿Cuál es el nombre del protagonista principal?",
+          "options": ["Armin Arlert", "Eren Yeager", "Mikasa Ackerman", "Levi Ackerman"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-2",
+          "question": "¿Cómo se llama la ciudad donde viven los humanos?",
+          "options": ["Shiganshina", "Trost", "Distrito María", "Todas están dentro de las murallas"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-3",
+          "question": "¿Cuántas murallas protegen a la humanidad?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-4",
+          "question": "¿Cuál es el nombre de la muralla más exterior?",
+          "options": ["Muralla María", "Muralla Rose", "Muralla Sina", "Muralla Wall"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-5",
+          "question": "¿Quién es conocido como 'el soldado más fuerte de la humanidad'?",
+          "options": ["Eren Yeager", "Mikasa Ackerman", "Levi Ackerman", "Erwin Smith"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-6",
+          "question": "¿Cómo se llama el mejor amigo de Eren?",
+          "options": ["Armin Arlert", "Jean Kirstein", "Connie Springer", "Marco Bott"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-7",
+          "question": "¿Qué tipo de titán puede transformarse Eren?",
+          "options": ["Titán Colosal", "Titán Blindado", "Titán de Ataque", "Titán Bestia"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-8",
+          "question": "¿Cuál es el equipo de maniobras tridimensional?",
+          "options": ["ODM Gear", "3DMG", "Equipo de maniobras verticales", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-9",
+          "question": "¿Quién creó el manga Attack on Titan?",
+          "options": ["Isayama Hajime", "Araki Hirohiko", "Kishimoto Masashi", "Kubo Tite"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-10",
+          "question": "¿Cómo se llama el padre de Eren?",
+          "options": ["Grisha Yeager", "Keith Shadis", "Rod Reiss", "Kenny Ackerman"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-11",
+          "question": "¿Cuál es la organización militar que lucha contra los titanes?",
+          "options": ["Policía Militar", "Brigada de Reconocimiento", "Guarnición", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-12",
+          "question": "¿Qué pasó en el distrito de Shiganshina?",
+          "options": ["Los titanes rompieron la muralla", "Fue abandonado", "Se convirtió en capital", "Nada especial"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-13",
+          "question": "¿Cuál es el punto débil de los titanes?",
+          "options": ["El corazón", "La nuca", "Los ojos", "Las piernas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-14",
+          "question": "¿Quién es la hermana adoptiva de Eren?",
+          "options": ["Historia Reiss", "Sasha Blouse", "Mikasa Ackerman", "Annie Leonhart"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "aot1-15",
+          "question": "¿En qué año se estrenó el anime?",
+          "options": ["2012", "2013", "2014", "2015"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "aot2-1",
+          "question": "¿Cuál es el verdadero nombre de Historia?",
+          "options": ["Historia Reiss", "Krista Lenz", "Christa Lenz", "Historia Fritz"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-2",
+          "question": "¿Quién es el Titán Blindado?",
+          "options": ["Bertholdt Hoover", "Reiner Braun", "Annie Leonhart", "Marcel Galliard"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-3",
+          "question": "¿Cuál es el nombre del país enemigo al otro lado del mar?",
+          "options": ["Hizuru", "Marley", "Eldia", "Paradise"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-4",
+          "question": "¿Quién posee el Titán Fundador?",
+          "options": ["Eren Yeager", "Historia Reiss", "Frieda Reiss", "Ymir Fritz"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-5",
+          "question": "¿Cómo se llama la operación para retomar el Distrito de Shiganshina?",
+          "options": ["Operación Muralla María", "Operación Retorno", "Operación Shiganshina", "No tiene nombre específico"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-6",
+          "question": "¿Quién es el Titán Bestia?",
+          "options": ["Grisha Yeager", "Zeke Yeager", "Tom Ksaver", "Eren Kruger"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-7",
+          "question": "¿Cuál es el verdadero origen de los titanes?",
+          "options": ["Experimentos científicos", "Castigo divino", "Poder de Ymir Fritz", "Virus"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-8",
+          "question": "¿Cómo se llama el comandante de la Brigada de Reconocimiento?",
+          "options": ["Levi Ackerman", "Erwin Smith", "Hange Zoë", "Keith Shadis"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-9",
+          "question": "¿Cuántos Titanes de las Nueve Potencias existen?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-10",
+          "question": "¿Qué le pasa a un titán cambiante si no es devorado?",
+          "options": ["Vive para siempre", "Muere en 13 años", "Pierde sus poderes", "Se convierte en titán puro"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-11",
+          "question": "¿Quién es Annie Leonhart?",
+          "options": ["Titán Hembra", "Titán de Ataque", "Titán Colosal", "Titán Martillo de Guerra"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-12",
+          "question": "¿Cómo se llama la isla donde viven los protagonistas?",
+          "options": ["Isla Paradis", "Isla María", "Isla Eldia", "Isla Wall"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-13",
+          "question": "¿Quién mató a Sasha Blouse?",
+          "options": ["Gabi Braun", "Falco Grice", "Colt Grice", "Pieck Finger"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-14",
+          "question": "¿Cuál es el plan de Zeke Yeager?",
+          "options": ["Plan de Eutanasia Eldiana", "Plan de Restauración", "Plan del Rugido", "Plan de Liberación"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "aot2-15",
+          "question": "¿Quién es el 'Búho' que ayudó a la Brigada de Reconocimiento?",
+          "options": ["Eren Kruger", "Grisha Yeager", "Zeke Yeager", "Yelena"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "aot3-1",
+          "question": "¿Cuál es el verdadero nombre de Ymir Fritz en los Senderos?",
+          "options": ["Ymir", "La Fundadora", "La Primera", "No tiene otro nombre"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-2",
+          "question": "¿En qué año terminó la serialización del manga?",
+          "options": ["2020", "2021", "2022", "2023"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-3",
+          "question": "¿Cuál es el nombre de la operación final de Eren?",
+          "options": ["El Rugido", "La Activación", "El Aplastamiento", "La Coordinación"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-4",
+          "question": "¿Cuántos capítulos tiene el manga completo?",
+          "options": ["137", "138", "139", "140"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-5",
+          "question": "¿Quién hereda el Titán de Ataque después de Eren?",
+          "options": ["Armin", "Mikasa", "Nadie", "No se revela"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-6",
+          "question": "¿Cuál es el verdadero objetivo de Eren en el final?",
+          "options": ["Destruir el mundo", "Liberar a Ymir", "Proteger a sus amigos", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-7",
+          "question": "¿Cómo se llama la dimensión donde existe Ymir Fritz?",
+          "options": ["Los Senderos", "El Mundo Coordenado", "La Dimensión de Arena", "Los Caminos"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-8",
+          "question": "¿Quién posee el Titán Martillo de Guerra?",
+          "options": ["Lara Tybur", "Willy Tybur", "Eren Yeager", "Porco Galliard"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-9",
+          "question": "¿Cuál era el nombre original del manga en japonés?",
+          "options": ["Kyojin no Kougeki", "Shingeki no Kyojin", "Kyojin Sensou", "Titan no Tatakai"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-10",
+          "question": "¿Qué porcentaje de la humanidad destruyó Eren?",
+          "options": ["70%", "80%", "90%", "100%"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-11",
+          "question": "¿Quién mató finalmente a Eren?",
+          "options": ["Armin", "Levi", "Mikasa", "Gabi"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-12",
+          "question": "¿Cuál es el nombre del árbol donde Ymir Fritz obtuvo el poder de los titanes?",
+          "options": ["Árbol de la Vida", "Árbol Fundador", "No tiene nombre específico", "Árbol de Ymir"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-13",
+          "question": "¿Cuántos años pasaron entre la muerte de Eren y el epílogo final?",
+          "options": ["Décadas", "Siglos", "Miles de años", "No se especifica exactamente"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-14",
+          "question": "¿Cómo se llama la hija de Historia?",
+          "options": ["Ymir", "María", "No se revela", "Historia"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "aot3-15",
+          "question": "¿Qué simboliza el pájaro al final del manga?",
+          "options": ["Eren", "Libertad", "Renacimiento", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
