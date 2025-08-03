@@ -1,0 +1,381 @@
+{
+  "category": "onepiece",
+  "name": "One Piece",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "op1-1",
+          "question": "¿Cuál es el nombre del protagonista de One Piece?",
+          "options": ["Roronoa Zoro", "Monkey D. Luffy", "Sanji", "Usopp"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-2",
+          "question": "¿Cuál es el sueño de Luffy?",
+          "options": ["Ser el mejor espadachín", "Encontrar el All Blue", "Convertirse en Rey de los Piratas", "Dibujar el mapa del mundo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-3",
+          "question": "¿Qué fruta del diablo comió Luffy?",
+          "options": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Hie Hie no Mi", "Yami Yami no Mi"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-4",
+          "question": "¿Cómo se llama el barco de los Piratas del Sombrero de Paja?",
+          "options": ["Going Merry", "Thousand Sunny", "Ambos son correctos", "Red Force"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-5",
+          "question": "¿Quién es el espadachín de la tripulación?",
+          "options": ["Sanji", "Roronoa Zoro", "Brook", "Franky"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-6",
+          "question": "¿Cuál es el nombre de la navegante de los Sombrero de Paja?",
+          "options": ["Nami", "Robin", "Vivi", "Rebecca"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-7",
+          "question": "¿Quién fue el Rey de los Piratas antes de Luffy?",
+          "options": ["Shanks", "Whitebeard", "Gol D. Roger", "Kaido"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-8",
+          "question": "¿Cómo se llama el cocinero de la tripulación?",
+          "options": ["Sanji", "Zoro", "Usopp", "Chopper"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-9",
+          "question": "¿Qué tipo de animal es Tony Tony Chopper?",
+          "options": ["Perro", "Gato", "Reno", "Oso"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-10",
+          "question": "¿Cuántos miembros tiene actualmente la tripulación de Luffy?",
+          "options": ["9", "10", "11", "12"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-11",
+          "question": "¿Cómo se llama el francotirador de la tripulación?",
+          "options": ["Usopp", "Yasopp", "Sogeking", "Van Augur"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-12",
+          "question": "¿Quién creó el manga One Piece?",
+          "options": ["Akira Toriyama", "Eiichiro Oda", "Masashi Kishimoto", "Tite Kubo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-13",
+          "question": "¿En qué mar comienza la aventura de Luffy?",
+          "options": ["Grand Line", "New World", "East Blue", "North Blue"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-14",
+          "question": "¿Cuál es el nombre del hermano de Luffy?",
+          "options": ["Sabo", "Ace", "Ambos", "Dragon"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "op1-15",
+          "question": "¿Cómo se llama la organización del gobierno mundial?",
+          "options": ["Marina", "Cipher Pol", "World Government", "Revolucionarios"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "op2-1",
+          "question": "¿Cuál es el nombre completo de Portgas D. Ace?",
+          "options": ["Portgas D. Ace", "Gol D. Ace", "Monkey D. Ace", "Edward D. Ace"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-2",
+          "question": "¿Quién es el padre de Monkey D. Luffy?",
+          "options": ["Gol D. Roger", "Monkey D. Dragon", "Monkey D. Garp", "Shanks"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-3",
+          "question": "¿Cuál es el nombre de la técnica de Luffy donde infla su cuerpo?",
+          "options": ["Gear Second", "Gear Third", "Gear Fourth", "Gomu Gomu no Balloon"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-4",
+          "question": "¿Cómo se llama la isla donde está ubicada la prisión de Impel Down?",
+          "options": ["Enies Lobby", "Marineford", "Impel Down", "Thriller Bark"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-5",
+          "question": "¿Quién es conocido como 'Barba Blanca'?",
+          "options": ["Edward Newgate", "Marshall D. Teach", "Shanks", "Kaido"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-6",
+          "question": "¿Cuál es el nombre real de Nico Robin?",
+          "options": ["Miss All Sunday", "Nico Robin", "Demon Child", "Child of Ohara"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-7",
+          "question": "¿Qué significa 'D.' en los nombres de ciertos personajes?",
+          "options": ["Devil", "Destiny", "Dream", "No se ha revelado completamente"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-8",
+          "question": "¿Cuál es el nombre de la isla de los hombres pez?",
+          "options": ["Fish-Man Island", "Ryugu Kingdom", "Ambas son correctas", "Mermaid Cove"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-9",
+          "question": "¿Quién es el líder de los Revolucionarios?",
+          "options": ["Sabo", "Monkey D. Dragon", "Ivankov", "Kuma"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-10",
+          "question": "¿Cuál es el nombre de la fruta del diablo de Marco?",
+          "options": ["Tori Tori no Mi, Model: Phoenix", "Mera Mera no Mi", "Pika Pika no Mi", "Gura Gura no Mi"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-11",
+          "question": "¿Cómo se llama la técnica donde Luffy acelera su circulación sanguínea?",
+          "options": ["Gear Second", "Gear Third", "Gear Fourth", "Red Hawk"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-12",
+          "question": "¿Quién es el carpintero de los Sombrero de Paja?",
+          "options": ["Usopp", "Franky", "Brook", "Jinbe"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-13",
+          "question": "¿Cuál es el nombre de la organización criminal que dirigía Crocodile?",
+          "options": ["Baroque Works", "CP9", "Donquixote Pirates", "Beast Pirates"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-14",
+          "question": "¿Cómo se llama la isla del cielo?",
+          "options": ["Skypiea", "Upper Yard", "Shandora", "Angel Island"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "op2-15",
+          "question": "¿Quién fue el primer miembro en unirse a la tripulación de Luffy?",
+          "options": ["Nami", "Zoro", "Usopp", "Sanji"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "op3-1",
+          "question": "¿Cuál es la recompensa actual de Monkey D. Luffy?",
+          "options": ["1.5 mil millones", "3 mil millones", "1 mil millones", "500 millones"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-2",
+          "question": "¿En qué año comenzó la serialización de One Piece?",
+          "options": ["1996", "1997", "1998", "1999"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-3",
+          "question": "¿Cuál es el nombre de la isla final donde está el One Piece?",
+          "options": ["Raftel", "Laugh Tale", "Ambas son correctas", "Load Star"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-4",
+          "question": "¿Cuál es el nombre completo de la fruta del diablo de Luffy después del despertar?",
+          "options": ["Gomu Gomu no Mi", "Hito Hito no Mi, Model: Nika", "Nika Nika no Mi", "Sun God Nika"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-5",
+          "question": "¿Quién es Joy Boy?",
+          "options": ["Luffy", "Una figura histórica", "Gol D. Roger", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-6",
+          "question": "¿Cuál es el nombre del reino de Wano?",
+          "options": ["País de Wano", "Wano Kuni", "Ambas son correctas", "Onigashima"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-7",
+          "question": "¿Cuántos Road Poneglyphs existen?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-8",
+          "question": "¿Cuál es el verdadero nombre de Brook antes de morir?",
+          "options": ["Soul King Brook", "Humming Brook", "Dead Bones Brook", "Brook"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-9",
+          "question": "¿Quién fue el anterior usuario de la Mera Mera no Mi antes de Ace?",
+          "options": ["No se ha revelado", "Sabo", "Portgas D. Rouge", "Un desconocido"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-10",
+          "question": "¿Cuál es el nombre de la técnica suprema de Zoro con tres espadas?",
+          "options": ["Santoryu Ogi: Ichidai Sanzen Daisen Sekai", "Asura", "Kyutoryu", "Todas las anteriores"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-11",
+          "question": "¿Cómo se llama la organización secreta del gobierno mundial?",
+          "options": ["CP0", "CP9", "AEGIS-0", "Cipher Pol"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-12",
+          "question": "¿Cuál es el nombre de la isla donde nació Gol D. Roger?",
+          "options": ["Loguetown", "Baterilla", "Dawn Island", "No se ha revelado"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-13",
+          "question": "¿Quién es Im-sama?",
+          "options": ["El líder secreto del Gobierno Mundial", "Un Gorosei", "Un Tenryubito", "No se ha revelado completamente"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-14",
+          "question": "¿Cuál es el nombre de la espada de Mihawk?",
+          "options": ["Yoru", "Shusui", "Enma", "Ame no Habakiri"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "op3-15",
+          "question": "¿Cuántos capítulos tiene One Piece actualmente (aproximado)?",
+          "options": ["Más de 1000", "Más de 1100", "Más de 900", "Exactamente 1000"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
