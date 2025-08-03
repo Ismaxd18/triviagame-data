@@ -1,0 +1,381 @@
+{
+  "category": "mlb",
+  "name": "MLB Baseball",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "mlb1-1",
+          "question": "¿Cuántos equipos hay en la MLB?",
+          "options": ["28", "30", "32", "34"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-2",
+          "question": "¿Cuántas bases hay en un campo de béisbol?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-3",
+          "question": "¿Cómo se llama el trofeo del campeón de la MLB?",
+          "options": ["Copa Stanley", "Serie Mundial", "Trofeo Larry", "World Series Trophy"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-4",
+          "question": "¿En qué ciudad juegan los Yankees?",
+          "options": ["Boston", "Nueva York", "Filadelfia", "Chicago"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-5",
+          "question": "¿Cuántos strikes necesitas para ponchar a un bateador?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-6",
+          "question": "¿Cuántas entradas tiene un juego completo de béisbol?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-7",
+          "question": "¿Qué equipo tiene el logo de una 'B' roja?",
+          "options": ["Yankees", "Red Sox", "Blue Jays", "Orioles"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-8",
+          "question": "¿Cómo se llama cuando un bateador golpea la pelota fuera del parque?",
+          "options": ["Triple", "Doble", "Home Run", "Grand Slam"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-9",
+          "question": "¿En qué mes termina típicamente la Serie Mundial?",
+          "options": ["Septiembre", "Octubre", "Noviembre", "Diciembre"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-10",
+          "question": "¿Qué posición está detrás del home plate?",
+          "options": ["Pitcher", "Catcher", "Shortstop", "First Base"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-11",
+          "question": "¿Qué significa 'RBI'?",
+          "options": ["Runs Batted In", "Right Base Infield", "Real Baseball Intelligence", "Rookie Baseball Index"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-12",
+          "question": "¿En qué estado está ubicado el equipo de los Dodgers?",
+          "options": ["Nueva York", "Texas", "California", "Florida"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-13",
+          "question": "¿Cuántas bolas necesita un bateador para llegar a primera base por walk?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-14",
+          "question": "¿Qué equipo juega en el Fenway Park?",
+          "options": ["Yankees", "Mets", "Red Sox", "Phillies"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mlb1-15",
+          "question": "¿Cómo se llama la liga americana en la MLB?",
+          "options": ["AL", "NL", "AFL", "NAL"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "mlb2-1",
+          "question": "¿Quién tiene el récord de más home runs en una temporada?",
+          "options": ["Babe Ruth", "Mark McGwire", "Barry Bonds", "Sammy Sosa"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-2",
+          "question": "¿En qué año se rompió la barrera del color en la MLB?",
+          "options": ["1945", "1947", "1949", "1950"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-3",
+          "question": "¿Qué equipo ha ganado más Series Mundiales?",
+          "options": ["Red Sox", "Cardinals", "Yankees", "Athletics"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-4",
+          "question": "¿Quién rompió la barrera del color en las Grandes Ligas?",
+          "options": ["Willie Mays", "Jackie Robinson", "Hank Aaron", "Roberto Clemente"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-5",
+          "question": "¿Qué pitcher tiene más juegos sin hit (no-hitters) en la historia?",
+          "options": ["Cy Young", "Walter Johnson", "Nolan Ryan", "Randy Johnson"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-6",
+          "question": "¿En qué estadio se encuentra el 'Green Monster'?",
+          "options": ["Yankee Stadium", "Fenway Park", "Wrigley Field", "Fenway Park"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-7",
+          "question": "¿Quién tiene el récord de más hits en la carrera?",
+          "options": ["Ty Cobb", "Pete Rose", "Hank Aaron", "Stan Musial"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-8",
+          "question": "¿Qué equipo era conocido como 'Murderers' Row'?",
+          "options": ["1927 Yankees", "1975 Reds", "1984 Tigers", "1998 Yankees"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-9",
+          "question": "¿En qué año se estableció la Liga Americana?",
+          "options": ["1900", "1901", "1903", "1905"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-10",
+          "question": "¿Qué bateador fue el último en batear .400 en una temporada?",
+          "options": ["Ted Williams", "Tony Gwynn", "Wade Boggs", "Rod Carew"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-11",
+          "question": "¿Cuántos equipos tenía la MLB cuando se jugó la primera Serie Mundial?",
+          "options": ["14", "16", "18", "20"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-12",
+          "question": "¿Qué equipo se mudó de Brooklyn a Los Ángeles?",
+          "options": ["Giants", "Dodgers", "Yankees", "Mets"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-13",
+          "question": "¿Quién fue conocido como 'The Iron Horse'?",
+          "options": ["Babe Ruth", "Lou Gehrig", "Joe DiMaggio", "Mickey Mantle"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-14",
+          "question": "¿En qué década se introdujo el bateador designado en la Liga Americana?",
+          "options": ["1960s", "1970s", "1980s", "1990s"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mlb2-15",
+          "question": "¿Qué pitcher ganó más juegos en la historia de la MLB?",
+          "options": ["Walter Johnson", "Christy Mathewson", "Cy Young", "Grover Alexander"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "mlb3-1",
+          "question": "¿En qué año Barry Bonds estableció el récord de 73 home runs?",
+          "options": ["2000", "2001", "2002", "2003"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-2",
+          "question": "¿Qué pitcher lanzó un juego perfecto en la Serie Mundial?",
+          "options": ["Don Larsen", "Sandy Koufax", "Cy Young", "Walter Johnson"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-3",
+          "question": "¿Cuántos juegos consecutivos jugó Cal Ripken Jr.?",
+          "options": ["2,130", "2,632", "2,890", "3,000"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-4",
+          "question": "¿En qué año Ted Williams bateó .406?",
+          "options": ["1939", "1941", "1942", "1946"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-5",
+          "question": "¿Qué equipo perdió la Serie Mundial después de liderar 3-0?",
+          "options": ["2003 Cubs", "2004 Yankees", "1986 Red Sox", "1975 Reds"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-6",
+          "question": "¿Quién fue el primer jugador en ganar MVP en ambas ligas?",
+          "options": ["Hank Aaron", "Willie Mays", "Frank Robinson", "Mickey Mantle"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-7",
+          "question": "¿En qué estadio se jugó el primer Juego de Estrellas?",
+          "options": ["Yankee Stadium", "Comiskey Park", "Polo Grounds", "Fenway Park"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-8",
+          "question": "¿Qué pitcher tiene el récord de más strikeouts en una temporada?",
+          "options": ["Nolan Ryan", "Randy Johnson", "Pedro Martinez", "Sandy Koufax"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-9",
+          "question": "¿En qué año se estableció el sistema de Wild Card?",
+          "options": ["1993", "1994", "1995", "1996"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-10",
+          "question": "¿Qué bateador tuvo la racha de hits más larga?",
+          "options": ["Pete Rose", "Joe DiMaggio", "Willie Keeler", "Ty Cobb"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-11",
+          "question": "¿Cuántos no-hitters lanzó Nolan Ryan?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-12",
+          "question": "¿En qué año los Expos se mudaron a Washington?",
+          "options": ["2003", "2004", "2005", "2006"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-13",
+          "question": "¿Qué pitcher tiene más victorias en Serie Mundial?",
+          "options": ["Whitey Ford", "Bob Gibson", "Sandy Koufax", "Christy Mathewson"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-14",
+          "question": "¿En qué año se jugó la última Serie Mundial antes de la expansión?",
+          "options": ["1960", "1961", "1962", "1963"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mlb3-15",
+          "question": "¿Qué equipo fue el último en integrar jugadores afroamericanos?",
+          "options": ["Yankees", "Red Sox", "Tigers", "Phillies"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
