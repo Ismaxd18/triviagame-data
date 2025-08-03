@@ -1,0 +1,381 @@
+{
+  "category": "naruto",
+  "name": "Naruto Universe",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "naruto1-1",
+          "question": "¿Cuál es el nombre completo del protagonista?",
+          "options": ["Naruto Uzumaki", "Naruto Namikaze", "Naruto Uchiha", "Naruto Hyuga"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-2",
+          "question": "¿Cómo se llama el demonio zorro de nueve colas?",
+          "options": ["Shukaku", "Kurama", "Matatabi", "Isobu"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-3",
+          "question": "¿Cuál es el nombre de la aldea donde vive Naruto?",
+          "options": ["Aldea de la Arena", "Aldea de la Hoja", "Aldea de la Niebla", "Aldea de la Roca"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-4",
+          "question": "¿Quién es el mejor amigo y rival de Naruto?",
+          "options": ["Shikamaru", "Sasuke", "Neji", "Gaara"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-5",
+          "question": "¿Cómo se llama el sensei del Equipo 7?",
+          "options": ["Might Guy", "Asuma", "Kakashi", "Kurenai"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-6",
+          "question": "¿Cuál es la técnica signature de Naruto?",
+          "options": ["Chidori", "Rasengan", "Kage Bunshin", "Hiraishin"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-7",
+          "question": "¿Quién es la chica del Equipo 7?",
+          "options": ["Hinata", "Ino", "Sakura", "Tenten"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-8",
+          "question": "¿Cuál es el sueño de Naruto?",
+          "options": ["Ser el ninja más fuerte", "Convertirse en Hokage", "Vengarse de su clan", "Encontrar a Sasuke"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-9",
+          "question": "¿Cómo se llama el clan de Sasuke?",
+          "options": ["Uzumaki", "Hyuga", "Uchiha", "Nara"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-10",
+          "question": "¿Quién asesinó al clan Uchiha?",
+          "options": ["Orochimaru", "Itachi", "Madara", "Obito"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-11",
+          "question": "¿Cuál es la comida favorita de Naruto?",
+          "options": ["Sushi", "Ramen", "Dango", "Onigiri"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-12",
+          "question": "¿Quién fue el Cuarto Hokage?",
+          "options": ["Hiruzen Sarutobi", "Minato Namikaze", "Tsunade", "Kakashi Hatake"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-13",
+          "question": "¿Cómo se llama la organización criminal que busca las bestias con cola?",
+          "options": ["Akatsuki", "Otsutsuki", "Root", "Sound Four"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-14",
+          "question": "¿Cuál es el dojutsu del clan Uchiha?",
+          "options": ["Byakugan", "Rinnegan", "Sharingan", "Tenseigan"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "naruto1-15",
+          "question": "¿Quién es conocido como el 'Ermitaño Sapo'?",
+          "options": ["Orochimaru", "Tsunade", "Jiraiya", "Hiruzen"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "naruto2-1",
+          "question": "¿Cuál es el nombre real de Tobi?",
+          "options": ["Madara Uchiha", "Obito Uchiha", "Izuna Uchiha", "Shisui Uchiha"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-2",
+          "question": "¿Cómo se llama la técnica espacial-temporal del Cuarto Hokage?",
+          "options": ["Kamui", "Hiraishin", "Amenotejikara", "Yomotsu Hirasaka"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-3",
+          "question": "¿Cuántas bestias con cola existen?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-4",
+          "question": "¿Quién es el padre de Naruto?",
+          "options": ["Jiraiya", "Minato Namikaze", "Hiruzen Sarutobi", "Kakashi Hatake"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-5",
+          "question": "¿Cuál es el nombre del Modo Sabio de Naruto?",
+          "options": ["Modo Sabio de los Sapos", "Modo Sabio de Rikudou", "Modo Kyuubi", "Modo Ermitaño"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-6",
+          "question": "¿Cómo se llama la espada de Sasuke?",
+          "options": ["Kusanagi", "Totsuka", "Yata no Kagami", "Kusanagi no Tsurugi"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-7",
+          "question": "¿Quién entrenó a Naruto en el Modo Sabio?",
+          "options": ["Jiraiya", "Fukasaku", "Gamabunta", "Killer Bee"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-8",
+          "question": "¿Cuál es el nombre del jutsu prohibido que aprendió Naruto?",
+          "options": ["Kage Bunshin no Jutsu", "Rasengan", "Hiraishin", "Edo Tensei"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-9",
+          "question": "¿Quién es el líder de Akatsuki?",
+          "options": ["Pain", "Madara", "Obito", "Nagato"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-10",
+          "question": "¿Cómo se llama la transformación final de Sasuke?",
+          "options": ["Susanoo Perfecto", "Modo Maldición Nivel 2", "Eternal Mangekyou", "Rinnegan"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-11",
+          "question": "¿Cuál es el nombre del clan de Hinata?",
+          "options": ["Nara", "Akimichi", "Hyuga", "Inuzuka"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-12",
+          "question": "¿Quién fue el primer jinchuriki del Kyuubi?",
+          "options": ["Naruto", "Mito Uzumaki", "Kushina Uzumaki", "Minato Namikaze"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-13",
+          "question": "¿Cómo se llama la técnica de invocación de Jiraiya?",
+          "options": ["Doton", "Kuchiyose no Jutsu", "Senjutsu", "Fuinjutsu"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-14",
+          "question": "¿Quién derrotó a Pain?",
+          "options": ["Kakashi", "Naruto", "Tsunade", "Jiraiya"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "naruto2-15",
+          "question": "¿Cuál es el nombre del jutsu de sellado que usó Minato?",
+          "options": ["Shiki Fujin", "Hakke Fujin", "Chibaku Tensei", "Banbutsu Sozo"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "naruto3-1",
+          "question": "¿Cuál es el nombre completo de la técnica combinada final de Naruto y Sasuke?",
+          "options": ["Rikudou Chibaku Tensei", "Rikudou Banbutsu Sozo", "Rikudou Jinchuriki", "Rikudou Senpo"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-2",
+          "question": "¿Quién es el Sabio de los Seis Caminos?",
+          "options": ["Indra Otsutsuki", "Asura Otsutsuki", "Hagoromo Otsutsuki", "Hamura Otsutsuki"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-3",
+          "question": "¿Cuál es el verdadero nombre de la bestia de una cola?",
+          "options": ["Shukaku", "Tanuki", "Ichibi", "Gaara no Sabaku"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-4",
+          "question": "¿En qué año comenzó la serialización del manga Naruto?",
+          "options": ["1998", "1999", "2000", "2001"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-5",
+          "question": "¿Cuál es el nombre del jutsu que permite revivir a los muertos?",
+          "options": ["Rinne Rebirth", "Edo Tensei", "Izanagi", "Izanami"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-6",
+          "question": "¿Quién creó el jutsu Edo Tensei?",
+          "options": ["Orochimaru", "Tobirama Senju", "Madara Uchiha", "Kabuto Yakushi"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-7",
+          "question": "¿Cuál es el nombre del hermano menor de Hagoromo?",
+          "options": ["Indra", "Asura", "Hamura", "Kaguya"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-8",
+          "question": "¿Cómo se llama la dimensión donde está sellada Kaguya?",
+          "options": ["Dimensión de Hielo", "Dimensión Raíz", "Dimensión de Gravedad", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-9",
+          "question": "¿Cuál es el nombre del clan ancestral de Kaguya?",
+          "options": ["Senju", "Uchiha", "Uzumaki", "Otsutsuki"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-10",
+          "question": "¿Qué significa 'Rikudou Sennin'?",
+          "options": ["Sabio de Seis Caminos", "Ermitaño de Seis Ojos", "Maestro de Seis Elementos", "Emperador de Seis Mundos"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-11",
+          "question": "¿Cuántos capítulos tiene el manga original de Naruto?",
+          "options": ["700", "720", "699", "701"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-12",
+          "question": "¿Cuál es el nombre del jutsu ocular más poderoso de Sasuke?",
+          "options": ["Eternal Mangekyou Sharingan", "Rinnegan", "Rinne Sharingan", "Tomoe Rinnegan"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-13",
+          "question": "¿Quién fue el primer usuario del Mangekyou Sharingan?",
+          "options": ["Madara Uchiha", "Indra Otsutsuki", "Izuna Uchiha", "No se especifica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-14",
+          "question": "¿Cuál es el nombre de la transformación donde Naruto y Kurama se fusionan completamente?",
+          "options": ["Modo Kyuubi", "Modo Bijuu", "Modo Kurama", "Kurama Link Mode"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "naruto3-15",
+          "question": "¿Cómo se llama el árbol sagrado que consumió Kaguya?",
+          "options": ["Shinju", "Juubi", "God Tree", "Chakra Tree"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
