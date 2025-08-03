@@ -1,0 +1,381 @@
+{
+  "category": "spiderverse",
+  "name": "Spider-Verse",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "spider1-1",
+          "question": "¿Cuál es el nombre real de Spider-Man original?",
+          "options": ["Miles Morales", "Peter Parker", "Ben Reilly", "Miguel O'Hara"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-2",
+          "question": "¿Quién es el protagonista de 'Spider-Man: Into the Spider-Verse'?",
+          "options": ["Peter Parker", "Miles Morales", "Gwen Stacy", "Peter B. Parker"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-3",
+          "question": "¿Cómo obtiene sus poderes Miles Morales?",
+          "options": ["Accidente de laboratorio", "Mordida de araña radioactiva", "Experimento genético", "Magia"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-4",
+          "question": "¿Cuál es el alter ego de Spider-Gwen?",
+          "options": ["Mary Jane Watson", "Gwen Stacy", "Black Cat", "Silk"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-5",
+          "question": "¿En qué año se estrenó 'Spider-Man: Into the Spider-Verse'?",
+          "options": ["2017", "2018", "2019", "2020"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-6",
+          "question": "¿Cuál es el nombre del tío de Miles Morales?",
+          "options": ["Ben", "Aaron", "Jefferson", "Prowler"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-7",
+          "question": "¿Qué poder especial tiene Miles que no tiene Peter Parker?",
+          "options": ["Volar", "Invisibilidad", "Leer mentes", "Super velocidad"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-8",
+          "question": "¿Cuál es la frase icónica de Spider-Man?",
+          "options": ["¡Es hora del espectáculo!", "Un gran poder...", "¡Telarañas!", "¡Spider-tiempo!"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-9",
+          "question": "¿Cómo se llama la versión oscura de Spider-Man?",
+          "options": ["Venom", "Spider-Noir", "Prowler", "Green Goblin"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-10",
+          "question": "¿Qué estudia Peter Parker típicamente?",
+          "options": ["Medicina", "Ingeniería", "Ciencias", "Arte"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-11",
+          "question": "¿Cuál es el nombre del padre de Miles Morales?",
+          "options": ["Aaron", "Jefferson", "Prowler", "Spider-Man"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-12",
+          "question": "¿En qué ciudad vive Miles Morales?",
+          "options": ["Brooklyn", "Queens", "Manhattan", "Brooklyn y Queens"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-13",
+          "question": "¿Cuál es el villano principal en 'Into the Spider-Verse'?",
+          "options": ["Green Goblin", "Kingpin", "Doctor Octopus", "Venom"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-14",
+          "question": "¿Qué tipo de animal le da poderes a Spider-Ham?",
+          "options": ["Araña radioactiva", "Cerdo radioactivo", "Araña atómica", "Experimento"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "spider1-15",
+          "question": "¿Cuántas dimensiones se conectan en 'Into the Spider-Verse'?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "spider2-1",
+          "question": "¿Cuál es el nombre real de Spider-Man 2099?",
+          "options": ["Miguel O'Hara", "Ben Reilly", "Kaine Parker", "Ezekiel Sims"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-2",
+          "question": "¿En qué año se ambienta Spider-Man 2099?",
+          "options": ["2090", "2095", "2099", "2105"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-3",
+          "question": "¿Cuál es el nombre del universo de Spider-Gwen?",
+          "options": ["Tierra-65", "Tierra-1610", "Tierra-616", "Tierra-928"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-4",
+          "question": "¿Quién es Prowler en el universo de Miles Morales?",
+          "options": ["Su padre", "Su tío Aaron", "Su hermano", "Su primo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-5",
+          "question": "¿Cuál es el nombre real de Spider-Ham?",
+          "options": ["Peter Porker", "Ham Parker", "Peter Ham", "Porky Parker"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-6",
+          "question": "¿En qué década se ambienta Spider-Man Noir?",
+          "options": ["1920s", "1930s", "1940s", "1950s"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-7",
+          "question": "¿Cuál es el poder de 'descarga de veneno' de Miles?",
+          "options": ["Bio-electricidad", "Radiación", "Toxinas", "Magnetismo"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-8",
+          "question": "¿Cómo se llama la banda de Gwen Stacy?",
+          "options": ["The Spiders", "The Mary Janes", "Web Slingers", "Spider-Women"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-9",
+          "question": "¿Quién creó el Super-Collider en 'Into the Spider-Verse'?",
+          "options": ["Doctor Octopus", "Kingpin", "Green Goblin", "Prowler"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-10",
+          "question": "¿Cuál es el nombre del Spider-Man japonés con robot gigante?",
+          "options": ["Sp//dr", "Peni Parker", "Spider-Mech", "Neo-Spider"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-11",
+          "question": "¿En qué universo se origina Miles Morales en los cómics?",
+          "options": ["Tierra-616", "Tierra-1610", "Tierra-65", "Tierra-928"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-12",
+          "question": "¿Cuál es el nombre del robot de Peni Parker?",
+          "options": ["SP//dr", "Spider-Mech", "Peni-Bot", "Web-Crawler"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-13",
+          "question": "¿Quién murió en el universo de Spider-Gwen que la motivó a ser héroe?",
+          "options": ["Peter Parker", "Ben Parker", "May Parker", "George Stacy"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-14",
+          "question": "¿Cuál es el estilo de animación único de Spider-Noir?",
+          "options": ["Blanco y negro", "Sepia", "Monocromático", "Film noir"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "spider2-15",
+          "question": "¿Qué compañía produce Spider-Man 2099?",
+          "options": ["Oscorp", "Alchemax", "Stark Industries", "Roxxon"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "spider3-1",
+          "question": "¿Cuál es el número exacto del universo de Spider-Man Noir?",
+          "options": ["Tierra-90214", "Tierra-90124", "Tierra-90412", "Tierra-94021"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-2",
+          "question": "¿Quién es el padre biológico de Peni Parker en los cómics?",
+          "options": ["Peter Parker", "Ben Parker", "Richard Parker", "No se revela"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-3",
+          "question": "¿En qué año debutó Miles Morales en los cómics?",
+          "options": ["2010", "2011", "2012", "2013"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-4",
+          "question": "¿Cuál es el nombre completo de la madre de Miles Morales?",
+          "options": ["Rio Morales", "Rio Gonzalez", "Maria Morales", "Carmen Rio"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-5",
+          "question": "¿Quién dirigió 'Spider-Man: Into the Spider-Verse'?",
+          "options": ["Phil Lord", "Christopher Miller", "Bob Persichetti", "Todos los anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-6",
+          "question": "¿Cuál es el nombre del cómic que introdujo el concepto de Spider-Verse?",
+          "options": ["Amazing Spider-Man", "Spider-Verse", "Web of Spider-Man", "Ultimate Spider-Man"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-7",
+          "question": "¿Qué edad tenía Miles cuando obtuvo sus poderes en la película?",
+          "options": ["13 años", "14 años", "15 años", "16 años"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-8",
+          "question": "¿Cuál es el nombre del villano hereditario que persigue a todos los Spider-People?",
+          "options": ["Morlun", "Karn", "Solus", "Verna"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-9",
+          "question": "¿En qué escuela estudia Miles Morales en la película?",
+          "options": ["Brooklyn Academy", "Visions Academy", "Vision Academy", "Science Academy"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-10",
+          "question": "¿Cuál es el nombre del universo de Spider-Ham?",
+          "options": ["Tierra-8311", "Tierra-3811", "Tierra-1138", "Tierra-8113"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-11",
+          "question": "¿Quién proporciona la voz de Spider-Man Noir en la película?",
+          "options": ["Nicolas Cage", "John Mulaney", "Jake Johnson", "Shameik Moore"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-12",
+          "question": "¿Cuál es el nombre de la organización que une a todos los Spider-People?",
+          "options": ["Web Warriors", "Spider-Army", "Spider-Society", "Web of Life"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-13",
+          "question": "¿En qué cómic apareció por primera vez Spider-Gwen?",
+          "options": ["Edge of Spider-Verse #2", "Spider-Gwen #1", "Amazing Spider-Man", "Web Warriors"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-14",
+          "question": "¿Cuál es el nombre real del Spider-Man de la India?",
+          "options": ["Pavitr Prabhakar", "Peter Parker", "Pavitar Parker", "Prabhakar Pavitr"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "spider3-15",
+          "question": "¿Cuánto duró la producción de 'Into the Spider-Verse'?",
+          "options": ["3 años", "4 años", "5 años", "6 años"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
