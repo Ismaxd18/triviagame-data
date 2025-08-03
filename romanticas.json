@@ -1,0 +1,381 @@
+{
+  "category": "romanticas",
+  "name": "Románticas",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "rom1-1",
+          "question": "¿En qué película aparece la frase 'You had me at hello'?",
+          "options": ["Ghost", "Jerry Maguire", "Pretty Woman", "When Harry Met Sally"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-2",
+          "question": "¿Quién interpretó a Jack en 'Titanic'?",
+          "options": ["Brad Pitt", "Leonardo DiCaprio", "Matt Damon", "Johnny Depp"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-3",
+          "question": "¿En qué ciudad transcurre 'Casablanca'?",
+          "options": ["París", "Casablanca", "Lisboa", "Nueva York"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-4",
+          "question": "¿Cuál es la profesión de Julia Roberts en 'Pretty Woman'?",
+          "options": ["Camarera", "Secretaria", "Prostituta", "Actriz"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-5",
+          "question": "¿En qué película aparece la escena de la alfarería con 'Unchained Melody'?",
+          "options": ["Ghost", "Dirty Dancing", "The Bodyguard", "Top Gun"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-6",
+          "question": "¿Quién dirigió 'The Notebook'?",
+          "options": ["Nicholas Sparks", "Nick Cassavetes", "Cameron Crowe", "Rob Reiner"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-7",
+          "question": "¿En qué película Meg Ryan finge un orgasmo en un restaurante?",
+          "options": ["Sleepless in Seattle", "When Harry Met Sally", "You've Got Mail", "Kate & Leopold"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-8",
+          "question": "¿Cuál es el nombre de la protagonista en 'The Princess Bride'?",
+          "options": ["Buttercup", "Princess", "Bride", "Westley"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-9",
+          "question": "¿En qué película Hugh Grant es un librero?",
+          "options": ["Four Weddings and a Funeral", "Love Actually", "Notting Hill", "Bridget Jones's Diary"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-10",
+          "question": "¿Quién escribió la novela en la que se basa 'The Notebook'?",
+          "options": ["Nicholas Sparks", "John Grisham", "Danielle Steel", "Nora Roberts"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-11",
+          "question": "¿En qué año se estrenó 'Dirty Dancing'?",
+          "options": ["1986", "1987", "1988", "1989"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-12",
+          "question": "¿Cuál es la canción principal de 'Titanic'?",
+          "options": ["My Heart Will Go On", "Love Theme", "Near Far Wherever", "Rose's Theme"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-13",
+          "question": "¿En qué película Sandra Bullock interpreta a una mujer en coma?",
+          "options": ["Speed", "While You Were Sleeping", "Miss Congeniality", "The Proposal"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-14",
+          "question": "¿Qué actor interpreta a Noah en 'The Notebook'?",
+          "options": ["Ryan Reynolds", "Ryan Gosling", "Ryan Philippe", "Ryan O'Neal"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "rom1-15",
+          "question": "¿En qué película aparece la frase 'I'm just a girl, standing in front of a boy'?",
+          "options": ["Pretty Woman", "Notting Hill", "Love Actually", "Bridget Jones's Diary"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "rom2-1",
+          "question": "¿En qué ciudad transcurre 'Sleepless in Seattle'?",
+          "options": ["Seattle y Nueva York", "Seattle y San Francisco", "Seattle y Los Ángeles", "Solo en Seattle"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-2",
+          "question": "¿Cuál es el nombre del personaje de Humphrey Bogart en 'Casablanca'?",
+          "options": ["Sam", "Rick Blaine", "Victor Laszlo", "Captain Renault"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-3",
+          "question": "¿En qué película de 2004 se entrelazan múltiples historias de amor en Londres?",
+          "options": ["Love Actually", "Four Weddings and a Funeral", "Bridget Jones's Diary", "Notting Hill"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-4",
+          "question": "¿Quién compuso la música de 'Titanic'?",
+          "options": ["John Williams", "James Horner", "Hans Zimmer", "Alan Silvestri"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-5",
+          "question": "¿En qué año se estrenó 'Casablanca'?",
+          "options": ["1941", "1942", "1943", "1944"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-6",
+          "question": "¿Cuál es el nombre del resort en 'Dirty Dancing'?",
+          "options": ["Kellerman's", "Mountain Lodge", "Summer Resort", "Baby's Place"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-7",
+          "question": "¿En qué película Ryan Reynolds interpreta a un espíritu?",
+          "options": ["The Proposal", "Definitely, Maybe", "Just Friends", "Ghost of Girlfriends Past"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-8",
+          "question": "¿Quién dirigió 'When Harry Met Sally'?",
+          "options": ["Nora Ephron", "Rob Reiner", "Cameron Crowe", "James L. Brooks"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-9",
+          "question": "¿En qué película Kate Winslet y Jim Carrey borran sus memorias?",
+          "options": ["The Holiday", "Eternal Sunshine of the Spotless Mind", "Finding Neverland", "Little Children"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-10",
+          "question": "¿Cuál es el nombre del café en 'You've Got Mail'?",
+          "options": ["The Coffee Shop", "Café Lalo", "Starbucks", "Central Perk"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-11",
+          "question": "¿En qué película aparece la canción 'Time of My Life'?",
+          "options": ["Ghost", "Dirty Dancing", "Top Gun", "Flashdance"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-12",
+          "question": "¿Quién interpretó a Rose en 'Titanic'?",
+          "options": ["Kate Winslet", "Cate Blanchett", "Nicole Kidman", "Gwyneth Paltrow"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-13",
+          "question": "¿En qué película Julia Stiles se enamora de su profesor de danza?",
+          "options": ["10 Things I Hate About You", "Save the Last Dance", "She's All That", "Center Stage"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-14",
+          "question": "¿Cuál es el nombre del Empire State Building en 'Sleepless in Seattle'?",
+          "options": ["Edificio del destino", "No tiene nombre especial", "Valentine Building", "Top of the World"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "rom2-15",
+          "question": "¿En qué película Adam Sandler tiene pérdida de memoria a corto plazo?",
+          "options": ["The Wedding Singer", "50 First Dates", "Big Daddy", "Happy Gilmore"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "rom3-1",
+          "question": "¿Cuál fue la recaudación mundial de 'Titanic'?",
+          "options": ["$1.8 mil millones", "$2.1 mil millones", "$2.2 mil millones", "$2.5 mil millones"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-2",
+          "question": "¿En qué año ganó 'Casablanca' el Oscar a Mejor Película?",
+          "options": ["1943", "1944", "1945", "1946"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-3",
+          "question": "¿Quién escribió el guión de 'When Harry Met Sally'?",
+          "options": ["Nora Ephron", "Rob Reiner", "Billy Crystal", "Meg Ryan"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-4",
+          "question": "¿Cuál fue el presupuesto de 'Pretty Woman'?",
+          "options": ["$14 millones", "$23 millones", "$32 millones", "$45 millones"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-5",
+          "question": "¿En qué película de 1993 Bill Murray revive el mismo día repetidamente?",
+          "options": ["Groundhog Day", "What About Bob?", "Stripes", "Quick Change"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-6",
+          "question": "¿Quién escribió la novela 'Pride and Prejudice'?",
+          "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "George Eliot"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-7",
+          "question": "¿En qué año se estrenó 'Gone with the Wind'?",
+          "options": ["1938", "1939", "1940", "1941"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-8",
+          "question": "¿Cuál es el nombre del personaje de Cary Grant en 'An Affair to Remember'?",
+          "options": ["Nickie Ferrante", "Roger Thornhill", "David Huxley", "C.K. Dexter Haven"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-9",
+          "question": "¿Qué actriz rechazó el papel principal en 'Pretty Woman'?",
+          "options": ["Michelle Pfeiffer", "Molly Ringwald", "Diane Lane", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-10",
+          "question": "¿En qué película Audrey Hepburn canta 'Moon River'?",
+          "options": ["My Fair Lady", "Breakfast at Tiffany's", "Roman Holiday", "Sabrina"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-11",
+          "question": "¿Cuál fue la primera película en color en ganar el Oscar a Mejor Película?",
+          "options": ["The Wizard of Oz", "Gone with the Wind", "The Adventures of Robin Hood", "Snow White"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-12",
+          "question": "¿Quién dirigió 'The Way We Were'?",
+          "options": ["Sydney Pollack", "Arthur Hiller", "George Cukor", "William Wyler"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-13",
+          "question": "¿En qué película de 1957 se basa el musical 'West Side Story'?",
+          "options": ["Romeo and Juliet", "Es una historia original", "Una obra de Broadway", "Un cuento folclórico"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-14",
+          "question": "¿Cuál es el nombre original de la canción 'As Time Goes By' de Casablanca?",
+          "options": ["Es el nombre original", "Time Will Tell", "Remember This", "Love Theme"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "rom3-15",
+          "question": "¿En qué año se filmó 'Roman Holiday'?",
+          "options": ["1952", "1953", "1954", "1955"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
