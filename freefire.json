@@ -1,0 +1,381 @@
+{
+  "category": "freefire",
+  "name": "Free Fire",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "ff1-1",
+          "question": "¿Qué tipo de juego es Free Fire?",
+          "options": ["MMORPG", "Battle Royale", "MOBA", "FPS Clásico"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-2",
+          "question": "¿Cuál es la empresa desarrolladora de Free Fire?",
+          "options": ["Tencent", "Garena", "Supercell", "Riot Games"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-3",
+          "question": "¿Cuántos jugadores como máximo pueden participar en una partida clásica?",
+          "options": ["100", "50", "75", "60"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-4",
+          "question": "¿Cuál es el objetivo principal en Free Fire?",
+          "options": ["Conseguir kills", "Ser el último en pie", "Conseguir loot", "Completar misiones"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-5",
+          "question": "¿En qué año se lanzó Free Fire?",
+          "options": ["2016", "2017", "2018", "2019"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-6",
+          "question": "¿Cuál es la moneda premium del juego?",
+          "options": ["Coins", "Diamantes", "Gemas", "Tokens"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-7",
+          "question": "¿Cómo se llama la isla principal donde se desarrolla el juego?",
+          "options": ["Bermuda", "Purgatorio", "Kalahari", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-8",
+          "question": "¿Cuál es el rango más alto en el modo Ranked?",
+          "options": ["Master", "Gran Master", "Heroico", "Leyenda"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-9",
+          "question": "¿Qué significa 'Booyah' en Free Fire?",
+          "options": ["Buen trabajo", "Victoria", "Hola", "Adiós"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-10",
+          "question": "¿Cuál es el personaje gratuito por defecto?",
+          "options": ["Adam", "Eva", "Nikola", "Moco"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-11",
+          "question": "¿Qué arma es considerada sniper en Free Fire?",
+          "options": ["AK", "M4A1", "AWM", "Thompson"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-12",
+          "question": "¿Cuánto dura aproximadamente una partida de Free Fire?",
+          "options": ["15 minutos", "10 minutos", "20 minutos", "5 minutos"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-13",
+          "question": "¿Cómo se llama el modo de juego de 4 vs 4?",
+          "options": ["Squad", "Clash Squad", "Team Fight", "Arena"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-14",
+          "question": "¿Qué se necesita para revivir a un compañero caído?",
+          "options": ["Botiquín", "Kit de Rescate", "Tiempo", "Adrenalina"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ff1-15",
+          "question": "¿En qué plataformas está disponible Free Fire?",
+          "options": ["Solo móviles", "PC y móviles", "Consolas", "Todas las plataformas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "ff2-1",
+          "question": "¿Cuál es la habilidad del personaje DJ Alok?",
+          "options": ["Aumento de velocidad", "Drop the Beat", "Curación", "Invisibilidad"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-2",
+          "question": "¿Qué personaje tiene la habilidad 'Heartbeat'?",
+          "options": ["Laura", "Moco", "Paloma", "Clu"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-3",
+          "question": "¿Cuál es el daño máximo del AWM con headshot?",
+          "options": ["295", "350", "400", "450"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-4",
+          "question": "¿Qué hace la habilidad 'Camouflage' de Wukong?",
+          "options": ["Invisibilidad temporal", "Se convierte en arbusto", "Velocidad extra", "Detecta enemigos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-5",
+          "question": "¿Cuántos slots de personajes se pueden activar simultáneamente?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-6",
+          "question": "¿Qué significa 'OB' en las actualizaciones de Free Fire?",
+          "options": ["Official Build", "Open Beta", "Original Battle", "Optimal Balance"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-7",
+          "question": "¿Cuál es la capacidad máxima de la mochila nivel 3?",
+          "options": ["120", "150", "180", "200"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-8",
+          "question": "¿Qué arma tiene la cadencia de fuego más alta?",
+          "options": ["MP40", "Thompson", "Vector", "UMP"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-9",
+          "question": "¿Cuál es el nombre del evento principal anual de Free Fire?",
+          "options": ["Free Fire World Series", "Free Fire Championship", "Booyah Day", "Free Fire Cup"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-10",
+          "question": "¿Qué personaje puede detectar enemigos cercanos?",
+          "options": ["Moco", "Clu", "Kla", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-11",
+          "question": "¿Cuál es el cooldown de la habilidad de Chrono?",
+          "options": ["170 segundos", "200 segundos", "150 segundos", "180 segundos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-12",
+          "question": "¿En qué mapa se encuentra el área 'Pochinok'?",
+          "options": ["Bermuda", "Purgatorio", "Kalahari", "Nexterra"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-13",
+          "question": "¿Qué significa el término 'Third Party' en Free Fire?",
+          "options": ["Juego de 3 jugadores", "Atacar a equipos que están luchando", "Tercer lugar", "Modo de juego"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-14",
+          "question": "¿Cuál es la velocidad de movimiento del vehículo más rápido?",
+          "options": ["Monster Truck", "Motocicleta", "Deportivo", "Jeep"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ff2-15",
+          "question": "¿Qué hace la habilidad 'Mushroom' de Shirou?",
+          "options": ["Curación", "Detecta enemigos dañados", "Velocidad", "Protección"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "ff3-1",
+          "question": "¿Cuál fue el récord mundial de descargas de Free Fire?",
+          "options": ["500 millones", "800 millones", "1 billón", "1.2 billones"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-2",
+          "question": "¿En qué país Free Fire fue el juego móvil más descargado en 2019 y 2020?",
+          "options": ["India", "Brasil", "Indonesia", "Globalmente"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-3",
+          "question": "¿Cuál es el DPS (Daño Por Segundo) exacto del Groza?",
+          "options": ["424", "445", "465", "482"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-4",
+          "question": "¿Qué colaboración especial tuvo Free Fire con Netflix?",
+          "options": ["Stranger Things", "Money Heist", "Squid Game", "The Witcher"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-5",
+          "question": "¿Cuál es el tiempo exacto de la habilidad activa de Chrono en nivel máximo?",
+          "options": ["8 segundos", "9 segundos", "10 segundos", "12 segundos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-6",
+          "question": "¿En qué versión OB se introdujo el mapa Purgatorio?",
+          "options": ["OB20", "OB22", "OB25", "OB27"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-7",
+          "question": "¿Cuál es el porcentaje exacto de precisión del personaje Olivia al nivel máximo?",
+          "options": ["30%", "35%", "40%", "45%"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-8",
+          "question": "¿Qué equipo ganó el primer Free Fire World Series en 2019?",
+          "options": ["Phoenix Force", "Corinthians", "LOUD", "paiN Gaming"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-9",
+          "question": "¿Cuál es el rango de detección exacto de Moco en nivel máximo?",
+          "options": ["85 metros", "90 metros", "95 metros", "100 metros"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-10",
+          "question": "¿En qué país se desarrolló originalmente Free Fire?",
+          "options": ["China", "Singapur", "Tailandia", "Vietnam"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-11",
+          "question": "¿Cuál es la velocidad de recarga exacta del M1014 con accesorio?",
+          "options": ["1.8 segundos", "2.1 segundos", "2.4 segundos", "2.7 segundos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-12",
+          "question": "¿Qué significa 'FF' en el contexto competitivo?",
+          "options": ["Free Fire", "Forfeit", "Final Fight", "Fast Fire"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-13",
+          "question": "¿Cuál es el premio total del Free Fire World Series 2021?",
+          "options": ["$2 millones", "$2.5 millones", "$3 millones", "$3.5 millones"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-14",
+          "question": "¿Qué motor gráfico utiliza Free Fire?",
+          "options": ["Unity", "Unreal Engine", "Custom Engine", "CryEngine"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ff3-15",
+          "question": "¿Cuál es el cooldown exacto de la granada de humo?",
+          "options": ["25 segundos", "30 segundos", "35 segundos", "40 segundos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
