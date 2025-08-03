@@ -1,0 +1,381 @@
+{
+  "category": "oscar",
+  "name": "Ganadoras Oscar",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "osc1-1",
+          "question": "¿Qué película ganó el Oscar a Mejor Película en 2020?",
+          "options": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-2",
+          "question": "¿Quién ganó el Oscar a Mejor Actor por 'Joker' (2019)?",
+          "options": ["Joaquin Phoenix", "Adam Driver", "Leonardo DiCaprio", "Antonio Banderas"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-3",
+          "question": "¿Qué película dirigida por James Cameron ganó 11 Oscars?",
+          "options": ["Avatar", "Titanic", "Aliens", "Terminator 2"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-4",
+          "question": "¿Quién ganó el Oscar a Mejor Actriz por 'La La Land'?",
+          "options": ["Emma Stone", "Amy Adams", "Natalie Portman", "Meryl Streep"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-5",
+          "question": "¿Qué película ganó Mejor Película en 2022?",
+          "options": ["Dune", "West Side Story", "CODA", "The Power of the Dog"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-6",
+          "question": "¿Quién dirigió 'The Shape of Water', ganadora de Mejor Película 2018?",
+          "options": ["Denis Villeneuve", "Guillermo del Toro", "Jordan Peele", "Greta Gerwig"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-7",
+          "question": "¿Qué actor ganó el Oscar por 'Bohemian Rhapsody'?",
+          "options": ["Rami Malek", "Bradley Cooper", "Christian Bale", "Viggo Mortensen"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-8",
+          "question": "¿Cuál de estas películas NO ganó el Oscar a Mejor Película?",
+          "options": ["The Lord of the Rings: The Return of the King", "Avatar", "Slumdog Millionaire", "The King's Speech"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-9",
+          "question": "¿Quién ganó el Oscar a Mejor Actriz por 'Black Swan'?",
+          "options": ["Natalie Portman", "Mila Kunis", "Anne Hathaway", "Jennifer Lawrence"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-10",
+          "question": "¿Qué película de Pixar ganó el primer Oscar a Mejor Película Animada en 2002?",
+          "options": ["Monsters, Inc.", "Shrek", "Ice Age", "Finding Nemo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-11",
+          "question": "¿Quién ganó el Oscar a Mejor Director por 'Birdman'?",
+          "options": ["Alejandro G. Iñárritu", "Richard Linklater", "Wes Anderson", "Morten Tyldum"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-12",
+          "question": "¿Qué película ganó Mejor Película en 2021?",
+          "options": ["Nomadland", "Minari", "Sound of Metal", "The Trial of the Chicago 7"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-13",
+          "question": "¿Quién ganó el Oscar a Mejor Actor por 'The Revenant'?",
+          "options": ["Leonardo DiCaprio", "Matt Damon", "Michael Fassbender", "Bryan Cranston"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-14",
+          "question": "¿Qué director ganó el Oscar por 'Gravity' en 2014?",
+          "options": ["Alfonso Cuarón", "David O. Russell", "Alexander Payne", "Steve McQueen"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "osc1-15",
+          "question": "¿Cuál es la película más premiada en la historia de los Oscar con 11 estatuillas?",
+          "options": ["Ben-Hur", "Titanic", "The Lord of the Rings: The Return of the King", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "osc2-1",
+          "question": "¿Qué actriz ha ganado más Oscars en la historia con 4 estatuillas?",
+          "options": ["Meryl Streep", "Katharine Hepburn", "Bette Davis", "Ingrid Bergman"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-2",
+          "question": "¿En qué año 'Parasite' se convirtió en la primera película en idioma extranjero en ganar Mejor Película?",
+          "options": ["2019", "2020", "2021", "2018"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-3",
+          "question": "¿Quién es el director más joven en ganar el Oscar a Mejor Director?",
+          "options": ["Orson Welles", "Damien Chazelle", "John Singleton", "Norman Taurog"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-4",
+          "question": "¿Qué película de Martin Scorsese finalmente le dio su primer Oscar como Mejor Director?",
+          "options": ["Goodfellas", "The Departed", "Taxi Driver", "Raging Bull"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-5",
+          "question": "¿Cuál fue la primera película de Marvel en ser nominada a Mejor Película?",
+          "options": ["Iron Man", "Black Panther", "Avengers: Endgame", "The Avengers"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-6",
+          "question": "¿Qué actor rechazó su Oscar a Mejor Actor por 'The Godfather' en 1973?",
+          "options": ["Al Pacino", "James Caan", "Marlon Brando", "Robert Duvall"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-7",
+          "question": "¿Quién ganó el Oscar a Mejor Actriz de Reparto por 'Dreamgirls'?",
+          "options": ["Beyoncé", "Jennifer Hudson", "Anika Noni Rose", "Kerry Washington"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-8",
+          "question": "¿En qué categoría ganó su único Oscar Roberto Benigni por 'Life is Beautiful'?",
+          "options": ["Mejor Película Extranjera", "Mejor Actor", "Mejor Director", "Mejor Guión Original"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-9",
+          "question": "¿Qué compositor ha ganado más Oscars en la historia?",
+          "options": ["John Williams", "Alan Menken", "Hans Zimmer", "Danny Elfman"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-10",
+          "question": "¿Cuál fue la primera película animada nominada a Mejor Película?",
+          "options": ["Beauty and the Beast", "Toy Story", "Shrek", "Up"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-11",
+          "question": "¿Qué película ganó el Oscar a Mejor Película en el año del 'error del sobre' (2017)?",
+          "options": ["La La Land", "Moonlight", "Hidden Figures", "Manchester by the Sea"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-12",
+          "question": "¿Quién es la persona más nominada en la historia de los Oscar con 59 nominaciones?",
+          "options": ["Walt Disney", "John Williams", "Billy Wilder", "Woody Allen"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-13",
+          "question": "¿Qué actriz ganó el Oscar por interpretar a Margaret Thatcher?",
+          "options": ["Helen Mirren", "Meryl Streep", "Cate Blanchett", "Tilda Swinton"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-14",
+          "question": "¿En qué año se introdujo la categoría de Mejor Película Animada?",
+          "options": ["2000", "2001", "2002", "2003"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "osc2-15",
+          "question": "¿Qué película de 2019 ganó el Oscar a Mejor Documental?",
+          "options": ["Free Solo", "American Factory", "The Cave", "Honeyland"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "osc3-1",
+          "question": "¿En qué año se celebraron los primeros premios Oscar?",
+          "options": ["1928", "1929", "1930", "1927"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-2",
+          "question": "¿Cuál fue la primera película en ganar Mejor Película, Director, Actor, Actriz y Guión en la misma ceremonia?",
+          "options": ["It Happened One Night", "One Flew Over the Cuckoo's Nest", "The Silence of the Lambs", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-3",
+          "question": "¿Quién fue la primera persona afroamericana en ganar un Oscar competitivo?",
+          "options": ["Sidney Poitier", "Hattie McDaniel", "Dorothy Dandridge", "Harry Belafonte"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-4",
+          "question": "¿Qué película tiene el récord de más nominaciones sin ganar ningún Oscar?",
+          "options": ["The Color Purple", "The Turning Point", "Ambas tienen 11 nominaciones", "Gandhi"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-5",
+          "question": "¿Cuál es el nombre real de los premios Oscar?",
+          "options": ["Academy Merit Awards", "Academy Awards of Merit", "Academy Achievement Awards", "Academy Excellence Awards"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-6",
+          "question": "¿Qué actor ganó Oscars consecutivos en 1994 y 1995?",
+          "options": ["Tom Hanks", "Kevin Spacey", "Nicolas Cage", "Sean Penn"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-7",
+          "question": "¿Cuál fue la primera película de ciencia ficción en ganar Mejor Película?",
+          "options": ["2001: A Space Odyssey", "Star Wars", "E.T.", "Ninguna película de ciencia ficción ha ganado"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-8",
+          "question": "¿Qué director ha sido nominado más veces sin ganar nunca?",
+          "options": ["Stanley Kubrick", "Paul Thomas Anderson", "Christopher Nolan", "Ridley Scott"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-9",
+          "question": "¿En qué película Vivien Leigh ganó su segundo Oscar a Mejor Actriz?",
+          "options": ["Gone with the Wind", "A Streetcar Named Desire", "Waterloo Bridge", "Caesar and Cleopatra"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-10",
+          "question": "¿Cuál fue la ceremonia más corta de los Oscar en duración?",
+          "options": ["1929 (15 minutos)", "1930 (20 minutos)", "1931 (25 minutos)", "1932 (30 minutos)"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-11",
+          "question": "¿Qué película de 1976 ganó Mejor Película siendo considerada una secuela?",
+          "options": ["The Godfather Part II", "Rocky", "All the President's Men", "Network"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-12",
+          "question": "¿Quién es la actriz más joven en ganar un Oscar competitivo?",
+          "options": ["Tatum O'Neal", "Marlee Matlin", "Jennifer Lawrence", "Anna Paquin"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-13",
+          "question": "¿En qué año se transmitieron por primera vez los Oscar por televisión?",
+          "options": ["1950", "1953", "1955", "1957"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-14",
+          "question": "¿Qué película posee el récord de más Oscars técnicos ganados?",
+          "options": ["The Lord of the Rings: The Return of the King", "Titanic", "Gravity", "Mad Max: Fury Road"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "osc3-15",
+          "question": "¿Cuál fue la primera película hablada en ganar Mejor Película?",
+          "options": ["The Jazz Singer", "The Broadway Melody", "All Quiet on the Western Front", "Wings"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
