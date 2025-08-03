@@ -1,0 +1,381 @@
+{
+  "category": "geografiam",
+  "name": "Geografía Mundial",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "geo1-1",
+          "question": "¿Cuál es la capital de Francia?",
+          "options": ["Lyon", "Marsella", "París", "Niza"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-2",
+          "question": "¿Cuántos continentes hay en el mundo?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-3",
+          "question": "¿Cuál es el océano más grande del mundo?",
+          "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-4",
+          "question": "¿En qué continente está Brasil?",
+          "options": ["América del Norte", "América del Sur", "África", "Asia"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-5",
+          "question": "¿Cuál es el país más grande del mundo?",
+          "options": ["China", "Canadá", "Estados Unidos", "Rusia"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-6",
+          "question": "¿Cuál es la montaña más alta del mundo?",
+          "options": ["K2", "Monte Everest", "Kangchenjunga", "Makalu"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-7",
+          "question": "¿En qué continente está Egipto?",
+          "options": ["Asia", "África", "Europa", "América"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-8",
+          "question": "¿Cuál es el río más largo del mundo?",
+          "options": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-9",
+          "question": "¿Cuál es la capital de Japón?",
+          "options": ["Osaka", "Kioto", "Tokio", "Hiroshima"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-10",
+          "question": "¿En qué país está la Torre Eiffel?",
+          "options": ["Italia", "España", "Francia", "Alemania"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-11",
+          "question": "¿Cuál es el desierto más grande del mundo?",
+          "options": ["Sahara", "Gobi", "Kalahari", "Antártida"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-12",
+          "question": "¿Cuál es la capital de Australia?",
+          "options": ["Sídney", "Melbourne", "Canberra", "Perth"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-13",
+          "question": "¿En qué continente está India?",
+          "options": ["Europa", "África", "Asia", "Oceanía"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-14",
+          "question": "¿Cuál es el lago más grande del mundo?",
+          "options": ["Lago Superior", "Mar Caspio", "Lago Victoria", "Lago Baikal"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "geo1-15",
+          "question": "¿Cuántos países hay en América del Sur?",
+          "options": ["10", "12", "13", "15"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "geo2-1",
+          "question": "¿Cuál es la capital de Kazajistán?",
+          "options": ["Almaty", "Nur-Sultán", "Shymkent", "Aktobe"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-2",
+          "question": "¿En qué país se encuentra el Cabo de Hornos?",
+          "options": ["Argentina", "Chile", "Uruguay", "Brasil"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-3",
+          "question": "¿Cuál es la isla más grande del mundo?",
+          "options": ["Madagascar", "Groenlandia", "Nueva Guinea", "Borneo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-4",
+          "question": "¿Qué estrecho separa Europa de África?",
+          "options": ["Estrecho de Magallanes", "Estrecho de Gibraltar", "Estrecho de Bering", "Estrecho de Ormuz"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-5",
+          "question": "¿Cuál es el punto más bajo de la Tierra?",
+          "options": ["Valle de la Muerte", "Mar Muerto", "Depresión de Afar", "Fosa de las Marianas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-6",
+          "question": "¿Qué país tiene más husos horarios?",
+          "options": ["Rusia", "Estados Unidos", "China", "Francia"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-7",
+          "question": "¿Cuál es la cascada más alta del mundo?",
+          "options": ["Cataratas del Niágara", "Salto Ángel", "Cataratas Victoria", "Iguazú"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-8",
+          "question": "¿En qué país están las Islas Galápagos?",
+          "options": ["Colombia", "Perú", "Ecuador", "Chile"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-9",
+          "question": "¿Cuál es el volcán activo más alto del mundo?",
+          "options": ["Monte Fuji", "Ojos del Salado", "Cotopaxi", "Chimborazo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-10",
+          "question": "¿Qué país no tiene costa marítima?",
+          "options": ["Mongolia", "Suiza", "Paraguay", "Todos los anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-11",
+          "question": "¿Cuál es la capital de Myanmar?",
+          "options": ["Yangón", "Naipyidó", "Mandalay", "Mawlamyine"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-12",
+          "question": "¿En qué cordillera está el Monte Aconcagua?",
+          "options": ["Himalayas", "Andes", "Alpes", "Rocosas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-13",
+          "question": "¿Cuál es el mar más salado del mundo?",
+          "options": ["Mar Muerto", "Gran Lago Salado", "Mar de Aral", "Lago Assal"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-14",
+          "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+          "options": ["Japón", "Indonesia", "Filipinas", "Chile"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "geo2-15",
+          "question": "¿Cuál es la península más grande del mundo?",
+          "options": ["Península Ibérica", "Península Arábiga", "Península de Kamchatka", "Península Escandinava"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "geo3-1",
+          "question": "¿Cuál es la distancia aproximada del Ecuador terrestre?",
+          "options": ["40,000 km", "40,075 km", "39,500 km", "41,000 km"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-2",
+          "question": "¿En qué país está el punto continental más septentrional de América?",
+          "options": ["Estados Unidos", "Canadá", "Groenlandia", "Alaska"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-3",
+          "question": "¿Cuál es el nombre del supercontinente que existió hace 300 millones de años?",
+          "options": ["Gondwana", "Laurasia", "Pangea", "Rodinia"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-4",
+          "question": "¿Cuál es la profundidad máxima de la Fosa de las Marianas?",
+          "options": ["10,898 m", "11,034 m", "10,994 m", "11,500 m"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-5",
+          "question": "¿Qué país tiene exactamente 12 husos horarios?",
+          "options": ["Rusia", "Francia", "Estados Unidos", "Ninguno"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-6",
+          "question": "¿Cuál es el río subterráneo más largo del mundo?",
+          "options": ["Río Puerto Princesa", "Sistema Sac Actun", "Río Hamza", "Sistema Ox Bel Ha"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-7",
+          "question": "¿En qué país está el Desierto de Atacama?",
+          "options": ["Perú", "Bolivia", "Chile", "Argentina"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-8",
+          "question": "¿Cuál es la capital de Vanuatu?",
+          "options": ["Suva", "Port Vila", "Nuku'alofa", "Apia"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-9",
+          "question": "¿Qué línea imaginaria pasa por Greenwich?",
+          "options": ["Ecuador", "Trópico de Cáncer", "Meridiano de Greenwich", "Círculo Polar Ártico"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-10",
+          "question": "¿Cuál es el lago más profundo del mundo?",
+          "options": ["Lago Tanganica", "Lago Baikal", "Mar Caspio", "Lago Nyos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-11",
+          "question": "¿En qué país están las Montañas Drakensberg?",
+          "options": ["Namibia", "Botswana", "Sudáfrica", "Zimbabue"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-12",
+          "question": "¿Cuál es el estrecho más angosto del mundo?",
+          "options": ["Estrecho de Gibraltar", "Bósforo", "Dardanelos", "Estrecho de Corinto"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-13",
+          "question": "¿Qué país tiene la mayor densidad de población del mundo?",
+          "options": ["Singapur", "Mónaco", "Nauru", "San Marino"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-14",
+          "question": "¿Cuál es el nombre del fenómeno geológico que forma el Anillo de Fuego del Pacífico?",
+          "options": ["Deriva continental", "Tectónica de placas", "Erosión", "Sedimentación"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "geo3-15",
+          "question": "¿En qué archipiélago está la isla de Socotra?",
+          "options": ["Maldivas", "Seychelles", "Comoras", "Yemen"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
