@@ -1,0 +1,381 @@
+{
+  "category": "nfl",
+  "name": "NFL Football",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "nfl1-1",
+          "question": "¿Cuántos equipos hay en la NFL?",
+          "options": ["30", "32", "34", "36"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-2",
+          "question": "¿Cómo se llama el trofeo del Super Bowl?",
+          "options": ["Trofeo Lombardi", "Trofeo Brady", "Trofeo NFL", "Trofeo América"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-3",
+          "question": "¿Cuántos puntos vale un touchdown?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-4",
+          "question": "¿En qué ciudad juegan los Cowboys?",
+          "options": ["Houston", "Austin", "Dallas", "San Antonio"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-5",
+          "question": "¿Cómo se llama la liga de fútbol americano profesional de EE.UU.?",
+          "options": ["AFL", "NFL", "CFB", "XFL"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-6",
+          "question": "¿Cuántos downs tiene un equipo para avanzar 10 yardas?",
+          "options": ["3", "4", "5", "6"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-7",
+          "question": "¿Qué equipo tiene el logo de un águila?",
+          "options": ["Falcons", "Cardinals", "Eagles", "Ravens"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-8",
+          "question": "¿En qué mes se celebra típicamente el Super Bowl?",
+          "options": ["Enero", "Febrero", "Marzo", "Diciembre"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-9",
+          "question": "¿Qué posición lanza el balón en el fútbol americano?",
+          "options": ["Running Back", "Quarterback", "Wide Receiver", "Tight End"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-10",
+          "question": "¿Cómo se llama cuando un equipo anota en su propia zona de anotación?",
+          "options": ["Touchdown", "Field Goal", "Safety", "Punt"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-11",
+          "question": "¿Qué equipo juega en Green Bay?",
+          "options": ["Bears", "Packers", "Vikings", "Lions"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-12",
+          "question": "¿Cuántos minutos tiene cada cuarto en un juego de NFL?",
+          "options": ["12", "15", "18", "20"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-13",
+          "question": "¿Qué significa 'AFC'?",
+          "options": ["American Football Conference", "Atlantic Football Club", "American Football Championship", "American Football Coalition"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-14",
+          "question": "¿En qué estado está ubicado el equipo de los Patriots?",
+          "options": ["Nueva York", "Connecticut", "Massachusetts", "Rhode Island"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "nfl1-15",
+          "question": "¿Qué equipo tiene los colores púrpura y dorado?",
+          "options": ["Ravens", "Vikings", "Saints", "Rams"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "nfl2-1",
+          "question": "¿Quién tiene más Super Bowls ganados como quarterback?",
+          "options": ["Joe Montana", "Tom Brady", "Peyton Manning", "Troy Aikman"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-2",
+          "question": "¿En qué año se fundó la NFL?",
+          "options": ["1918", "1920", "1922", "1925"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-3",
+          "question": "¿Qué equipo ha ganado más Super Bowls en la historia?",
+          "options": ["Cowboys", "49ers", "Steelers", "Patriots"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-4",
+          "question": "¿Quién tiene el récord de más yardas por pase en una temporada?",
+          "options": ["Peyton Manning", "Drew Brees", "Tom Brady", "Aaron Rodgers"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-5",
+          "question": "¿Cuál fue el primer equipo en ganar tres Super Bowls consecutivos?",
+          "options": ["Cowboys", "49ers", "Ninguno", "Steelers"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-6",
+          "question": "¿En qué año los Patriots completaron una temporada regular perfecta pero perdieron el Super Bowl?",
+          "options": ["2006", "2007", "2008", "2009"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-7",
+          "question": "¿Qué running back tiene más yardas terrestres en la historia de la NFL?",
+          "options": ["Walter Payton", "Emmitt Smith", "Barry Sanders", "Eric Dickerson"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-8",
+          "question": "¿Qué equipo era conocido como 'The Steel Curtain'?",
+          "options": ["Cowboys", "Raiders", "Steelers", "Bears"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-9",
+          "question": "¿En qué estadio se jugó el primer Super Bowl?",
+          "options": ["Rose Bowl", "Orange Bowl", "Los Angeles Memorial Coliseum", "Cotton Bowl"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-10",
+          "question": "¿Qué equipo se mudó de Los Ángeles a St. Louis y luego regresó a Los Ángeles?",
+          "options": ["Chargers", "Rams", "Raiders", "Cardinals"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-11",
+          "question": "¿Quién fue el primer quarterback afroamericano en ganar un Super Bowl?",
+          "options": ["Warren Moon", "Doug Williams", "Randall Cunningham", "Steve McNair"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-12",
+          "question": "¿Qué equipo tiene el récord de más puntos anotados en una temporada regular?",
+          "options": ["2007 Patriots", "2013 Broncos", "1998 Vikings", "2011 Packers"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-13",
+          "question": "¿En qué división juegan los Ravens?",
+          "options": ["AFC East", "AFC North", "AFC South", "AFC West"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-14",
+          "question": "¿Qué wide receiver tiene más recepciones en la historia de la NFL?",
+          "options": ["Jerry Rice", "Larry Fitzgerald", "Randy Moss", "Terrell Owens"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "nfl2-15",
+          "question": "¿Qué equipo ganó el Super Bowl en la temporada 2020?",
+          "options": ["Chiefs", "Buccaneers", "Rams", "49ers"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "nfl3-1",
+          "question": "¿Qué quarterback lanzó para 5,477 yardas en 2011, récord en ese momento?",
+          "options": ["Drew Brees", "Tom Brady", "Aaron Rodgers", "Peyton Manning"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-2",
+          "question": "¿En qué año los Dolphins completaron la única temporada perfecta en la historia de la NFL?",
+          "options": ["1971", "1972", "1973", "1974"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-3",
+          "question": "¿Qué defensive end tiene el récord de más sacks en una temporada?",
+          "options": ["Reggie White", "Bruce Smith", "Michael Strahan", "T.J. Watt"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-4",
+          "question": "¿Qué entrenador tiene más victorias en temporada regular en la historia?",
+          "options": ["Vince Lombardi", "Don Shula", "Bill Belichick", "Tom Landry"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-5",
+          "question": "¿En qué Super Bowl los Seahawks no corrieron el balón en la línea de 1 yarda?",
+          "options": ["XLVIII", "XLIX", "L", "LI"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-6",
+          "question": "¿Qué linebacker tiene el récord de más tackles en una temporada?",
+          "options": ["Ray Lewis", "Brian Urlacher", "Paul Posluszny", "London Fletcher"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-7",
+          "question": "¿Qué equipo fue el último en unirse a la NFL?",
+          "options": ["Jaguars", "Panthers", "Texans", "Ravens"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-8",
+          "question": "¿En qué estadio se jugó el 'Ice Bowl' de 1967?",
+          "options": ["Lambeau Field", "Soldier Field", "Cleveland Stadium", "Three Rivers Stadium"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-9",
+          "question": "¿Qué kicker tiene el récord del field goal más largo en la historia?",
+          "options": ["Adam Vinatieri", "Justin Tucker", "Matt Prater", "Sebastian Janikowski"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-10",
+          "question": "¿Qué equipo tuvo la 'Greatest Show on Turf'?",
+          "options": ["Cowboys", "49ers", "Rams", "Saints"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-11",
+          "question": "¿En qué año se introdujo el sistema de playoffs de Wild Card?",
+          "options": ["1970", "1975", "1978", "1982"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-12",
+          "question": "¿Qué running back fue conocido como 'Sweetness'?",
+          "options": ["Tony Dorsett", "Walter Payton", "Earl Campbell", "Eric Dickerson"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-13",
+          "question": "¿Qué équipo perdió cuatro Super Bowls consecutivos en los 90s?",
+          "options": ["Bills", "Broncos", "Vikings", "Falcons"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-14",
+          "question": "¿En qué año se jugó el primer 'Monday Night Football'?",
+          "options": ["1969", "1970", "1971", "1972"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "nfl3-15",
+          "question": "¿Qué safety tiene más intercepciones en la historia de la NFL?",
+          "options": ["Ed Reed", "Paul Krause", "Emlen Tunnell", "Dick LeBeau"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
