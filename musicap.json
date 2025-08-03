@@ -1,0 +1,381 @@
+{
+  "category": "musicap",
+  "name": "Música Pop",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "musica1-1",
+          "question": "¿Qué artista es conocida como 'Queen B'?",
+          "options": ["Rihanna", "Beyoncé", "Lady Gaga", "Ariana Grande"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-2",
+          "question": "¿Cuál es el nombre real de Lady Gaga?",
+          "options": ["Stefani Germanotta", "Alicia Moore", "Robyn Fenty", "Katheryn Hudson"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-3",
+          "question": "¿Qué banda británica interpretó 'Bohemian Rhapsody'?",
+          "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-4",
+          "question": "¿En qué año se lanzó el álbum 'Thriller' de Michael Jackson?",
+          "options": ["1981", "1982", "1983", "1984"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-5",
+          "question": "¿Qué cantante popularizó la canción 'Rolling in the Deep'?",
+          "options": ["Adele", "Amy Winehouse", "Alicia Keys", "Andra Day"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-6",
+          "question": "¿Cuál es el nombre del álbum más exitoso de Taylor Swift?",
+          "options": ["1989", "Red", "Folklore", "Midnights"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-7",
+          "question": "¿Qué artista interpretó 'Shape of You'?",
+          "options": ["Ed Sheeran", "Sam Smith", "John Legend", "Bruno Mars"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-8",
+          "question": "¿De qué país es originaria la cantante Shakira?",
+          "options": ["México", "España", "Colombia", "Argentina"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-9",
+          "question": "¿Qué banda surcoreana popularizó 'Gangnam Style'?",
+          "options": ["BTS", "PSY", "BLACKPINK", "EXO"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-10",
+          "question": "¿Cuál es el premio más prestigioso de la música?",
+          "options": ["Billboard Awards", "Grammy", "MTV Awards", "American Music Awards"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-11",
+          "question": "¿Qué artista es conocido como 'The King of Pop'?",
+          "options": ["Elvis Presley", "Michael Jackson", "Prince", "Justin Timberlake"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-12",
+          "question": "¿En qué década se originó el rock and roll?",
+          "options": ["1940s", "1950s", "1960s", "1970s"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-13",
+          "question": "¿Qué plataforma de streaming es más popular para música?",
+          "options": ["Apple Music", "Spotify", "YouTube Music", "Amazon Music"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-14",
+          "question": "¿Cuál es el nombre real de The Weeknd?",
+          "options": ["Abel Tesfaye", "Drake Graham", "Frank Ocean", "Miguel Jontel"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "musica1-15",
+          "question": "¿Qué cantante interpretó 'Someone Like You'?",
+          "options": ["Sam Smith", "Adele", "Amy Winehouse", "Alicia Keys"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "musica2-1",
+          "question": "¿Cuál fue el primer video musical transmitido en MTV?",
+          "options": ["Video Killed the Radio Star", "Like a Virgin", "Billie Jean", "Take On Me"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-2",
+          "question": "¿Qué álbum de Pink Floyd es considerado uno de los mejores de todos los tiempos?",
+          "options": ["The Wall", "Dark Side of the Moon", "Wish You Were Here", "Animals"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-3",
+          "question": "¿En qué año murió Kurt Cobain de Nirvana?",
+          "options": ["1993", "1994", "1995", "1996"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-4",
+          "question": "¿Qué productor es conocido por trabajar con Rihanna, Beyoncé y Jay-Z?",
+          "options": ["Dr. Dre", "Timbaland", "The-Dream", "Hit-Boy"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-5",
+          "question": "¿Cuál fue el primer álbum de Madonna?",
+          "options": ["Like a Virgin", "Madonna", "True Blue", "Who's That Girl"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-6",
+          "question": "¿Qué festival de música se celebra en California cada año?",
+          "options": ["Lollapalooza", "Coachella", "Bonnaroo", "SXSW"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-7",
+          "question": "¿Cuántos Grammy ha ganado Beyoncé en su carrera?",
+          "options": ["28", "30", "32", "35"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-8",
+          "question": "¿Qué canción de Whitney Houston estuvo 14 semanas en el #1?",
+          "options": ["I Wanna Dance with Somebody", "I Will Always Love You", "Greatest Love of All", "How Will I Know"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-9",
+          "question": "¿En qué año se lanzó el álbum 'Purple Rain' de Prince?",
+          "options": ["1983", "1984", "1985", "1986"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-10",
+          "question": "¿Qué banda británica lanzó el álbum 'OK Computer'?",
+          "options": ["Oasis", "Blur", "Radiohead", "Coldplay"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-11",
+          "question": "¿Cuál es el álbum más vendido de todos los tiempos?",
+          "options": ["Thriller", "Back in Black", "The Dark Side of the Moon", "Led Zeppelin IV"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-12",
+          "question": "¿Qué rapero lanzó el álbum 'The College Dropout'?",
+          "options": ["Jay-Z", "Nas", "Kanye West", "50 Cent"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-13",
+          "question": "¿En qué año The Beatles se separaron oficialmente?",
+          "options": ["1969", "1970", "1971", "1972"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-14",
+          "question": "¿Qué cantante popularizó el 'Moonwalk'?",
+          "options": ["Prince", "Michael Jackson", "James Brown", "Stevie Wonder"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "musica2-15",
+          "question": "¿Cuál fue el primer sencillo de Britney Spears?",
+          "options": ["Sometimes", "Baby One More Time", "You Drive Me Crazy", "Born to Make You Happy"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "musica3-1",
+          "question": "¿En qué estudio se grabó la mayoría del álbum 'Abbey Road' de The Beatles?",
+          "options": ["Abbey Road Studios", "Olympic Studios", "Trident Studios", "AIR Studios"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-2",
+          "question": "¿Qué canción de Led Zeppelin es considerada la primera canción de heavy metal?",
+          "options": ["Whole Lotta Love", "Black Dog", "Immigrant Song", "Communication Breakdown"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-3",
+          "question": "¿En qué año murió Elvis Presley?",
+          "options": ["1976", "1977", "1978", "1979"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-4",
+          "question": "¿Qué álbum de Fleetwood Mac incluye 'Go Your Own Way'?",
+          "options": ["Fleetwood Mac", "Rumours", "Tusk", "Mirage"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-5",
+          "question": "¿Cuál fue el primer rap song en llegar al #1 en Billboard?",
+          "options": ["Rapper's Delight", "The Message", "Ice Ice Baby", "U Can't Touch This"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-6",
+          "question": "¿Qué productor trabajó en 'Random Access Memories' de Daft Punk?",
+          "options": ["Pharrell Williams", "Nile Rodgers", "Giorgio Moroder", "Todos los anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-7",
+          "question": "¿En qué festival murió Jimi Hendrix?",
+          "options": ["Woodstock", "Monterey Pop", "Isle of Wight", "Ninguno, murió en Londres"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-8",
+          "question": "¿Qué sello discográfico lanzó 'Pet Sounds' de The Beach Boys?",
+          "options": ["Capitol", "Columbia", "Atlantic", "Motown"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-9",
+          "question": "¿Cuántas canciones escribió Prince a lo largo de su carrera?",
+          "options": ["Más de 500", "Más de 1000", "Más de 2000", "Más de 3000"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-10",
+          "question": "¿Qué técnica vocal popularizó Mariah Carey?",
+          "options": ["Vibrato", "Melisma", "Falsete", "Whistle register"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-11",
+          "question": "¿En qué año se lanzó 'Like a Prayer' de Madonna?",
+          "options": ["1988", "1989", "1990", "1991"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-12",
+          "question": "¿Qué instrumento tocaba principalmente David Bowie además de cantar?",
+          "options": ["Guitarra", "Piano", "Saxofón", "Todos los anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-13",
+          "question": "¿Cuál fue el último álbum de estudio de The Beatles?",
+          "options": ["Abbey Road", "Let It Be", "The White Album", "Sgt. Pepper's"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-14",
+          "question": "¿Qué canción de Dolly Parton covers Whitney Houston se convirtió en un éxito mundial?",
+          "options": ["9 to 5", "Jolene", "I Will Always Love You", "Islands in the Stream"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "musica3-15",
+          "question": "¿En qué año se fundó el sello discográfico Motown?",
+          "options": ["1957", "1959", "1960", "1962"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
