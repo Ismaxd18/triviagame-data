@@ -1,0 +1,381 @@
+{
+  "category": "dragonball",
+  "name": "Dragon Ball",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "db1-1",
+          "question": "¿Cuál es el nombre completo del protagonista principal?",
+          "options": ["Son Goku", "Kakarotto", "Bardock", "Raditz"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-2",
+          "question": "¿Cuántas Esferas del Dragón hay en total?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-3",
+          "question": "¿Cómo se llama el dragón que aparece al reunir las esferas?",
+          "options": ["Shenron", "Porunga", "Syn Shenron", "Omega Shenron"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-4",
+          "question": "¿Cuál es el nombre del hijo de Goku?",
+          "options": ["Trunks", "Goten", "Gohan", "Pan"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-5",
+          "question": "¿De qué planeta es originario Goku?",
+          "options": ["Tierra", "Namek", "Vegeta", "Freezer"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-6",
+          "question": "¿Cuál es la técnica signature de Goku?",
+          "options": ["Kame Hame Ha", "Final Flash", "Masenko", "Big Bang Attack"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-7",
+          "question": "¿Cómo se llama el maestro de Goku?",
+          "options": ["Kami", "Piccolo", "Maestro Roshi", "Rey Kai"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-8",
+          "question": "¿Cuál es el nombre del rival principal de Goku?",
+          "options": ["Piccolo", "Vegeta", "Freezer", "Cell"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-9",
+          "question": "¿Cómo se llama la primera transformación de Goku?",
+          "options": ["Super Saiyajin", "Super Saiyajin 2", "Ozaru", "Kaioken"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-10",
+          "question": "¿Quién creó el manga Dragon Ball?",
+          "options": ["Eiichiro Oda", "Akira Toriyama", "Masashi Kishimoto", "Tite Kubo"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-11",
+          "question": "¿Cómo se llama la esposa de Goku?",
+          "options": ["Bulma", "Chi-Chi", "Launch", "Android 18"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-12",
+          "question": "¿Cuál es el nombre del emperador del universo en Dragon Ball Z?",
+          "options": ["Cell", "Majin Buu", "Freezer", "Broly"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-13",
+          "question": "¿Cómo se llama la cápsula donde viajó Goku a la Tierra?",
+          "options": ["Nave espacial", "Cápsula Saiyajin", "Pod de escape", "Nave de ataque"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-14",
+          "question": "¿Cuál es el nombre del segundo hijo de Goku?",
+          "options": ["Gohan", "Goten", "Trunks", "Pan"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "db1-15",
+          "question": "¿En qué año se publicó por primera vez Dragon Ball?",
+          "options": ["1984", "1985", "1986", "1987"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "db2-1",
+          "question": "¿Cuál es el nombre saiyajin de Goku?",
+          "options": ["Bardock", "Kakarotto", "Raditz", "Turles"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-2",
+          "question": "¿Quién fue el primer Super Saiyajin en la historia?",
+          "options": ["Goku", "Vegeta", "Yamoshi", "Bardock"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-3",
+          "question": "¿Cuál es el nombre completo de Vegeta?",
+          "options": ["Vegeta IV", "Príncipe Vegeta", "Vegeta Ouji", "Todas son correctas"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-4",
+          "question": "¿Cómo se llama la técnica de teletransportación de Goku?",
+          "options": ["Shunkan Idou", "Bukujutsu", "Zanzoken", "Taiyoken"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-5",
+          "question": "¿Quién entrenó a Goku en el Otro Mundo?",
+          "options": ["Rey Kai", "Kaio-shin", "Piccolo", "Whis"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-6",
+          "question": "¿Cuál es el nombre del padre de Goku?",
+          "options": ["Paragus", "Bardock", "Nappa", "Raditz"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-7",
+          "question": "¿Cómo se llama la fusión de Goku y Vegeta con la Danza de la Fusión?",
+          "options": ["Vegito", "Gogeta", "Gotenks", "Kefla"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-8",
+          "question": "¿Cuál es el nombre del torneo de artes marciales?",
+          "options": ["Tenkaichi Budokai", "Torneo de Cell", "Torneo del Poder", "Torneo de Baba"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-9",
+          "question": "¿Quién absorbe a los androides 17 y 18?",
+          "options": ["Dr. Gero", "Cell", "Majin Buu", "Babidi"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-10",
+          "question": "¿Cuál es el nombre del ángel maestro de Beerus?",
+          "options": ["Vados", "Whis", "Marcarita", "Kusu"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-11",
+          "question": "¿Cómo se llama la transformación donde Goku tiene el cabello plateado?",
+          "options": ["Ultra Instinto", "Super Saiyajin God", "Super Saiyajin Blue", "Super Saiyajin 4"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-12",
+          "question": "¿Quién es el Dios de la Destrucción del Universo 7?",
+          "options": ["Champa", "Beerus", "Quitela", "Sidra"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-13",
+          "question": "¿Cuál es el nombre del planeta donde entrena Goku con gravedad aumentada?",
+          "options": ["Planeta Vegeta", "Planeta del Rey Kai", "Planeta de Yardrat", "Nave del Dr. Brief"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-14",
+          "question": "¿Cómo se llama el hermano de Goku?",
+          "options": ["Turles", "Bardock", "Raditz", "Nappa"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "db2-15",
+          "question": "¿Cuál es el nombre de la primera forma de Cell?",
+          "options": ["Forma Imperfecta", "Forma Larvaria", "Primera Forma", "Cell Junior"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "db3-1",
+          "question": "¿Cuál es el nivel de poder de Goku cuando pelea contra Vegeta por primera vez?",
+          "options": ["8,000", "9,000", "Más de 8,000", "Más de 9,000"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-2",
+          "question": "¿Cuántos universos participaron originalmente en el Torneo del Poder?",
+          "options": ["8", "10", "12", "16"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-3",
+          "question": "¿Cuál es el nombre completo de la técnica Genki Dama?",
+          "options": ["Spirit Bomb", "Energy Sphere", "Genki Dama", "Todas son traducciones correctas"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-4",
+          "question": "¿En qué año terminó la serialización del manga Dragon Ball?",
+          "options": ["1995", "1996", "1997", "1998"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-5",
+          "question": "¿Cuál es el nombre del ritual para crear un Super Saiyajin God?",
+          "options": ["Ritual Saiyajin", "Ritual de los 6 Saiyajin", "Ritual Divino", "No tiene nombre específico"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-6",
+          "question": "¿Cuántos capítulos tiene el manga Dragon Ball completo?",
+          "options": ["519", "520", "521", "522"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-7",
+          "question": "¿Cuál es el nombre del planeta de los Saiyajin antes de ser destruido?",
+          "options": ["Sadala", "Vegeta", "Planet Plant", "Todas son correctas"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-8",
+          "question": "¿Quién fue el Rey de los Saiyajin cuando Vegeta era niño?",
+          "options": ["Rey Vegeta III", "Rey Vegeta", "Rey Sadala", "Paragus"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-9",
+          "question": "¿Cuál es el número de universo gemelo del Universo 7?",
+          "options": ["Universo 6", "Universo 8", "Universo 12", "Universo 1"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-10",
+          "question": "¿Cómo se llama la técnica que usa Vegeta para autodestruirse contra Majin Buu?",
+          "options": ["Big Bang Attack", "Final Flash", "Final Explosion", "Galick Gun"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-11",
+          "question": "¿Cuál es el nombre verdadero del Androide 17?",
+          "options": ["Lapis", "Lazuli", "C-17", "No se revela"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-12",
+          "question": "¿Quién es el Kaio-shin del Universo 7?",
+          "options": ["Elder Kai", "Supreme Kai", "Shin", "Kibito"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-13",
+          "question": "¿Cuál es el multiplicador de poder del Kaioken x20?",
+          "options": ["x20", "x10", "x15", "Varía según el usuario"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-14",
+          "question": "¿Cómo se llama la raza de Piccolo?",
+          "options": ["Namekiano", "Namekuseijin", "Ambas son correctas", "Dragón de Namek"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "db3-15",
+          "question": "¿Cuál es el nombre del creador de los androides?",
+          "options": ["Dr. Gero", "Dr. Myu", "Dr. Brief", "Dr. Wheelo"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
