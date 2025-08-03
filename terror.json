@@ -1,0 +1,381 @@
+{
+  "category": "terror",
+  "name": "Terror & Suspense",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "terror1-1",
+          "question": "¿Quién dirigió la película 'Psycho' (1960)?",
+          "options": ["Alfred Hitchcock", "John Carpenter", "Wes Craven", "George A. Romero"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-2",
+          "question": "¿En qué hotel transcurre 'The Shining'?",
+          "options": ["Hotel California", "Overlook Hotel", "Bates Motel", "Stanley Hotel"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-3",
+          "question": "¿Cómo se llama el asesino en la saga 'Halloween'?",
+          "options": ["Jason Voorhees", "Freddy Krueger", "Michael Myers", "Ghostface"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-4",
+          "question": "¿En qué película aparece la frase 'Here's Johnny!'?",
+          "options": ["The Shining", "Psycho", "Halloween", "The Exorcist"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-5",
+          "question": "¿Quién interpretó a Hannibal Lecter en 'The Silence of the Lambs'?",
+          "options": ["Brian Cox", "Anthony Hopkins", "Mads Mikkelsen", "Hugh Dancy"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-6",
+          "question": "¿En qué lago aparece Jason Voorhees?",
+          "options": ["Crystal Lake", "Camp Crystal Lake", "Lake Crystal", "Jason Lake"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-7",
+          "question": "¿Cuál es el nombre de la niña poseída en 'The Exorcist'?",
+          "options": ["Carol Anne", "Regan", "Carrie", "Samara"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-8",
+          "question": "¿En qué calle vive Freddy Krueger?",
+          "options": ["Elm Street", "Oak Street", "Maple Street", "Pine Street"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-9",
+          "question": "¿Quién dirigió 'Jaws'?",
+          "options": ["John Carpenter", "Steven Spielberg", "George Lucas", "Brian De Palma"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-10",
+          "question": "¿En qué año se estrenó la primera película de 'Scream'?",
+          "options": ["1995", "1996", "1997", "1998"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-11",
+          "question": "¿Cómo se llama el muñeco asesino en 'Child's Play'?",
+          "options": ["Chucky", "Annabelle", "Billy", "Robert"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-12",
+          "question": "¿Quién escribió la novela 'The Shining'?",
+          "options": ["Stephen King", "Dean Koontz", "Clive Barker", "Peter Straub"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-13",
+          "question": "¿En qué película aparece un tiburón gigante?",
+          "options": ["Deep Blue Sea", "Jaws", "The Meg", "Shark Tale"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-14",
+          "question": "¿Cuál es el arma característica de Jason Voorhees?",
+          "options": ["Cuchillo", "Machete", "Hacha", "Motosierra"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "terror1-15",
+          "question": "¿En qué película los protagonistas no pueden hacer ruido?",
+          "options": ["Don't Breathe", "A Quiet Place", "Hush", "The Silence"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "terror2-1",
+          "question": "¿Cuál es el nombre del motel en 'Psycho'?",
+          "options": ["Overlook Motel", "Bates Motel", "Norman Motel", "Fairvale Motel"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-2",
+          "question": "¿Quién dirigió 'The Texas Chain Saw Massacre' (1974)?",
+          "options": ["Tobe Hooper", "Wes Craven", "John Carpenter", "George A. Romero"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-3",
+          "question": "¿En qué película aparece la frase 'They're here'?",
+          "options": ["The Shining", "Poltergeist", "The Exorcist", "Amityville Horror"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-4",
+          "question": "¿Cuál es el nombre real de Leatherface?",
+          "options": ["Thomas Hewitt", "Bubba Sawyer", "Jedidiah Sawyer", "Depende de la película"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-5",
+          "question": "¿En qué año se estrenó 'Night of the Living Dead'?",
+          "options": ["1967", "1968", "1969", "1970"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-6",
+          "question": "¿Quién compuso la música de 'Halloween' (1978)?",
+          "options": ["John Carpenter", "Ennio Morricone", "Bernard Herrmann", "Goblin"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-7",
+          "question": "¿Cuál es el nombre del demonio en 'The Exorcist'?",
+          "options": ["Belial", "Pazuzu", "Asmodeus", "Baphomet"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-8",
+          "question": "¿En qué película de terror aparece la 'final girl' Laurie Strode?",
+          "options": ["Friday the 13th", "Halloween", "A Nightmare on Elm Street", "Scream"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-9",
+          "question": "¿Quién dirigió 'Rosemary's Baby'?",
+          "options": ["William Friedkin", "Roman Polanski", "Brian De Palma", "George A. Romero"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-10",
+          "question": "¿En qué película aparece el Necronomicon?",
+          "options": ["The Evil Dead", "Hellraiser", "From Beyond", "Re-Animator"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-11",
+          "question": "¿Cuál es el nombre del pueblo en 'The Blair Witch Project'?",
+          "options": ["Burkittsville", "Blair", "Coffin Rock", "Black Hills"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-12",
+          "question": "¿Quién interpretó a Nancy Thompson en 'A Nightmare on Elm Street'?",
+          "options": ["Jamie Lee Curtis", "Heather Langenkamp", "Neve Campbell", "Sarah Michelle Gellar"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-13",
+          "question": "¿En qué película los Cenobites son los antagonistas?",
+          "options": ["Hellraiser", "From Hell", "Constantine", "The Prophecy"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-14",
+          "question": "¿Cuál fue la primera película de la saga 'Saw'?",
+          "options": ["2003", "2004", "2005", "2006"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "terror2-15",
+          "question": "¿Quién dirigió 'The Wicker Man' (1973)?",
+          "options": ["Robin Hardy", "Ken Russell", "Nicolas Roeg", "Michael Reeves"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "terror3-1",
+          "question": "¿Cuál fue el presupuesto de 'The Blair Witch Project'?",
+          "options": ["$60,000", "$600,000", "$6 millones", "$60 millones"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-2",
+          "question": "¿En qué película de Hitchcock aparece la famosa escena de la ducha?",
+          "options": ["Vertigo", "Psycho", "The Birds", "Rear Window"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-3",
+          "question": "¿Cuál es el nombre del autor de los cuentos en los que se basa 'Tales from the Crypt'?",
+          "options": ["William Gaines", "EC Comics", "Varios autores", "Al Feldstein"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-4",
+          "question": "¿En qué año murió Brandon Lee durante el rodaje de 'The Crow'?",
+          "options": ["1992", "1993", "1994", "1995"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-5",
+          "question": "¿Cuál fue la primera película de terror en ganar el Oscar a Mejor Película?",
+          "options": ["The Exorcist", "The Silence of the Lambs", "Rosemary's Baby", "Jaws"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-6",
+          "question": "¿Quién escribió el guión de 'Scream'?",
+          "options": ["Wes Craven", "Kevin Williamson", "Ehren Kruger", "James Vanderbilt"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-7",
+          "question": "¿En qué película de Mario Bava se inspiró 'Friday the 13th'?",
+          "options": ["Black Sunday", "Bay of Blood", "Planet of the Vampires", "Blood and Black Lace"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-8",
+          "question": "¿Cuál es el nombre del asesino en 'My Bloody Valentine'?",
+          "options": ["The Miner", "Harry Warden", "Tom Hanniger", "The Pickaxe Killer"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-9",
+          "question": "¿En qué película de Dario Argento aparece la banda sonora de Goblin más famosa?",
+          "options": ["Deep Red", "Suspiria", "Tenebrae", "Phenomena"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-10",
+          "question": "¿Cuál fue la primera película de la saga 'Final Destination'?",
+          "options": ["1999", "2000", "2001", "2002"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-11",
+          "question": "¿Qué director adaptó su propia novela en 'Clive Barker's Hellraiser'?",
+          "options": ["Clive Barker", "Stephen King", "Dean Koontz", "Peter Straub"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-12",
+          "question": "¿En qué año se estrenó 'The Cabinet of Dr. Caligari'?",
+          "options": ["1919", "1920", "1921", "1922"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-13",
+          "question": "¿Cuál es el nombre del virus en '28 Days Later'?",
+          "options": ["Rage Virus", "T-Virus", "Zombie Virus", "Infection"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-14",
+          "question": "¿Quién dirigió 'The Descent'?",
+          "options": ["Neil Marshall", "Christopher Smith", "James Watkins", "Ben Wheatley"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "terror3-15",
+          "question": "¿En qué película aparece por primera vez el concepto de 'zombie' moderno?",
+          "options": ["White Zombie", "Night of the Living Dead", "Zombie", "The Serpent and the Rainbow"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
