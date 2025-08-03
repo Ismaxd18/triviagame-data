@@ -1,0 +1,381 @@
+{
+  "category": "hollywood",
+  "name": "Hollywood",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "hollywood1-1",
+          "question": "¿En qué ciudad se encuentra Hollywood?",
+          "options": ["San Francisco", "Los Ángeles", "Las Vegas", "Nueva York"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-2",
+          "question": "¿Cómo se llama la ceremonia de premiación más famosa del cine?",
+          "options": ["Golden Globes", "Emmy Awards", "Oscar", "SAG Awards"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-3",
+          "question": "¿Qué símbolo famoso se encuentra en las colinas de Hollywood?",
+          "options": ["Una estrella", "El letrero de Hollywood", "Una cámara", "Un rollo de película"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-4",
+          "question": "¿Quién dirigió la película 'Titanic'?",
+          "options": ["Steven Spielberg", "James Cameron", "Martin Scorsese", "Ridley Scott"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-5",
+          "question": "¿En qué película aparece la frase 'May the Force be with you'?",
+          "options": ["Star Trek", "Star Wars", "Guardians of the Galaxy", "Avatar"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-6",
+          "question": "¿Qué actor interpretó a Iron Man en el MCU?",
+          "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-7",
+          "question": "¿Cuál es el nombre real de 'The Rock'?",
+          "options": ["John Cena", "Dave Bautista", "Dwayne Johnson", "Roman Reigns"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-8",
+          "question": "¿En qué película Tom Hanks dice 'Life is like a box of chocolates'?",
+          "options": ["Cast Away", "Philadelphia", "Forrest Gump", "Big"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-9",
+          "question": "¿Qué estudio cinematográfico tiene como símbolo un león rugiendo?",
+          "options": ["Universal", "Warner Bros", "MGM", "Paramount"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-10",
+          "question": "¿Quién interpretó a Jack en 'Titanic'?",
+          "options": ["Brad Pitt", "Leonardo DiCaprio", "Matt Damon", "Johnny Depp"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-11",
+          "question": "¿En qué década se estableció el sistema de estudios de Hollywood?",
+          "options": ["1910s", "1920s", "1930s", "1940s"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-12",
+          "question": "¿Qué actriz interpretó a Dorothy en 'The Wizard of Oz'?",
+          "options": ["Marilyn Monroe", "Grace Kelly", "Judy Garland", "Elizabeth Taylor"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-13",
+          "question": "¿Cuál es la película más taquillera de todos los tiempos?",
+          "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-14",
+          "question": "¿Qué actor es conocido por la saga 'Mission: Impossible'?",
+          "options": ["Tom Cruise", "Tom Hanks", "Will Smith", "Brad Pitt"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "hollywood1-15",
+          "question": "¿En qué calle se encuentra el Paseo de la Fama de Hollywood?",
+          "options": ["Sunset Boulevard", "Hollywood Boulevard", "Vine Street", "Melrose Avenue"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "hollywood2-1",
+          "question": "¿Quién fue el primer actor en ganar un Oscar por una actuación completamente en lengua de señas?",
+          "options": ["Marlee Matlin", "Troy Kotsur", "Russell Crowe", "Forest Whitaker"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-2",
+          "question": "¿Qué película ganó el primer Oscar a Mejor Película?",
+          "options": ["Wings", "The Jazz Singer", "Sunrise", "7th Heaven"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-3",
+          "question": "¿Quién dirigió la trilogía original de 'The Godfather'?",
+          "options": ["Martin Scorsese", "Francis Ford Coppola", "Brian De Palma", "Michael Cimino"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-4",
+          "question": "¿En qué año se introdujo el sonido en las películas de Hollywood?",
+          "options": ["1925", "1927", "1929", "1930"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-5",
+          "question": "¿Qué actriz tiene más nominaciones al Oscar en la historia?",
+          "options": ["Katharine Hepburn", "Meryl Streep", "Bette Davis", "Jessica Lange"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-6",
+          "question": "¿Cuál fue la primera película de Disney en ganar un Oscar?",
+          "options": ["Snow White", "Pinocchio", "Flowers and Trees", "Silly Symphony"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-7",
+          "question": "¿Qué película de Hitchcock es considerada su obra maestra?",
+          "options": ["Psycho", "Vertigo", "North by Northwest", "Rear Window"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-8",
+          "question": "¿Quién fue conocido como 'The King of Hollywood'?",
+          "options": ["Clark Gable", "Gary Cooper", "Cary Grant", "Jimmy Stewart"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-9",
+          "question": "¿En qué década comenzó la 'Era Dorada de Hollywood'?",
+          "options": ["1920s", "1930s", "1940s", "1950s"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-10",
+          "question": "¿Qué director es famoso por sus planos secuencia largos?",
+          "options": ["Stanley Kubrick", "Orson Welles", "Akira Kurosawa", "Andrei Tarkovsky"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-11",
+          "question": "¿Cuál fue la primera película en color en ganar Mejor Película?",
+          "options": ["Gone with the Wind", "The Wizard of Oz", "An American in Paris", "The Adventures of Robin Hood"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-12",
+          "question": "¿Qué actriz fue conocida como 'America's Sweetheart'?",
+          "options": ["Mary Pickford", "Lillian Gish", "Gloria Swanson", "Janet Gaynor"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-13",
+          "question": "¿En qué año se estableció el sistema de calificación MPAA?",
+          "options": ["1966", "1968", "1970", "1972"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-14",
+          "question": "¿Qué película marcó el fin de la Era Dorada de Hollywood?",
+          "options": ["Bonnie and Clyde", "The Graduate", "Easy Rider", "Heaven's Gate"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "hollywood2-15",
+          "question": "¿Quién compuso la música de 'Star Wars'?",
+          "options": ["Hans Zimmer", "John Williams", "Ennio Morricone", "Danny Elfman"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "hollywood3-1",
+          "question": "¿Qué película fue rechazada por todos los estudios excepto United Artists en 1976?",
+          "options": ["Rocky", "Taxi Driver", "Network", "All the President's Men"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-2",
+          "question": "¿En qué año Orson Welles dirigió y protagonizó 'Citizen Kane'?",
+          "options": ["1939", "1940", "1941", "1942"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-3",
+          "question": "¿Qué director nunca ganó un Oscar competitivo a pesar de múltiples nominaciones?",
+          "options": ["Stanley Kubrick", "Christopher Nolan", "Paul Thomas Anderson", "David Fincher"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-4",
+          "question": "¿Cuál fue la primera película en usar CGI para un personaje principal?",
+          "options": ["Tron", "The Last Starfighter", "Young Sherlock Holmes", "The Abyss"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-5",
+          "question": "¿Qué película de 1927 casi arruinó a MGM financieramente?",
+          "options": ["Ben-Hur", "The Big Parade", "Greed", "The Crowd"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-6",
+          "question": "¿En qué año Charlie Chaplin fue expulsado de Estados Unidos?",
+          "options": ["1950", "1952", "1954", "1956"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-7",
+          "question": "¿Qué película fue la primera en romper la barrera de los $100 millones en taquilla?",
+          "options": ["Jaws", "Star Wars", "Superman", "The Godfather"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-8",
+          "question": "¿Cuál fue el presupuesto original de 'The Blair Witch Project'?",
+          "options": ["$60,000", "$500,000", "$1 millón", "$5 millones"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-9",
+          "question": "¿Qué actor rechazó el papel de Neo en 'The Matrix'?",
+          "options": ["Brad Pitt", "Will Smith", "Johnny Depp", "Nicolas Cage"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-10",
+          "question": "¿En qué año se disolvió oficialmente el sistema de estudios de Hollywood?",
+          "options": ["1946", "1948", "1950", "1952"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-11",
+          "question": "¿Qué película de Kubrick fue prohibida en Reino Unido por 27 años?",
+          "options": ["A Clockwork Orange", "The Shining", "Full Metal Jacket", "Eyes Wide Shut"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-12",
+          "question": "¿Cuántas tomas hizo Kubrick de la famosa escena del hacha en 'The Shining'?",
+          "options": ["87", "127", "167", "200"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-13",
+          "question": "¿Qué película ganó el primer Oscar a Mejor Película Internacional?",
+          "options": ["La Strada", "The Bicycle Thief", "Shoeshine", "Grand Illusion"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-14",
+          "question": "¿En qué año Marilyn Monroe murió?",
+          "options": ["1960", "1962", "1964", "1965"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "hollywood3-15",
+          "question": "¿Qué película de 1939 es considerada el mejor año del cine clásico?",
+          "options": ["Gone with the Wind", "The Wizard of Oz", "Mr. Smith Goes to Washington", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
