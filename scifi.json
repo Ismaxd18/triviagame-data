@@ -1,0 +1,381 @@
+{
+  "category": "scifi",
+  "name": "Ciencia Ficción",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "scifi1-1",
+          "question": "¿En qué saga aparece la frase 'May the Force be with you'?",
+          "options": ["Star Trek", "Star Wars", "Stargate", "Battlestar Galactica"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-2",
+          "question": "¿Quién dirigió la película 'Blade Runner'?",
+          "options": ["James Cameron", "Ridley Scott", "Steven Spielberg", "George Lucas"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-3",
+          "question": "¿En qué año transcurre 'Back to the Future Part II'?",
+          "options": ["2015", "2020", "2025", "2030"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-4",
+          "question": "¿Cuál es el nombre de la nave espacial en 'Alien'?",
+          "options": ["Nostromo", "Sulaco", "Prometheus", "Covenant"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-5",
+          "question": "¿Quién interpretó a Neo en 'The Matrix'?",
+          "options": ["Will Smith", "Keanu Reeves", "Johnny Depp", "Brad Pitt"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-6",
+          "question": "¿En qué película aparece la frase 'I'll be back'?",
+          "options": ["Predator", "Total Recall", "The Terminator", "Conan"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-7",
+          "question": "¿Cómo se llama el planeta natal de Superman?",
+          "options": ["Krypton", "Gallifrey", "Vulcan", "Tatooine"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-8",
+          "question": "¿Quién dirigió '2001: A Space Odyssey'?",
+          "options": ["George Lucas", "Stanley Kubrick", "Steven Spielberg", "Arthur C. Clarke"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-9",
+          "question": "¿En qué saga aparece el personaje Spock?",
+          "options": ["Star Wars", "Star Trek", "Stargate", "Babylon 5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-10",
+          "question": "¿Cuál es el nombre del androide en 'Alien'?",
+          "options": ["Bishop", "Ash", "David", "Walter"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-11",
+          "question": "¿En qué película Tom Cruise lucha contra aliens que reinician el día?",
+          "options": ["Minority Report", "Oblivion", "Edge of Tomorrow", "War of the Worlds"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-12",
+          "question": "¿Quién dirigió 'E.T. the Extra-Terrestrial'?",
+          "options": ["George Lucas", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-13",
+          "question": "¿En qué año se estrenó la primera película de 'Star Wars'?",
+          "options": ["1976", "1977", "1978", "1979"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-14",
+          "question": "¿Cómo se llama el protagonista de 'The Matrix'?",
+          "options": ["Neo", "Thomas Anderson", "Ambos son correctos", "Mr. Smith"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "scifi1-15",
+          "question": "¿En qué película aparece el personaje Ellen Ripley?",
+          "options": ["Aliens", "Alien", "Alien 3", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "scifi2-1",
+          "question": "¿Cuál es el nombre de la IA en '2001: A Space Odyssey'?",
+          "options": ["HAL 9000", "VIKI", "Skynet", "JARVIS"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-2",
+          "question": "¿En qué película aparece la ciudad de Zion?",
+          "options": ["The Matrix", "The Matrix Reloaded", "The Matrix Revolutions", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-3",
+          "question": "¿Quién escribió la novela en la que se basa 'Blade Runner'?",
+          "options": ["Isaac Asimov", "Philip K. Dick", "Arthur C. Clarke", "Frank Herbert"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-4",
+          "question": "¿Cuál es el nombre del planeta en 'Dune'?",
+          "options": ["Arrakis", "Caladan", "Giedi Prime", "Kaitain"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-5",
+          "question": "¿En qué año transcurre 'Blade Runner'?",
+          "options": ["2019", "2020", "2049", "2099"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-6",
+          "question": "¿Cómo se llama la nave en 'Interstellar'?",
+          "options": ["Endurance", "Endeavour", "Enterprise", "Esperanza"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-7",
+          "question": "¿Quién dirigió 'Minority Report'?",
+          "options": ["Ridley Scott", "Steven Spielberg", "Paul Verhoeven", "James Cameron"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-8",
+          "question": "¿En qué película aparece el concepto de 'replicantes'?",
+          "options": ["The Matrix", "Blade Runner", "Ghost in the Shell", "Ex Machina"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-9",
+          "question": "¿Cuál es el nombre de la corporación en 'Alien'?",
+          "options": ["Tyrell Corporation", "Weyland-Yutani", "Umbrella Corporation", "Cyberdyne Systems"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-10",
+          "question": "¿Quién dirigió 'The Thing' (1982)?",
+          "options": ["John Carpenter", "David Cronenberg", "George A. Romero", "Wes Craven"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-11",
+          "question": "¿En qué película Kevin Costner interpreta a un cartero post-apocalíptico?",
+          "options": ["Waterworld", "The Postman", "Mad Max", "Book of Eli"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-12",
+          "question": "¿Cuál es el nombre de la droga en 'Limitless'?",
+          "options": ["NZT", "NTZ", "ZNT", "TNZ"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-13",
+          "question": "¿En qué película Will Smith lucha contra robots?",
+          "options": ["I, Robot", "Independence Day", "Men in Black", "After Earth"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-14",
+          "question": "¿Quién dirigió 'District 9'?",
+          "options": ["Peter Jackson", "Neill Blomkamp", "Gareth Edwards", "Denis Villeneuve"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "scifi2-15",
+          "question": "¿En qué película aparece el agujero de gusano near Saturn?",
+          "options": ["Interstellar", "Gravity", "The Martian", "Ad Astra"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "scifi3-1",
+          "question": "¿Cuál es el título original de la novela en la que se basa 'Blade Runner'?",
+          "options": ["Do Androids Dream of Electric Sheep?", "The Blade Runner", "Electric Dreams", "Android Hunter"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-2",
+          "question": "¿En qué año se estrenó 'Metropolis' de Fritz Lang?",
+          "options": ["1925", "1926", "1927", "1928"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-3",
+          "question": "¿Cuál fue el presupuesto de 'Blade Runner' (1982)?",
+          "options": ["$25 millones", "$28 millones", "$30 millones", "$35 millones"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-4",
+          "question": "¿Quién compuso la música de 'Blade Runner'?",
+          "options": ["Hans Zimmer", "Vangelis", "John Carpenter", "Tangerine Dream"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-5",
+          "question": "¿En qué película de ciencia ficción aparece por primera vez el concepto de 'cyberspace'?",
+          "options": ["Tron", "The Matrix", "Johnny Mnemonic", "Strange Days"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-6",
+          "question": "¿Cuál es el nombre del test para detectar replicantes en 'Blade Runner'?",
+          "options": ["Voight-Kampff", "Turing Test", "Empathy Test", "Replicant Detection"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-7",
+          "question": "¿En qué planeta transcurre la mayor parte de 'Avatar'?",
+          "options": ["Pandora", "Polyphemus", "Alpha Centauri", "Proxima B"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-8",
+          "question": "¿Cuál fue la primera película en ganar el Oscar a Mejores Efectos Visuales?",
+          "options": ["2001: A Space Odyssey", "Star Wars", "Superman", "Close Encounters"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-9",
+          "question": "¿En qué año transcurre 'The Running Man'?",
+          "options": ["2017", "2019", "2020", "2025"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-10",
+          "question": "¿Quién escribió el guión de 'The Matrix'?",
+          "options": ["Las Hermanas Wachowski", "Los Hermanos Wachowski", "Andy y Lana Wachowski", "Todas son correctas"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-11",
+          "question": "¿Cuál es el nombre de la estación espacial en '2001: A Space Odyssey'?",
+          "options": ["Space Station V", "Discovery One", "Leonov", "No tiene nombre"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-12",
+          "question": "¿En qué película Keanu Reeves interpreta a un ingeniero genético?",
+          "options": ["The Matrix", "Johnny Mnemonic", "Strange Days", "Replicas"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-13",
+          "question": "¿Cuál fue la primera película de ciencia ficción en color?",
+          "options": ["Destination Moon", "When Worlds Collide", "Things to Come", "The Time Machine"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-14",
+          "question": "¿En qué año transcurre 'Strange Days'?",
+          "options": ["1999", "2000", "2001", "2005"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "scifi3-15",
+          "question": "¿Cuál es el nombre de la empresa en 'Total Recall'?",
+          "options": ["Rekall", "Recall", "Memory Corp", "Dream Industries"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
