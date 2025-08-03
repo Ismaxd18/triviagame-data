@@ -1,0 +1,381 @@
+{
+  "category": "lotr",
+  "name": "Lord of the Rings",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "lotr1-1",
+          "question": "¿Quién escribió 'El Señor de los Anillos'?",
+          "options": ["C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-2",
+          "question": "¿Cómo se llama el hobbit protagonista?",
+          "options": ["Bilbo Baggins", "Frodo Baggins", "Sam Gamgee", "Merry Brandybuck"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-3",
+          "question": "¿Cuál es el nombre del anillo de poder?",
+          "options": ["El Anillo Dorado", "El Anillo Único", "El Anillo Maestro", "El Anillo del Poder"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-4",
+          "question": "¿En qué lugar debe ser destruido el anillo?",
+          "options": ["Rivendel", "Gondor", "Monte del Destino", "Rohan"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-5",
+          "question": "¿Cómo se llama el mago gris?",
+          "options": ["Saruman", "Radagast", "Gandalf", "Alatar"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-6",
+          "question": "¿Cuál es el nombre del reino de los elfos?",
+          "options": ["Gondor", "Rohan", "Rivendel", "Mordor"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-7",
+          "question": "¿Quién es el Rey de Gondor?",
+          "options": ["Boromir", "Faramir", "Aragorn", "Denethor"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-8",
+          "question": "¿Cómo se llama la criatura que persigue a Frodo por el anillo?",
+          "options": ["Sauron", "Gollum", "Saruman", "Balrog"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-9",
+          "question": "¿Cuántas películas tiene la trilogía original de El Señor de los Anillos?",
+          "options": ["2", "3", "4", "5"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-10",
+          "question": "¿Quién dirigió las películas de El Señor de los Anillos?",
+          "options": ["Steven Spielberg", "Peter Jackson", "George Lucas", "Christopher Nolan"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-11",
+          "question": "¿Cómo se llama el mejor amigo de Frodo?",
+          "options": ["Merry", "Pippin", "Sam", "Bilbo"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-12",
+          "question": "¿Cuál es el nombre del reino de los jinetes?",
+          "options": ["Gondor", "Rohan", "Mordor", "Isengard"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-13",
+          "question": "¿Qué raza es Legolas?",
+          "options": ["Humano", "Enano", "Elfo", "Hobbit"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-14",
+          "question": "¿Cómo se llama el enano de la Comunidad del Anillo?",
+          "options": ["Thorin", "Balin", "Gimli", "Dwalin"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "lotr1-15",
+          "question": "¿En qué año se estrenó la primera película?",
+          "options": ["2000", "2001", "2002", "2003"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "lotr2-1",
+          "question": "¿Cuál es el nombre élfico de Gandalf?",
+          "options": ["Mithrandir", "Thranduil", "Elrond", "Gil-galad"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-2",
+          "question": "¿Cómo se llama la espada de Aragorn?",
+          "options": ["Sting", "Andúril", "Glamdring", "Orcrist"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-3",
+          "question": "¿Quién es el señor de Rivendel?",
+          "options": ["Galadriel", "Elrond", "Thranduil", "Celeborn"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-4",
+          "question": "¿Cuál es el nombre real de Gollum?",
+          "options": ["Déagol", "Sméagol", "Bandobras", "Isengrim"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-5",
+          "question": "¿Cómo se llama el reino de Saruman?",
+          "options": ["Mordor", "Isengard", "Dol Guldur", "Barad-dûr"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-6",
+          "question": "¿Quién mató al Balrog en las Minas de Moria?",
+          "options": ["Aragorn", "Legolas", "Gandalf", "Boromir"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-7",
+          "question": "¿Cuál es el nombre de la fortaleza de Sauron?",
+          "options": ["Isengard", "Barad-dûr", "Dol Guldur", "Minas Morgul"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-8",
+          "question": "¿Cómo se llaman los árboles pastores?",
+          "options": ["Huorns", "Ents", "Oliphaunts", "Wargs"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-9",
+          "question": "¿Quién es el Rey de Rohan durante la Guerra del Anillo?",
+          "options": ["Éomer", "Théoden", "Théodred", "Erkenbrand"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-10",
+          "question": "¿Cuál es el nombre de la ciudad capital de Gondor?",
+          "options": ["Osgiliath", "Minas Tirith", "Dol Amroth", "Cair Andros"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-11",
+          "question": "¿Cómo se llama el caballo de Gandalf?",
+          "options": ["Roheryn", "Shadowfax", "Brego", "Hasufel"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-12",
+          "question": "¿Quién forjó el Anillo Único?",
+          "options": ["Celebrimbor", "Sauron", "Gil-galad", "Elrond"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-13",
+          "question": "¿Cuál es el nombre de la araña gigante?",
+          "options": ["Ungoliant", "Shelob", "Scatha", "Smaug"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-14",
+          "question": "¿Cómo se llama la región donde viven los hobbits?",
+          "options": ["Bree", "La Comarca", "Rivendel", "Valle"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "lotr2-15",
+          "question": "¿Cuántos Nazgûl hay?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "lotr3-1",
+          "question": "¿Cuál era el nombre de Aragorn en Bree?",
+          "options": ["Trancos", "Dunadan", "Elessar", "Telcontar"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-2",
+          "question": "¿Cuántos años duró la Guerra del Anillo?",
+          "options": ["1 año", "2 años", "3 años", "5 años"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-3",
+          "question": "¿Cuál es el nombre sindarin de Gandalf?",
+          "options": ["Mithrandir", "Stormcrow", "Incánus", "Tharkûn"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-4",
+          "question": "¿Cómo se llama el puerto desde donde parten los barcos al Oeste?",
+          "options": ["Círdan", "Mithlond", "Forlond", "Harlond"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-5",
+          "question": "¿Cuál es el nombre del palantír de Isengard?",
+          "options": ["Orthanc-stone", "Seeing-stone", "Palantír de Orthanc", "Stone of Anor"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-6",
+          "question": "¿Quién era el hermano de Boromir?",
+          "options": ["Imrahil", "Faramir", "Damrod", "Beregond"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-7",
+          "question": "¿Cuál es el nombre completo de Frodo?",
+          "options": ["Frodo Baggins", "Frodo Took", "Frodo Brandybuck", "Frodo Drogo Baggins"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-8",
+          "question": "¿En qué año de la Tercera Edad se destruyó el Anillo?",
+          "options": ["3018", "3019", "3020", "3021"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-9",
+          "question": "¿Cuál era el nombre de la madre de Arwen?",
+          "options": ["Galadriel", "Celebrían", "Nimrodel", "Elenwë"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-10",
+          "question": "¿Cómo se llama el jefe de los Ents?",
+          "options": ["Fangorn", "Treebeard", "Ambos nombres son correctos", "Ninguno"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-11",
+          "question": "¿Cuál es el nombre quenya de la Tierra Media?",
+          "options": ["Endor", "Arda", "Endóre", "Ambar"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-12",
+          "question": "¿Quién fue el último Portador del Anillo antes de Frodo?",
+          "options": ["Isildur", "Bilbo", "Gollum", "Déagol"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-13",
+          "question": "¿Cuál era el nombre del dragón que habitaba en Erebor?",
+          "options": ["Scatha", "Glaurung", "Smaug", "Ancalagon"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-14",
+          "question": "¿Cuántos Anillos de Poder se forjaron en total?",
+          "options": ["19", "20", "21", "22"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "lotr3-15",
+          "question": "¿Cuál es el nombre del río que pasa por Rivendel?",
+          "options": ["Anduin", "Bruinen", "Mitheithel", "Celebrant"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
