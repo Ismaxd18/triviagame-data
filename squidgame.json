@@ -1,0 +1,381 @@
+{
+  "category": "squidgame",
+  "name": "El Juego del Calamar",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "sqg1-1",
+          "question": "¿Cuál es el nombre del protagonista principal de El Juego del Calamar?",
+          "options": ["Seong Gi-hun", "Park Hae-soo", "Lee Jung-jae", "Cho Sang-woo"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-2",
+          "question": "¿Cuál es el primer juego que se presenta en la serie?",
+          "options": ["Tira de la Cuerda", "Luz Roja, Luz Verde", "Canicas", "Puente de Cristal"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-3",
+          "question": "¿De qué país es originaria la serie El Juego del Calamar?",
+          "options": ["Japón", "China", "Corea del Sur", "Tailandia"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-4",
+          "question": "¿Cuántos participantes comenzaron el juego?",
+          "options": ["456", "365", "500", "400"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-5",
+          "question": "¿Qué forma tienen las tarjetas de invitación al juego?",
+          "options": ["Círculo", "Triángulo", "Cuadrado", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-6",
+          "question": "¿Cuál es el premio total del juego?",
+          "options": ["45.6 mil millones de wones", "10 mil millones de wones", "100 mil millones de wones", "1 billón de wones"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-7",
+          "question": "¿Cómo se identifica a los jugadores en la serie?",
+          "options": ["Por nombres", "Por números", "Por colores", "Por letras"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-8",
+          "question": "¿Qué color usan los guardias de menor rango?",
+          "options": ["Rojo", "Rosa", "Negro", "Azul"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-9",
+          "question": "¿En qué plataforma se estrenó la serie?",
+          "options": ["Amazon Prime", "HBO", "Netflix", "Disney+"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-10",
+          "question": "¿Cuál es el juego del segundo episodio?",
+          "options": ["Ppopgi (Dalgona)", "Canicas", "Tira de la Cuerda", "Puente de Cristal"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-11",
+          "question": "¿Qué personaje es conocido como 'el viejo'?",
+          "options": ["Il-nam", "Gi-hun", "Sang-woo", "Ali"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-12",
+          "question": "¿Cuál es la nacionalidad del personaje Ali?",
+          "options": ["Coreano", "Japonés", "Pakistaní", "Chino"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-13",
+          "question": "¿Qué castigo reciben los jugadores eliminados?",
+          "options": ["Son expulsados", "Pierden dinero", "Son ejecutados", "Van a prisión"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-14",
+          "question": "¿En qué año se estrenó El Juego del Calamar?",
+          "options": ["2020", "2021", "2022", "2019"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "sqg1-15",
+          "question": "¿Quién es la creadora de la serie?",
+          "options": ["Hwang Dong-hyuk", "Bong Joon-ho", "Park Chan-wook", "Kim Ki-duk"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "sqg2-1",
+          "question": "¿Cuál es el número de jugador de Gi-hun?",
+          "options": ["001", "456", "067", "218"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-2",
+          "question": "¿Qué forma debe recortar Gi-hun en el juego del Dalgona?",
+          "options": ["Estrella", "Paraguas", "Círculo", "Triángulo"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-3",
+          "question": "¿Cuál es el nombre real de la jugadora número 067?",
+          "options": ["Kang Sae-byeok", "Jung Ho-yeon", "Han Mi-nyeo", "Ji-yeong"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-4",
+          "question": "¿Qué enfermedad padece Il-nam (jugador 001)?",
+          "options": ["Cáncer", "Tumor cerebral", "Alzheimer", "Parkinson"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-5",
+          "question": "¿En qué juego tradicional coreano se basa el tercer juego?",
+          "options": ["Yutnori", "Tuho", "Juldarigi", "Gonggi"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-6",
+          "question": "¿Cuántas personas murieron en el primer juego (Luz Roja, Luz Verde)?",
+          "options": ["255", "201", "300", "187"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-7",
+          "question": "¿Qué relación tiene Hwang Jun-ho con el Front Man?",
+          "options": ["Son primos", "Son hermanos", "Son amigos", "No tienen relación"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-8",
+          "question": "¿Cuál es la profesión de Cho Sang-woo antes de entrar al juego?",
+          "options": ["Médico", "Banquero", "Abogado", "Empresario"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-9",
+          "question": "¿Qué canción suena durante el juego de Luz Roja, Luz Verde?",
+          "options": ["Mugunghwa kkoci pieot seumnida", "Arirang", "Doraji", "Ganggangsullae"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-10",
+          "question": "¿Cuántos VIPs aparecen en la serie?",
+          "options": ["5", "6", "7", "8"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-11",
+          "question": "¿En qué episodio se revela la verdadera identidad del jugador 001?",
+          "options": ["Episodio 8", "Episodio 9", "Episodio 7", "Episodio 6"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-12",
+          "question": "¿Qué tipo de dulce se usa en el segundo juego?",
+          "options": ["Caramelo", "Dalgona", "Toffee", "Melcocha"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-13",
+          "question": "¿Cuál es el apodo de Han Mi-nyeo en la serie?",
+          "options": ["La Loca", "La Mentirosa", "La Traicionera", "No tiene apodo específico"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-14",
+          "question": "¿Qué jugador gana el juego de canicas contra Il-nam?",
+          "options": ["Gi-hun", "Il-nam dejó ganar a Gi-hun", "Sang-woo", "Ali"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "sqg2-15",
+          "question": "¿Cuánto tiempo tardó en escribirse el guión de la serie?",
+          "options": ["2 años", "5 años", "10 años", "1 año"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "sqg3-1",
+          "question": "¿Cuál es el nombre del actor que interpreta al Front Man?",
+          "options": ["Lee Byung-hun", "Park Hae-soo", "Wi Ha-jun", "Heo Sung-tae"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-2",
+          "question": "¿En qué año ganó el Front Man (Hwang In-ho) los juegos?",
+          "options": ["2015", "2017", "2019", "2020"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-3",
+          "question": "¿Cuál es el nombre real del reclutador en el metro?",
+          "options": ["Gong Yoo", "No se revela", "Train Man", "Goblin"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-4",
+          "question": "¿Cuántos días duraron los juegos en total?",
+          "options": ["6 días", "7 días", "8 días", "5 días"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-5",
+          "question": "¿Cuál es el orden exacto de eliminación en el juego de canicas?",
+          "options": ["Ali, Ji-yeong, Il-nam", "Ji-yeong, Ali, Il-nam", "Il-nam, Ali, Ji-yeong", "Ali, Il-nam, Ji-yeong"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-6",
+          "question": "¿Cuánto presupuesto tuvo aproximadamente cada episodio?",
+          "options": ["2.4 millones USD", "1.8 millones USD", "3.2 millones USD", "5 millones USD"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-7",
+          "question": "¿Cuál es el significado del símbolo en las máscaras de los trabajadores?",
+          "options": ["Jerarquía militar", "Formas geométricas del juego infantil", "Niveles de autoridad", "Símbolos tradicionales coreanos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-8",
+          "question": "¿En qué se inspiró el creador para el diseño del set?",
+          "options": ["Escuelas primarias coreanas", "Parques infantiles", "Jugueterías vintage", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-9",
+          "question": "¿Cuál fue el récord que estableció la serie en Netflix?",
+          "options": ["Serie más vista en 28 días", "Serie más vista de habla no inglesa", "Serie más vista globalmente", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-10",
+          "question": "¿Cuántas horas se tardó en filmar la escena del puente de cristal?",
+          "options": ["12 horas", "18 horas", "24 horas", "30 horas"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-11",
+          "question": "¿Cuál es el nombre del VIP que habla más en la serie?",
+          "options": ["VIP 1", "No se especifica", "VIP con máscara de búho", "VIP americano"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-12",
+          "question": "¿Qué técnica usó Sang-woo para ganar en el juego del puente de cristal?",
+          "options": ["Memoria", "Empujó a otro jugador", "Siguió el sonido", "Todas las anteriores"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-13",
+          "question": "¿Cuántos países transmitieron la serie simultáneamente?",
+          "options": ["190", "195", "200", "180"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-14",
+          "question": "¿Cuál es el detalle oculto en la habitación de los jugadores que pocos notaron?",
+          "options": ["Cámaras escondidas", "El techo tiene forma de ataúd", "Las camas están numeradas", "Altavoces ocultos"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "sqg3-15",
+          "question": "¿Cuánto tiempo estuvo Hwang Dong-hyuk tratando de vender el proyecto antes de que Netflix lo aceptara?",
+          "options": ["5 años", "8 años", "10 años", "12 años"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
