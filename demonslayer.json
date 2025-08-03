@@ -1,0 +1,381 @@
+{
+  "category": "demonslayer",
+  "name": "Demon Slayer",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "ds1-1",
+          "question": "¿Cuál es el nombre del protagonista principal?",
+          "options": ["Tanjiro Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira", "Giyu Tomioka"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-2",
+          "question": "¿Cómo se llama la hermana de Tanjiro que se convirtió en demonio?",
+          "options": ["Nezuko Kamado", "Kanao Tsuyuri", "Shinobu Kocho", "Mitsuri Kanroji"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-3",
+          "question": "¿Cuál es el nombre de la organización que lucha contra los demonios?",
+          "options": ["Demon Slayer Corps", "Hashira Corps", "Demon Hunters", "Kakushi"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-4",
+          "question": "¿Qué tipo de respiración usa Tanjiro?",
+          "options": ["Respiración del Agua", "Respiración del Fuego", "Respiración del Sol", "Respiración del Viento"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-5",
+          "question": "¿Quién es el demonio más poderoso?",
+          "options": ["Rui", "Akaza", "Muzan Kibutsuji", "Doma"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-6",
+          "question": "¿Cómo se llaman los cazadores de demonios más fuertes?",
+          "options": ["Pillars", "Hashira", "Masters", "Elites"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-7",
+          "question": "¿Qué usa Zenitsu para combatir?",
+          "options": ["Respiración del Trueno", "Respiración del Agua", "Respiración del Viento", "Respiración del Sonido"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-8",
+          "question": "¿Cómo se llama la espada especial para matar demonios?",
+          "options": ["Katana Nichirin", "Espada del Sol", "Hoja Demoníaca", "Katana Sagrada"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-9",
+          "question": "¿Quién entrenó a Tanjiro?",
+          "options": ["Giyu Tomioka", "Sakonji Urokodaki", "Jigoro Kuwajima", "Shinjuro Rengoku"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-10",
+          "question": "¿Cuál es la debilidad principal de los demonios?",
+          "options": ["Agua bendita", "Luz del sol", "Sal", "Plata"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-11",
+          "question": "¿Qué estilo de combate usa Inosuke?",
+          "options": ["Respiración de la Bestia", "Respiración del Agua", "Respiración del Viento", "Respiración de la Roca"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-12",
+          "question": "¿Cómo se llama el creador del manga?",
+          "options": ["Koyoharu Gotouge", "Hajime Isayama", "Eiichiro Oda", "Masashi Kishimoto"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-13",
+          "question": "¿En qué época está ambientada la historia?",
+          "options": ["Era Edo", "Era Meiji", "Era Taisho", "Era Showa"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-14",
+          "question": "¿Qué característica especial tiene Nezuko?",
+          "options": ["No necesita sangre humana", "Es inmune al sol", "Puede hablar", "Todas las anteriores"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "ds1-15",
+          "question": "¿Cuál es el nombre japonés del anime?",
+          "options": ["Oni no Yaiba", "Kimetsu no Yaiba", "Akuma no Kishi", "Demon no Slayer"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "ds2-1",
+          "question": "¿Cuáles son las Doce Lunas Demoníacas?",
+          "options": ["Los 12 demonios más fuertes", "Subordinados directos de Muzan", "Demonios con números en sus ojos", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-2",
+          "question": "¿Quién es la Luna Superior Tres?",
+          "options": ["Akaza", "Doma", "Kokushibo", "Gyutaro"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-3",
+          "question": "¿Cuál es el verdadero nombre de la Respiración del Sol?",
+          "options": ["Hinokami Kagura", "Respiración Solar", "Danza del Fuego", "Técnica Flamígera"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-4",
+          "question": "¿Quién es el Hashira del Sonido?",
+          "options": ["Kyojuro Rengoku", "Tengen Uzui", "Sanemi Shinazugawa", "Obanai Iguro"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-5",
+          "question": "¿Cómo se llama la técnica especial de Zenitsu cuando está inconsciente?",
+          "options": ["Primera Forma: Destello del Trueno", "Séptima Forma: Dios del Fuego del Trueno", "Octava Forma", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-6",
+          "question": "¿Quién es la Luna Superior Uno?",
+          "options": ["Akaza", "Doma", "Kokushibo", "Muzan"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-7",
+          "question": "¿Cuál es el nombre real de Kokushibo?",
+          "options": ["Michikatsu Tsugikuni", "Yoriichi Tsugikuni", "Tanjuro Kamado", "No se revela"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-8",
+          "question": "¿Qué Hashira usa la Respiración de las Llamas?",
+          "options": ["Tengen Uzui", "Kyojuro Rengoku", "Mitsuri Kanroji", "Giyu Tomioka"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-9",
+          "question": "¿Cuál es la marca distintiva de los cazadores élite?",
+          "options": ["Marca del Demonio", "Marca del Cazador", "Marca Demoníaca", "Todas son correctas"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-10",
+          "question": "¿Qué necesita un demonio para volverse más fuerte?",
+          "options": ["Comer humanos", "Sangre de Muzan", "Tiempo", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-11",
+          "question": "¿Cómo se llama la Luna Superior Dos?",
+          "options": ["Doma", "Akaza", "Hantengu", "Gyokko"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-12",
+          "question": "¿Quién fue el primer usuario de la Respiración del Sol?",
+          "options": ["Tanjuro Kamado", "Yoriichi Tsugikuni", "Michikatsu Tsugikuni", "Sumiyoshi Kamado"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-13",
+          "question": "¿Cuál es la Respiración de Shinobu Kocho?",
+          "options": ["Respiración del Insecto", "Respiración de la Flor", "Respiración del Veneno", "Respiración de la Mariposa"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-14",
+          "question": "¿Qué demonio está en el Monte Natagumo?",
+          "options": ["Rui", "Enmu", "Kyogai", "Hand Demon"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "ds2-15",
+          "question": "¿Cuántas formas tiene la Respiración del Agua?",
+          "options": ["10", "11", "12", "13"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "ds3-1",
+          "question": "¿Cuántas formas tiene la Respiración del Sol original?",
+          "options": ["12", "13", "14", "No se especifica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-2",
+          "question": "¿En qué año terminó la serialización del manga?",
+          "options": ["2019", "2020", "2021", "2022"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-3",
+          "question": "¿Cuál es el verdadero nombre de Inosuke?",
+          "options": ["Inosuke Hashibira", "Takaharu Hashibira", "No se cambia", "Kotaro Hashibira"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-4",
+          "question": "¿Quién sobrevive al final del manga?",
+          "options": ["Tanjiro", "Nezuko", "Zenitsu", "Todos los anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-5",
+          "question": "¿Cuál es la debilidad específica de Muzan?",
+          "options": ["Sol", "Flor de araña azul", "Respiración del Sol", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-6",
+          "question": "¿Cuántos capítulos tiene el manga completo?",
+          "options": ["204", "205", "206", "207"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-7",
+          "question": "¿Quién se convierte temporalmente en demonio antes del final?",
+          "options": ["Zenitsu", "Inosuke", "Tanjiro", "Kanao"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-8",
+          "question": "¿Cuál es el nombre de la décima primera forma del Agua que crea Tomioka?",
+          "options": ["Calma Absoluta", "Lull", "Nagi", "Todas son traducciones correctas"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-9",
+          "question": "¿Qué Hashira muere primero en la batalla final?",
+          "options": ["Kyojuro Rengoku", "Shinobu Kocho", "Muichiro Tokito", "Mitsuri Kanroji"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-10",
+          "question": "¿Cuál es la relación entre Yoriichi y Kokushibo?",
+          "options": ["Hermanos", "Primos", "Maestro y alumno", "Sin relación"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-11",
+          "question": "¿Cómo logra Nezuko volverse inmune al sol?",
+          "options": ["Evolución natural", "Sangre de Muzan", "Conquista su naturaleza demoníaca", "No se explica completamente"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-12",
+          "question": "¿Qué técnica usa Muzan en su forma final?",
+          "options": ["Múltiples bocas y látigos", "Regeneración extrema", "Veneno", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-13",
+          "question": "¿Cuánto tiempo vivió Yoriichi?",
+          "options": ["25 años", "60 años", "80 años", "Más de 80 años"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-14",
+          "question": "¿Qué le pasa a Zenitsu con su cabello?",
+          "options": ["Se vuelve completamente amarillo", "Recupera su color negro", "Se vuelve blanco", "No cambia"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "ds3-15",
+          "question": "¿En qué año está ambientado el epílogo del manga?",
+          "options": ["Era moderna", "100 años después", "Era actual japonesa", "No se especifica"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
