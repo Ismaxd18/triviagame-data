@@ -1,0 +1,381 @@
+{
+  "category": "comedias",
+  "name": "Comedias",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "com1-1",
+          "question": "¿Quién interpretó a Lloyd Christmas en 'Tonto y Retonto'?",
+          "options": ["Jim Carrey", "Adam Sandler", "Will Ferrell", "Ben Stiller"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-2",
+          "question": "¿En qué película Eddie Murphy interpreta a múltiples personajes de la familia Klump?",
+          "options": ["Coming to America", "The Nutty Professor", "Beverly Hills Cop", "Doctor Dolittle"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-3",
+          "question": "¿Cuál es el nombre del protagonista en 'Mr. Bean: La Película'?",
+          "options": ["Rowan Atkinson", "Mr. Bean", "Johnny Bean", "Bean Johnson"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-4",
+          "question": "¿En qué película aparece la frase 'Hakuna Matata'?",
+          "options": ["Shrek", "El Rey León", "Toy Story", "Monsters Inc."],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-5",
+          "question": "¿Quién dirigió la película 'Ghostbusters' (1984)?",
+          "options": ["Ivan Reitman", "John Hughes", "Harold Ramis", "Dan Aykroyd"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-6",
+          "question": "¿En qué año se estrenó 'Home Alone' (Mi Pobre Angelito)?",
+          "options": ["1988", "1990", "1992", "1991"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-7",
+          "question": "¿Cuál es el nombre del personaje de Will Smith en 'Men in Black'?",
+          "options": ["Agente J", "Agente K", "Agente M", "Agente Z"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-8",
+          "question": "¿Qué actor protagoniza 'The Mask' (La Máscara)?",
+          "options": ["Robin Williams", "Jim Carrey", "Mike Myers", "Steve Martin"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-9",
+          "question": "¿En qué película aparece el personaje de Austin Powers?",
+          "options": ["Wayne's World", "Austin Powers: International Man of Mystery", "The Love Guru", "So I Married an Axe Murderer"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-10",
+          "question": "¿Quién interpreta a Woody en 'Toy Story'?",
+          "options": ["Tom Hanks", "Tim Allen", "Billy Crystal", "John Goodman"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-11",
+          "question": "¿En qué película Cameron Diaz actúa junto a Ben Stiller?",
+          "options": ["The Mask", "There's Something About Mary", "Charlie's Angels", "My Best Friend's Wedding"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-12",
+          "question": "¿Cuál es el nombre del ogro verde protagonista de 'Shrek'?",
+          "options": ["Shrek", "Fiona", "Donkey", "Puss in Boots"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-13",
+          "question": "¿Qué actor interpreta a Derek Zoolander?",
+          "options": ["Will Ferrell", "Ben Stiller", "Owen Wilson", "Vince Vaughn"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-14",
+          "question": "¿En qué película Robin Williams interpreta a un genio?",
+          "options": ["Mrs. Doubtfire", "Good Will Hunting", "Aladdin", "Patch Adams"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "com1-15",
+          "question": "¿Cuál es el título en español de 'Airplane!'?",
+          "options": ["Aterriza Como Puedas", "Vuelo Loco", "Aeroplano", "Pánico en el Aire"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "com2-1",
+          "question": "¿Qué actriz interpretó a Bridget Jones en la saga de películas?",
+          "options": ["Kate Winslet", "Renée Zellweger", "Sandra Bullock", "Julia Roberts"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-2",
+          "question": "¿En qué película de 1993 Bill Murray revive el mismo día una y otra vez?",
+          "options": ["Stripes", "Groundhog Day", "What About Bob?", "Ghostbusters II"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-3",
+          "question": "¿Quién dirigió 'The Big Lebowski'?",
+          "options": ["Los Hermanos Coen", "Quentin Tarantino", "Paul Thomas Anderson", "David Fincher"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-4",
+          "question": "¿En qué película Steve Carell interpreta a Andy Stitzer?",
+          "options": ["Anchorman", "The Office", "The 40-Year-Old Virgin", "Little Miss Sunshine"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-5",
+          "question": "¿Cuál es el nombre del personaje de Johnny Depp en 'Pirates of the Caribbean'?",
+          "options": ["Will Turner", "Jack Sparrow", "Hector Barbossa", "James Norrington"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-6",
+          "question": "¿En qué año se estrenó 'Borat'?",
+          "options": ["2005", "2006", "2007", "2004"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-7",
+          "question": "¿Qué comediante británico creó y protagoniza 'The Office' original?",
+          "options": ["Rowan Atkinson", "Ricky Gervais", "Simon Pegg", "Nick Frost"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-8",
+          "question": "¿En qué película de 2004 Vince Vaughn y Owen Wilson se cuelan en bodas?",
+          "options": ["Dodgeball", "Wedding Crashers", "Old School", "Meet the Parents"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-9",
+          "question": "¿Quién interpretó a Napoleon Dynamite?",
+          "options": ["Michael Cera", "Jon Heder", "Christopher Mintz-Plasse", "Jonah Hill"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-10",
+          "question": "¿En qué película Sandra Bullock interpreta a una agente del FBI infiltrada en un concurso de belleza?",
+          "options": ["Speed", "Miss Congeniality", "The Proposal", "Two Weeks Notice"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-11",
+          "question": "¿Qué director hizo las películas 'Superbad' y 'Pineapple Express'?",
+          "options": ["Judd Apatow", "Greg Mottola", "David Gordon Green", "Ambos B y C"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-12",
+          "question": "¿En qué película de 2008 Robert Downey Jr. interpreta a un actor que interpreta a un soldado negro?",
+          "options": ["Iron Man", "Sherlock Holmes", "Tropic Thunder", "Kiss Kiss Bang Bang"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-13",
+          "question": "¿Cuál es el apellido real de los personajes principales en 'Meet the Parents'?",
+          "options": ["Focker", "Byrnes", "Jinx", "De Niro"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-14",
+          "question": "¿En qué película Amy Poehler y Tina Fey interpretan a hermanas?",
+          "options": ["Mean Girls", "Baby Mama", "Sisters", "Wine Country"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "com2-15",
+          "question": "¿Qué actor interpreta a Ron Burgundy en 'Anchorman'?",
+          "options": ["Steve Carell", "Will Ferrell", "Paul Rudd", "David Koechner"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "com3-1",
+          "question": "¿En qué película de 1980 se encuentra la famosa frase 'I picked the wrong week to quit smoking'?",
+          "options": ["Airplane!", "Caddyshack", "The Blues Brothers", "Stripes"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-2",
+          "question": "¿Qué director hizo tanto 'Young Frankenstein' como 'Blazing Saddles' en 1974?",
+          "options": ["Woody Allen", "Mel Brooks", "John Landis", "Ivan Reitman"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-3",
+          "question": "¿En qué película de 1988 Jamie Lee Curtis y Dan Aykroyd intercambian roles sociales?",
+          "options": ["Coming to America", "Trading Places", "A Fish Called Wanda", "Beetlejuice"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-4",
+          "question": "¿Cuál es el nombre del personaje de Peter Sellers en la saga 'Pink Panther'?",
+          "options": ["Inspector Gadget", "Inspector Clouseau", "Inspector Morse", "Inspector Lewis"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-5",
+          "question": "¿En qué película de 1987 Steve Martin interpreta a un hombre con una nariz extremadamente grande?",
+          "options": ["Planes, Trains and Automobiles", "Roxanne", "Three Amigos", "Dirty Rotten Scoundrels"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-6",
+          "question": "¿Qué comediante escribió y protagonizó 'This Is Spinal Tap'?",
+          "options": ["Christopher Guest", "Michael McKean", "Harry Shearer", "Rob Reiner"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-7",
+          "question": "¿En qué película de 1986 Ferris Bueller falta a la escuela?",
+          "options": ["Pretty in Pink", "Sixteen Candles", "Ferris Bueller's Day Off", "The Breakfast Club"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-8",
+          "question": "¿Qué actriz interpretó a Eliza Doolittle en la versión cinematográfica de 'My Fair Lady'?",
+          "options": ["Julie Andrews", "Audrey Hepburn", "Debbie Reynolds", "Leslie Caron"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-9",
+          "question": "¿En qué película de 1994 Jim Carrey interpreta a un reportero que recibe poderes divinos?",
+          "options": ["The Truman Show", "Liar Liar", "Bruce Almighty", "Dumb and Dumber"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-10",
+          "question": "¿Cuál es el nombre del club de comedia donde se desarrolla parte de 'Punchline' (1988)?",
+          "options": ["The Comedy Store", "The Gas Station", "The Laff Stop", "The Improv"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-11",
+          "question": "¿En qué película de 1983 Eddie Murphy interpreta a Billy Ray Valentine?",
+          "options": ["48 Hrs.", "Trading Places", "Coming to America", "Beverly Hills Cop"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-12",
+          "question": "¿Qué director hizo 'Some Like It Hot' con Marilyn Monroe?",
+          "options": ["Howard Hawks", "Billy Wilder", "George Cukor", "Preston Sturges"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-13",
+          "question": "¿En qué película de 1994 aparece la banda ficticia 'The Lone Rangers'?",
+          "options": ["Reality Bites", "Airheads", "Empire Records", "Singles"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-14",
+          "question": "¿Cuál es el nombre del personaje de Robin Williams en 'Good Morning Vietnam'?",
+          "options": ["Adrian Cronauer", "John Keating", "Sean Maguire", "Daniel Hillard"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "com3-15",
+          "question": "¿En qué año se estrenó 'The Producers' de Mel Brooks?",
+          "options": ["1967", "1968", "1969", "1970"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
