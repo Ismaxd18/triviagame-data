@@ -1,0 +1,381 @@
+{
+  "category": "mha",
+  "name": "My Hero Academia",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "mha1-1",
+          "question": "¿Cuál es el nombre del protagonista principal?",
+          "options": ["Izuku Midoriya", "Katsuki Bakugo", "Shoto Todoroki", "Tenya Iida"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-2",
+          "question": "¿Cómo se llaman los superpoderes en este mundo?",
+          "options": ["Quirks", "Powers", "Abilities", "Gifts"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-3",
+          "question": "¿Cuál es el nombre de héroe de All Might?",
+          "options": ["Symbol of Peace", "All Might", "Toshinori Yagi", "Number One Hero"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-4",
+          "question": "¿En qué escuela estudia Deku?",
+          "options": ["Shiketsu High", "UA High School", "Ketsubutsu Academy", "Seiai Academy"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-5",
+          "question": "¿Cuál es el quirk de Izuku Midoriya?",
+          "options": ["Explosion", "One For All", "Half-Cold Half-Hot", "Engine"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-6",
+          "question": "¿Quién es el villano principal de la serie?",
+          "options": ["Stain", "Overhaul", "All For One", "Shigaraki"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-7",
+          "question": "¿Cómo se llama el compañero de clase agresivo de Deku?",
+          "options": ["Katsuki Bakugo", "Shoto Todoroki", "Tenya Iida", "Eijiro Kirishima"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-8",
+          "question": "¿Cuál es el quirk de Bakugo?",
+          "options": ["Explosion", "Nitroglicerina", "Blast", "Bomb"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-9",
+          "question": "¿Qué porcentaje de la población mundial tiene quirks?",
+          "options": ["70%", "80%", "90%", "100%"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-10",
+          "question": "¿Cuál es el apellido de All Might?",
+          "options": ["Toshinori", "Yagi", "Shimura", "Midoriya"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-11",
+          "question": "¿En qué clase está Deku?",
+          "options": ["Clase 1-A", "Clase 1-B", "Clase 2-A", "Clase 1-C"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-12",
+          "question": "¿Quién es el maestro de la Clase 1-A?",
+          "options": ["Present Mic", "Eraserhead", "Midnight", "Cementoss"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-13",
+          "question": "¿Cuál es el quirk de Ochaco Uraraka?",
+          "options": ["Gravity", "Zero Gravity", "Float", "Weightless"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-14",
+          "question": "¿Quién creó el manga My Hero Academia?",
+          "options": ["Kohei Horikoshi", "Hajime Isayama", "Eiichiro Oda", "Masashi Kishimoto"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "mha1-15",
+          "question": "¿Cómo se llama la organización de villanos liderada por Shigaraki?",
+          "options": ["League of Villains", "Villain Alliance", "Meta Liberation Army", "Paranormal Liberation Front"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "mha2-1",
+          "question": "¿Cuál es el nombre real de Eraserhead?",
+          "options": ["Shouta Aizawa", "Hizashi Yamada", "Nemuri Kayama", "Ken Ishiyama"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-2",
+          "question": "¿Quién fue la maestra anterior de One For All?",
+          "options": ["Nana Shimura", "Toshinori Yagi", "Izuku Midoriya", "Sorahiko Torino"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-3",
+          "question": "¿Cuál es el nombre de héroe de Shoto Todoroki?",
+          "options": ["Shoto", "Icyhot", "Entropy", "Todoroki"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-4",
+          "question": "¿Cómo se llama el quirk de Tomura Shigaraki?",
+          "options": ["Decay", "Disintegration", "Destruction", "Death Touch"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-5",
+          "question": "¿Quién es el padre de Shoto Todoroki?",
+          "options": ["All Might", "Endeavor", "Best Jeanist", "Hawks"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-6",
+          "question": "¿Cuál es el quirk de Tenya Iida?",
+          "options": ["Speed", "Engine", "Turbo", "Velocity"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-7",
+          "question": "¿Cómo se llama el villano que puede copiar quirks?",
+          "options": ["All For One", "Nomu", "Overhaul", "Stain"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-8",
+          "question": "¿Cuál es el nombre real de Dabi?",
+          "options": ["Toya Todoroki", "Touya Todoroki", "Natsuo Todoroki", "Fuyumi Todoroki"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-9",
+          "question": "¿Qué tipo de quirk tiene Tokoyami?",
+          "options": ["Dark Shadow", "Shadow", "Bird", "Darkness"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-10",
+          "question": "¿Cuál es el nombre de héroe de Katsuki Bakugo?",
+          "options": ["Ground Zero", "Great Explosion Murder God Dynamight", "King Explosion Murder", "Dynamight"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-11",
+          "question": "¿Quién es conocido como el 'Hero Killer'?",
+          "options": ["Stain", "Overhaul", "Muscular", "Moonfish"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-12",
+          "question": "¿Cuál es el quirk de Momo Yaoyorozu?",
+          "options": ["Creation", "Matter Creation", "Molecule Manipulation", "Material Production"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-13",
+          "question": "¿Cómo se llama el entrenamiento especial de UA?",
+          "options": ["Training Camp", "Summer Camp", "Forest Training", "Wild Wild Pussycats Training"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-14",
+          "question": "¿Cuál es el rango de Endeavor al inicio de la serie?",
+          "options": ["#1 Hero", "#2 Hero", "#3 Hero", "#4 Hero"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "mha2-15",
+          "question": "¿Qué significa 'Plus Ultra'?",
+          "options": ["Go Beyond", "Further Beyond", "Más Allá", "Todas las anteriores"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "mha3-1",
+          "question": "¿Cuántos usuarios previos tuvo One For All antes de Deku?",
+          "options": ["7", "8", "9", "10"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-2",
+          "question": "¿Cuál es el verdadero nombre de Hawks?",
+          "options": ["Keigo Takami", "Takami Keigo", "Ambos son correctos", "No se revela"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-3",
+          "question": "¿En qué año comenzó la serialización del manga?",
+          "options": ["2013", "2014", "2015", "2016"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-4",
+          "question": "¿Cuál es el nombre del primer usuario de One For All?",
+          "options": ["Yoichi Shigaraki", "All For One's Brother", "Ambos son correctos", "No se revela"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-5",
+          "question": "¿Qué quirk tenía originalmente el primer usuario de One For All?",
+          "options": ["Ninguno", "Transferir quirks", "Stockpile", "Float"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-6",
+          "question": "¿Cuál es el quirk del séptimo usuario de One For All?",
+          "options": ["Float", "Fa Jin", "Danger Sense", "Nana Shimura's Float"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-7",
+          "question": "¿Cómo se llama la técnica de Deku que usa el 100% de One For All?",
+          "options": ["Full Cowling", "Detroit Smash", "One For All: Full Cowling 100%", "United States of Smash"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-8",
+          "question": "¿Cuál es el nombre del quirk que permite predecir peligros?",
+          "options": ["Danger Sense", "Precognition", "Spider Sense", "Threat Detection"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-9",
+          "question": "¿Quién es el actual #1 Hero después de All Might?",
+          "options": ["Hawks", "Endeavor", "Best Jeanist", "Edgeshot"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-10",
+          "question": "¿Cuál es el verdadero apellido de Tomura Shigaraki?",
+          "options": ["Shigaraki", "Shimura", "Tenko Shimura", "AFO"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-11",
+          "question": "¿Cómo se llama la técnica de almacenamiento de energía cinética?",
+          "options": ["Fa Jin", "Kinetic Boost", "Energy Storage", "Power Stock"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-12",
+          "question": "¿Cuál es el nombre de la organización que fusionó la Liga de Villanos?",
+          "options": ["Meta Liberation Army", "Paranormal Liberation Front", "Liberation Front", "New World Order"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-13",
+          "question": "¿Qué le pasó a Sir Nighteye?",
+          "options": ["Se retiró", "Murió luchando contra Overhaul", "Perdió su quirk", "Cambió de profesión"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-14",
+          "question": "¿Cuál es el quirk de Re-Destro?",
+          "options": ["Stress", "Meta Ability", "Liberation", "Pressure"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "mha3-15",
+          "question": "¿Cómo se llama el estado actual del manga?",
+          "options": ["Finalizado", "En curso", "Hiatus", "Final Arc"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
