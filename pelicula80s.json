@@ -1,0 +1,381 @@
+{
+  "category": "pelicula80s",
+  "name": "Películas 80s-90s",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "80s1-1",
+          "question": "¿En qué película aparece la frase 'Nobody puts Baby in a corner'?",
+          "options": ["Pretty Woman", "Dirty Dancing", "Flashdance", "Top Gun"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-2",
+          "question": "¿Quién interpretó a Marty McFly en 'Back to the Future'?",
+          "options": ["Tom Cruise", "Michael J. Fox", "Matthew Broderick", "John Cusack"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-3",
+          "question": "¿En qué año está ambientada la primera película de 'Back to the Future'?",
+          "options": ["1985", "1955", "Ambas", "1885"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-4",
+          "question": "¿Cuál es el nombre del robot en 'The Terminator'?",
+          "options": ["T-800", "Terminator", "Cyborg", "Android"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-5",
+          "question": "¿Quién dirigió 'E.T. the Extra-Terrestrial'?",
+          "options": ["George Lucas", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-6",
+          "question": "¿En qué película Tom Cruise interpreta a un piloto de combate?",
+          "options": ["Top Gun", "Days of Thunder", "Born on the Fourth of July", "The Color of Money"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-7",
+          "question": "¿Cuál es el nombre del personaje de Arnold Schwarzenegger en 'Terminator'?",
+          "options": ["John Connor", "Kyle Reese", "T-800", "Terminator"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-8",
+          "question": "¿En qué película Patrick Swayze y Jennifer Grey son los protagonistas?",
+          "options": ["Ghost", "Point Break", "Dirty Dancing", "Road House"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-9",
+          "question": "¿Quién interpretó a John Rambo?",
+          "options": ["Sylvester Stallone", "Arnold Schwarzenegger", "Chuck Norris", "Jean-Claude Van Damme"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-10",
+          "question": "¿En qué película aparece la canción 'Eye of the Tiger'?",
+          "options": ["Rocky III", "Rocky IV", "The Karate Kid", "Flashdance"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-11",
+          "question": "¿Cuál es el nombre del personaje principal en 'The Karate Kid'?",
+          "options": ["Daniel LaRusso", "Johnny Lawrence", "Mr. Miyagi", "Ralph Macchio"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-12",
+          "question": "¿En qué año se estrenó 'Ghostbusters'?",
+          "options": ["1983", "1984", "1985", "1986"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-13",
+          "question": "¿Quién interpretó a Indiana Jones?",
+          "options": ["Tom Selleck", "Harrison Ford", "Kevin Costner", "Mel Gibson"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-14",
+          "question": "¿En qué película aparece la frase 'I'll be back'?",
+          "options": ["Predator", "Conan", "The Terminator", "Commando"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "80s1-15",
+          "question": "¿Cuál fue la primera película de la saga 'Die Hard'?",
+          "options": ["Die Hard", "Die Hard 2", "Die Hard with a Vengeance", "Live Free or Die Hard"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "80s2-1",
+          "question": "¿En qué edificio transcurre la primera película de 'Die Hard'?",
+          "options": ["Empire State Building", "Torre Nakatomi", "World Trade Center", "Willis Tower"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-2",
+          "question": "¿Quién dirigió 'Blade Runner' (1982)?",
+          "options": ["James Cameron", "Ridley Scott", "David Lynch", "Terry Gilliam"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-3",
+          "question": "¿Cuál es el nombre del villano en 'The Princess Bride'?",
+          "options": ["Prince Humperdinck", "Vizzini", "Count Rugen", "Todos son villanos"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-4",
+          "question": "¿En qué año se estrenó 'Ferris Bueller's Day Off'?",
+          "options": ["1985", "1986", "1987", "1988"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-5",
+          "question": "¿Quién compuso la música de 'Back to the Future'?",
+          "options": ["John Williams", "Alan Silvestri", "Danny Elfman", "James Horner"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-6",
+          "question": "¿Cuál es el nombre del personaje de Eddie Murphy en 'Beverly Hills Cop'?",
+          "options": ["Axel Foley", "Billy Ray", "Marcus Burnett", "James Carter"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-7",
+          "question": "¿En qué película de los 80s aparece la canción 'Take My Breath Away'?",
+          "options": ["Flashdance", "Footloose", "Top Gun", "Dirty Dancing"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-8",
+          "question": "¿Quién dirigió 'The Breakfast Club'?",
+          "options": ["John Hughes", "Cameron Crowe", "Rob Reiner", "Barry Levinson"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-9",
+          "question": "¿Cuál es el nombre del auto en 'Back to the Future'?",
+          "options": ["DeLorean DMC-12", "DeLorean Time Machine", "Flux Capacitor Car", "Time Machine"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-10",
+          "question": "¿En qué película Kevin Costner interpreta a un granjero de béisbol?",
+          "options": ["Bull Durham", "Field of Dreams", "For Love of the Game", "The Natural"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-11",
+          "question": "¿Quién interpretó a Sarah Connor en 'The Terminator'?",
+          "options": ["Sigourney Weaver", "Linda Hamilton", "Jamie Lee Curtis", "Meryl Streep"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-12",
+          "question": "¿En qué año se estrenó 'Rain Man'?",
+          "options": ["1987", "1988", "1989", "1990"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-13",
+          "question": "¿Cuál es el nombre del club en 'The Breakfast Club'?",
+          "options": ["Saturday Detention", "The Breakfast Club", "Weekend Detention", "No tiene nombre específico"],
+          "answer": 3,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-14",
+          "question": "¿Quién dirigió 'Aliens' (1986)?",
+          "options": ["Ridley Scott", "James Cameron", "David Fincher", "Jean-Pierre Jeunet"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "80s2-15",
+          "question": "¿En qué película Tom Hanks interpreta a un niño en cuerpo de adulto?",
+          "options": ["Big", "Forrest Gump", "Splash", "The Money Pit"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "80s3-1",
+          "question": "¿Cuál fue el presupuesto original de 'The Terminator' (1984)?",
+          "options": ["$6.4 millones", "$10 millones", "$15 millones", "$20 millones"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-2",
+          "question": "¿Qué actor fue considerado originalmente para el papel de Marty McFly?",
+          "options": ["Eric Stoltz", "John Cusack", "C. Thomas Howell", "Anthony Michael Hall"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-3",
+          "question": "¿En qué fecha exacta viaja Marty en 'Back to the Future'?",
+          "options": ["5 de noviembre de 1955", "12 de noviembre de 1955", "5 de octubre de 1955", "12 de octubre de 1955"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-4",
+          "question": "¿Cuál fue la primera película en usar CGI para un personaje completo?",
+          "options": ["Tron", "The Last Starfighter", "Young Sherlock Holmes", "The Abyss"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-5",
+          "question": "¿Cuántas versiones del final de 'Blade Runner' existen oficialmente?",
+          "options": ["3", "5", "7", "9"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-6",
+          "question": "¿En qué película de 1989 Jack Nicholson interpreta al Joker?",
+          "options": ["Batman", "The Witches of Eastwick", "Terms of Endearment", "The Shining"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-7",
+          "question": "¿Cuál fue la película más taquillera de los años 80?",
+          "options": ["E.T.", "Star Wars: Return of the Jedi", "Indiana Jones: Raiders", "Back to the Future"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-8",
+          "question": "¿En qué película de 1987 aparece la frase 'Greed is good'?",
+          "options": ["Wall Street", "Working Girl", "The Secret of My Success", "Trading Places"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-9",
+          "question": "¿Quién escribió el guión de 'The Princess Bride'?",
+          "options": ["Rob Reiner", "William Goldman", "Christopher Guest", "Billy Crystal"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-10",
+          "question": "¿Cuál fue el primer filme en la historia en recaudar más de $100 millones en un fin de semana?",
+          "options": ["Batman (1989)", "Indiana Jones 3", "Back to the Future 2", "Ninguna de los 80s"],
+          "answer": 3,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-11",
+          "question": "¿En qué año murió John Hughes, director de muchas películas icónicas de los 80s?",
+          "options": ["2007", "2008", "2009", "2010"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-12",
+          "question": "¿Cuál fue la primera película de la saga 'Lethal Weapon'?",
+          "options": ["1987", "1988", "1989", "1990"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-13",
+          "question": "¿Qué película de 1984 está basada en una novela de Stephen King?",
+          "options": ["The Shining", "Christine", "Cujo", "Firestarter"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-14",
+          "question": "¿En qué película de 1985 aparecen los Goonies?",
+          "options": ["The Goonies", "Stand by Me", "The Monster Squad", "Explorers"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "80s3-15",
+          "question": "¿Cuál fue el último filme de Stanley Kubrick en los 80s?",
+          "options": ["The Shining", "Full Metal Jacket", "Eyes Wide Shut", "No hizo películas en los 80s"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+}
