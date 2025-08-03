@@ -1,0 +1,381 @@
+{
+  "category": "civilizaciones",
+  "name": "Civilizaciones",
+  "levels": [
+    {
+      "level": 1,
+      "questions": [
+        {
+          "id": "civ1-1",
+          "question": "¿En qué continente se desarrolló la civilización maya?",
+          "options": ["Asia", "África", "América", "Europa"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-2",
+          "question": "¿Cuál fue la capital del Imperio Inca?",
+          "options": ["Machu Picchu", "Cusco", "Ollantaytambo", "Sacsayhuamán"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-3",
+          "question": "¿En qué actual país se encontraba Mesopotamia?",
+          "options": ["Egipto", "Irán", "Irak", "Siria"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-4",
+          "question": "¿Qué civilización construyó Chichen Itzá?",
+          "options": ["Azteca", "Maya", "Inca", "Olmeca"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-5",
+          "question": "¿Cuál era la capital del Imperio Azteca?",
+          "options": ["Tlatelolco", "Teotihuacán", "Tenochtitlan", "Texcoco"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-6",
+          "question": "¿En qué río se desarrolló la civilización egipcia?",
+          "options": ["Nilo", "Éufrates", "Tigris", "Indo"],
+          "answer": 0,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-7",
+          "question": "¿Qué material usaban principalmente los incas en sus construcciones?",
+          "options": ["Madera", "Adobe", "Piedra", "Bronce"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-8",
+          "question": "¿Cuál es el sistema de escritura más antiguo conocido?",
+          "options": ["Jeroglíficos", "Cuneiforme", "Alfabeto fenicio", "Escritura china"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-9",
+          "question": "¿En qué actual país se encontraba el Valle del Indo?",
+          "options": ["India", "Pakistán", "Ambos", "Bangladesh"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-10",
+          "question": "¿Qué animal era sagrado para los egipcios?",
+          "options": ["León", "Gato", "Cocodrilo", "Ibis"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-11",
+          "question": "¿Cuál era el idioma de los incas?",
+          "options": ["Náhuatl", "Quechua", "Aymara", "Guaraní"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-12",
+          "question": "¿Qué civilización inventó la rueda?",
+          "options": ["Egipcios", "Chinos", "Sumerios", "Griegos"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-13",
+          "question": "¿En qué siglo llegaron los españoles a América?",
+          "options": ["XIV", "XV", "XVI", "XVII"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-14",
+          "question": "¿Cuál era el dios principal de los aztecas?",
+          "options": ["Quetzalcóatl", "Huitzilopochtli", "Tláloc", "Tezcatlipoca"],
+          "answer": 1,
+          "difficulty": "easy",
+          "points": 2000
+        },
+        {
+          "id": "civ1-15",
+          "question": "¿Qué estructura maya servía como observatorio astronómico?",
+          "options": ["Pirámide", "Templo", "Caracol", "Juego de pelota"],
+          "answer": 2,
+          "difficulty": "easy",
+          "points": 2000
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "questions": [
+        {
+          "id": "civ2-1",
+          "question": "¿Cuánto duró aproximadamente el período clásico maya?",
+          "options": ["200-600 d.C.", "250-900 d.C.", "300-1000 d.C.", "400-1100 d.C."],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-2",
+          "question": "¿Qué emperador inca fue capturado por los españoles?",
+          "options": ["Huáscar", "Atahualpa", "Manco Inca", "Túpac Amaru"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-3",
+          "question": "¿Cuál era el nombre del sistema de caminos incas?",
+          "options": ["Qhapaq Ñan", "Inti Raymi", "Ayni", "Mita"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-4",
+          "question": "¿En qué año fue fundada Tenochtitlan?",
+          "options": ["1325", "1345", "1365", "1385"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-5",
+          "question": "¿Qué civilización construyó las cabezas olmecas?",
+          "options": ["Mayas", "Aztecas", "Olmecas", "Zapotecas"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-6",
+          "question": "¿Cuál era la ciudad más importante de Mesopotamia?",
+          "options": ["Ur", "Babilonia", "Nínive", "Assur"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-7",
+          "question": "¿Qué faraón ordenó construir la Gran Pirámide?",
+          "options": ["Keops", "Kefrén", "Micerinos", "Zoser"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-8",
+          "question": "¿Cuál era el sistema de escritura inca?",
+          "options": ["Jeroglíficos", "Cuneiforme", "Quipus", "Pictogramas"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-9",
+          "question": "¿En qué actual país se encuentra Angkor Wat?",
+          "options": ["Tailandia", "Vietnam", "Camboya", "Laos"],
+          "answer": 2,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-10",
+          "question": "¿Qué código de leyes babilónico es el más famoso?",
+          "options": ["Código de Ur-Nammu", "Código de Hammurabi", "Código de Lipit-Ishtar", "Código asirio"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-11",
+          "question": "¿Cuál era la principal ciudad maya en Guatemala?",
+          "options": ["Palenque", "Tikal", "Copán", "Calakmul"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-12",
+          "question": "¿Qué civilización desarrolló el primer calendario solar?",
+          "options": ["Egipcia", "Maya", "Azteca", "China"],
+          "answer": 0,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-13",
+          "question": "¿Cuál era el metal más valorado por los incas?",
+          "options": ["Plata", "Oro", "Cobre", "Bronce"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-14",
+          "question": "¿En qué isla del Pacífico se encuentran los moáis?",
+          "options": ["Tahití", "Isla de Pascua", "Fiji", "Samoa"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        },
+        {
+          "id": "civ2-15",
+          "question": "¿Qué pueblo construyó Petra en Jordania?",
+          "options": ["Árabes", "Nabateos", "Romanos", "Bizantinos"],
+          "answer": 1,
+          "difficulty": "medium",
+          "points": 3000
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "questions": [
+        {
+          "id": "civ3-1",
+          "question": "¿Cuál era el nombre del calendario maya de 260 días?",
+          "options": ["Haab", "Tzolkin", "Cuenta Larga", "Rueda Calendárica"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-2",
+          "question": "¿En qué año los aztecas fundaron la Triple Alianza?",
+          "options": ["1428", "1440", "1450", "1465"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-3",
+          "question": "¿Cuál era el nombre de la élite guerrera azteca vestida como águilas?",
+          "options": ["Calmecac", "Cuachic", "Cuauhtli", "Ocelotl"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-4",
+          "question": "¿Qué rey babilónico destruyó Jerusalén en 586 a.C.?",
+          "options": ["Nabopolasar", "Nabucodonosor II", "Belsasar", "Ciro el Grande"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-5",
+          "question": "¿Cuál era el sistema de trabajo comunitario inca?",
+          "options": ["Ayni", "Mita", "Ayllu", "Chasqui"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-6",
+          "question": "¿En qué año se descubrió la tumba de Tutankamón?",
+          "options": ["1920", "1922", "1924", "1926"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-7",
+          "question": "¿Cuál era la capital del Imperio Jemer?",
+          "options": ["Angkor Thom", "Angkor Wat", "Phnom Penh", "Siem Reap"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-8",
+          "question": "¿Qué civilización desarrolló la metalurgia del hierro primero?",
+          "options": ["Hititas", "Asirios", "Egipcios", "Griegos"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-9",
+          "question": "¿Cuál era el nombre del dios creador maya?",
+          "options": ["Kukulkán", "Itzamná", "Chaac", "Ah Puch"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-10",
+          "question": "¿En qué siglo floreció la civilización minoica?",
+          "options": ["XV a.C.", "XVI a.C.", "XVII a.C.", "XVIII a.C."],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-11",
+          "question": "¿Cuál era el nombre de la bebida sagrada azteca hecha de cacao?",
+          "options": ["Pulque", "Atole", "Chocolatl", "Pozol"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-12",
+          "question": "¿Qué pueblo construyó las líneas de Nazca?",
+          "options": ["Incas", "Nazcas", "Mochicas", "Chimús"],
+          "answer": 1,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-13",
+          "question": "¿Cuál era el período más antiguo de la civilización china?",
+          "options": ["Dinastía Shang", "Dinastía Zhou", "Dinastía Xia", "Dinastía Qin"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-14",
+          "question": "¿En qué actual país se encontraba la civilización fenicia?",
+          "options": ["Israel", "Siria", "Líbano", "Jordania"],
+          "answer": 2,
+          "difficulty": "hard",
+          "points": 4000
+        },
+        {
+          "id": "civ3-15",
+          "question": "¿Cuál era el nombre del sistema de terrazas agrícolas incas?",
+          "options": ["Andenes", "Waru waru", "Qochas", "Machu"],
+          "answer": 0,
+          "difficulty": "hard",
+          "points": 4000
+        }
+      ]
+    }
+  ]
+        }
