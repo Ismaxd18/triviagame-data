@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+      "options": ["Lope de Vega", "Miguel de Cervantes", "Francisco de Quevedo", "Tirso de Molina"],
+      "correct_answer": 1,
+      "explanation": "Miguel de Cervantes Saavedra escribió 'Don Quijote de la Mancha' (1605-1615), considerada la primera novela moderna de la literatura universal.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el primer libro de la saga 'Harry Potter'?",
+      "options": ["La cámara secreta", "La piedra filosofal", "El prisionero de Azkaban", "El cáliz de fuego"],
+      "correct_answer": 1,
+      "explanation": "'Harry Potter y la piedra filosofal' (1997) es el primer libro de J.K. Rowling que inició la exitosa saga del joven mago.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'Cien años de soledad'?",
+      "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Jorge Luis Borges", "Octavio Paz"],
+      "correct_answer": 1,
+      "explanation": "Gabriel García Márquez escribió 'Cien años de soledad' (1967), obra maestra del realismo mágico que le valió el Premio Nobel.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se publicó '1984' de George Orwell?",
+      "options": ["1948", "1949", "1950", "1951"],
+      "correct_answer": 1,
+      "explanation": "'1984' fue publicada en 1949, convirtiéndose en una de las distopías más influyentes de la literatura universal.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre real de Mark Twain?",
+      "options": ["Samuel Clemens", "William Porter", "Charles Dickens", "Edgar Poe"],
+      "correct_answer": 0,
+      "explanation": "Mark Twain era el seudónimo de Samuel Langhorne Clemens, autor de clásicos como 'Las aventuras de Tom Sawyer'.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'Romeo y Julieta'?",
+      "options": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "John Webster"],
+      "correct_answer": 1,
+      "explanation": "William Shakespeare escribió 'Romeo y Julieta' hacia 1595, una de las tragedias más famosas de la literatura inglesa.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la primera novela de la literatura española?",
+      "options": ["La Celestina", "Lazarillo de Tormes", "Don Quijote", "El Buscón"],
+      "correct_answer": 1,
+      "explanation": "'Lazarillo de Tormes' (1554) es considerada la primera novela picaresca y una de las primeras novelas modernas de España.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El nombre de la rosa'?",
+      "options": ["Italo Calvino", "Umberto Eco", "Milan Kundera", "José Saramago"],
+      "correct_answer": 1,
+      "explanation": "Umberto Eco escribió 'El nombre de la rosa' (1980), una novela histórica que mezcla misterio, filosofía y semiótica.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país nació Pablo Neruda?",
+      "options": ["Argentina", "Perú", "Chile", "Colombia"],
+      "correct_answer": 2,
+      "explanation": "Pablo Neruda nació en Chile en 1904, siendo uno de los poetas más importantes del siglo XX y Premio Nobel de Literatura.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el libro más vendido de la historia (después de la Biblia)?",
+      "options": ["Don Quijote", "El Principito", "Un cuento de Navidad", "El Señor de los Anillos"],
+      "correct_answer": 0,
+      "explanation": "'Don Quijote de la Mancha' es el libro más vendido de la historia después de la Biblia, con más de 500 millones de copias.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'Orgullo y prejuicio'?",
+      "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "George Eliot"],
+      "correct_answer": 2,
+      "explanation": "Jane Austen escribió 'Orgullo y prejuicio' (1813), una de las novelas románticas más influyentes de la literatura inglesa.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el movimiento literario de García Lorca?",
+      "options": ["Modernismo", "Generación del 98", "Generación del 27", "Vanguardismo"],
+      "correct_answer": 2,
+      "explanation": "Federico García Lorca perteneció a la Generación del 27, grupo de poetas españoles que renovaron la poesía nacional.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El Principito'?",
+      "options": ["Marcel Proust", "Antoine de Saint-Exupéry", "Albert Camus", "Jean-Paul Sartre"],
+      "correct_answer": 1,
+      "explanation": "Antoine de Saint-Exupéry escribió 'El Principito' (1943), una fábula poética que se ha convertido en un clásico universal.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué siglo vivió William Shakespeare?",
+      "options": ["Siglo XV", "Siglo XVI", "Siglo XVII", "Siglo XVIII"],
+      "correct_answer": 1,
+      "explanation": "William Shakespeare vivió principalmente en el siglo XVI (1564-1616), durante el Renacimiento inglés y la época isabelina.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'La metamorfosis'?",
+      "options": ["Thomas Mann", "Franz Kafka", "Hermann Hesse", "Robert Musil"],
+      "correct_answer": 1,
+      "explanation": "Franz Kafka escribió 'La metamorfosis' (1915), relato que inicia con la famosa transformación de Gregorio Samsa en insecto.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la epopeya más antigua de la literatura occidental?",
+      "options": ["La Ilíada", "La Odisea", "La Eneida", "El Poema de Gilgamesh"],
+      "correct_answer": 3,
+      "explanation": "'El Poema de Gilgamesh' es la epopeya más antigua conocida, originaria de Mesopotamia hacia el 2100 a.C.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'Madame Bovary'?",
+      "options": ["Émile Zola", "Gustave Flaubert", "Guy de Maupassant", "Honoré de Balzac"],
+      "correct_answer": 1,
+      "explanation": "Gustave Flaubert escribió 'Madame Bovary' (1857), novela que revolucionó la literatura realista del siglo XIX.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre real de George Orwell?",
+      "options": ["Eric Blair", "Arthur Blair", "George Blair", "Edward Blair"],
+      "correct_answer": 0,
+      "explanation": "George Orwell era el seudónimo de Eric Arthur Blair, autor de '1984' y 'Rebelión en la granja'.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'Los miserables'?",
+      "options": ["Alexandre Dumas", "Victor Hugo", "Gustave Flaubert", "Émile Zola"],
+      "correct_answer": 1,
+      "explanation": "Victor Hugo escribió 'Los miserables' (1862), una de las novelas más importantes del romanticismo francés.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué obra aparece el personaje de Hamlet?",
+      "options": ["Macbeth", "El Rey Lear", "Hamlet", "Otelo"],
+      "correct_answer": 2,
+      "explanation": "Hamlet es el protagonista de la tragedia homónima de Shakespeare, famosa por el monólogo 'Ser o no ser'.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'Rayuela'?",
+      "options": ["Mario Vargas Llosa", "Julio Cortázar", "Carlos Fuentes", "José Donoso"],
+      "correct_answer": 1,
+      "explanation": "Julio Cortázar escribió 'Rayuela' (1963), novela experimental del boom latinoamericano que puede leerse de múltiples formas.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la novela más famosa de Jane Austen?",
+      "options": ["Emma", "Sentido y sensibilidad", "Orgullo y prejuicio", "Persuasión"],
+      "correct_answer": 2,
+      "explanation": "'Orgullo y prejuicio' es la novela más conocida y popular de Jane Austen, centrada en Elizabeth Bennet y Mr. Darcy.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'El conde de Montecristo'?",
+      "options": ["Victor Hugo", "Alexandre Dumas", "Honoré de Balzac", "Stendhal"],
+      "correct_answer": 1,
+      "explanation": "Alexandre Dumas escribió 'El conde de Montecristo' (1844), una de las novelas de aventuras más populares de la literatura.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué ciudad transcurre 'Ulises' de James Joyce?",
+      "options": ["Londres", "París", "Dublín", "Edimburgo"],
+      "correct_answer": 2,
+      "explanation": "'Ulises' transcurre durante un solo día (16 de junio de 1904) en Dublín, Irlanda, siguiendo a Leopold Bloom.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El gran Gatsby'?",
+      "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "William Faulkner"],
+      "correct_answer": 1,
+      "explanation": "F. Scott Fitzgerald escribió 'El gran Gatsby' (1925), considerada una de las mejores novelas estadounidenses del siglo XX.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del capitán en 'Moby Dick'?",
+      "options": ["Capitán Nemo", "Capitán Ahab", "Capitán Hook", "Capitán Flint"],
+      "correct_answer": 1,
+      "explanation": "El capitán Ahab es el protagonista obsesivo de 'Moby Dick' de Herman Melville, en busca de la ballena blanca.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'La divina comedia'?",
+      "options": ["Petrarca", "Boccaccio", "Dante Alighieri", "Torquato Tasso"],
+      "correct_answer": 2,
+      "explanation": "Dante Alighieri escribió 'La divina comedia' (1320), poema épico que narra su viaje por el Infierno, Purgatorio y Paraíso.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año ganó Gabriel García Márquez el Premio Nobel de Literatura?",
+      "options": ["1980", "1982", "1984", "1986"],
+      "correct_answer": 1,
+      "explanation": "Gabriel García Márquez ganó el Premio Nobel de Literatura en 1982 por su obra que combina lo fantástico y lo real.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'Fahrenheit 451'?",
+      "options": ["Isaac Asimov", "Ray Bradbury", "Philip K. Dick", "Kurt Vonnegut"],
+      "correct_answer": 1,
+      "explanation": "Ray Bradbury escribió 'Fahrenheit 451' (1953), distopía sobre una sociedad que quema libros para controlar el pensamiento.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la obra más famosa de Miguel de Unamuno?",
+      "options": ["San Manuel Bueno, mártir", "Niebla", "Del sentimiento trágico de la vida", "La tía Tula"],
+      "correct_answer": 1,
+      "explanation": "'Niebla' (1914) es considerada la obra más innovadora de Unamuno, donde introduce el concepto de 'nivola'.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El extranjero'?",
+      "options": ["Jean-Paul Sartre", "Albert Camus", "André Gide", "Marcel Proust"],
+      "correct_answer": 1,
+      "explanation": "Albert Camus escribió 'El extranjero' (1942), novela existencialista sobre Meursault y la absurdidad de la existencia.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo se escribió 'El Quijote'?",
+      "options": ["Siglo XV", "Siglo XVI", "Siglo XVII", "Siglo XVIII"],
+      "correct_answer": 2,
+      "explanation": "'Don Quijote' fue publicado en dos partes: la primera en 1605 y la segunda en 1615, durante el Siglo de Oro español.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'La casa de los espíritus'?",
+      "options": ["Mario Vargas Llosa", "Isabel Allende", "Laura Esquivel", "Ángeles Mastretta"],
+      "correct_answer": 1,
+      "explanation": "Isabel Allende escribió 'La casa de los espíritus' (1982), su primera novela que la consagró como escritora del realismo mágico.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el primer libro de 'El Señor de los Anillos'?",
+      "options": ["Las dos torres", "La comunidad del anillo", "El retorno del rey", "El hobbit"],
+      "correct_answer": 1,
+      "explanation": "'La comunidad del anillo' (1954) es el primer volumen de la trilogía 'El Señor de los Anillos' de J.R.R. Tolkien.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'Crimen y castigo'?",
+      "options": ["León Tolstói", "Fiódor Dostoyevski", "Antón Chéjov", "Iván Turguénev"],
+      "correct_answer": 1,
+      "explanation": "Fiódor Dostoyevski escribió 'Crimen y castigo' (1866), novela psicológica sobre Raskólnikov y su crimen.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué país nació Jorge Luis Borges?",
+      "options": ["Uruguay", "Argentina", "Chile", "Perú"],
+      "correct_answer": 1,
+      "explanation": "Jorge Luis Borges nació en Buenos Aires, Argentina, en 1899, siendo uno de los escritores más influyentes del siglo XX.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'Ana Karenina'?",
+      "options": ["Fiódor Dostoyevski", "León Tolstói", "Iván Turguénev", "Nikolái Gógol"],
+      "correct_answer": 1,
+      "explanation": "León Tolstói escribió 'Ana Karenina' (1877), considerada una de las mejores novelas de la literatura universal.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el género literario de 'La Celestina'?",
+      "options": ["Novela", "Comedia", "Tragicomedia", "Drama"],
+      "correct_answer": 2,
+      "explanation": "'La Celestina' de Fernando de Rojas es una tragicomedia en 21 actos, obra de transición entre la Edad Media y el Renacimiento.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El perfume'?",
+      "options": ["Thomas Mann", "Hermann Hesse", "Patrick Süskind", "Günter Grass"],
+      "correct_answer": 2,
+      "explanation": "Patrick Süskind escribió 'El perfume' (1985), novela sobre Jean-Baptiste Grenouille y su obsesión por los aromas.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué obra aparece el personaje de Don Juan?",
+      "options": ["El burlador de Sevilla", "Don Juan Tenorio", "Don Giovanni", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Don Juan aparece en múltiples obras: 'El burlador de Sevilla' de Tirso de Molina, 'Don Juan Tenorio' de Zorrilla, y 'Don Giovanni' de Mozart.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El túnel'?",
+      "options": ["Julio Cortázar", "Ernesto Sabato", "Jorge Luis Borges", "Adolfo Bioy Casares"],
+      "correct_answer": 1,
+      "explanation": "Ernesto Sabato escribió 'El túnel' (1948), novela psicológica sobre Juan Pablo Castel y su obsesión por María.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la métrica tradicional del soneto?",
+      "options": ["12 versos", "14 versos", "16 versos", "18 versos"],
+      "correct_answer": 1,
+      "explanation": "El soneto tradicional tiene 14 versos distribuidos en dos cuartetos y dos tercetos, con rima consonante.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'La ciudad y los perros'?",
+      "options": ["Gabriel García Márquez", "Mario Vargas Llosa", "Carlos Fuentes", "Julio Cortázar"],
+      "correct_answer": 1,
+      "explanation": "Mario Vargas Llosa escribió 'La ciudad y los perros' (1963), su primera novela que le dio reconocimiento internacional.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo nació el movimiento romántico?",
+      "options": ["Siglo XVII", "Siglo XVIII", "Siglo XIX", "Siglo XX"],
+      "correct_answer": 2,
+      "explanation": "El Romanticismo se desarrolló principalmente en el siglo XIX como reacción al racionalismo ilustrado y al neoclasicismo.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió 'Veinte poemas de amor y una canción desesperada'?",
+      "options": ["Federico García Lorca", "Pablo Neruda", "César Vallejo", "Octavio Paz"],
+      "correct_answer": 1,
+      "explanation": "Pablo Neruda escribió 'Veinte poemas de amor y una canción desesperada' (1924) cuando tenía solo 20 años.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la novela más famosa de Charles Dickens?",
+      "options": ["Oliver Twist", "Grandes esperanzas", "Historia de dos ciudades", "David Copperfield"],
+      "correct_answer": 2,
+      "explanation": "'Historia de dos ciudades' (1859) es la novela más vendida de Dickens, ambientada durante la Revolución Francesa.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El retrato de Dorian Gray'?",
+      "options": ["Oscar Wilde", "George Bernard Shaw", "Arthur Conan Doyle", "H.G. Wells"],
+      "correct_answer": 0,
+      "explanation": "Oscar Wilde escribió 'El retrato de Dorian Gray' (1890), su única novela publicada, sobre la decadencia y la belleza eterna.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se publicó 'Cien años de soledad'?",
+      "options": ["1965", "1967", "1969", "1971"],
+      "correct_answer": 1,
+      "explanation": "'Cien años de soledad' fue publicada en 1967 y se considera la obra cumbre del realismo mágico latinoamericano.",
+      "category": "literatura",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'La casa de Bernarda Alba'?",
+      "options": ["Antonio Machado", "Federico García Lorca", "Rafael Alberti", "Luis Cernuda"],
+      "correct_answer": 1,
+      "explanation": "Federico García Lorca escribió 'La casa de Bernarda Alba' (1936), drama sobre la represión y el autoritarismo.",
+      "category": "literatura",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el movimiento literario de Rubén Darío?",
+      "options": ["Romanticismo", "Realismo", "Modernismo", "Vanguardismo"],
+      "correct_answer": 2,
+      "explanation": "Rubén Darío fue el máximo exponente del Modernismo en la literatura hispanoamericana, renovando la poesía en español.",
+      "category": "literatura",
+      "difficulty": "medium"
+    }
+  ]
+    }
