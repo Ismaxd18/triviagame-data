@@ -1,0 +1,412 @@
+{
+  "questions": [
+    {
+      "question": "¿Cada cuántos años se celebran los Juegos Olímpicos de Verano?",
+      "options": ["2 años", "3 años", "4 años", "5 años"],
+      "correct_answer": 2,
+      "explanation": "Los Juegos Olímpicos de Verano se celebran cada 4 años, manteniendo la tradición olímpica clásica.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se utiliza un putter?",
+      "options": ["Tenis", "Golf", "Billar", "Hockey"],
+      "correct_answer": 1,
+      "explanation": "El putter es un palo de golf especializado que se usa para golpear la pelota en el green hacia el hoyo.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en un equipo de fútbol en el campo?",
+      "options": ["9", "10", "11", "12"],
+      "correct_answer": 2,
+      "explanation": "En fútbol, cada equipo tiene 11 jugadores en el campo: 10 jugadores de campo y 1 portero.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién es conocido como 'El Rey del Fútbol'?",
+      "options": ["Diego Maradona", "Lionel Messi", "Pelé", "Cristiano Ronaldo"],
+      "correct_answer": 2,
+      "explanation": "Pelé, el legendario futbolista brasileño, es mundialmente conocido como 'El Rey del Fútbol' por sus logros únicos.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+      "options": ["1892", "1896", "1900", "1904"],
+      "correct_answer": 1,
+      "explanation": "Los primeros Juegos Olímpicos modernos se celebraron en Atenas, Grecia, en 1896, reviviendo la tradición olímpica antigua.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos sets debe ganar un jugador para ganar un partido de tenis masculino en Grand Slam?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": 1,
+      "explanation": "En los Grand Slam masculinos, se juega al mejor de 5 sets, por lo que un jugador debe ganar 3 sets para ganar el partido.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país ha ganado más Copas del Mundo de fútbol?",
+      "options": ["Argentina", "Alemania", "Italia", "Brasil"],
+      "correct_answer": 3,
+      "explanation": "Brasil ha ganado 5 Copas del Mundo de fútbol (1958, 1962, 1970, 1994, 2002), más que cualquier otro país.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se usa el término 'slam dunk'?",
+      "options": ["Voleibol", "Baloncesto", "Balonmano", "Rugby"],
+      "correct_answer": 1,
+      "explanation": "El 'slam dunk' es una jugada espectacular del baloncesto donde el jugador introduce la pelota en la canasta con fuerza desde arriba.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la distancia oficial de una maratón?",
+      "options": ["40 km", "42.195 km", "45 km", "50 km"],
+      "correct_answer": 1,
+      "explanation": "Una maratón tiene una distancia oficial de 42.195 kilómetros (26.2 millas), establecida desde los Juegos Olímpicos de 1908.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte compite Novak Djokovic?",
+      "options": ["Bádminton", "Tenis", "Ping pong", "Squash"],
+      "correct_answer": 1,
+      "explanation": "Novak Djokovic es un tenista serbio, uno de los mejores jugadores de tenis de todos los tiempos.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos anillos olímpicos hay en el símbolo de los Juegos Olímpicos?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 1,
+      "explanation": "El símbolo olímpico tiene 5 anillos entrelazados que representan los cinco continentes unidos por el olimpismo.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se utiliza una raqueta y un volante?",
+      "options": ["Tenis", "Squash", "Bádminton", "Ping pong"],
+      "correct_answer": 2,
+      "explanation": "El bádminton se juega con raquetas golpeando un volante (shuttlecock) por encima de una red.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién tiene el récord mundial de los 100 metros planos?",
+      "options": ["Carl Lewis", "Usain Bolt", "Justin Gatlin", "Tyson Gay"],
+      "correct_answer": 1,
+      "explanation": "Usain Bolt de Jamaica posee el récord mundial de 100 metros planos con un tiempo de 9.58 segundos, establecido en 2009.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se compite por la Copa Stanley?",
+      "options": ["Hockey sobre hielo", "Hockey sobre césped", "Lacrosse", "Curling"],
+      "correct_answer": 0,
+      "explanation": "La Copa Stanley es el trofeo más prestigioso del hockey sobre hielo profesional, entregado anualmente en la NHL.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos jugadores componen un equipo de voleibol en la cancha?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": 1,
+      "explanation": "En voleibol, cada equipo tiene 6 jugadores en la cancha, distribuidos en dos filas de 3 jugadores cada una.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2016?",
+      "options": ["Londres", "Tokio", "Río de Janeiro", "Pekín"],
+      "correct_answer": 2,
+      "explanation": "Los Juegos Olímpicos de Verano de 2016 se celebraron en Río de Janeiro, Brasil, siendo los primeros en Sudamérica.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el puntaje máximo en un juego de bolos (bowling)?",
+      "options": ["200", "250", "300", "350"],
+      "correct_answer": 2,
+      "explanation": "El puntaje perfecto en bowling es 300, logrado al hacer 12 strikes consecutivos (todos los pinos en el primer lanzamiento).",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza un bate y se corre entre bases?",
+      "options": ["Cricket", "Béisbol", "Softball", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "El cricket, béisbol y softball comparten características como el uso de bates y correr entre bases o wickets.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué nadador tiene más medallas olímpicas en la historia?",
+      "options": ["Mark Spitz", "Michael Phelps", "Ryan Lochte", "Ian Thorpe"],
+      "correct_answer": 1,
+      "explanation": "Michael Phelps posee el récord con 28 medallas olímpicas (23 de oro), más que cualquier otro atleta en la historia.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza el término 'ace'?",
+      "options": ["Golf", "Tenis", "Poker", "Tenis y Golf"],
+      "correct_answer": 3,
+      "explanation": "En tenis, un 'ace' es un saque directo. En golf, un 'ace' es un hoyo en uno. Ambos deportes usan este término.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos puntos vale un touchdown en fútbol americano?",
+      "options": ["3", "6", "7", "8"],
+      "correct_answer": 1,
+      "explanation": "Un touchdown en fútbol americano vale 6 puntos, más la oportunidad de convertir 1 punto extra o 2 puntos adicionales.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte compite Lewis Hamilton?",
+      "options": ["Motociclismo", "Fórmula 1", "Rally", "NASCAR"],
+      "correct_answer": 1,
+      "explanation": "Lewis Hamilton es un piloto británico de Fórmula 1, múltiple campeón mundial con Mercedes y McLaren.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el torneo de tenis más prestigioso?",
+      "options": ["US Open", "Roland Garros", "Wimbledon", "Australian Open"],
+      "correct_answer": 2,
+      "explanation": "Wimbledon es considerado el torneo de tenis más prestigioso, siendo el más antiguo y jugándose en césped en Londres.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se utiliza una escoba y piedras?",
+      "options": ["Hockey", "Curling", "Bandy", "Broomball"],
+      "correct_answer": 1,
+      "explanation": "El curling es un deporte donde se lanzan piedras sobre hielo hacia un objetivo, usando escobas para influir en su trayectoria.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos minutos dura un partido de fútbol profesional?",
+      "options": ["80 minutos", "90 minutos", "100 minutos", "120 minutos"],
+      "correct_answer": 1,
+      "explanation": "Un partido de fútbol dura 90 minutos divididos en dos tiempos de 45 minutos, más el tiempo de descuento que añada el árbitro.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se compite por el Trofeo Larry O'Brien?",
+      "options": ["Fútbol americano", "Béisbol", "Baloncesto", "Hockey"],
+      "correct_answer": 2,
+      "explanation": "El Trofeo Larry O'Brien se otorga al campeón de la NBA (National Basketball Association) cada temporada.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el evento atlético que incluye 10 disciplinas?",
+      "options": ["Heptatlón", "Decatlón", "Pentatlón", "Triatlón"],
+      "correct_answer": 1,
+      "explanation": "El decatlón es una competencia atlética masculina que incluye 10 disciplinas diferentes a lo largo de dos días.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza un disco y se lanza lo más lejos posible?",
+      "options": ["Jabalina", "Lanzamiento de disco", "Lanzamiento de martillo", "Lanzamiento de peso"],
+      "correct_answer": 1,
+      "explanation": "El lanzamiento de disco es una disciplina atlética donde se lanza un disco pesado lo más lejos posible dentro de un sector.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país ha sido sede de los Juegos Olímpicos más veces?",
+      "options": ["Francia", "Reino Unido", "Estados Unidos", "Grecia"],
+      "correct_answer": 2,
+      "explanation": "Estados Unidos ha sido sede de los Juegos Olímpicos más veces, tanto de verano como de invierno, en diferentes ciudades.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza el término 'strike'?",
+      "options": ["Béisbol", "Bowling", "Ambos", "Ninguno"],
+      "correct_answer": 2,
+      "explanation": "En béisbol, un strike es cuando el bateador falla. En bowling, un strike es derribar todos los pinos en el primer lanzamiento.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos jugadores hay en un equipo de baloncesto en la cancha?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 1,
+      "explanation": "En baloncesto, cada equipo tiene 5 jugadores en la cancha: base, escolta, alero, ala-pívot y pívot.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se compite por la Copa Davis?",
+      "options": ["Tenis", "Golf", "Squash", "Bádminton"],
+      "correct_answer": 0,
+      "explanation": "La Copa Davis es la competición internacional de tenis masculino por equipos más prestigiosa del mundo.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la altura de una canasta de baloncesto?",
+      "options": ["3.00 metros", "3.05 metros", "3.10 metros", "3.15 metros"],
+      "correct_answer": 1,
+      "explanation": "La altura oficial de una canasta de baloncesto es de 3.05 metros (10 pies) desde el suelo hasta el aro.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza una pelota ovalada?",
+      "options": ["Fútbol", "Rugby", "Baloncesto", "Voleibol"],
+      "correct_answer": 1,
+      "explanation": "El rugby utiliza una pelota ovalada característica, diseñada para ser llevada en las manos y pateada.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién es conocido como 'Su Majestad' en el baloncesto?",
+      "options": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Magic Johnson"],
+      "correct_answer": 1,
+      "explanation": "LeBron James es conocido como 'King James' o 'Su Majestad' en el baloncesto por su dominio y liderazgo en la NBA.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se disputó el primer Mundial de Fútbol?",
+      "options": ["1928", "1930", "1932", "1934"],
+      "correct_answer": 1,
+      "explanation": "La primera Copa del Mundo de fútbol se disputó en Uruguay en 1930, con Uruguay como país anfitrión y campeón.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos holes tiene un campo de golf estándar?",
+      "options": ["16", "18", "20", "22"],
+      "correct_answer": 1,
+      "explanation": "Un campo de golf estándar tiene 18 hoyos, aunque existen campos de 9 hoyos que se juegan dos veces para completar una ronda.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte se utiliza el término 'KO'?",
+      "options": ["Lucha libre", "Boxeo", "Artes marciales", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "'KO' significa knockout y se usa en boxeo, artes marciales mixtas, lucha libre y otros deportes de combate.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el club de fútbol más exitoso en la Champions League?",
+      "options": ["Barcelona", "Real Madrid", "AC Milan", "Bayern Munich"],
+      "correct_answer": 1,
+      "explanation": "El Real Madrid ha ganado la Champions League/Copa de Europa más veces en la historia, con 14 títulos.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza un palo curved y un puck?",
+      "options": ["Hockey sobre césped", "Hockey sobre hielo", "Lacrosse", "Floorball"],
+      "correct_answer": 1,
+      "explanation": "El hockey sobre hielo se juega con palos curvos (sticks) y un disco de goma llamado puck en lugar de pelota.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": 1,
+      "explanation": "Un tiro desde más allá de la línea de tres puntos vale 3 puntos en baloncesto, de ahí el nombre 'triple'.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué deporte compite Serena Williams?",
+      "options": ["Bádminton", "Tenis", "Squash", "Ping pong"],
+      "correct_answer": 1,
+      "explanation": "Serena Williams es una tenista estadounidense, considerada una de las mejores jugadoras de tenis de todos los tiempos.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la duración de un set en voleibol?",
+      "options": ["Hasta 15 puntos", "Hasta 21 puntos", "Hasta 25 puntos", "Sin límite de tiempo"],
+      "correct_answer": 2,
+      "explanation": "En voleibol, un set se juega hasta 25 puntos (con ventaja de 2), excepto el set decisivo que se juega hasta 15 puntos.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza una red de 2.43 metros de altura?",
+      "options": ["Tenis", "Voleibol masculino", "Bádminton", "Ping pong"],
+      "correct_answer": 1,
+      "explanation": "En voleibol masculino, la red tiene una altura de 2.43 metros. En voleibol femenino es de 2.24 metros.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién es conocido como 'El Fenómeno' en el fútbol?",
+      "options": ["Ronaldinho", "Ronaldo Nazário", "Cristiano Ronaldo", "Kaká"],
+      "correct_answer": 1,
+      "explanation": "Ronaldo Nazário, el delantero brasileño, es conocido como 'El Fenómeno' por su extraordinario talento goleador.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se compite por el Masters Tournament?",
+      "options": ["Tenis", "Golf", "Snooker", "Ajedrez"],
+      "correct_answer": 1,
+      "explanation": "El Masters Tournament es uno de los cuatro torneos majors del golf profesional, celebrado anualmente en Augusta National.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos tiempos extras puede haber en un partido de fútbol?",
+      "options": ["Ninguno", "Uno", "Dos", "Ilimitados"],
+      "correct_answer": 1,
+      "explanation": "En fútbol puede haber un tiempo extra de 30 minutos (dos períodos de 15) si el partido está empatado en eliminatorias.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se utiliza el término 'birdie'?",
+      "options": ["Bádminton", "Golf", "Tenis", "Cricket"],
+      "correct_answer": 1,
+      "explanation": "En golf, un 'birdie' es completar un hoyo con un golpe menos que el par establecido para ese hoyo.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el récord de más goles en un Mundial de fútbol?",
+      "options": ["11 goles", "13 goles", "15 goles", "16 goles"],
+      "correct_answer": 1,
+      "explanation": "Just Fontaine de Francia marcó 13 goles en el Mundial de 1958 en Suecia, récord que aún no ha sido superado.",
+      "category": "deportes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué deporte se compite por la Copa América?",
+      "options": ["Baloncesto", "Fútbol", "Voleibol", "Tenis"],
+      "correct_answer": 1,
+      "explanation": "La Copa América es el torneo de selecciones de fútbol más antiguo del mundo, disputado por países sudamericanos.",
+      "category": "deportes",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántas medallas de oro ganó Michael Phelps en Beijing 2008?",
+      "options": ["6", "7", "8", "9"],
+      "correct_answer": 2,
+      "explanation": "Michael Phelps ganó 8 medallas de oro en Beijing 2008, rompiendo el récord de Mark Spitz de 7 oros en una sola olimpiada.",
+      "category": "deportes",
+      "difficulty": "medium"
+    }
+  ]
+}
