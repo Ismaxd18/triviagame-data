@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuántas cuerdas tiene una guitarra estándar?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 2,
+      "explanation": "Una guitarra estándar tiene 6 cuerdas, afinadas tradicionalmente como E, A, D, G, B, E (de la más grave a la más aguda).",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién compuso 'La Novena Sinfonía'?",
+      "options": ["Mozart", "Bach", "Beethoven", "Brahms"],
+      "correct_answer": 2,
+      "explanation": "Ludwig van Beethoven compuso la Novena Sinfonía en 1824, famosa por incluir el 'Himno a la Alegría' en su último movimiento.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el instrumento principal en una orquesta sinfónica?",
+      "options": ["Piano", "Violín", "Flauta", "Trompeta"],
+      "correct_answer": 1,
+      "explanation": "El violín es considerado el instrumento principal de una orquesta sinfónica, con el primer violín liderando la sección de cuerdas.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué banda británica cantó 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+      "correct_answer": 2,
+      "explanation": "Queen, liderada por Freddie Mercury, grabó 'Bohemian Rhapsody' en 1975, considerada una de las canciones más innovadoras del rock.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántas teclas negras tiene un piano estándar?",
+      "options": ["34", "36", "38", "40"],
+      "correct_answer": 1,
+      "explanation": "Un piano estándar de 88 teclas tiene 36 teclas negras (sostenidos y bemoles) distribuidas en grupos de 2 y 3.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'forte' en música?",
+      "options": ["Muy rápido", "Muy lento", "Muy fuerte", "Muy suave"],
+      "correct_answer": 2,
+      "explanation": "'Forte' (f) es una indicación dinámica que significa tocar fuerte o con intensidad, mientras que 'piano' significa suave.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién es conocido como 'El Rey del Rock and Roll'?",
+      "options": ["Chuck Berry", "Elvis Presley", "Little Richard", "Jerry Lee Lewis"],
+      "correct_answer": 1,
+      "explanation": "Elvis Presley es universalmente conocido como 'El Rey del Rock and Roll' por su impacto cultural y musical en los años 50 y 60.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué ciudad se originó el jazz?",
+      "options": ["Chicago", "Nueva York", "Nueva Orleans", "Memphis"],
+      "correct_answer": 2,
+      "explanation": "El jazz se originó en Nueva Orleans a finales del siglo XIX y principios del XX, fusionando tradiciones africanas, europeas y americanas.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la nota musical que sirve como referencia para afinar?",
+      "options": ["Do", "Re", "La", "Si"],
+      "correct_answer": 2,
+      "explanation": "La nota La (A) a 440 Hz es el estándar internacional para la afinación, conocida como 'La de concierto'.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué instrumento tocaba Louis Armstrong?",
+      "options": ["Saxofón", "Piano", "Trompeta", "Clarinete"],
+      "correct_answer": 2,
+      "explanation": "Louis Armstrong era un virtuoso trompetista y cantante, una de las figuras más influyentes en la historia del jazz.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos movimientos tiene una sinfonía clásica?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": 2,
+      "explanation": "Una sinfonía clásica tradicionalmente tiene 4 movimientos: Allegro, Adagio, Minueto/Scherzo, y Finale.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué banda lanzó el álbum 'Abbey Road'?",
+      "options": ["The Beatles", "The Rolling Stones", "Led Zeppelin", "Pink Floyd"],
+      "correct_answer": 0,
+      "explanation": "The Beatles lanzó 'Abbey Road' en 1969, su penúltimo álbum de estudio y uno de los más aclamados de la historia.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre real de Lady Gaga?",
+      "options": ["Stefani Germanotta", "Robyn Fenty", "Alicia Keys", "Katheryn Hudson"],
+      "correct_answer": 0,
+      "explanation": "Lady Gaga nació como Stefani Joanne Angelina Germanotta en Nueva York en 1986.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué familia de instrumentos se clasifica el violín?",
+      "options": ["Viento", "Percusión", "Cuerda", "Electrónicos"],
+      "correct_answer": 2,
+      "explanation": "El violín pertenece a la familia de instrumentos de cuerda frotada, junto con la viola, violonchelo y contrabajo.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién compuso 'El Lago de los Cisnes'?",
+      "options": ["Stravinsky", "Tchaikovsky", "Prokofiev", "Rachmaninoff"],
+      "correct_answer": 1,
+      "explanation": "Piotr Ilich Tchaikovsky compuso el ballet 'El Lago de los Cisnes' en 1876, una de sus obras más populares.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el género musical originario de Jamaica?",
+      "options": ["Calypso", "Reggae", "Soca", "Merengue"],
+      "correct_answer": 1,
+      "explanation": "El reggae se originó en Jamaica a finales de los años 60, con Bob Marley como su máximo exponente mundial.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué compositor es conocido como 'El Príncipe de la Música'?",
+      "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+      "correct_answer": 0,
+      "explanation": "Wolfgang Amadeus Mozart es conocido como 'El Príncipe de la Música' por su genio musical y prolífica producción desde muy joven.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántas líneas tiene un pentagrama?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 1,
+      "explanation": "Un pentagrama tiene 5 líneas horizontales paralelas donde se escriben las notas musicales, con 4 espacios entre ellas.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué cantante es conocida como 'La Reina del Pop'?",
+      "options": ["Whitney Houston", "Madonna", "Mariah Carey", "Celine Dion"],
+      "correct_answer": 1,
+      "explanation": "Madonna es conocida como 'La Reina del Pop' por su influencia cultural y éxito comercial desde los años 80.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué década surgió el rock and roll?",
+      "options": ["1940s", "1950s", "1960s", "1970s"],
+      "correct_answer": 1,
+      "explanation": "El rock and roll surgió en la década de 1950 en Estados Unidos, fusionando rhythm and blues, country y gospel.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué instrumento es conocido como 'el rey de los instrumentos'?",
+      "options": ["Piano", "Violín", "Órgano", "Trompeta"],
+      "correct_answer": 2,
+      "explanation": "El órgano es conocido como 'el rey de los instrumentos' por su majestuosidad, rango tonal y presencia en catedrales.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién cantó 'My Way'?",
+      "options": ["Dean Martin", "Sammy Davis Jr.", "Frank Sinatra", "Tony Bennett"],
+      "correct_answer": 2,
+      "explanation": "Frank Sinatra popularizó 'My Way' en 1969, aunque la canción fue originalmente francesa ('Comme d'habitude').",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el tempo más lento en música clásica?",
+      "options": ["Adagio", "Largo", "Andante", "Grave"],
+      "correct_answer": 3,
+      "explanation": "'Grave' es el tempo más lento en música clásica, incluso más lento que 'Largo', indicando un movimiento muy solemne.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué banda lanzó 'Stairway to Heaven'?",
+      "options": ["Deep Purple", "Black Sabbath", "Led Zeppelin", "The Who"],
+      "correct_answer": 2,
+      "explanation": "Led Zeppelin lanzó 'Stairway to Heaven' en 1971 en su álbum 'Led Zeppelin IV', considerada una de las mejores canciones de rock.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la voz femenina más aguda?",
+      "options": ["Alto", "Mezzosoprano", "Soprano", "Contralto"],
+      "correct_answer": 2,
+      "explanation": "La soprano es la voz femenina más aguda, capaz de alcanzar las notas más altas en el registro vocal.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué compositor escribió 'Las Cuatro Estaciones'?",
+      "options": ["Bach", "Vivaldi", "Handel", "Corelli"],
+      "correct_answer": 1,
+      "explanation": "Antonio Vivaldi compuso 'Las Cuatro Estaciones' alrededor de 1720, una de las obras más populares de la música barroca.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año murió Michael Jackson?",
+      "options": ["2008", "2009", "2010", "2011"],
+      "correct_answer": 1,
+      "explanation": "Michael Jackson, conocido como 'El Rey del Pop', murió el 25 de junio de 2009 a los 50 años de edad.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del festival de música más grande del mundo?",
+      "options": ["Woodstock", "Glastonbury", "Coachella", "Rock in Rio"],
+      "correct_answer": 1,
+      "explanation": "Glastonbury Festival en Inglaterra es considerado uno de los festivales de música más grandes e influyentes del mundo.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué instrumento tocaba Jimi Hendrix?",
+      "options": ["Bajo", "Batería", "Guitarra eléctrica", "Teclado"],
+      "correct_answer": 2,
+      "explanation": "Jimi Hendrix era un virtuoso guitarrista eléctrico, considerado uno de los mejores guitarristas de la historia del rock.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la escala musical básica en música occidental?",
+      "options": ["Pentatónica", "Cromática", "Diatónica", "Whole-tone"],
+      "correct_answer": 2,
+      "explanation": "La escala diatónica (como Do mayor) es la escala básica de 7 notas en la música occidental tradicional.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué cantante popularizó 'I Will Always Love You'?",
+      "options": ["Mariah Carey", "Celine Dion", "Whitney Houston", "Tina Turner"],
+      "correct_answer": 2,
+      "explanation": "Whitney Houston popularizó 'I Will Always Love You' en 1992 para la película 'El Guardaespaldas', aunque fue escrita por Dolly Parton.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué país se inventó el tango?",
+      "options": ["Brasil", "Argentina", "Uruguay", "Chile"],
+      "correct_answer": 1,
+      "explanation": "El tango se originó en Argentina, específicamente en Buenos Aires, a finales del siglo XIX en los barrios del Río de la Plata.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el intervalo de una octava?",
+      "options": ["7 semitonos", "10 semitonos", "12 semitonos", "14 semitonos"],
+      "correct_answer": 2,
+      "explanation": "Una octava comprende 12 semitonos, la distancia desde una nota hasta la siguiente nota del mismo nombre (ej: Do a Do).",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué banda británica cantó 'We Will Rock You'?",
+      "options": ["The Beatles", "Queen", "The Rolling Stones", "Led Zeppelin"],
+      "correct_answer": 1,
+      "explanation": "Queen lanzó 'We Will Rock You' en 1977, convirtiéndose en uno de los himnos más populares del rock en estadios.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el instrumento nacional de Escocia?",
+      "options": ["Violín", "Gaita", "Arpa", "Flauta"],
+      "correct_answer": 1,
+      "explanation": "La gaita escocesa (bagpipe) es el instrumento nacional de Escocia, central en su cultura musical tradicional.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién compuso 'La Marcha Nupcial'?",
+      "options": ["Wagner", "Mendelssohn", "Pachelbel", "Schubert"],
+      "correct_answer": 1,
+      "explanation": "Felix Mendelssohn compuso la famosa 'Marcha Nupcial' de 'Sueño de una noche de verano' en 1842.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el estilo musical característico de Bob Marley?",
+      "options": ["Ska", "Rocksteady", "Reggae", "Dancehall"],
+      "correct_answer": 2,
+      "explanation": "Bob Marley es el máximo exponente del reggae, género musical jamaicano que popularizó mundialmente.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué compositora clásica fue sorda?",
+      "options": ["Mozart", "Bach", "Beethoven", "Chopin"],
+      "correct_answer": 2,
+      "explanation": "Ludwig van Beethoven perdió gradualmente la audición y compuso algunas de sus mejores obras completamente sordo.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la duración de una nota 'redonda' en compás 4/4?",
+      "options": ["1 tiempo", "2 tiempos", "3 tiempos", "4 tiempos"],
+      "correct_answer": 3,
+      "explanation": "Una nota redonda (whole note) dura 4 tiempos en un compás de 4/4, ocupando todo el compás.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué cantante era conocido como 'El Flaco'?",
+      "options": ["Luis Alberto Spinetta", "Charly García", "Gustavo Cerati", "Fito Páez"],
+      "correct_answer": 0,
+      "explanation": "Luis Alberto Spinetta, ícono del rock argentino, era conocido cariñosamente como 'El Flaco' por sus fanáticos.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué década surgió el punk rock?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correct_answer": 1,
+      "explanation": "El punk rock surgió a mediados de los años 70, caracterizado por su energía cruda y letras rebeldes.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el rango vocal masculino más grave?",
+      "options": ["Tenor", "Barítono", "Bajo", "Contratenor"],
+      "correct_answer": 2,
+      "explanation": "El bajo es la voz masculina más grave, capaz de alcanzar las notas más profundas del registro vocal.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué álbum de Pink Floyd incluye 'Money'?",
+      "options": ["The Wall", "Wish You Were Here", "Dark Side of the Moon", "Animals"],
+      "correct_answer": 2,
+      "explanation": "'Money' está en 'The Dark Side of the Moon' (1973), uno de los álbumes más vendidos e influyentes de la historia.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el compás más común en la música popular?",
+      "options": ["3/4", "4/4", "2/4", "6/8"],
+      "correct_answer": 1,
+      "explanation": "El compás de 4/4 es el más común en música popular, rock, pop y jazz, con 4 tiempos por compás.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué instrumento inventó Adolphe Sax?",
+      "options": ["Clarinete", "Saxofón", "Trompeta", "Oboe"],
+      "correct_answer": 1,
+      "explanation": "Adolphe Sax inventó el saxofón en 1840, un instrumento híbrido entre viento-madera y viento-metal.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién cantó 'Like a Rolling Stone'?",
+      "options": ["The Beatles", "Bob Dylan", "The Rolling Stones", "Neil Young"],
+      "correct_answer": 1,
+      "explanation": "Bob Dylan lanzó 'Like a Rolling Stone' en 1965, considerada una de las mejores canciones de la historia del rock.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del efecto que cambia la altura del sonido por movimiento?",
+      "options": ["Reverb", "Chorus", "Doppler", "Delay"],
+      "correct_answer": 2,
+      "explanation": "El efecto Doppler cambia la percepción de la altura del sonido cuando la fuente se mueve hacia o desde el oyente.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué ciudad se encuentra la Ópera de Sydney?",
+      "options": ["Melbourne", "Sydney", "Brisbane", "Perth"],
+      "correct_answer": 1,
+      "explanation": "La Ópera de Sydney se encuentra en Sydney, Australia, siendo uno de los edificios más reconocibles del mundo.",
+      "category": "musica",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué cantante popularizó 'La Vida es Una Fiesta'?",
+      "options": ["Manu Chao", "Jesse & Joy", "Coco (película)", "Gipsy Kings"],
+      "correct_answer": 2,
+      "explanation": "'Remember Me' de la película Coco (2017) popularizó esta canción, aunque la frase es de tradición mexicana del Día de Muertos.",
+      "category": "musica",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la frecuencia estándar del La de afinación?",
+      "options": ["420 Hz", "440 Hz", "460 Hz", "480 Hz"],
+      "correct_answer": 1,
+      "explanation": "El La de concierto (A4) tiene una frecuencia de 440 Hz, establecido como estándar internacional en 1955.",
+      "category": "musica",
+      "difficulty": "medium"
+    }
+  ]
+}
