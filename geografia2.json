@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correct_answer": 2,
+      "explanation": "Canberra es la capital de Australia desde 1913, aunque Sydney y Melbourne son más grandes y conocidas.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el río más largo del mundo?",
+      "options": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+      "correct_answer": 1,
+      "explanation": "El río Nilo, con 6,650 km de longitud, es considerado el río más largo del mundo, fluyendo por el noreste de África.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué continente se encuentra el desierto del Sahara?",
+      "options": ["Asia", "América", "África", "Oceanía"],
+      "correct_answer": 2,
+      "explanation": "El desierto del Sahara se encuentra en África y es el desierto cálido más grande del mundo.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el océano más grande del mundo?",
+      "options": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correct_answer": 3,
+      "explanation": "El océano Pacífico es el más grande del mundo, cubriendo aproximadamente un tercio de la superficie terrestre.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la montaña más alta del mundo?",
+      "options": ["K2", "Monte Everest", "Kangchenjunga", "Lhotse"],
+      "correct_answer": 1,
+      "explanation": "El Monte Everest, con 8,848 metros de altura, es la montaña más alta del mundo, ubicada en el Himalaya.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país tiene más husos horarios?",
+      "options": ["Estados Unidos", "Rusia", "China", "Canadá"],
+      "correct_answer": 1,
+      "explanation": "Rusia tiene 11 husos horarios, más que cualquier otro país del mundo debido a su gran extensión territorial.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo?",
+      "options": ["Lago Superior", "Lago Baikal", "Lago Tanganica", "Lago Victoria"],
+      "correct_answer": 1,
+      "explanation": "El lago Baikal en Siberia, Rusia, es el lago más profundo del mundo con 1,642 metros de profundidad máxima.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país se encuentra Machu Picchu?",
+      "options": ["Bolivia", "Ecuador", "Perú", "Colombia"],
+      "correct_answer": 2,
+      "explanation": "Machu Picchu se encuentra en Perú, en la región de Cusco, siendo una antigua ciudadela inca.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "options": ["Mónaco", "Vaticano", "San Marino", "Liechtenstein"],
+      "correct_answer": 1,
+      "explanation": "El Vaticano es el país más pequeño del mundo con solo 0.44 km² de superficie.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué estrecho separa España de África?",
+      "options": ["Estrecho de Gibraltar", "Estrecho de Bering", "Estrecho de Magallanes", "Estrecho de Dardanelos"],
+      "correct_answer": 0,
+      "explanation": "El Estrecho de Gibraltar separa España de Marruecos (África) con apenas 14 km en su punto más estrecho.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capital de Brasil?",
+      "options": ["São Paulo", "Río de Janeiro", "Brasilia", "Salvador"],
+      "correct_answer": 2,
+      "explanation": "Brasilia es la capital de Brasil desde 1960, construida específicamente para ser la nueva capital del país.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué cordillera se encuentra el Monte Aconcagua?",
+      "options": ["Himalaya", "Alpes", "Andes", "Rocosas"],
+      "correct_answer": 2,
+      "explanation": "El Monte Aconcagua se encuentra en la cordillera de los Andes, siendo el pico más alto de América con 6,960 metros.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos continentes hay en el mundo?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": 2,
+      "explanation": "Hay 7 continentes: África, Antártida, Asia, Europa, América del Norte, América del Sur y Oceanía.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "options": ["Grecia", "España", "Italia", "Portugal"],
+      "correct_answer": 2,
+      "explanation": "Italia tiene una forma característica de bota que se extiende hacia el mar Mediterráneo.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el desierto más grande del mundo?",
+      "options": ["Sahara", "Gobi", "Antártida", "Kalahari"],
+      "correct_answer": 2,
+      "explanation": "La Antártida es técnicamente el desierto más grande del mundo (desierto polar), seguida del Sahara como desierto cálido.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué océano se encuentran las islas Maldivas?",
+      "options": ["Pacífico", "Atlántico", "Índico", "Ártico"],
+      "correct_answer": 2,
+      "explanation": "Las islas Maldivas se encuentran en el océano Índico, al suroeste de India y Sri Lanka.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correct_answer": 3,
+      "explanation": "Ottawa es la capital de Canadá, aunque Toronto y Montreal son ciudades más grandes y conocidas.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país tiene más fronteras terrestres con otros países?",
+      "options": ["Brasil", "China", "Rusia", "Alemania"],
+      "correct_answer": 1,
+      "explanation": "China comparte fronteras terrestres con 14 países, más que cualquier otro país del mundo.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué continente se encuentra el río Amazonas?",
+      "options": ["África", "Asia", "América del Sur", "América del Norte"],
+      "correct_answer": 2,
+      "explanation": "El río Amazonas fluye principalmente por América del Sur, atravesando países como Brasil, Perú y Colombia.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la isla más grande del mundo?",
+      "options": ["Madagascar", "Groenlandia", "Nueva Guinea", "Borneo"],
+      "correct_answer": 1,
+      "explanation": "Groenlandia es la isla más grande del mundo con 2.2 millones de km², perteneciente a Dinamarca.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué mar se encuentra entre Europa y África?",
+      "options": ["Mar Negro", "Mar Mediterráneo", "Mar Rojo", "Mar Caspio"],
+      "correct_answer": 1,
+      "explanation": "El mar Mediterráneo separa Europa de África y ha sido históricamente importante para la civilización occidental.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la capital de Japón?",
+      "options": ["Osaka", "Kyoto", "Tokio", "Nagoya"],
+      "correct_answer": 2,
+      "explanation": "Tokio es la capital de Japón y una de las ciudades más pobladas del mundo.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué hemisferio se encuentra Australia?",
+      "options": ["Norte", "Sur", "Este", "Oeste"],
+      "correct_answer": 1,
+      "explanation": "Australia se encuentra completamente en el hemisferio sur, por lo que sus estaciones son opuestas a las del hemisferio norte.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué cordillera separa Europa de Asia?",
+      "options": ["Alpes", "Cárpatos", "Urales", "Cáucaso"],
+      "correct_answer": 2,
+      "explanation": "Los montes Urales forman la frontera tradicional entre Europa y Asia, extendiéndose de norte a sur en Rusia.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el punto más bajo de la Tierra?",
+      "options": ["Valle de la Muerte", "Mar Muerto", "Depresión de Danakil", "Fosa de las Marianas"],
+      "correct_answer": 1,
+      "explanation": "El Mar Muerto, a 430 metros bajo el nivel del mar, es el punto más bajo de tierra firme en la superficie terrestre.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correct_answer": 2,
+      "explanation": "Canberra es la capital de Australia desde 1913, aunque Sydney y Melbourne son más grandes y conocidas.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país se encuentra el desierto de Atacama?",
+      "options": ["Perú", "Chile", "Bolivia", "Argentina"],
+      "correct_answer": 1,
+      "explanation": "El desierto de Atacama se encuentra principalmente en Chile y es considerado el desierto más árido del mundo.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el río más caudaloso del mundo?",
+      "options": ["Nilo", "Yangtsé", "Amazonas", "Congo"],
+      "correct_answer": 2,
+      "explanation": "El río Amazonas es el más caudaloso del mundo, descargando más agua al océano que cualquier otro río.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué océano se encuentran las Islas Maldivas?",
+      "options": ["Pacífico", "Atlántico", "Índico", "Ártico"],
+      "correct_answer": 2,
+      "explanation": "Las Islas Maldivas se encuentran en el océano Índico, al suroeste de India y Sri Lanka.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+      "correct_answer": 3,
+      "explanation": "Ottawa es la capital de Canadá, aunque Toronto y Montreal son ciudades más grandes y conocidas.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país tiene la mayor población del mundo?",
+      "options": ["India", "China", "Estados Unidos", "Indonesia"],
+      "correct_answer": 0,
+      "explanation": "India superó a China como el país más poblado del mundo en 2023, con más de 1.4 mil millones de habitantes.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué cordillera se encuentra el Monte Everest?",
+      "options": ["Andes", "Rocallosas", "Himalaya", "Alpes"],
+      "correct_answer": 2,
+      "explanation": "El Monte Everest se encuentra en la cordillera del Himalaya, en la frontera entre Nepal y Tíbet (China).",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el país más pequeño de América del Sur?",
+      "options": ["Uruguay", "Suriname", "Guyana", "Paraguay"],
+      "correct_answer": 1,
+      "explanation": "Suriname es el país más pequeño de América del Sur con 163,820 km², seguido de Uruguay.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué canal conecta el océano Atlántico con el Pacífico?",
+      "options": ["Canal de Suez", "Canal de Panamá", "Canal de Corinto", "Canal de Kiel"],
+      "correct_answer": 1,
+      "explanation": "El Canal de Panamá conecta los océanos Atlántico y Pacífico, siendo una vía crucial para el comercio mundial.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué país se encuentra la región de Patagonia?",
+      "options": ["Solo Chile", "Solo Argentina", "Chile y Argentina", "Uruguay y Brasil"],
+      "correct_answer": 2,
+      "explanation": "La Patagonia se extiende por el sur de Argentina y Chile, siendo una vasta región de estepas y montañas.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capital de Sudáfrica?",
+      "options": ["Johannesburgo", "Ciudad del Cabo", "Tiene tres capitales", "Durban"],
+      "correct_answer": 2,
+      "explanation": "Sudáfrica tiene tres capitales: Pretoria (ejecutiva), Ciudad del Cabo (legislativa) y Bloemfontein (judicial).",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué estrecho separa Europa de África?",
+      "options": ["Estrecho de Gibraltar", "Estrecho de Bering", "Estrecho de Magallanes", "Estrecho de Dardanelos"],
+      "correct_answer": 0,
+      "explanation": "El Estrecho de Gibraltar separa España de Marruecos (África) con apenas 14 km en su punto más estrecho.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el volcán activo más alto del mundo?",
+      "options": ["Monte Fuji", "Ojos del Salado", "Cotopaxi", "Kilimanjaro"],
+      "correct_answer": 1,
+      "explanation": "Ojos del Salado, en la frontera entre Chile y Argentina, es el volcán activo más alto con 6,893 metros.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país se encuentra la ciudad de Petra?",
+      "options": ["Egipto", "Jordania", "Siria", "Líbano"],
+      "correct_answer": 1,
+      "explanation": "Petra se encuentra en Jordania y es una antigua ciudad nabatea tallada en roca rosada, Patrimonio de la Humanidad.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el país con más fronteras terrestres?",
+      "options": ["Brasil", "China", "Rusia", "Alemania"],
+      "correct_answer": 1,
+      "explanation": "China comparte fronteras terrestres con 14 países, más que cualquier otro país del mundo.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué islas pertenecen a Ecuador?",
+      "options": ["Islas Malvinas", "Islas Galápagos", "Isla de Pascua", "Islas Juan Fernández"],
+      "correct_answer": 1,
+      "explanation": "Las Islas Galápagos pertenecen a Ecuador y son famosas por inspirar la teoría de la evolución de Darwin.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la capital de Tailandia?",
+      "options": ["Bangkok", "Phuket", "Chiang Mai", "Pattaya"],
+      "correct_answer": 0,
+      "explanation": "Bangkok es la capital y ciudad más grande de Tailandia, oficialmente conocida como Krung Thep.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué continente se encuentra Madagascar?",
+      "options": ["Asia", "África", "Oceanía", "América"],
+      "correct_answer": 1,
+      "explanation": "Madagascar es una isla-nación ubicada en el océano Índico, frente a la costa este de África.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el país más extenso de África?",
+      "options": ["Nigeria", "Chad", "Argelia", "República Democrática del Congo"],
+      "correct_answer": 2,
+      "explanation": "Argelia es el país más extenso de África con 2.4 millones de km², y también el décimo más grande del mundo.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué ciudad está situada en dos continentes?",
+      "options": ["El Cairo", "Estambul", "Casablanca", "Teherán"],
+      "correct_answer": 1,
+      "explanation": "Estambul (antes Constantinopla) se encuentra en ambos lados del Bósforo, conectando Europa y Asia.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el punto más alto de África?",
+      "options": ["Monte Kilimanjaro", "Monte Kenia", "Ras Dashen", "Monte Atlas"],
+      "correct_answer": 0,
+      "explanation": "El Monte Kilimanjaro en Tanzania es el punto más alto de África con 5,895 metros de altura.",
+      "category": "geografia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué país se encuentra el Mar de Aral?",
+      "options": ["Kazajstán y Uzbekistán", "Rusia", "Irán", "Turkmenistán"],
+      "correct_answer": 0,
+      "explanation": "El Mar de Aral se encuentra entre Kazajstán y Uzbekistán, aunque se ha reducido drásticamente por la desviación de ríos.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capital de Myanmar (Birmania)?",
+      "options": ["Yangón", "Naipyidó", "Mandalay", "Bagan"],
+      "correct_answer": 1,
+      "explanation": "Naipyidó es la capital de Myanmar desde 2006, aunque Yangón sigue siendo la ciudad más grande del país.",
+      "category": "geografia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué península se encuentra al sur de España?",
+      "options": ["Península Ibérica", "Península Itálica", "Península Balcánica", "Península Escandinava"],
+      "correct_answer": 0,
+      "explanation": "La Península Ibérica comprende España, Portugal, Andorra y el territorio británico de Gibraltar.",
+      "category": "geografia",
+      "difficulty": "easy"
+    }
+  ]
+    }
