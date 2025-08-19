@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "options": ["1912", "1914", "1916", "1918"],
+      "correct_answer": 1,
+      "explanation": "La Primera Guerra Mundial comenzó el 28 de julio de 1914 tras el asesinato del archiduque Francisco Fernando de Austria.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano?",
+      "options": ["Julio César", "Augusto", "Nerón", "Trajano"],
+      "correct_answer": 1,
+      "explanation": "Augusto (Octavio) fue el primer emperador romano, estableciendo el Imperio Romano en el 27 a.C.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año cayó el Imperio Romano de Occidente?",
+      "options": ["410 d.C.", "455 d.C.", "476 d.C.", "492 d.C."],
+      "correct_answer": 2,
+      "explanation": "El Imperio Romano de Occidente cayó en 476 d.C. cuando Odoacro depuso al último emperador Rómulo Augústulo.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién escribió 'El Príncipe'?",
+      "options": ["Platón", "Aristóteles", "Nicolás Maquiavelo", "Thomas Hobbes"],
+      "correct_answer": 2,
+      "explanation": "Nicolás Maquiavelo escribió 'El Príncipe' en 1513, una obra fundamental sobre teoría política.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo vivió Napoleón Bonaparte?",
+      "options": ["Siglo XVII", "Siglo XVIII", "Siglo XIX", "Siglo XX"],
+      "correct_answer": 2,
+      "explanation": "Napoleón Bonaparte vivió de 1769 a 1821, principalmente durante los siglos XVIII y XIX.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la capital del Imperio Azteca?",
+      "options": ["Cuzco", "Tenochtitlan", "Chichen Itzá", "Machu Picchu"],
+      "correct_answer": 1,
+      "explanation": "Tenochtitlan fue la capital del Imperio Azteca, ubicada en lo que hoy es Ciudad de México.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se firmó la Magna Carta?",
+      "options": ["1205", "1215", "1225", "1235"],
+      "correct_answer": 1,
+      "explanation": "La Magna Carta fue firmada en 1215 en Inglaterra, limitando por primera vez el poder del rey.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue conocido como 'El Rey Sol'?",
+      "options": ["Carlos V", "Felipe II", "Luis XIV", "Luis XVI"],
+      "correct_answer": 2,
+      "explanation": "Luis XIV de Francia fue conocido como 'El Rey Sol' debido a su poder absoluto y esplendor en Versalles.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año comenzó la Revolución Francesa?",
+      "options": ["1789", "1791", "1793", "1795"],
+      "correct_answer": 0,
+      "explanation": "La Revolución Francesa comenzó en 1789 con la toma de la Bastilla el 14 de julio.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué imperio construyó Machu Picchu?",
+      "options": ["Azteca", "Maya", "Inca", "Olmeca"],
+      "correct_answer": 2,
+      "explanation": "Machu Picchu fue construida por el Imperio Inca en el siglo XV en los Andes peruanos.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la causa inmediata de la Segunda Guerra Mundial en Europa?",
+      "options": ["El asesinato del archiduque", "La invasión de Polonia", "El ataque a Pearl Harbor", "La anexión de Austria"],
+      "correct_answer": 1,
+      "explanation": "La invasión alemana de Polonia el 1 de septiembre de 1939 fue la causa inmediata que desencadenó la Segunda Guerra Mundial en Europa.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo ocurrió la caída de Constantinopla?",
+      "options": ["Siglo XIII", "Siglo XIV", "Siglo XV", "Siglo XVI"],
+      "correct_answer": 2,
+      "explanation": "Constantinopla cayó en 1453 (siglo XV) ante el Imperio Otomano, marcando el fin del Imperio Bizantino.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue el líder de la independencia de la India?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Muhammad Ali Jinnah"],
+      "correct_answer": 1,
+      "explanation": "Mahatma Gandhi fue el principal líder del movimiento de independencia de la India a través de la resistencia no violenta.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se construyó el Muro de Berlín?",
+      "options": ["1959", "1961", "1963", "1965"],
+      "correct_answer": 1,
+      "explanation": "El Muro de Berlín fue construido en 1961 por la República Democrática Alemana para separar Berlín Oriental y Occidental.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la primera civilización en desarrollar la escritura?",
+      "options": ["Egipcia", "China", "Sumeria", "Maya"],
+      "correct_answer": 2,
+      "explanation": "Los sumerios desarrollaron la primera forma de escritura conocida, la escritura cuneiforme, alrededor del 3200 a.C.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué océano hundió el Titanic?",
+      "options": ["Océano Pacífico", "Océano Atlántico", "Océano Índico", "Océano Ártico"],
+      "correct_answer": 1,
+      "explanation": "El Titanic se hundió en el Océano Atlántico Norte en abril de 1912 durante su viaje inaugural.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el primer presidente de Estados Unidos?",
+      "options": ["Thomas Jefferson", "John Adams", "George Washington", "Benjamin Franklin"],
+      "correct_answer": 2,
+      "explanation": "George Washington fue el primer presidente de Estados Unidos, sirviendo de 1789 a 1797.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué batalla fue derrotado definitivamente Napoleón?",
+      "options": ["Batalla de Leipzig", "Batalla de Waterloo", "Batalla de Austerlitz", "Batalla de Trafalgar"],
+      "correct_answer": 1,
+      "explanation": "Napoleón fue derrotado definitivamente en la Batalla de Waterloo en 1815 por una coalición liderada por Wellington.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la capital del Imperio Romano?",
+      "options": ["Atenas", "Roma", "Alejandría", "Constantinopla"],
+      "correct_answer": 1,
+      "explanation": "Roma fue la capital del Imperio Romano, aunque posteriormente Constantinopla se convirtió en capital del Imperio Romano de Oriente.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año terminó la Guerra Fría?",
+      "options": ["1987", "1989", "1991", "1993"],
+      "correct_answer": 2,
+      "explanation": "La Guerra Fría terminó en 1991 con la disolución de la Unión Soviética y el fin del bloque comunista.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue conocido como 'El Libertador' en América del Sur?",
+      "options": ["José de San Martín", "Simón Bolívar", "Miguel Hidalgo", "Antonio José de Sucre"],
+      "correct_answer": 1,
+      "explanation": "Simón Bolívar fue conocido como 'El Libertador' por su papel fundamental en la independencia de varios países sudamericanos.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué siglo ocurrió la Revolución Industrial?",
+      "options": ["Siglo XVII", "Siglo XVIII", "Siglo XIX", "Siglo XX"],
+      "correct_answer": 1,
+      "explanation": "La Revolución Industrial comenzó en el siglo XVIII en Gran Bretaña y se extendió durante el siglo XIX.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue el primer país en abolir la esclavitud?",
+      "options": ["Estados Unidos", "Francia", "Haití", "Reino Unido"],
+      "correct_answer": 2,
+      "explanation": "Haití fue el primer país en abolir completamente la esclavitud tras su revolución exitosa en 1804.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año llegó Cristóbal Colón a América?",
+      "options": ["1490", "1492", "1494", "1496"],
+      "correct_answer": 1,
+      "explanation": "Cristóbal Colón llegó a América el 12 de octubre de 1492, marcando el inicio de la era de los descubrimientos.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "options": ["Tratado de París", "Tratado de Versalles", "Tratado de Tordesillas", "Tratado de Westfalia"],
+      "correct_answer": 1,
+      "explanation": "El Tratado de Versalles, firmado en 1919, puso fin oficialmente a la Primera Guerra Mundial entre Alemania y los Aliados.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue el primer emperador de Francia?",
+      "options": ["Luis XIV", "Luis XVI", "Napoleón Bonaparte", "Carlos X"],
+      "correct_answer": 2,
+      "explanation": "Napoleón Bonaparte se coronó como emperador de Francia en 1804, estableciendo el Primer Imperio Francés.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se fundó Roma según la tradición?",
+      "options": ["776 a.C.", "753 a.C.", "721 a.C.", "800 a.C."],
+      "correct_answer": 1,
+      "explanation": "Según la tradición romana, Roma fue fundada en 753 a.C. por Rómulo, quien se convirtió en su primer rey.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la primera civilización en desarrollar la escritura?",
+      "options": ["Egipcia", "China", "Sumeria", "Maya"],
+      "correct_answer": 2,
+      "explanation": "Los sumerios desarrollaron la primera forma de escritura conocida, la escritura cuneiforme, alrededor del 3200 a.C.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién dirigió la expedición que dio la primera vuelta al mundo?",
+      "options": ["Cristóbal Colón", "Vasco da Gama", "Fernando de Magallanes", "Américo Vespucio"],
+      "correct_answer": 2,
+      "explanation": "Fernando de Magallanes inició la primera expedición que dio la vuelta al mundo (1519-1522), completada por Juan Sebastián Elcano.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo ocurrió la Revolución Industrial?",
+      "options": ["Siglo XVII", "Siglo XVIII", "Siglo XIX", "Siglo XX"],
+      "correct_answer": 1,
+      "explanation": "La Revolución Industrial comenzó en el siglo XVIII en Gran Bretaña y se extendió durante el siglo XIX.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue conocido como 'El Libertador' en América del Sur?",
+      "options": ["José de San Martín", "Simón Bolívar", "Miguel Hidalgo", "Antonio José de Sucre"],
+      "correct_answer": 1,
+      "explanation": "Simón Bolívar fue conocido como 'El Libertador' por su papel fundamental en la independencia de varios países sudamericanos.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué imperio construyó Machu Picchu?",
+      "options": ["Azteca", "Maya", "Inca", "Olmeca"],
+      "correct_answer": 2,
+      "explanation": "Machu Picchu fue construida por el Imperio Inca en el siglo XV en los Andes peruanos.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+      "options": ["1774", "1775", "1776", "1777"],
+      "correct_answer": 2,
+      "explanation": "La Declaración de Independencia de Estados Unidos fue firmada el 4 de julio de 1776 en Filadelfia.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el líder de la Revolución Rusa de 1917?",
+      "options": ["Stalin", "Trotsky", "Lenin", "Kerensky"],
+      "correct_answer": 2,
+      "explanation": "Vladimir Lenin lideró la Revolución Bolchevique de octubre de 1917 que llevó a los comunistas al poder en Rusia.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la capital del Imperio Bizantino?",
+      "options": ["Roma", "Atenas", "Constantinopla", "Jerusalén"],
+      "correct_answer": 2,
+      "explanation": "Constantinopla (actual Estambul) fue la capital del Imperio Bizantino desde 330 d.C. hasta 1453.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se descubrió América?",
+      "options": ["1490", "1491", "1492", "1493"],
+      "correct_answer": 2,
+      "explanation": "Cristóbal Colón llegó a América el 12 de octubre de 1492, marcando el descubrimiento del Nuevo Mundo para Europa.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el faraón que construyó la Gran Pirámide de Giza?",
+      "options": ["Tutankamón", "Ramsés II", "Keops", "Nefertiti"],
+      "correct_answer": 2,
+      "explanation": "El faraón Keops (Khufu) mandó construir la Gran Pirámide de Giza hacia 2580-2560 a.C., una de las Siete Maravillas del Mundo Antiguo.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue el nombre del barco en el que Darwin realizó su viaje científico?",
+      "options": ["HMS Victory", "HMS Beagle", "HMS Bounty", "HMS Endeavour"],
+      "correct_answer": 1,
+      "explanation": "Charles Darwin realizó su famoso viaje científico (1831-1836) a bordo del HMS Beagle, que le inspiró su teoría de la evolución.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué batalla fue derrotado definitivamente Napoleón?",
+      "options": ["Batalla de Leipzig", "Batalla de Waterloo", "Batalla de Austerlitz", "Batalla de Trafalgar"],
+      "correct_answer": 1,
+      "explanation": "Napoleón fue derrotado definitivamente en la Batalla de Waterloo en 1815 por una coalición liderada por Wellington.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue el presidente de Estados Unidos durante la Guerra Civil?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "Andrew Johnson"],
+      "correct_answer": 2,
+      "explanation": "Abraham Lincoln fue presidente durante la Guerra Civil Estadounidense (1861-1865) y proclamó la emancipación de los esclavos.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la primera capital de Estados Unidos?",
+      "options": ["Boston", "Filadelfia", "Nueva York", "Washington D.C."],
+      "correct_answer": 2,
+      "explanation": "Nueva York fue la primera capital de Estados Unidos (1789-1790) bajo la Constitución, antes que Filadelfia y Washington D.C.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se abolió la esclavitud en Estados Unidos?",
+      "options": ["1863", "1865", "1867", "1870"],
+      "correct_answer": 1,
+      "explanation": "La esclavitud fue oficialmente abolida en Estados Unidos en 1865 con la ratificación de la 13ª Enmienda a la Constitución.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el último emperador de China?",
+      "options": ["Qianlong", "Puyi", "Guangxu", "Cixi"],
+      "correct_answer": 1,
+      "explanation": "Puyi fue el último emperador de China, abdicando en 1912 cuando tenía solo 6 años, terminando con milenios de gobierno imperial.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la causa del hundimiento del Titanic?",
+      "options": ["Tormenta", "Choque con iceberg", "Incendio", "Explosión"],
+      "correct_answer": 1,
+      "explanation": "El RMS Titanic se hundió el 15 de abril de 1912 después de chocar con un iceberg en el Océano Atlántico Norte.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se firmó la Carta Magna?",
+      "options": ["1205", "1215", "1225", "1235"],
+      "correct_answer": 1,
+      "explanation": "La Carta Magna fue firmada en 1215 en Inglaterra, limitando por primera vez el poder del rey y estableciendo derechos fundamentales.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue el líder nazi de Alemania durante la Segunda Guerra Mundial?",
+      "options": ["Heinrich Himmler", "Adolf Hitler", "Joseph Goebbels", "Hermann Göring"],
+      "correct_answer": 1,
+      "explanation": "Adolf Hitler fue el líder del Partido Nazi y dictador de Alemania desde 1933 hasta su muerte en 1945.",
+      "category": "historia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue el período de mayor esplendor del Imperio Romano?",
+      "options": ["Siglo I a.C.", "Siglo I d.C.", "Siglo II d.C.", "Siglo III d.C."],
+      "correct_answer": 2,
+      "explanation": "El siglo II d.C., especialmente bajo Trajano (98-117), marcó la máxima expansión territorial y esplendor del Imperio Romano.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país comenzó la Reforma Protestante?",
+      "options": ["Francia", "Inglaterra", "Alemania", "Suiza"],
+      "correct_answer": 2,
+      "explanation": "La Reforma Protestante comenzó en Alemania en 1517 cuando Martín Lutero publicó sus 95 Tesis contra la Iglesia Católica.",
+      "category": "historia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue el primer hombre en llegar a la Luna?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+      "correct_answer": 1,
+      "explanation": "Neil Armstrong fue el primer ser humano en caminar sobre la Luna el 20 de julio de 1969 durante la misión Apollo 11.",
+      "category": "historia",
+      "difficulty": "easy"
+    }
+  ]
+    }
