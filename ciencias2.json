@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "options": [
+        "Oxígeno",
+        "Hidrógeno", 
+        "Carbono",
+        "Helio"
+      ],
+      "correct_answer": 1,
+      "explanation": "El hidrógeno representa aproximadamente el 75% de la materia normal del universo.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        "200,000 km/s",
+        "300,000 km/s",
+        "400,000 km/s", 
+        "500,000 km/s"
+      ],
+      "correct_answer": 1,
+      "explanation": "La velocidad de la luz en el vacío es aproximadamente 300,000 km/s o exactamente 299,792,458 m/s.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la fórmula química del agua?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2",
+        "H2SO4"
+      ],
+      "correct_answer": 0,
+      "explanation": "La fórmula química del agua es H2O: dos átomos de hidrógeno unidos a uno de oxígeno.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Dióxido de carbono",
+        "Argón"
+      ],
+      "correct_answer": 1,
+      "explanation": "El aire que respiramos es 78% nitrógeno y solo 21% oxígeno.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+      "options": [
+        "196",
+        "206",
+        "216",
+        "226"
+      ],
+      "correct_answer": 1,
+      "explanation": "El cuerpo humano adulto tiene 206 huesos. Los bebés nacen con más, pero se fusionan durante el crecimiento.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        "Hígado",
+        "Pulmones",
+        "Piel",
+        "Cerebro"
+      ],
+      "correct_answer": 2,
+      "explanation": "La piel es el órgano más grande del cuerpo humano, cubriendo aproximadamente 2 metros cuadrados en adultos.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos corazones tiene un pulpo?",
+      "options": [
+        "1",
+        "2", 
+        "3",
+        "4"
+      ],
+      "correct_answer": 2,
+      "explanation": "Los pulpos tienen 3 corazones: dos bombean sangre a las branquias y uno al resto del cuerpo.",
+      "category": "ciencias",
+      "difficulty": "hard"
+    },
+    {
+      "question": "¿Cuál es la vitamina que produce nuestro cuerpo con la luz solar?",
+      "options": [
+        "Vitamina A",
+        "Vitamina C",
+        "Vitamina D",
+        "Vitamina E"
+      ],
+      "correct_answer": 2,
+      "explanation": "Nuestro cuerpo produce vitamina D cuando la piel se expone a la luz solar, esencial para los huesos.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la fuerza que mantiene a los planetas en órbita alrededor del Sol?",
+      "options": [
+        "Magnetismo",
+        "Gravedad",
+        "Electricidad",
+        "Inercia"
+      ],
+      "correct_answer": 1,
+      "explanation": "La gravedad es la fuerza que mantiene a los planetas en órbita. Fue explicada por Newton y refinada por Einstein.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos dientes tiene un adulto promedio?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correct_answer": 2,
+      "explanation": "Un adulto tiene 32 dientes: 8 incisivos, 4 caninos, 8 premolares y 12 molares (incluyendo muelas del juicio).",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        "Venus",
+        "Mercurio",
+        "Tierra",
+        "Marte"
+      ],
+      "correct_answer": 1,
+      "explanation": "Mercurio es el planeta más cercano al Sol, con temperaturas extremas que van de -173°C a 427°C.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la partícula subatómica con carga positiva?",
+      "options": [
+        "Electrón",
+        "Protón",
+        "Neutrón",
+        "Fotón"
+      ],
+      "correct_answer": 1,
+      "explanation": "Los protones tienen carga positiva, los electrones negativa y los neutrones no tienen carga.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el proceso por el cual las plantas producen su alimento?",
+      "options": [
+        "Respiración",
+        "Fotosíntesis",
+        "Digestión",
+        "Fermentación"
+      ],
+      "correct_answer": 1,
+      "explanation": "La fotosíntesis es el proceso por el cual las plantas usan luz solar, CO2 y agua para producir glucosa y oxígeno.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la temperatura de ebullición del agua al nivel del mar?",
+      "options": [
+        "90°C",
+        "95°C",
+        "100°C",
+        "105°C"
+      ],
+      "correct_answer": 2,
+      "explanation": "El agua hierve a 100°C (212°F) al nivel del mar, pero esta temperatura cambia con la altitud.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el animal terrestre más rápido?",
+      "options": [
+        "León",
+        "Guepardo",
+        "Antílope",
+        "Caballo"
+      ],
+      "correct_answer": 1,
+      "explanation": "El guepardo puede alcanzar hasta 120 km/h en distancias cortas, siendo el animal terrestre más rápido.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la unidad básica de la herencia?",
+      "options": [
+        "Cromosoma",
+        "Gen",
+        "ADN",
+        "Célula"
+      ],
+      "correct_answer": 1,
+      "explanation": "Los genes son las unidades básicas de la herencia, contienen las instrucciones para construir y mantener los organismos.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capa de la atmósfera más cercana a la Tierra?",
+      "options": [
+        "Estratosfera",
+        "Troposfera",
+        "Mesosfera",
+        "Termosfera"
+      ],
+      "correct_answer": 1,
+      "explanation": "La troposfera es la capa más baja de la atmósfera, donde ocurre el clima y vivimos.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántas cámaras tiene el corazón humano?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": 2,
+      "explanation": "El corazón humano tiene 4 cámaras: 2 aurículas (superior) y 2 ventrículos (inferior).",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el tipo de sangre considerado donante universal?",
+      "options": [
+        "A+",
+        "B+",
+        "AB+",
+        "O-"
+      ],
+      "correct_answer": 3,
+      "explanation": "Las personas con tipo de sangre O- pueden donar a cualquier tipo de sangre, siendo donantes universales.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la función principal de los glóbulos rojos?",
+      "options": [
+        "Combatir infecciones",
+        "Transportar oxígeno",
+        "Coagular la sangre",
+        "Digerir alimentos"
+      ],
+      "correct_answer": 1,
+      "explanation": "Los glóbulos rojos contienen hemoglobina que transporta oxígeno desde los pulmones a todo el cuerpo.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el científico que propuso la teoría de la evolución?",
+      "options": [
+        "Albert Einstein",
+        "Charles Darwin",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ],
+      "correct_answer": 1,
+      "explanation": "Charles Darwin propuso la teoría de la evolución por selección natural en 1859 con 'El origen de las especies'.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "options": [
+        "Hierro",
+        "Aluminio",
+        "Cobre",
+        "Zinc"
+      ],
+      "correct_answer": 1,
+      "explanation": "El aluminio representa aproximadamente el 8% de la corteza terrestre, siendo el metal más abundante.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos pares de cromosomas tiene el ser humano?",
+      "options": [
+        "22",
+        "23",
+        "24",
+        "25"
+      ],
+      "correct_answer": 1,
+      "explanation": "Los humanos tenemos 23 pares de cromosomas (46 en total), incluyendo los cromosomas sexuales X e Y.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la escala utilizada para medir la intensidad de los terremotos?",
+      "options": [
+        "Escala Celsius",
+        "Escala Richter",
+        "Escala Kelvin",
+        "Escala Beaufort"
+      ],
+      "correct_answer": 1,
+      "explanation": "La escala Richter mide la magnitud de los terremotos, desarrollada por Charles Francis Richter en 1935.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el gas que las plantas absorben durante la fotosíntesis?",
+      "options": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Nitrógeno",
+        "Hidrógeno"
+      ],
+      "correct_answer": 1,
+      "explanation": "Las plantas absorben CO2 del aire y liberan oxígeno durante la fotosíntesis.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    }
+  ]
+}
