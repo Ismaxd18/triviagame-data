@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué significa 'WWW' en internet?",
+      "options": ["World Wide Web", "World Wide Wire", "World Web Window", "Web World Wide"],
+      "correct_answer": 0,
+      "explanation": "WWW significa World Wide Web, el sistema de información que permite acceder a documentos interconectados en internet.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fundó Microsoft?",
+      "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Larry Page"],
+      "correct_answer": 1,
+      "explanation": "Bill Gates cofundó Microsoft junto con Paul Allen en 1975, convirtiéndola en una de las empresas tecnológicas más importantes.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'CPU' en computación?",
+      "options": ["Computer Processing Unit", "Central Processing Unit", "Central Program Unit", "Computer Program Unit"],
+      "correct_answer": 1,
+      "explanation": "CPU significa Central Processing Unit (Unidad Central de Procesamiento), el cerebro principal de una computadora.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se lanzó el primer iPhone?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "correct_answer": 2,
+      "explanation": "El primer iPhone fue presentado por Steve Jobs el 9 de enero de 2007 y se puso a la venta el 29 de junio de 2007.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué empresa desarrolló el sistema operativo Android?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "correct_answer": 2,
+      "explanation": "Google adquirió Android Inc. en 2005 y desarrolló el sistema operativo Android para dispositivos móviles.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'RAM' en computación?",
+      "options": ["Random Access Memory", "Rapid Access Memory", "Read Access Memory", "Real Access Memory"],
+      "correct_answer": 0,
+      "explanation": "RAM significa Random Access Memory (Memoria de Acceso Aleatorio), la memoria temporal donde se almacenan datos de programas en ejecución.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el protocolo de comunicación más común en internet?",
+      "options": ["FTP", "HTTP", "SMTP", "TCP"],
+      "correct_answer": 1,
+      "explanation": "HTTP (HyperText Transfer Protocol) es el protocolo más común para la transferencia de páginas web en internet.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa creó el lenguaje de programación Java?",
+      "options": ["Microsoft", "Sun Microsystems", "IBM", "Oracle"],
+      "correct_answer": 1,
+      "explanation": "Java fue desarrollado por Sun Microsystems en 1995. Posteriormente Oracle adquirió Sun Microsystems en 2010.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la unidad básica de información en computación?",
+      "options": ["Byte", "Bit", "Kilobyte", "Megabyte"],
+      "correct_answer": 1,
+      "explanation": "El bit (binary digit) es la unidad básica de información en computación, puede tener valor 0 o 1.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'USB'?",
+      "options": ["Universal Serial Bus", "Universal System Bus", "Unified Serial Bus", "Universal Storage Bus"],
+      "correct_answer": 0,
+      "explanation": "USB significa Universal Serial Bus, un estándar para conectar dispositivos periféricos a computadoras.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el navegador web más utilizado en el mundo?",
+      "options": ["Firefox", "Safari", "Chrome", "Edge"],
+      "correct_answer": 2,
+      "explanation": "Google Chrome es actualmente el navegador web más utilizado mundialmente, con más del 60% de participación de mercado.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué es un 'algoritmo' en programación?",
+      "options": ["Un error en el código", "Una secuencia de instrucciones", "Un tipo de variable", "Un lenguaje de programación"],
+      "correct_answer": 1,
+      "explanation": "Un algoritmo es una secuencia finita de instrucciones bien definidas para resolver un problema o realizar una tarea.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la resolución de video conocida como '4K'?",
+      "options": ["1920x1080", "2560x1440", "3840x2160", "4096x2304"],
+      "correct_answer": 2,
+      "explanation": "4K se refiere comúnmente a la resolución 3840x2160 píxeles, cuatro veces mayor que Full HD (1080p).",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa desarrolló el procesador M1?",
+      "options": ["Intel", "AMD", "Apple", "Qualcomm"],
+      "correct_answer": 2,
+      "explanation": "Apple desarrolló el chip M1, su primer procesador diseñado internamente para computadoras Mac, lanzado en 2020.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'IoT' en tecnología?",
+      "options": ["Internet of Things", "Input of Technology", "Interface of Technology", "Integration of Technology"],
+      "correct_answer": 0,
+      "explanation": "IoT significa Internet of Things (Internet de las Cosas), la interconexión de dispositivos cotidianos a internet.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el sistema operativo más utilizado en servidores web?",
+      "options": ["Windows", "macOS", "Linux", "Unix"],
+      "correct_answer": 2,
+      "explanation": "Linux es el sistema operativo más utilizado en servidores web debido a su estabilidad, seguridad y ser de código abierto.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué es 'blockchain'?",
+      "options": ["Un tipo de malware", "Una cadena de bloques de datos", "Un lenguaje de programación", "Un protocolo de red"],
+      "correct_answer": 1,
+      "explanation": "Blockchain es una tecnología de cadena de bloques que almacena información de forma descentralizada y segura.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la primera red social masiva?",
+      "options": ["MySpace", "Friendster", "Facebook", "Orkut"],
+      "correct_answer": 1,
+      "explanation": "Friendster, lanzada en 2002, es considerada la primera red social masiva que alcanzó millones de usuarios.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'AI' en tecnología?",
+      "options": ["Automatic Intelligence", "Artificial Intelligence", "Advanced Intelligence", "Adaptive Intelligence"],
+      "correct_answer": 1,
+      "explanation": "AI significa Artificial Intelligence (Inteligencia Artificial), la simulación de procesos de inteligencia humana por máquinas.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la velocidad teórica máxima de 5G?",
+      "options": ["1 Gbps", "10 Gbps", "20 Gbps", "100 Gbps"],
+      "correct_answer": 2,
+      "explanation": "La tecnología 5G tiene una velocidad teórica máxima de hasta 20 Gbps, aunque en la práctica las velocidades son menores.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa adquirió WhatsApp?",
+      "options": ["Google", "Microsoft", "Facebook (Meta)", "Twitter"],
+      "correct_answer": 2,
+      "explanation": "Facebook (ahora Meta) adquirió WhatsApp en 2014 por aproximadamente 19 mil millones de dólares.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el lenguaje de programación más popular para desarrollo web front-end?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "correct_answer": 2,
+      "explanation": "JavaScript es el lenguaje de programación estándar para desarrollo web front-end, corriendo en todos los navegadores.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué es 'cloud computing'?",
+      "options": ["Computación en la nube", "Computación cuántica", "Computación paralela", "Computación distribuida"],
+      "correct_answer": 0,
+      "explanation": "Cloud computing es la entrega de servicios informáticos a través de internet ('la nube') incluyendo servidores, almacenamiento y software.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la empresa matriz de Google?",
+      "options": ["Meta", "Alphabet", "ByteDance", "Tencent"],
+      "correct_answer": 1,
+      "explanation": "Alphabet Inc. es la empresa matriz de Google desde 2015, reorganizando las diversas subsidiarias del conglomerado.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'SQL' en bases de datos?",
+      "options": ["System Query Language", "Structured Query Language", "Simple Query Language", "Standard Query Language"],
+      "correct_answer": 1,
+      "explanation": "SQL significa Structured Query Language, el lenguaje estándar para gestionar y consultar bases de datos relacionales.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la frecuencia de un procesador?",
+      "options": ["Hertz", "Watts", "Bytes", "Bits"],
+      "correct_answer": 0,
+      "explanation": "La frecuencia de un procesador se mide en Hertz (Hz), comúnmente expresada en Gigahertz (GHz).",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué empresa desarrolló el navegador Chrome?",
+      "options": ["Microsoft", "Apple", "Google", "Mozilla"],
+      "correct_answer": 2,
+      "explanation": "Google desarrolló y lanzó el navegador Chrome en 2008, que se convirtió en el más popular del mundo.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'VPN'?",
+      "options": ["Virtual Private Network", "Very Private Network", "Virtual Public Network", "Variable Private Network"],
+      "correct_answer": 0,
+      "explanation": "VPN significa Virtual Private Network, una tecnología que crea una conexión segura y encriptada a través de internet.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue el primer videojuego comercialmente exitoso?",
+      "options": ["Pac-Man", "Space Invaders", "Pong", "Tetris"],
+      "correct_answer": 2,
+      "explanation": "Pong, lanzado por Atari en 1972, fue el primer videojuego comercialmente exitoso y ayudó a establecer la industria.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué es un 'bug' en programación?",
+      "options": ["Un virus", "Un error en el código", "Un tipo de dato", "Una función"],
+      "correct_answer": 1,
+      "explanation": "Un bug es un error, falla o defecto en un programa de software que causa resultados incorrectos o inesperados.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la empresa más valiosa del mundo por capitalización de mercado?",
+      "options": ["Microsoft", "Apple", "Amazon", "Google"],
+      "correct_answer": 1,
+      "explanation": "Apple ha sido frecuentemente la empresa más valiosa por capitalización de mercado, aunque puede variar con Microsoft.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'GPU'?",
+      "options": ["General Processing Unit", "Graphics Processing Unit", "Game Processing Unit", "Global Processing Unit"],
+      "correct_answer": 1,
+      "explanation": "GPU significa Graphics Processing Unit, un procesador especializado en el manejo de gráficos y cálculos paralelos.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el protocolo de seguridad más común para sitios web?",
+      "options": ["HTTP", "HTTPS", "FTP", "SSH"],
+      "correct_answer": 1,
+      "explanation": "HTTPS (HTTP Secure) es el protocolo seguro que encripta la comunicación entre navegadores y sitios web.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa creó la plataforma de streaming Twitch?",
+      "options": ["Google", "Amazon", "Microsoft", "Justin.tv"],
+      "correct_answer": 3,
+      "explanation": "Twitch fue creada por los fundadores de Justin.tv en 2011, posteriormente adquirida por Amazon en 2014.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el estándar actual de WiFi más rápido?",
+      "options": ["WiFi 5", "WiFi 6", "WiFi 6E", "WiFi 7"],
+      "correct_answer": 2,
+      "explanation": "WiFi 6E es actualmente el estándar más avanzado ampliamente disponible, operando en la banda de 6GHz.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'SSD'?",
+      "options": ["Super Speed Drive", "Solid State Drive", "System Storage Drive", "Secure Storage Device"],
+      "correct_answer": 1,
+      "explanation": "SSD significa Solid State Drive, un dispositivo de almacenamiento que usa memoria flash sin partes móviles.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la primera consola de videojuegos doméstica?",
+      "options": ["Atari 2600", "Magnavox Odyssey", "Nintendo Entertainment System", "ColecoVision"],
+      "correct_answer": 1,
+      "explanation": "La Magnavox Odyssey, lanzada en 1972, fue la primera consola de videojuegos comercial para el hogar.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa desarrolló el lenguaje de programación Python?",
+      "options": ["Microsoft", "Google", "Guido van Rossum", "Sun Microsystems"],
+      "correct_answer": 2,
+      "explanation": "Python fue creado por Guido van Rossum y lanzado por primera vez en 1991, siendo desarrollado como proyecto personal.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la capacidad de almacenamiento de un DVD estándar?",
+      "options": ["700 MB", "4.7 GB", "8.5 GB", "25 GB"],
+      "correct_answer": 1,
+      "explanation": "Un DVD estándar de una capa tiene una capacidad de 4.7 GB, mientras que uno de doble capa tiene 8.5 GB.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'API' en programación?",
+      "options": ["Application Programming Interface", "Automated Programming Interface", "Advanced Programming Interface", "Application Process Interface"],
+      "correct_answer": 0,
+      "explanation": "API significa Application Programming Interface, un conjunto de definiciones y protocolos para integrar software.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el puerto estándar para conexiones HTTPS?",
+      "options": ["80", "443", "8080", "22"],
+      "correct_answer": 1,
+      "explanation": "El puerto 443 es el puerto estándar para conexiones HTTPS seguras, mientras que el 80 es para HTTP.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa creó el formato de video MP4?",
+      "options": ["Apple", "Microsoft", "Moving Picture Experts Group", "Adobe"],
+      "correct_answer": 2,
+      "explanation": "MP4 fue desarrollado por el Moving Picture Experts Group (MPEG) como parte del estándar MPEG-4.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la diferencia principal entre IPv4 e IPv6?",
+      "options": ["Velocidad", "Seguridad", "Espacio de direcciones", "Compatibilidad"],
+      "correct_answer": 2,
+      "explanation": "IPv6 tiene un espacio de direcciones mucho mayor (128 bits vs 32 bits de IPv4), solucionando el agotamiento de direcciones.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué empresa desarrolló el asistente virtual Alexa?",
+      "options": ["Google", "Apple", "Amazon", "Microsoft"],
+      "correct_answer": 2,
+      "explanation": "Amazon desarrolló Alexa, su asistente virtual controlado por voz, lanzado inicialmente con Echo en 2014.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la arquitectura de procesador más común en smartphones?",
+      "options": ["x86", "x64", "ARM", "RISC-V"],
+      "correct_answer": 2,
+      "explanation": "ARM es la arquitectura de procesador más común en smartphones debido a su eficiencia energética.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'BIOS' en computación?",
+      "options": ["Basic Input Output System", "Binary Input Output System", "Basic Integrated Operating System", "Binary Integrated Operating System"],
+      "correct_answer": 0,
+      "explanation": "BIOS significa Basic Input/Output System, el firmware que inicializa el hardware durante el arranque de la computadora.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue el primer motor de búsqueda en internet?",
+      "options": ["Yahoo", "AltaVista", "Archie", "Lycos"],
+      "correct_answer": 2,
+      "explanation": "Archie, creado en 1990, fue el primer motor de búsqueda de internet, indexando archivos disponibles en servidores FTP.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué tecnología permite la comunicación sin contacto en pagos móviles?",
+      "options": ["Bluetooth", "WiFi", "NFC", "Infrarrojo"],
+      "correct_answer": 2,
+      "explanation": "NFC (Near Field Communication) es la tecnología que permite pagos móviles sin contacto y transferencia de datos a corta distancia.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el lenguaje de marcado estándar para crear páginas web?",
+      "options": ["CSS", "JavaScript", "HTML", "PHP"],
+      "correct_answer": 2,
+      "explanation": "HTML (HyperText Markup Language) es el lenguaje de marcado estándar para crear y estructurar páginas web.",
+      "category": "tecnologia",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué empresa adquirió GitHub en 2018?",
+      "options": ["Google", "Microsoft", "Amazon", "Oracle"],
+      "correct_answer": 1,
+      "explanation": "Microsoft adquirió GitHub en 2018 por 7.5 mil millones de dólares, integrándolo a sus servicios de desarrollo.",
+      "category": "tecnologia",
+      "difficulty": "medium"
+    }
+  ]
+}
