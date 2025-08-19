@@ -2,328 +2,403 @@
   "questions": [
     {
       "question": "¿Cuál es el elemento químico más abundante en el universo?",
-      "options": [
-        "Oxígeno",
-        "Hidrógeno", 
-        "Carbono",
-        "Helio"
-      ],
-      "correct_answer": 1,
-      "explanation": "El hidrógeno representa aproximadamente el 75% de la materia normal del universo.",
+      "options": ["Oxígeno", "Carbono", "Hidrógeno", "Helio"],
+      "correct_answer": 2,
+      "explanation": "El hidrógeno es el elemento más abundante en el universo, constituyendo aproximadamente el 75% de toda la materia ordinaria.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": ["299,792,458 m/s", "300,000,000 m/s", "299,000,000 m/s", "300,792,458 m/s"],
+      "correct_answer": 0,
+      "explanation": "La velocidad de la luz en el vacío es exactamente 299,792,458 metros por segundo, una constante fundamental de la física.",
       "category": "ciencias",
       "difficulty": "medium"
     },
     {
-      "question": "¿Cuál es la velocidad de la luz en el vacío?",
-      "options": [
-        "200,000 km/s",
-        "300,000 km/s",
-        "400,000 km/s", 
-        "500,000 km/s"
-      ],
-      "correct_answer": 1,
-      "explanation": "La velocidad de la luz en el vacío es aproximadamente 300,000 km/s o exactamente 299,792,458 m/s.",
+      "question": "¿Cuántos protones tiene el átomo de carbono?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 2,
+      "explanation": "El carbono tiene 6 protones en su núcleo, lo que define su número atómico y su posición en la tabla periódica.",
       "category": "ciencias",
       "difficulty": "easy"
     },
     {
       "question": "¿Cuál es la fórmula química del agua?",
-      "options": [
-        "H2O",
-        "CO2",
-        "O2",
-        "H2SO4"
-      ],
+      "options": ["H2O", "CO2", "NaCl", "CH4"],
       "correct_answer": 0,
-      "explanation": "La fórmula química del agua es H2O: dos átomos de hidrógeno unidos a uno de oxígeno.",
+      "explanation": "El agua tiene la fórmula H2O, formada por dos átomos de hidrógeno y uno de oxígeno unidos por enlaces covalentes.",
       "category": "ciencias",
       "difficulty": "easy"
     },
     {
-      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
-      "options": [
-        "Oxígeno",
-        "Nitrógeno",
-        "Dióxido de carbono",
-        "Argón"
-      ],
-      "correct_answer": 1,
-      "explanation": "El aire que respiramos es 78% nitrógeno y solo 21% oxígeno.",
+      "question": "¿Qué partícula subatómica tiene carga negativa?",
+      "options": ["Protón", "Neutrón", "Electrón", "Positrón"],
+      "correct_answer": 2,
+      "explanation": "Los electrones tienen carga eléctrica negativa y orbitan alrededor del núcleo atómico que contiene protones (positivos) y neutrones (neutros).",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la temperatura del cero absoluto?",
+      "options": ["-273.15°C", "-300°C", "-250°C", "-373.15°C"],
+      "correct_answer": 0,
+      "explanation": "El cero absoluto es -273.15°C (0 Kelvin), la temperatura teórica más baja posible donde cesa todo movimiento molecular.",
       "category": "ciencias",
       "difficulty": "medium"
     },
     {
-      "question": "¿Cuántos huesos tiene el cuerpo humano adulto?",
-      "options": [
-        "196",
-        "206",
-        "216",
-        "226"
-      ],
-      "correct_answer": 1,
-      "explanation": "El cuerpo humano adulto tiene 206 huesos. Los bebés nacen con más, pero se fusionan durante el crecimiento.",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "options": [
-        "Hígado",
-        "Pulmones",
-        "Piel",
-        "Cerebro"
-      ],
+      "question": "¿Qué gas forma la mayor parte de la atmósfera terrestre?",
+      "options": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón"],
       "correct_answer": 2,
-      "explanation": "La piel es el órgano más grande del cuerpo humano, cubriendo aproximadamente 2 metros cuadrados en adultos.",
-      "category": "ciencias",
-      "difficulty": "easy"
-    },
-    {
-      "question": "¿Cuántos corazones tiene un pulpo?",
-      "options": [
-        "1",
-        "2", 
-        "3",
-        "4"
-      ],
-      "correct_answer": 2,
-      "explanation": "Los pulpos tienen 3 corazones: dos bombean sangre a las branquias y uno al resto del cuerpo.",
-      "category": "ciencias",
-      "difficulty": "hard"
-    },
-    {
-      "question": "¿Cuál es la vitamina que produce nuestro cuerpo con la luz solar?",
-      "options": [
-        "Vitamina A",
-        "Vitamina C",
-        "Vitamina D",
-        "Vitamina E"
-      ],
-      "correct_answer": 2,
-      "explanation": "Nuestro cuerpo produce vitamina D cuando la piel se expone a la luz solar, esencial para los huesos.",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuál es la fuerza que mantiene a los planetas en órbita alrededor del Sol?",
-      "options": [
-        "Magnetismo",
-        "Gravedad",
-        "Electricidad",
-        "Inercia"
-      ],
-      "correct_answer": 1,
-      "explanation": "La gravedad es la fuerza que mantiene a los planetas en órbita. Fue explicada por Newton y refinada por Einstein.",
-      "category": "ciencias",
-      "difficulty": "easy"
-    },
-    {
-      "question": "¿Cuántos dientes tiene un adulto promedio?",
-      "options": [
-        "28",
-        "30",
-        "32",
-        "34"
-      ],
-      "correct_answer": 2,
-      "explanation": "Un adulto tiene 32 dientes: 8 incisivos, 4 caninos, 8 premolares y 12 molares (incluyendo muelas del juicio).",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuál es el planeta más cercano al Sol?",
-      "options": [
-        "Venus",
-        "Mercurio",
-        "Tierra",
-        "Marte"
-      ],
-      "correct_answer": 1,
-      "explanation": "Mercurio es el planeta más cercano al Sol, con temperaturas extremas que van de -173°C a 427°C.",
-      "category": "ciencias",
-      "difficulty": "easy"
-    },
-    {
-      "question": "¿Cuál es la partícula subatómica con carga positiva?",
-      "options": [
-        "Electrón",
-        "Protón",
-        "Neutrón",
-        "Fotón"
-      ],
-      "correct_answer": 1,
-      "explanation": "Los protones tienen carga positiva, los electrones negativa y los neutrones no tienen carga.",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuál es el proceso por el cual las plantas producen su alimento?",
-      "options": [
-        "Respiración",
-        "Fotosíntesis",
-        "Digestión",
-        "Fermentación"
-      ],
-      "correct_answer": 1,
-      "explanation": "La fotosíntesis es el proceso por el cual las plantas usan luz solar, CO2 y agua para producir glucosa y oxígeno.",
-      "category": "ciencias",
-      "difficulty": "easy"
-    },
-    {
-      "question": "¿Cuál es la temperatura de ebullición del agua al nivel del mar?",
-      "options": [
-        "90°C",
-        "95°C",
-        "100°C",
-        "105°C"
-      ],
-      "correct_answer": 2,
-      "explanation": "El agua hierve a 100°C (212°F) al nivel del mar, pero esta temperatura cambia con la altitud.",
-      "category": "ciencias",
-      "difficulty": "easy"
-    },
-    {
-      "question": "¿Cuál es el animal terrestre más rápido?",
-      "options": [
-        "León",
-        "Guepardo",
-        "Antílope",
-        "Caballo"
-      ],
-      "correct_answer": 1,
-      "explanation": "El guepardo puede alcanzar hasta 120 km/h en distancias cortas, siendo el animal terrestre más rápido.",
+      "explanation": "El nitrógeno constituye aproximadamente el 78% de la atmósfera terrestre, siendo el gas más abundante.",
       "category": "ciencias",
       "difficulty": "easy"
     },
     {
       "question": "¿Cuál es la unidad básica de la herencia?",
-      "options": [
-        "Cromosoma",
-        "Gen",
-        "ADN",
-        "Célula"
-      ],
+      "options": ["Cromosoma", "Gen", "ADN", "Célula"],
       "correct_answer": 1,
-      "explanation": "Los genes son las unidades básicas de la herencia, contienen las instrucciones para construir y mantener los organismos.",
+      "explanation": "El gen es la unidad básica de la herencia, un segmento de ADN que codifica para una característica específica.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+      "options": ["206", "208", "210", "212"],
+      "correct_answer": 0,
+      "explanation": "El cuerpo humano adulto tiene 206 huesos, menos que un bebé que nace con aproximadamente 270 huesos que se fusionan con el crecimiento.",
       "category": "ciencias",
       "difficulty": "medium"
     },
     {
-      "question": "¿Cuál es la capa de la atmósfera más cercana a la Tierra?",
-      "options": [
-        "Estratosfera",
-        "Troposfera",
-        "Mesosfera",
-        "Termosfera"
-      ],
+      "question": "¿Qué científico propuso la teoría de la evolución por selección natural?",
+      "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Alexander Fleming"],
       "correct_answer": 1,
-      "explanation": "La troposfera es la capa más baja de la atmósfera, donde ocurre el clima y vivimos.",
+      "explanation": "Charles Darwin propuso la teoría de la evolución por selección natural en 'El origen de las especies' (1859).",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": ["Venus", "Mercurio", "Tierra", "Marte"],
+      "correct_answer": 1,
+      "explanation": "Mercurio es el planeta más cercano al Sol, con una distancia promedio de 58 millones de kilómetros.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tipo de enlace químico comparten electrones?",
+      "options": ["Iónico", "Covalente", "Metálico", "Van der Waals"],
+      "correct_answer": 1,
+      "explanation": "Los enlaces covalentes se forman cuando dos átomos comparten uno o más pares de electrones para alcanzar estabilidad.",
       "category": "ciencias",
       "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la fórmula para calcular la energía según Einstein?",
+      "options": ["E = mc", "E = mc²", "E = m²c", "E = 2mc"],
+      "correct_answer": 1,
+      "explanation": "E = mc² es la famosa ecuación de Einstein que relaciona masa y energía, donde c es la velocidad de la luz.",
+      "category": "ciencias",
+      "difficulty": "easy"
     },
     {
       "question": "¿Cuántas cámaras tiene el corazón humano?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
+      "options": ["2", "3", "4", "5"],
       "correct_answer": 2,
-      "explanation": "El corazón humano tiene 4 cámaras: 2 aurículas (superior) y 2 ventrículos (inferior).",
+      "explanation": "El corazón humano tiene 4 cámaras: dos aurículas (izquierda y derecha) y dos ventrículos (izquierdo y derecho).",
       "category": "ciencias",
       "difficulty": "easy"
     },
     {
-      "question": "¿Cuál es el tipo de sangre considerado donante universal?",
-      "options": [
-        "A+",
-        "B+",
-        "AB+",
-        "O-"
-      ],
+      "question": "¿Qué instrumento se usa para medir la presión atmosférica?",
+      "options": ["Termómetro", "Barómetro", "Higrómetro", "Anemómetro"],
+      "correct_answer": 1,
+      "explanation": "El barómetro mide la presión atmosférica, fundamental para predecir cambios climáticos y estudiar la meteorología.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el metal más conductor de electricidad?",
+      "options": ["Cobre", "Oro", "Plata", "Aluminio"],
+      "correct_answer": 2,
+      "explanation": "La plata es el mejor conductor eléctrico de todos los metales, aunque el cobre se usa más por su menor costo.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué organelo celular produce energía (ATP)?",
+      "options": ["Núcleo", "Ribosomas", "Mitocondria", "Retículo endoplásmico"],
+      "correct_answer": 2,
+      "explanation": "Las mitocondrias son conocidas como las 'plantas de energía' de la célula, donde se produce ATP mediante respiración celular.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el proceso por el cual una sólido pasa directamente a gas?",
+      "options": ["Fusión", "Evaporación", "Sublimación", "Condensación"],
+      "correct_answer": 2,
+      "explanation": "La sublimación es el proceso donde una sustancia pasa directamente del estado sólido al gaseoso sin pasar por líquido.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos cromosomas tiene una célula humana normal?",
+      "options": ["44", "46", "48", "50"],
+      "correct_answer": 1,
+      "explanation": "Las células humanas normales tienen 46 cromosomas (23 pares), excepto los gametos que tienen 23 cromosomas.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué ley de Newton establece que 'a toda acción corresponde una reacción'?",
+      "options": ["Primera ley", "Segunda ley", "Tercera ley", "Ley de gravitación"],
+      "correct_answer": 2,
+      "explanation": "La tercera ley de Newton establece que por cada acción hay una reacción igual y opuesta.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el pH del agua pura?",
+      "options": ["6", "7", "8", "9"],
+      "correct_answer": 1,
+      "explanation": "El agua pura tiene un pH de 7, que es neutro en la escala de pH que va de 0 (ácido) a 14 (básico).",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tipo de radiación electromagnética tiene la mayor energía?",
+      "options": ["Rayos X", "Luz visible", "Rayos gamma", "Ondas de radio"],
+      "correct_answer": 2,
+      "explanation": "Los rayos gamma tienen la mayor energía del espectro electromagnético, con frecuencias extremadamente altas.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el componente principal del aire que respiramos?",
+      "options": ["Oxígeno 21%", "Nitrógeno 78%", "Dióxido de carbono 1%", "Todas las anteriores"],
       "correct_answer": 3,
-      "explanation": "Las personas con tipo de sangre O- pueden donar a cualquier tipo de sangre, siendo donantes universales.",
+      "explanation": "El aire contiene aproximadamente 78% nitrógeno, 21% oxígeno, 0.93% argón y 0.04% dióxido de carbono.",
       "category": "ciencias",
       "difficulty": "medium"
     },
     {
-      "question": "¿Cuál es la función principal de los glóbulos rojos?",
-      "options": [
-        "Combatir infecciones",
-        "Transportar oxígeno",
-        "Coagular la sangre",
-        "Digerir alimentos"
-      ],
+      "question": "¿Qué científico descubrió la penicilina?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Gregor Mendel"],
       "correct_answer": 1,
-      "explanation": "Los glóbulos rojos contienen hemoglobina que transporta oxígeno desde los pulmones a todo el cuerpo.",
+      "explanation": "Alexander Fleming descubrió la penicilina en 1928, revolucionando el tratamiento de infecciones bacterianas.",
       "category": "ciencias",
       "difficulty": "easy"
     },
     {
-      "question": "¿Cuál es el científico que propuso la teoría de la evolución?",
-      "options": [
-        "Albert Einstein",
-        "Charles Darwin",
-        "Isaac Newton",
-        "Galileo Galilei"
-      ],
+      "question": "¿Cuál es la masa atómica aproximada del carbono-12?",
+      "options": ["6", "11", "12", "14"],
+      "correct_answer": 2,
+      "explanation": "El carbono-12 tiene una masa atómica de exactamente 12 unidades de masa atómica (uma) por definición.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué parte del cerebro controla el equilibrio?",
+      "options": ["Cerebro", "Cerebelo", "Tronco encefálico", "Hipotálamo"],
       "correct_answer": 1,
-      "explanation": "Charles Darwin propuso la teoría de la evolución por selección natural en 1859 con 'El origen de las especies'.",
+      "explanation": "El cerebelo es responsable del equilibrio, coordinación motora y control de movimientos finos.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la distancia promedio de la Tierra al Sol?",
+      "options": ["150 millones de km", "93 millones de millas", "1 UA", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "La distancia Tierra-Sol es de 150 millones de km (93 millones de millas), definida como 1 Unidad Astronómica (UA).",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué gas es producido durante la respiración celular?",
+      "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+      "correct_answer": 2,
+      "explanation": "La respiración celular consume oxígeno y glucosa, produciendo dióxido de carbono, agua y energía (ATP).",
       "category": "ciencias",
       "difficulty": "easy"
     },
     {
-      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
-      "options": [
-        "Hierro",
-        "Aluminio",
-        "Cobre",
-        "Zinc"
-      ],
+      "question": "¿Cuál es el mineral más duro en la escala de Mohs?",
+      "options": ["Cuarzo", "Diamante", "Topacio", "Corindón"],
       "correct_answer": 1,
-      "explanation": "El aluminio representa aproximadamente el 8% de la corteza terrestre, siendo el metal más abundante.",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuántos pares de cromosomas tiene el ser humano?",
-      "options": [
-        "22",
-        "23",
-        "24",
-        "25"
-      ],
-      "correct_answer": 1,
-      "explanation": "Los humanos tenemos 23 pares de cromosomas (46 en total), incluyendo los cromosomas sexuales X e Y.",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuál es la escala utilizada para medir la intensidad de los terremotos?",
-      "options": [
-        "Escala Celsius",
-        "Escala Richter",
-        "Escala Kelvin",
-        "Escala Beaufort"
-      ],
-      "correct_answer": 1,
-      "explanation": "La escala Richter mide la magnitud de los terremotos, desarrollada por Charles Francis Richter en 1935.",
-      "category": "ciencias",
-      "difficulty": "medium"
-    },
-    {
-      "question": "¿Cuál es el gas que las plantas absorben durante la fotosíntesis?",
-      "options": [
-        "Oxígeno",
-        "Dióxido de carbono",
-        "Nitrógeno",
-        "Hidrógeno"
-      ],
-      "correct_answer": 1,
-      "explanation": "Las plantas absorben CO2 del aire y liberan oxígeno durante la fotosíntesis.",
+      "explanation": "El diamante tiene dureza 10 en la escala de Mohs, siendo el mineral natural más duro conocido.",
       "category": "ciencias",
       "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué parte de la célula contiene el material genético?",
+      "options": ["Citoplasma", "Núcleo", "Membrana celular", "Vacuola"],
+      "correct_answer": 1,
+      "explanation": "El núcleo celular contiene el ADN (material genético) organizado en cromosomas, controlando las funciones celulares.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la fuerza que mantiene a los planetas en órbita?",
+      "options": ["Magnetismo", "Gravedad", "Inercia", "Radiación"],
+      "correct_answer": 1,
+      "explanation": "La gravedad es la fuerza que mantiene a los planetas en órbita alrededor del Sol y a los satélites alrededor de los planetas.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tipo de células NO tienen núcleo?",
+      "options": ["Eucariotas", "Procariotas", "Animales", "Vegetales"],
+      "correct_answer": 1,
+      "explanation": "Las células procariotas (como bacterias) no tienen núcleo definido, su material genético está disperso en el citoplasma.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la corriente eléctrica?",
+      "options": ["Voltio", "Ohmio", "Amperio", "Watt"],
+      "correct_answer": 2,
+      "explanation": "El amperio (A) es la unidad de medida de la corriente eléctrica en el Sistema Internacional de Unidades.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué científica descubrió los elementos radio y polonio?",
+      "options": ["Marie Curie", "Rosalind Franklin", "Barbara McClintock", "Dorothy Hodgkin"],
+      "correct_answer": 0,
+      "explanation": "Marie Curie descubrió el radio y polonio, siendo la primera mujer en ganar un Premio Nobel y la única en ganarlo en dos ciencias diferentes.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la velocidad del sonido en el aire a temperatura ambiente?",
+      "options": ["330 m/s", "343 m/s", "350 m/s", "360 m/s"],
+      "correct_answer": 1,
+      "explanation": "La velocidad del sonido en el aire a 20°C es aproximadamente 343 metros por segundo.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué proceso utilizan las plantas para convertir luz solar en energía?",
+      "options": ["Respiración", "Fotosíntesis", "Fermentación", "Digestión"],
+      "correct_answer": 1,
+      "explanation": "La fotosíntesis es el proceso por el cual las plantas convierten luz solar, dióxido de carbono y agua en glucosa y oxígeno.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos electrones puede contener la primera capa electrónica?",
+      "options": ["2", "4", "6", "8"],
+      "correct_answer": 0,
+      "explanation": "La primera capa electrónica (nivel K) puede contener un máximo de 2 electrones según el principio de exclusión de Pauli.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué hormona regula el azúcar en la sangre?",
+      "options": ["Adrenalina", "Insulina", "Cortisol", "Tiroxina"],
+      "correct_answer": 1,
+      "explanation": "La insulina, producida por el páncreas, regula los niveles de glucosa en la sangre facilitando su absorción celular.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el estado de la materia con mayor energía cinética?",
+      "options": ["Sólido", "Líquido", "Gas", "Plasma"],
+      "correct_answer": 3,
+      "explanation": "El plasma tiene la mayor energía cinética, siendo un estado donde los electrones se separan de los núcleos atómicos.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué elemento químico tiene el símbolo 'Au'?",
+      "options": ["Plata", "Aluminio", "Oro", "Arsénico"],
+      "correct_answer": 2,
+      "explanation": "Au es el símbolo químico del oro, derivado del latín 'aurum' que significa 'amanecer brillante'.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto dura un año en Marte?",
+      "options": ["365 días", "687 días terrestres", "2 años terrestres", "500 días"],
+      "correct_answer": 1,
+      "explanation": "Un año marciano dura aproximadamente 687 días terrestres debido a su mayor distancia del Sol y órbita más lenta.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué tipo de sangre es el donante universal?",
+      "options": ["A+", "B+", "AB+", "O-"],
+      "correct_answer": 3,
+      "explanation": "El tipo O negativo es considerado donante universal porque carece de antígenos A, B y Rh que podrían causar reacciones.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la partícula que media la fuerza electromagnética?",
+      "options": ["Electrón", "Protón", "Fotón", "Neutrón"],
+      "correct_answer": 2,
+      "explanation": "El fotón es la partícula mediadora de la fuerza electromagnética, siendo también la partícula de luz.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué porcentaje del ADN comparten los humanos con los chimpancés?",
+      "options": ["95%", "98%", "99%", "92%"],
+      "correct_answer": 1,
+      "explanation": "Los humanos compartimos aproximadamente 98% de nuestro ADN con los chimpancés, nuestros parientes evolutivos más cercanos.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la temperatura de fusión del hielo?",
+      "options": ["0°C", "32°F", "273.15 K", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "El hielo se funde a 0°C (32°F o 273.15 K), siendo el punto de congelación/fusión del agua pura a presión estándar.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué científico formuló las leyes del movimiento planetario?",
+      "options": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Nicolás Copérnico"],
+      "correct_answer": 2,
+      "explanation": "Johannes Kepler formuló las tres leyes del movimiento planetario que describen las órbitas elípticas de los planetas.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la molécula que almacena energía en las células?",
+      "options": ["ADN", "ARN", "ATP", "ADP"],
+      "correct_answer": 2,
+      "explanation": "El ATP (trifosfato de adenosina) es la 'moneda energética' de las células, almacenando y liberando energía según se necesite.",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántas lunas tiene Júpiter?",
+      "options": ["67", "79", "95", "Más de 90"],
+      "correct_answer": 3,
+      "explanation": "Júpiter tiene más de 90 lunas conocidas, siendo las cuatro más grandes: Ío, Europa, Ganimedes y Calisto (lunas galileanas).",
+      "category": "ciencias",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué instrumento inventó Galileo para observar el espacio?",
+      "options": ["Microscopio", "Telescopio", "Astrolabio", "Sextante"],
+      "correct_answer": 1,
+      "explanation": "Galileo perfeccionó el telescopio en 1609, usándolo para hacer observaciones astronómicas que revolucionaron nuestra comprensión del cosmos.",
+      "category": "ciencias",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la ecuación química de la fotosíntesis?",
+      "options": ["6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂", "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O", "2H₂O → 2H₂ + O₂", "CO₂ + H₂O → CH₄ + O₂"],
+      "correct_answer": 0,
+      "explanation": "La fotosíntesis convierte 6 moléculas de CO₂ y 6 de H₂O en glucosa (C₆H₁₂O₆) y 6 moléculas de O₂ usando energía solar.",
+      "category": "ciencias",
+      "difficulty": "medium"
     }
   ]
 }
