@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién dirigió la película 'Titanic'?",
+      "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+      "correct_answer": 1,
+      "explanation": "James Cameron dirigió 'Titanic' (1997), que se convirtió en la película más taquillera de la historia hasta 'Avatar'.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película más taquillera de todos los tiempos?",
+      "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: El despertar de la Fuerza"],
+      "correct_answer": 2,
+      "explanation": "'Avengers: Endgame' (2019) es la película más taquillera de todos los tiempos con más de 2.79 mil millones de dólares.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó la primera película de 'Star Wars'?",
+      "options": ["1975", "1977", "1979", "1981"],
+      "correct_answer": 1,
+      "explanation": "'Star Wars: Episodio IV - Una nueva esperanza' se estrenó en 1977, dirigida por George Lucas.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién interpreta a Jack Sparrow en 'Piratas del Caribe'?",
+      "options": ["Orlando Bloom", "Johnny Depp", "Geoffrey Rush", "Keira Knightley"],
+      "correct_answer": 1,
+      "explanation": "Johnny Depp interpreta al icónico capitán Jack Sparrow en la saga 'Piratas del Caribe' desde 2003.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la serie de Netflix más vista de todos los tiempos?",
+      "options": ["Stranger Things", "La Casa de Papel", "El juego del calamar", "Bridgerton"],
+      "correct_answer": 2,
+      "explanation": "'El juego del calamar' (Squid Game) se convirtió en la serie más vista de Netflix con más de 1.65 mil millones de horas vistas.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién creó la serie 'Game of Thrones'?",
+      "options": ["George R.R. Martin", "David Benioff", "D.B. Weiss", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "George R.R. Martin escribió los libros, mientras que David Benioff y D.B. Weiss crearon la adaptación televisiva.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película aparece la frase 'Que la fuerza te acompañe'?",
+      "options": ["Star Trek", "Star Wars", "Guardianes de la Galaxia", "Blade Runner"],
+      "correct_answer": 1,
+      "explanation": "'Que la fuerza te acompañe' (May the Force be with you) es la frase icónica de la saga Star Wars.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió 'Pulp Fiction'?",
+      "options": ["Martin Scorsese", "Quentin Tarantino", "Christopher Nolan", "David Fincher"],
+      "correct_answer": 1,
+      "explanation": "Quentin Tarantino dirigió 'Pulp Fiction' (1994), considerada una de las mejores películas de la década de los 90.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre real de Spider-Man en los cómics de Marvel?",
+      "options": ["Peter Parker", "Miles Morales", "Ben Reilly", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Múltiples personajes han sido Spider-Man: Peter Parker (el original), Miles Morales y Ben Reilly, entre otros.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se estrenó la primera temporada de 'Friends'?",
+      "options": ["1992", "1994", "1996", "1998"],
+      "correct_answer": 1,
+      "explanation": "'Friends' se estrenó el 22 de septiembre de 1994 y se convirtió en una de las sitcoms más exitosas de la historia.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién interpretó a Joker en 'The Dark Knight'?",
+      "options": ["Jack Nicholson", "Heath Ledger", "Joaquin Phoenix", "Jared Leto"],
+      "correct_answer": 1,
+      "explanation": "Heath Ledger interpretó al Joker en 'The Dark Knight' (2008), ganando un Oscar póstumo por su actuación.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la plataforma de streaming más antigua?",
+      "options": ["Netflix", "Hulu", "Amazon Prime", "Disney+"],
+      "correct_answer": 0,
+      "explanation": "Netflix comenzó su servicio de streaming en 2007, siendo pionera en el entretenimiento digital por suscripción.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película de Disney aparece la canción 'Hakuna Matata'?",
+      "options": ["Aladdin", "El Rey León", "Pocahontas", "Mulan"],
+      "correct_answer": 1,
+      "explanation": "'Hakuna Matata' es la famosa canción de 'El Rey León' (1994), cantada por Timón y Pumba.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántas películas hay en la saga original de 'Rocky'?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": 2,
+      "explanation": "La saga original de Rocky tiene 6 películas (Rocky I-VI), desde 1976 hasta 2006, protagonizadas por Sylvester Stallone.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién creó el personaje de Sherlock Holmes?",
+      "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Raymond Chandler"],
+      "correct_answer": 1,
+      "explanation": "Sir Arthur Conan Doyle creó el personaje de Sherlock Holmes en 1887 con 'Estudio en escarlata'.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué ciudad se desarrolla la serie 'Sex and the City'?",
+      "options": ["Los Angeles", "Chicago", "Nueva York", "Miami"],
+      "correct_answer": 2,
+      "explanation": "'Sex and the City' se desarrolla en Nueva York, mostrando la vida de cuatro mujeres en Manhattan.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del dragón de Daenerys más grande en 'Game of Thrones'?",
+      "options": ["Viserion", "Rhaegal", "Drogon", "Balerion"],
+      "correct_answer": 2,
+      "explanation": "Drogon es el dragón más grande y agresivo de Daenerys, nombrado en honor a su difunto esposo Khal Drogo.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién dirigió la película 'Inception'?",
+      "options": ["Denis Villeneuve", "Christopher Nolan", "David Fincher", "Darren Aronofsky"],
+      "correct_answer": 1,
+      "explanation": "Christopher Nolan dirigió 'Inception' (2010), conocida por su compleja narrativa sobre sueños dentro de sueños.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película de animación más taquillera de Disney?",
+      "options": ["El Rey León", "Frozen", "Frozen II", "Los Increíbles"],
+      "correct_answer": 2,
+      "explanation": "'Frozen II' (2019) es la película de animación más taquillera de Disney con más de 1.45 mil millones de dólares.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año terminó la serie 'The Office' (versión estadounidense)?",
+      "options": ["2011", "2012", "2013", "2014"],
+      "correct_answer": 2,
+      "explanation": "'The Office' (US) terminó en 2013 después de 9 temporadas, convirtiéndose en un fenómeno cultural.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpreta a Iron Man en el Universo Cinematográfico de Marvel?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Chris Hemsworth"],
+      "correct_answer": 1,
+      "explanation": "Robert Downey Jr. interpretó a Tony Stark/Iron Man desde 2008 hasta 2019 en el MCU.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre de la casa de Hogwarts de Harry Potter?",
+      "options": ["Slytherin", "Ravenclaw", "Hufflepuff", "Gryffindor"],
+      "correct_answer": 3,
+      "explanation": "Harry Potter pertenece a la casa Gryffindor, conocida por la valentía y el coraje de sus miembros.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién escribió la novela 'El Código Da Vinci'?",
+      "options": ["John Grisham", "Dan Brown", "Michael Crichton", "Stephen King"],
+      "correct_answer": 1,
+      "explanation": "Dan Brown escribió 'El Código Da Vinci' (2003), que se convirtió en un bestseller mundial y película.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué película aparece el personaje de Hannibal Lecter por primera vez?",
+      "options": ["El silencio de los corderos", "Manhunter", "Hannibal", "Dragón Rojo"],
+      "correct_answer": 1,
+      "explanation": "Hannibal Lecter apareció por primera vez en 'Manhunter' (1986), basada en la novela 'Dragón Rojo'.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la serie de TV más larga en emisión?",
+      "options": ["Days of Our Lives", "General Hospital", "Meet the Press", "The Tonight Show"],
+      "correct_answer": 2,
+      "explanation": "'Meet the Press' ha estado al aire desde 1947, siendo el programa de televisión más longevo de la historia estadounidense.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién creó la serie 'The Simpsons'?",
+      "options": ["Seth MacFarlane", "Matt Groening", "Mike Judge", "Trey Parker"],
+      "correct_answer": 1,
+      "explanation": "Matt Groening creó 'The Simpsons' en 1989, convirtiéndose en la serie animada más longeva de la historia.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué película de terror aparece el personaje de Freddy Krueger?",
+      "options": ["Viernes 13", "Halloween", "Pesadilla en Elm Street", "Scream"],
+      "correct_answer": 2,
+      "explanation": "Freddy Krueger es el antagonista principal de la saga 'Pesadilla en Elm Street', comenzada en 1984.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del café en 'Friends'?",
+      "options": ["Central Park", "Central Café", "Central Perk", "Central Place"],
+      "correct_answer": 2,
+      "explanation": "Central Perk es el icónico café donde se reúnen los protagonistas de 'Friends' durante toda la serie.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió la película 'Jaws' (Tiburón)?",
+      "options": ["George Lucas", "Steven Spielberg", "Francis Ford Coppola", "Martin Scorsese"],
+      "correct_answer": 1,
+      "explanation": "Steven Spielberg dirigió 'Jaws' (1975), que se considera la primera gran película blockbuster de Hollywood.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó 'Breaking Bad'?",
+      "options": ["2006", "2008", "2010", "2012"],
+      "correct_answer": 1,
+      "explanation": "'Breaking Bad' se estrenó en 2008 y duró hasta 2013, siendo aclamada como una de las mejores series de televisión.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre del planeta natal de Superman?",
+      "options": ["Krypton", "Kryptonia", "Kripton", "Kriptón"],
+      "correct_answer": 0,
+      "explanation": "Krypton es el planeta natal de Superman (Kal-El), destruido antes de que llegara a la Tierra como bebé.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién interpretó a Forrest Gump?",
+      "options": ["Robin Williams", "Tom Hanks", "Kevin Costner", "Russell Crowe"],
+      "correct_answer": 1,
+      "explanation": "Tom Hanks interpretó a Forrest Gump en la película de 1994, ganando el Oscar al Mejor Actor.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la saga de películas de terror más exitosa comercialmente?",
+      "options": ["Halloween", "Viernes 13", "Saw", "Scream"],
+      "correct_answer": 2,
+      "explanation": "La saga 'Saw' (El juego del miedo) es la franquicia de terror más exitosa comercialmente con más de $1 mil millones recaudados.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué serie aparece el personaje de Walter White?",
+      "options": ["Dexter", "The Sopranos", "Breaking Bad", "Better Call Saul"],
+      "correct_answer": 2,
+      "explanation": "Walter White es el protagonista de 'Breaking Bad', interpretado magistralmente por Bryan Cranston.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del primer parque temático de Disney?",
+      "options": ["Disney World", "Disneyland", "Disney California", "Magic Kingdom"],
+      "correct_answer": 1,
+      "explanation": "Disneyland en California fue el primer parque temático de Disney, inaugurado en 1955 por Walt Disney.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién creó el personaje de Batman?",
+      "options": ["Stan Lee", "Bob Kane", "Jack Kirby", "Steve Ditko"],
+      "correct_answer": 1,
+      "explanation": "Bob Kane creó a Batman en 1939 para DC Comics, aunque Bill Finger contribuyó significativamente al desarrollo del personaje.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película aparece la famosa escena de la ducha?",
+      "options": ["El resplandor", "Psicosis", "Los pájaros", "Vértigo"],
+      "correct_answer": 1,
+      "explanation": "La icónica escena de la ducha aparece en 'Psicosis' (1960) de Alfred Hitchcock, considerada una de las más famosas del cine.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre real de Wolverine en los X-Men?",
+      "options": ["Logan", "James Howlett", "Weapon X", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Wolverine tiene múltiples identidades: nació como James Howlett, adoptó el nombre Logan, y fue sujeto del proyecto Weapon X.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se emitió el último episodio de 'Seinfeld'?",
+      "options": ["1996", "1997", "1998", "1999"],
+      "correct_answer": 2,
+      "explanation": "El episodio final de 'Seinfeld' se emitió el 14 de mayo de 1998, siendo visto por más de 76 millones de personas.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién dirigió 'The Godfather' (El Padrino)?",
+      "options": ["Martin Scorsese", "Francis Ford Coppola", "Robert De Niro", "Al Pacino"],
+      "correct_answer": 1,
+      "explanation": "Francis Ford Coppola dirigió 'The Godfather' (1972), considerada una de las mejores películas de la historia del cine.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la serie de anime más vista en todo el mundo?",
+      "options": ["Dragon Ball", "Naruto", "One Piece", "Attack on Titan"],
+      "correct_answer": 0,
+      "explanation": "Dragon Ball es considerada la serie de anime más vista y reconocida mundialmente, creada por Akira Toriyama.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué película de Disney aparece el personaje de Olaf?",
+      "options": ["Moana", "Enredados", "Frozen", "Vaiana"],
+      "correct_answer": 2,
+      "explanation": "Olaf es el muñeco de nieve parlante que aparece en 'Frozen' (2013) y su secuela 'Frozen II' (2019).",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién interpretó a Neo en 'The Matrix'?",
+      "options": ["Brad Pitt", "Keanu Reeves", "Will Smith", "Tom Cruise"],
+      "correct_answer": 1,
+      "explanation": "Keanu Reeves interpretó a Neo en la trilogía 'The Matrix', convirtiéndose en uno de sus papeles más icónicos.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el festival de cine más prestigioso del mundo?",
+      "options": ["Festival de Cannes", "Oscar", "Festival de Venecia", "Festival de Sundance"],
+      "correct_answer": 0,
+      "explanation": "El Festival de Cannes es considerado el festival de cine más prestigioso del mundo, celebrado anualmente en Francia desde 1946.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué década se popularizó el término 'blockbuster'?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correct_answer": 1,
+      "explanation": "El término 'blockbuster' se popularizó en los años 70 con películas como 'Jaws' y 'Star Wars' que generaron enormes taquillas.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre del hobbit protagonista de 'El Señor de los Anillos'?",
+      "options": ["Bilbo Baggins", "Frodo Baggins", "Samwise Gamgee", "Peregrin Took"],
+      "correct_answer": 1,
+      "explanation": "Frodo Baggins es el hobbit protagonista de 'El Señor de los Anillos', encargado de destruir el Anillo Único.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién creó la serie 'Stranger Things'?",
+      "options": ["Los hermanos Duffer", "J.J. Abrams", "Ryan Murphy", "Shonda Rhimes"],
+      "correct_answer": 0,
+      "explanation": "Matt y Ross Duffer, conocidos como los hermanos Duffer, crearon 'Stranger Things' para Netflix en 2016.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se realizó la primera ceremonia de los Premios Oscar?",
+      "options": ["1927", "1929", "1931", "1933"],
+      "correct_answer": 1,
+      "explanation": "La primera ceremonia de los Premios Oscar se realizó el 16 de mayo de 1929, honrando películas de 1927 y 1928.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el videojuego más vendido de todos los tiempos?",
+      "options": ["Tetris", "Minecraft", "Grand Theft Auto V", "Super Mario Bros."],
+      "correct_answer": 1,
+      "explanation": "Minecraft es el videojuego más vendido de todos los tiempos con más de 300 millones de copias vendidas.",
+      "category": "entretenimiento",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpretó a Jack en 'Titanic'?",
+      "options": ["Brad Pitt", "Leonardo DiCaprio", "Matt Damon", "Ryan Gosling"],
+      "correct_answer": 1,
+      "explanation": "Leonardo DiCaprio interpretó a Jack Dawson en 'Titanic' (1997), uno de sus papeles más memorables.",
+      "category": "entretenimiento",
+      "difficulty": "easy"
+    }
+  ]
+}
