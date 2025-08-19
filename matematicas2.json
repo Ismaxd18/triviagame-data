@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el resultado de 8 × 7?",
+      "options": ["54", "56", "58", "64"],
+      "correct_answer": 1,
+      "explanation": "8 × 7 = 56. Esta es una multiplicación básica de las tablas de multiplicar.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto es 15% de 200?",
+      "options": ["25", "30", "35", "40"],
+      "correct_answer": 1,
+      "explanation": "15% de 200 = (15/100) × 200 = 0.15 × 200 = 30. Para calcular porcentajes, multiplicamos el número por el porcentaje dividido entre 100.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el valor de π (pi) aproximadamente?",
+      "options": ["3.12", "3.14", "3.16", "3.18"],
+      "correct_answer": 1,
+      "explanation": "π (pi) es aproximadamente 3.14159..., comúnmente redondeado a 3.14. Es la relación entre la circunferencia y el diámetro de un círculo.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la raíz cuadrada de 144?",
+      "options": ["11", "12", "13", "14"],
+      "correct_answer": 1,
+      "explanation": "La raíz cuadrada de 144 es 12, porque 12 × 12 = 144. Es importante memorizar las raíces cuadradas perfectas.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "En una ecuación lineal y = mx + b, ¿qué representa 'm'?",
+      "options": ["La intersección en y", "La pendiente", "La intersección en x", "El punto medio"],
+      "correct_answer": 1,
+      "explanation": "En y = mx + b, 'm' representa la pendiente de la recta, que indica qué tan inclinada está la línea.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el resultado de 2³ + 3²?",
+      "options": ["15", "17", "19", "21"],
+      "correct_answer": 1,
+      "explanation": "2³ = 2×2×2 = 8 y 3² = 3×3 = 9. Por lo tanto, 8 + 9 = 17.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos grados tiene un triángulo equilátero en cada ángulo?",
+      "options": ["45°", "60°", "90°", "120°"],
+      "correct_answer": 1,
+      "explanation": "Un triángulo equilátero tiene todos sus ángulos iguales. Como la suma de ángulos internos es 180°, cada ángulo mide 180°/3 = 60°.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la fórmula del área de un círculo?",
+      "options": ["πr", "2πr", "πr²", "πd"],
+      "correct_answer": 2,
+      "explanation": "El área de un círculo es πr², donde r es el radio. Esta fórmula fundamental relaciona el área con el cuadrado del radio.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Si x + 5 = 12, ¿cuál es el valor de x?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": 2,
+      "explanation": "Para resolver x + 5 = 12, restamos 5 de ambos lados: x = 12 - 5 = 7.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el máximo común divisor de 18 y 24?",
+      "options": ["3", "6", "9", "12"],
+      "correct_answer": 1,
+      "explanation": "Los divisores de 18 son: 1,2,3,6,9,18. Los divisores de 24 son: 1,2,3,4,6,8,12,24. El máximo común divisor es 6.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuánto es (-3) × (-4)?",
+      "options": ["-12", "-7", "7", "12"],
+      "correct_answer": 3,
+      "explanation": "El producto de dos números negativos es positivo. (-3) × (-4) = +12.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la mediana de los números: 3, 7, 5, 9, 1?",
+      "options": ["3", "5", "7", "9"],
+      "correct_answer": 1,
+      "explanation": "Primero ordenamos: 1, 3, 5, 7, 9. La mediana es el valor central, que es 5.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el perímetro de un cuadrado con lado de 8 cm?",
+      "options": ["24 cm", "28 cm", "32 cm", "36 cm"],
+      "correct_answer": 2,
+      "explanation": "El perímetro de un cuadrado es 4 × lado. Por lo tanto: 4 × 8 = 32 cm.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el resultado de √(25 + 144)?",
+      "options": ["12", "13", "14", "15"],
+      "correct_answer": 1,
+      "explanation": "Primero calculamos dentro del radical: 25 + 144 = 169. Luego √169 = 13.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué tipo de número es 0.333...?",
+      "options": ["Número entero", "Número irracional", "Fracción decimal periódica", "Número primo"],
+      "correct_answer": 2,
+      "explanation": "0.333... = 1/3 es una fracción decimal periódica, donde el 3 se repite infinitamente.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuánto es 5! (5 factorial)?",
+      "options": ["25", "100", "120", "125"],
+      "correct_answer": 2,
+      "explanation": "5! = 5 × 4 × 3 × 2 × 1 = 120. El factorial es el producto de todos los números enteros positivos menores o iguales al número dado.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el volumen de un cubo con arista de 4 cm?",
+      "options": ["16 cm³", "48 cm³", "64 cm³", "72 cm³"],
+      "correct_answer": 2,
+      "explanation": "El volumen de un cubo es arista³. Por lo tanto: 4³ = 4 × 4 × 4 = 64 cm³.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Si un ángulo mide 45°, ¿cuánto mide su ángulo complementario?",
+      "options": ["35°", "45°", "55°", "135°"],
+      "correct_answer": 1,
+      "explanation": "Dos ángulos son complementarios si suman 90°. Por lo tanto: 90° - 45° = 45°.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la pendiente de una línea que pasa por (0,0) y (3,6)?",
+      "options": ["1", "2", "3", "6"],
+      "correct_answer": 1,
+      "explanation": "La pendiente m = (y₂-y₁)/(x₂-x₁) = (6-0)/(3-0) = 6/3 = 2.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuánto es 0.25 expresado como fracción?",
+      "options": ["1/2", "1/4", "1/3", "1/5"],
+      "correct_answer": 1,
+      "explanation": "0.25 = 25/100 = 1/4 (simplificando dividiendo numerador y denominador entre 25).",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la suma de los ángulos internos de un pentágono?",
+      "options": ["360°", "540°", "720°", "900°"],
+      "correct_answer": 1,
+      "explanation": "La fórmula es (n-2) × 180°, donde n es el número de lados. Para un pentágono: (5-2) × 180° = 3 × 180° = 540°.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el mínimo común múltiplo de 6 y 8?",
+      "options": ["14", "24", "36", "48"],
+      "correct_answer": 1,
+      "explanation": "Múltiplos de 6: 6,12,18,24,30... Múltiplos de 8: 8,16,24,32... El menor múltiplo común es 24.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuánto es 2/3 + 1/6?",
+      "options": ["3/9", "5/6", "3/6", "4/9"],
+      "correct_answer": 1,
+      "explanation": "Para sumar fracciones necesitamos el mismo denominador: 2/3 = 4/6, entonces 4/6 + 1/6 = 5/6.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la distancia entre los puntos (1,2) y (4,6)?",
+      "options": ["3", "4", "5", "7"],
+      "correct_answer": 2,
+      "explanation": "Usando la fórmula de distancia: d = √[(x₂-x₁)² + (y₂-y₁)²] = √[(4-1)² + (6-2)²] = √[9 + 16] = √25 = 5.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el resultado de |−8|?",
+      "options": ["-8", "0", "8", "16"],
+      "correct_answer": 2,
+      "explanation": "El valor absoluto de -8 es 8. El valor absoluto de un número es siempre positivo o cero.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos grados tiene un círculo completo?",
+      "options": ["180°", "270°", "360°", "400°"],
+      "correct_answer": 2,
+      "explanation": "Un círculo completo tiene 360 grados. Esto se deriva de la división babilónica del círculo.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la derivada de x²?",
+      "options": ["x", "2x", "x²", "2"],
+      "correct_answer": 1,
+      "explanation": "La derivada de x² es 2x, aplicando la regla de potencias: d/dx(xⁿ) = n·x^(n-1).",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el número primo más pequeño?",
+      "options": ["0", "1", "2", "3"],
+      "correct_answer": 2,
+      "explanation": "El 2 es el número primo más pequeño y el único número primo par, ya que solo es divisible por 1 y por sí mismo.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto es 2³ × 2⁴?",
+      "options": ["2⁷", "2¹²", "4⁷", "16"],
+      "correct_answer": 0,
+      "explanation": "2³ × 2⁴ = 2^(3+4) = 2⁷ = 128. Al multiplicar potencias de la misma base, se suman los exponentes.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la fórmula del área de un triángulo?",
+      "options": ["base × altura", "(base × altura) ÷ 2", "base + altura", "2 × base × altura"],
+      "correct_answer": 1,
+      "explanation": "El área de un triángulo es (base × altura) ÷ 2. Esta fórmula se deriva de que un triángulo es la mitad de un paralelogramo.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto vale la suma de los ángulos internos de un cuadrilátero?",
+      "options": ["180°", "270°", "360°", "540°"],
+      "correct_answer": 2,
+      "explanation": "La suma de los ángulos internos de cualquier cuadrilátero es 360°. Esto se puede demostrar dividiendo el cuadrilátero en dos triángulos.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el resultado de √64?",
+      "options": ["6", "7", "8", "9"],
+      "correct_answer": 2,
+      "explanation": "√64 = 8, porque 8 × 8 = 64. Es importante conocer las raíces cuadradas de los cuadrados perfectos.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto es 25% de 80?",
+      "options": ["15", "20", "25", "30"],
+      "correct_answer": 1,
+      "explanation": "25% de 80 = (25/100) × 80 = 0.25 × 80 = 20. El 25% es equivalente a 1/4.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el siguiente número en la secuencia de Fibonacci: 1, 1, 2, 3, 5, 8, ?",
+      "options": ["11", "12", "13", "15"],
+      "correct_answer": 2,
+      "explanation": "En la secuencia de Fibonacci, cada número es la suma de los dos anteriores: 5 + 8 = 13.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos milímetros hay en un metro?",
+      "options": ["100", "1,000", "10,000", "100,000"],
+      "correct_answer": 1,
+      "explanation": "1 metro = 1,000 milímetros. El prefijo 'mili' significa una milésima parte.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la probabilidad de obtener cara al lanzar una moneda justa?",
+      "options": ["1/4", "1/3", "1/2", "2/3"],
+      "correct_answer": 2,
+      "explanation": "La probabilidad de obtener cara es 1/2 o 50%, ya que hay 2 resultados posibles igualmente probables.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la integral de 2x?",
+      "options": ["x²", "x² + C", "2", "2x"],
+      "correct_answer": 1,
+      "explanation": "La integral de 2x es x² + C, donde C es la constante de integración. Se aplica la regla de potencias para integración.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuánto es 3⁰?",
+      "options": ["0", "1", "3", "Indefinido"],
+      "correct_answer": 1,
+      "explanation": "Cualquier número elevado a la potencia 0 es igual a 1, excepto 0⁰ que es indeterminado.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el volumen de una esfera con radio r?",
+      "options": ["πr²", "4πr²", "(4/3)πr³", "πr³"],
+      "correct_answer": 2,
+      "explanation": "El volumen de una esfera es V = (4/3)πr³, donde r es el radio de la esfera.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos centímetros cúbicos hay en un litro?",
+      "options": ["100", "1,000", "10,000", "100,000"],
+      "correct_answer": 1,
+      "explanation": "1 litro = 1,000 centímetros cúbicos (cm³). Esta equivalencia es fundamental en el sistema métrico.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el coeficiente de x en la expresión 5x + 3?",
+      "options": ["3", "5", "8", "x"],
+      "correct_answer": 1,
+      "explanation": "El coeficiente de x en 5x + 3 es 5, que es el número que multiplica a la variable x.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto es log₁₀(100)?",
+      "options": ["1", "2", "10", "100"],
+      "correct_answer": 1,
+      "explanation": "log₁₀(100) = 2, porque 10² = 100. El logaritmo base 10 de 100 es 2.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la hipotenusa de un triángulo rectángulo con catetos de 3 y 4?",
+      "options": ["5", "6", "7", "12"],
+      "correct_answer": 0,
+      "explanation": "Usando el teorema de Pitágoras: c² = 3² + 4² = 9 + 16 = 25, por lo tanto c = 5.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos lados tiene un dodecágono?",
+      "options": ["10", "11", "12", "20"],
+      "correct_answer": 2,
+      "explanation": "Un dodecágono tiene 12 lados. El prefijo 'dodeca' significa doce.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el resultado de (-2)³?",
+      "options": ["-6", "-8", "6", "8"],
+      "correct_answer": 1,
+      "explanation": "(-2)³ = (-2) × (-2) × (-2) = -8. Un número negativo elevado a una potencia impar es negativo.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos radianes hay en 180°?",
+      "options": ["π", "2π", "π/2", "3π/2"],
+      "correct_answer": 0,
+      "explanation": "180° = π radianes. Esta es una conversión fundamental: 180° = π radianes, 90° = π/2 radianes.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el área de un círculo con diámetro de 10?",
+      "options": ["25π", "50π", "100π", "10π"],
+      "correct_answer": 0,
+      "explanation": "Si el diámetro es 10, el radio es 5. Área = πr² = π(5)² = 25π.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuánto es (1/2) + (1/3)?",
+      "options": ["2/5", "1/5", "5/6", "2/6"],
+      "correct_answer": 2,
+      "explanation": "(1/2) + (1/3) = (3/6) + (2/6) = 5/6. Para sumar fracciones, necesitamos un denominador común.",
+      "category": "matematicas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el valor de sin(90°)?",
+      "options": ["0", "1", "1/2", "√3/2"],
+      "correct_answer": 1,
+      "explanation": "sin(90°) = 1. Este es un valor trigonométrico fundamental que debe memorizarse.",
+      "category": "matematicas",
+      "difficulty": "medium"
+    }
+  ]
+}
