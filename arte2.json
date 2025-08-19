@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién pintó 'La Mona Lisa'?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Donatello"],
+      "correct_answer": 1,
+      "explanation": "Leonardo da Vinci pintó 'La Mona Lisa' entre 1503 y 1519, siendo una de las obras más famosas de la historia del arte.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué museo se encuentra 'La Mona Lisa'?",
+      "options": ["Museo del Prado", "Louvre", "Metropolitan", "Uffizi"],
+      "correct_answer": 1,
+      "explanation": "La Mona Lisa se encuentra en el Museo del Louvre en París, Francia, siendo una de sus obras más visitadas.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién esculpió 'El David'?",
+      "options": ["Leonardo da Vinci", "Rafael", "Michelangelo", "Bernini"],
+      "correct_answer": 2,
+      "explanation": "Michelangelo esculpió 'El David' entre 1501 y 1504, una obra maestra del Renacimiento que se encuentra en Florencia.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué movimiento artístico fundó Pablo Picasso?",
+      "options": ["Surrealismo", "Impresionismo", "Cubismo", "Expresionismo"],
+      "correct_answer": 2,
+      "explanation": "Pablo Picasso, junto con Georges Braque, fundó el Cubismo a principios del siglo XX, revolucionando el arte moderno.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién pintó 'La noche estrellada'?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet", "Salvador Dalí"],
+      "correct_answer": 1,
+      "explanation": "Vincent van Gogh pintó 'La noche estrellada' en 1889 mientras estaba en el sanatorio de Saint-Rémy-de-Provence.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la técnica de pintura que usa pequeños puntos de color?",
+      "options": ["Impresionismo", "Puntillismo", "Fauvismo", "Expresionismo"],
+      "correct_answer": 1,
+      "explanation": "El Puntillismo es una técnica pictórica que utiliza pequeños puntos de colores puros que se mezclan ópticamente, desarrollada por Seurat.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo vivió Leonardo da Vinci?",
+      "options": ["Siglo XIV", "Siglo XV", "Siglo XVI", "Siglo XVII"],
+      "correct_answer": 2,
+      "explanation": "Leonardo da Vinci vivió principalmente en los siglos XV y XVI (1452-1519), siendo una figura clave del Renacimiento.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién pintó 'Guernica'?",
+      "options": ["Joan Miró", "Pablo Picasso", "Salvador Dalí", "Francisco Goya"],
+      "correct_answer": 1,
+      "explanation": "Pablo Picasso pintó 'Guernica' en 1937 como protesta contra el bombardeo de Guernica durante la Guerra Civil Española.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la pintura más cara jamás vendida?",
+      "options": ["La Mona Lisa", "Salvator Mundi", "Los jugadores de cartas", "Nafea Faa Ipoipo"],
+      "correct_answer": 1,
+      "explanation": "'Salvator Mundi' de Leonardo da Vinci se vendió por $450.3 millones en 2017, siendo la pintura más cara jamás vendida.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué artista cortó su propia oreja?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Paul Gauguin", "Henri Toulouse-Lautrec"],
+      "correct_answer": 1,
+      "explanation": "Vincent van Gogh se cortó parte de su oreja izquierda en 1888 durante una crisis mental en Arles, Francia.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el período artístico conocido por el 'renacimiento' del arte clásico?",
+      "options": ["Barroco", "Renacimiento", "Gótico", "Románico"],
+      "correct_answer": 1,
+      "explanation": "El Renacimiento (siglos XIV-XVI) fue el período de renacimiento cultural que revivió el interés por el arte y la cultura clásica.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién pintó 'Las Meninas'?",
+      "options": ["El Greco", "Francisco Goya", "Diego Velázquez", "Bartolomé Murillo"],
+      "correct_answer": 2,
+      "explanation": "Diego Velázquez pintó 'Las Meninas' en 1656, considerada una de las obras maestras de la pintura española.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué material esculpió Michelangelo principalmente?",
+      "options": ["Bronce", "Mármol", "Madera", "Arcilla"],
+      "correct_answer": 1,
+      "explanation": "Michelangelo trabajó principalmente en mármol, considerándose a sí mismo primordialmente un escultor antes que pintor.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué movimiento artístico caracterizó Salvador Dalí?",
+      "options": ["Cubismo", "Impresionismo", "Surrealismo", "Fauvismo"],
+      "correct_answer": 2,
+      "explanation": "Salvador Dalí fue uno de los máximos exponentes del Surrealismo, conocido por sus imágenes oníricas y técnica paranoico-crítica.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la técnica de pintura más rápida de secar?",
+      "options": ["Óleo", "Acuarela", "Acrílico", "Pastel"],
+      "correct_answer": 2,
+      "explanation": "La pintura acrílica seca muy rápidamente comparada con el óleo, permitiendo trabajar por capas en poco tiempo.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién pintó la Capilla Sixtina?",
+      "options": ["Leonardo da Vinci", "Rafael", "Michelangelo", "Donatello"],
+      "correct_answer": 2,
+      "explanation": "Michelangelo pintó el techo de la Capilla Sixtina entre 1508 y 1512, incluyendo la famosa escena de 'La Creación de Adán'.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué ciudad se encuentra el Museo del Prado?",
+      "options": ["Barcelona", "Madrid", "Sevilla", "Valencia"],
+      "correct_answer": 1,
+      "explanation": "El Museo del Prado se encuentra en Madrid, España, y alberga una de las mejores colecciones de arte europeo del mundo.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién pintó 'El grito'?",
+      "options": ["Edvard Munch", "Wassily Kandinsky", "Ernst Ludwig Kirchner", "Franz Marc"],
+      "correct_answer": 0,
+      "explanation": "Edvard Munch pintó 'El grito' en 1893, convirtiéndose en un ícono del arte expresionista y de la ansiedad moderna.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la técnica artística que usa cera caliente?",
+      "options": ["Fresco", "Temple", "Encáustica", "Gouache"],
+      "correct_answer": 2,
+      "explanation": "La encáustica es una técnica pictórica que utiliza cera caliente como aglutinante, usada desde la antigüedad.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién es considerado el padre del Impresionismo?",
+      "options": ["Auguste Renoir", "Claude Monet", "Edgar Degas", "Camille Pissarro"],
+      "correct_answer": 1,
+      "explanation": "Claude Monet es considerado el padre del Impresionismo, siendo su obra 'Impresión, sol naciente' la que dio nombre al movimiento.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué siglo se desarrolló el Arte Pop?",
+      "options": ["Siglo XVIII", "Siglo XIX", "Siglo XX", "Siglo XXI"],
+      "correct_answer": 2,
+      "explanation": "El Arte Pop se desarrolló en el siglo XX, específicamente en las décadas de 1950 y 1960, con artistas como Andy Warhol.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién pintó 'La persistencia de la memoria' (relojes derretidos)?",
+      "options": ["Pablo Picasso", "Salvador Dalí", "Joan Miró", "René Magritte"],
+      "correct_answer": 1,
+      "explanation": "Salvador Dalí pintó 'La persistencia de la memoria' en 1931, famosa por sus relojes derretidos que simbolizan la relatividad del tiempo.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el museo de arte más grande del mundo?",
+      "options": ["Louvre", "Metropolitan", "Hermitage", "British Museum"],
+      "correct_answer": 0,
+      "explanation": "El Louvre en París es el museo de arte más grande del mundo, con más de 380,000 objetos y 35,000 obras en exposición.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué artista es famoso por sus girasoles?",
+      "options": ["Claude Monet", "Vincent van Gogh", "Paul Cézanne", "Henri Matisse"],
+      "correct_answer": 1,
+      "explanation": "Vincent van Gogh es famoso por su serie de pinturas de girasoles, creadas entre 1888 y 1889 como decoración para su casa.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la escultura más famosa de Auguste Rodin?",
+      "options": ["El beso", "El pensador", "Los burgueses de Calais", "La edad de bronce"],
+      "correct_answer": 1,
+      "explanation": "'El pensador' es la escultura más famosa de Auguste Rodin, originalmente parte de 'Las puertas del infierno' (1880).",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué período artístico se utilizó principalmente la perspectiva?",
+      "options": ["Medieval", "Renacimiento", "Barroco", "Gótico"],
+      "correct_answer": 1,
+      "explanation": "Durante el Renacimiento se perfeccionó y popularizó el uso de la perspectiva lineal para crear profundidad en las pinturas.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién pintó 'Mujer llorando'?",
+      "options": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Henri Matisse"],
+      "correct_answer": 1,
+      "explanation": "Pablo Picasso pintó 'Mujer llorando' en 1937, considerada una continuación temática de 'Guernica'.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la técnica de grabado en metal más antigua?",
+      "options": ["Aguafuerte", "Grabado", "Litografía", "Serigrafía"],
+      "correct_answer": 1,
+      "explanation": "El grabado en metal (buril sobre cobre) es la técnica de grabado más antigua, desarrollada en el siglo XV.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién diseñó la Sagrada Familia en Barcelona?",
+      "options": ["Le Corbusier", "Frank Lloyd Wright", "Antoni Gaudí", "Oscar Niemeyer"],
+      "correct_answer": 2,
+      "explanation": "Antoni Gaudí diseñó la Sagrada Familia, iniciada en 1882 y aún en construcción, siendo su obra maestra arquitectónica.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué consiste la técnica del 'sfumato'?",
+      "options": ["Pinceladas visibles", "Contornos difuminados", "Colores puros", "Texturas rugosas"],
+      "correct_answer": 1,
+      "explanation": "El sfumato es una técnica pictórica que suaviza los contornos mediante gradaciones tonales, perfeccionada por Leonardo da Vinci.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién pintó 'El jardín de las delicias'?",
+      "options": ["Jan van Eyck", "Hieronymus Bosch", "Pieter Bruegel", "Albrecht Dürer"],
+      "correct_answer": 1,
+      "explanation": "Hieronymus Bosch (El Bosco) pintó 'El jardín de las delicias' hacia 1500-1505, un tríptico lleno de simbolismo fantástico.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue el movimiento artístico previo al Impresionismo?",
+      "options": ["Romanticismo", "Realismo", "Neoclasicismo", "Barbizon"],
+      "correct_answer": 1,
+      "explanation": "El Realismo, liderado por Gustave Courbet, precedió al Impresionismo, enfocándose en temas cotidianos sin idealización.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué artista es famoso por sus ballet y bailarinas?",
+      "options": ["Auguste Renoir", "Edgar Degas", "Henri Toulouse-Lautrec", "Édouard Manet"],
+      "correct_answer": 1,
+      "explanation": "Edgar Degas es famoso por sus pinturas y esculturas de bailarinas de ballet, capturando el movimiento y la gracia.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué material trabajaba principalmente Alexander Calder?",
+      "options": ["Mármol", "Bronce", "Metal", "Madera"],
+      "correct_answer": 2,
+      "explanation": "Alexander Calder trabajaba principalmente con metal, siendo famoso por inventar los móviles (esculturas cinéticas).",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién pintó 'Olympia'?",
+      "options": ["Auguste Renoir", "Édouard Manet", "Claude Monet", "Edgar Degas"],
+      "correct_answer": 1,
+      "explanation": "Édouard Manet pintó 'Olympia' en 1863, una obra que causó escándalo y marcó la transición hacia el arte moderno.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la pintura al fresco más famosa?",
+      "options": ["La última cena", "La escuela de Atenas", "La creación de Adán", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Todas son famosos frescos: 'La última cena' de da Vinci, 'La escuela de Atenas' de Rafael, y 'La creación de Adán' de Michelangelo.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién fue el líder del movimiento Fauve?",
+      "options": ["Henri Matisse", "André Derain", "Maurice de Vlaminck", "Raoul Dufy"],
+      "correct_answer": 0,
+      "explanation": "Henri Matisse fue el líder del movimiento Fauve, caracterizado por el uso de colores intensos y no naturalistas.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué ciudad nació el Renacimiento?",
+      "options": ["Roma", "Venecia", "Florencia", "Milán"],
+      "correct_answer": 2,
+      "explanation": "Florencia es considerada la cuna del Renacimiento, donde florecieron artistas como da Vinci, Michelangelo y Botticelli.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién pintó 'Las señoritas de Avignon'?",
+      "options": ["Henri Matisse", "Pablo Picasso", "Georges Braque", "Juan Gris"],
+      "correct_answer": 1,
+      "explanation": "Pablo Picasso pintó 'Las señoritas de Avignon' en 1907, obra que marcó el inicio del Cubismo.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la característica principal del Art Nouveau?",
+      "options": ["Líneas geométricas", "Formas orgánicas", "Colores primarios", "Abstracción total"],
+      "correct_answer": 1,
+      "explanation": "El Art Nouveau se caracteriza por formas orgánicas inspiradas en la naturaleza, líneas curvas y motivos florales.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién esculpió 'El beso'?",
+      "options": ["Michelangelo", "Auguste Rodin", "Constantin Brâncuși", "Alberto Giacometti"],
+      "correct_answer": 1,
+      "explanation": "Auguste Rodin esculpió 'El beso' en 1889, una de sus obras más románticas y populares.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué técnica inventó Georges Seurat?",
+      "options": ["Impresionismo", "Puntillismo", "Fauvismo", "Cubismo"],
+      "correct_answer": 1,
+      "explanation": "Georges Seurat inventó el Puntillismo (también llamado Neoimpresionismo), usando puntos de color puro para crear imágenes.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué museo se encuentra 'El David' de Michelangelo?",
+      "options": ["Louvre", "Uffizi", "Academia de Florencia", "Vaticano"],
+      "correct_answer": 2,
+      "explanation": "'El David' original de Michelangelo se encuentra en la Galería de la Academia en Florencia, Italia.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién pintó 'El nacimiento de Venus'?",
+      "options": ["Leonardo da Vinci", "Rafael", "Sandro Botticelli", "Tiziano"],
+      "correct_answer": 2,
+      "explanation": "Sandro Botticelli pintó 'El nacimiento de Venus' hacia 1484-1486, una de las obras maestras del Renacimiento italiano.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el estilo arquitectónico de Notre-Dame de París?",
+      "options": ["Románico", "Gótico", "Barroco", "Neoclásico"],
+      "correct_answer": 1,
+      "explanation": "Notre-Dame de París es un ejemplo magistral del estilo gótico, iniciada en 1163 con sus características bóvedas y arbotantes.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el máximo exponente del Pop Art?",
+      "options": ["Roy Lichtenstein", "Andy Warhol", "Jasper Johns", "Robert Rauschenberg"],
+      "correct_answer": 1,
+      "explanation": "Andy Warhol fue el máximo exponente del Pop Art, famoso por sus serigrafías de celebridades y productos comerciales.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué consiste la técnica del 'collage'?",
+      "options": ["Mezclar colores", "Pegar materiales diversos", "Tallar en relieve", "Fundir metales"],
+      "correct_answer": 1,
+      "explanation": "El collage consiste en pegar diversos materiales (papel, tela, objetos) sobre un soporte, técnica popularizada por Picasso y Braque.",
+      "category": "arte",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién diseñó el museo Guggenheim de Nueva York?",
+      "options": ["Frank Lloyd Wright", "Le Corbusier", "Mies van der Rohe", "Walter Gropius"],
+      "correct_answer": 0,
+      "explanation": "Frank Lloyd Wright diseñó el Museo Guggenheim de Nueva York, completado en 1959 con su característica forma espiral.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue el primer movimiento artístico de vanguardia del siglo XX?",
+      "options": ["Cubismo", "Fauvismo", "Expresionismo", "Futurismo"],
+      "correct_answer": 1,
+      "explanation": "El Fauvismo (1905-1910) fue el primer movimiento de vanguardia del siglo XX, liderado por Henri Matisse y caracterizado por colores intensos.",
+      "category": "arte",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué artista creó las 'Marilyn' serigráficas?",
+      "options": ["Roy Lichtenstein", "Andy Warhol", "Keith Haring", "Jean-Michel Basquiat"],
+      "correct_answer": 1,
+      "explanation": "Andy Warhol creó las famosas serigrafías de Marilyn Monroe en 1962, poco después de la muerte de la actriz.",
+      "category": "arte",
+      "difficulty": "easy"
+    }
+  ]
+}
