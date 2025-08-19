@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el animal más grande del mundo?",
+      "options": ["Elefante africano", "Ballena azul", "Tiburón ballena", "Jirafa"],
+      "correct_answer": 1,
+      "explanation": "La ballena azul es el animal más grande del mundo, pudiendo alcanzar hasta 30 metros de longitud y 200 toneladas de peso.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos corazones tiene un pulpo?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": 2,
+      "explanation": "Los pulpos tienen tres corazones: dos bombean sangre a las branquias y uno al resto del cuerpo.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué gas producen las plantas durante la fotosíntesis?",
+      "options": ["Dióxido de carbono", "Nitrógeno", "Oxígeno", "Hidrógeno"],
+      "correct_answer": 2,
+      "explanation": "Durante la fotosíntesis, las plantas producen oxígeno como subproducto mientras convierten dióxido de carbono y agua en glucosa.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el ave más rápida del mundo?",
+      "options": ["Águila real", "Halcón peregrino", "Albatros", "Colibrí"],
+      "correct_answer": 1,
+      "explanation": "El halcón peregrino es el ave más rápida, alcanzando velocidades de hasta 390 km/h en picada durante la caza.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántas especies de árboles produce la selva amazónica aproximadamente?",
+      "options": ["5,000", "10,000", "16,000", "25,000"],
+      "correct_answer": 2,
+      "explanation": "La Amazonía alberga aproximadamente 16,000 especies de árboles, siendo el bosque más biodiverso del planeta.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal puede vivir más tiempo sin agua?",
+      "options": ["Camello", "Rata canguro", "Tardígrado", "Escorpión"],
+      "correct_answer": 1,
+      "explanation": "La rata canguro puede vivir toda su vida sin beber agua, obteniendo toda la humedad que necesita de las semillas que consume.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el felino más grande del mundo?",
+      "options": ["León", "Leopardo", "Tigre", "Jaguar"],
+      "correct_answer": 2,
+      "explanation": "El tigre es el felino más grande del mundo, con los machos siberianos alcanzando hasta 3 metros de longitud.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué parte de la planta realiza la fotosíntesis?",
+      "options": ["Raíces", "Tallo", "Hojas", "Flores"],
+      "correct_answer": 2,
+      "explanation": "Las hojas contienen cloroplastos con clorofila, que capturan la luz solar para realizar la fotosíntesis.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el ecosistema más biodiverso del planeta?",
+      "options": ["Desierto", "Tundra", "Selva tropical", "Océano"],
+      "correct_answer": 2,
+      "explanation": "Las selvas tropicales son los ecosistemas más biodiversos, albergando más del 50% de las especies terrestres conocidas.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos estómagos tiene una vaca?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": 0,
+      "explanation": "Las vacas tienen un solo estómago, pero dividido en cuatro cámaras: rumen, retículo, omaso y abomaso.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal nunca duerme?",
+      "options": ["Delfín", "Tiburón", "Ningún animal", "Pulpo"],
+      "correct_answer": 2,
+      "explanation": "Todos los animales necesitan algún tipo de descanso. Algunos como los delfines duermen con medio cerebro, pero ninguno está completamente sin descanso.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el insecto más fuerte del mundo?",
+      "options": ["Hormiga", "Escarabajo rinoceronte", "Abeja", "Saltamontes"],
+      "correct_answer": 1,
+      "explanation": "El escarabajo rinoceronte puede cargar hasta 850 veces su propio peso, siendo proporcionalmente el animal más fuerte del mundo.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Dónde almacenan grasa los camellos?",
+      "options": ["En el estómago", "En las patas", "En la joroba", "En la cola"],
+      "correct_answer": 2,
+      "explanation": "Los camellos almacenan grasa en sus jorobas, no agua como comúnmente se cree. Esta grasa les proporciona energía.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el árbol más alto del mundo?",
+      "options": ["Baobab", "Secuoya gigante", "Eucalipto", "Cedro"],
+      "correct_answer": 1,
+      "explanation": "Las secuoyas gigantes de California son los árboles más altos del mundo, alcanzando alturas superiores a 115 metros.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué porcentaje de la superficie terrestre cubren los océanos?",
+      "options": ["65%", "71%", "75%", "80%"],
+      "correct_answer": 1,
+      "explanation": "Los océanos cubren aproximadamente el 71% de la superficie terrestre, conteniendo el 97% del agua del planeta.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el animal más venenoso del mundo?",
+      "options": ["Cobra", "Araña viuda negra", "Medusa de caja", "Escorpión"],
+      "correct_answer": 2,
+      "explanation": "La medusa de caja (Chironex fleckeri) es considerada el animal más venenoso del mundo, con toxinas letales para humanos.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos años puede vivir una tortuga gigante?",
+      "options": ["50 años", "100 años", "150 años", "200 años"],
+      "correct_answer": 2,
+      "explanation": "Las tortugas gigantes pueden vivir más de 150 años, siendo algunos de los animales más longevos del planeta.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal tiene la lengua más larga en proporción a su cuerpo?",
+      "options": ["Jirafa", "Camaleón", "Oso hormiguero", "Colibrí"],
+      "correct_answer": 1,
+      "explanation": "El camaleón tiene la lengua más larga proporcionalmente, pudiendo extenderla hasta dos veces la longitud de su cuerpo.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el mamífero más pequeño del mundo?",
+      "options": ["Musaraña", "Murciélago abejorro", "Ratón pigmeo", "Lemur ratón"],
+      "correct_answer": 1,
+      "explanation": "El murciélago abejorro (Craseonycteris thonglongyai) es el mamífero más pequeño, pesando solo 2 gramos.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "options": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón"],
+      "correct_answer": 2,
+      "explanation": "El nitrógeno constituye aproximadamente el 78% de la atmósfera terrestre, siendo el gas más abundante.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el único mamífero capaz de volar realmente?",
+      "options": ["Ardilla voladora", "Murciélago", "Lemur volador", "Zarigüeya voladora"],
+      "correct_answer": 1,
+      "explanation": "Los murciélagos son los únicos mamíferos capaces de volar realmente, mientras que otros 'planean' usando membranas.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos ojos tiene una araña típica?",
+      "options": ["2", "4", "6", "8"],
+      "correct_answer": 3,
+      "explanation": "La mayoría de las arañas tienen 8 ojos, aunque la disposición y calidad visual varía según la especie.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el proceso por el cual las plantas obtienen nutrientes del suelo?",
+      "options": ["Fotosíntesis", "Respiración", "Absorción radicular", "Transpiración"],
+      "correct_answer": 2,
+      "explanation": "Las plantas obtienen nutrientes del suelo a través de la absorción radicular, donde las raíces captan agua y minerales.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal puede regenerar extremidades perdidas?",
+      "options": ["Lagarto", "Estrella de mar", "Salamandra", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Muchos animales pueden regenerar extremidades: estrellas de mar (brazos), salamandras (cola y patas), y lagartos (cola).",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la flor más grande del mundo?",
+      "options": ["Girasol", "Rafflesia", "Victoria amazónica", "Loto"],
+      "correct_answer": 1,
+      "explanation": "La Rafflesia arnoldii puede medir hasta 1 metro de diámetro y pesar 10 kg, siendo la flor individual más grande del mundo.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos huesos tiene un tiburón?",
+      "options": ["100", "200", "300", "0"],
+      "correct_answer": 3,
+      "explanation": "Los tiburones no tienen huesos; su esqueleto está compuesto completamente de cartílago, el mismo material de nuestras orejas.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal produce la seda más fuerte?",
+      "options": ["Araña", "Gusano de seda", "Oruga", "Abeja"],
+      "correct_answer": 0,
+      "explanation": "La seda de araña es más fuerte que el acero del mismo grosor y más elástica que el caucho.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el desierto más grande del mundo?",
+      "options": ["Sahara", "Gobi", "Antártida", "Kalahari"],
+      "correct_answer": 2,
+      "explanation": "La Antártida es técnicamente el desierto más grande del mundo (desierto polar), seguida del Sahara como desierto cálido.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué ave no puede volar pero es excelente nadadora?",
+      "options": ["Avestruz", "Pingüino", "Emú", "Kiwi"],
+      "correct_answer": 1,
+      "explanation": "Los pingüinos no pueden volar pero son excelentes nadadores, usando sus alas como aletas para propulsarse bajo el agua.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos tentáculos tiene una medusa común?",
+      "options": ["4", "8", "Varía según la especie", "12"],
+      "correct_answer": 2,
+      "explanation": "El número de tentáculos varía según la especie de medusa, desde cuatro hasta cientos de tentáculos.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué elemento químico es esencial para la fotosíntesis?",
+      "options": ["Hierro", "Magnesio", "Calcio", "Potasio"],
+      "correct_answer": 1,
+      "explanation": "El magnesio es el elemento central de la molécula de clorofila, esencial para capturar la energía lumínica en la fotosíntesis.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el animal más rápido en tierra?",
+      "options": ["León", "Guepardo", "Antílope", "Caballo"],
+      "correct_answer": 1,
+      "explanation": "El guepardo es el animal terrestre más rápido, alcanzando velocidades de hasta 120 km/h en carreras cortas.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tipo de animal es una rana?",
+      "options": ["Reptil", "Anfibio", "Mamífero", "Pez"],
+      "correct_answer": 1,
+      "explanation": "Las ranas son anfibios, animales que pueden vivir tanto en agua como en tierra y pasan por metamorfosis.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuánto tiempo puede estar sin respirar un delfín?",
+      "options": ["2 minutos", "8 minutos", "15 minutos", "30 minutos"],
+      "correct_answer": 2,
+      "explanation": "Los delfines pueden contener la respiración hasta 15 minutos, aunque normalmente respiran cada 2-3 minutos.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué mineral forman principalmente los corales?",
+      "options": ["Sílice", "Carbonato de calcio", "Fosfato", "Magnesio"],
+      "correct_answer": 1,
+      "explanation": "Los corales secretan carbonato de calcio para formar sus esqueletos, creando los arrecifes de coral.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el mamífero marino más grande?",
+      "options": ["Orca", "Cachalote", "Ballena azul", "Ballena jorobada"],
+      "correct_answer": 2,
+      "explanation": "La ballena azul es el mamífero marino más grande y también el animal más grande que ha existido en la Tierra.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué animal tiene el cerebro más grande en proporción a su cuerpo?",
+      "options": ["Delfín", "Humano", "Musaraña", "Colibrí"],
+      "correct_answer": 2,
+      "explanation": "La musaraña tiene el cerebro más grande en proporción a su cuerpo, representando hasta el 10% de su peso corporal.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántas especies de insectos existen aproximadamente?",
+      "options": ["100,000", "500,000", "1 millón", "5 millones"],
+      "correct_answer": 2,
+      "explanation": "Se estima que existen aproximadamente 1 millón de especies de insectos descritas, representando el 80% de todas las especies animales.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué parte del cuerpo usan las serpientes para 'oler'?",
+      "options": ["Nariz", "Lengua", "Ojos", "Piel"],
+      "correct_answer": 1,
+      "explanation": "Las serpientes usan su lengua bífida para captar partículas químicas del aire y transferirlas al órgano de Jacobson para 'oler'.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el ave más pequeña del mundo?",
+      "options": ["Colibrí abeja", "Colibrí gigante", "Gorrión", "Canario"],
+      "correct_answer": 0,
+      "explanation": "El colibrí abeja (Mellisuga helenae) de Cuba es el ave más pequeña del mundo, midiendo solo 5 cm y pesando 2 gramos.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué gas absorben las plantas durante la fotosíntesis?",
+      "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+      "correct_answer": 2,
+      "explanation": "Las plantas absorben dióxido de carbono del aire durante la fotosíntesis para producir glucosa y oxígeno.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el único continente sin abejas nativas?",
+      "options": ["Australia", "Antártida", "América del Norte", "Asia"],
+      "correct_answer": 1,
+      "explanation": "La Antártida es el único continente sin abejas nativas debido a sus condiciones climáticas extremas.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal puede cambiar de color para camuflarse?",
+      "options": ["Iguana", "Camaleón", "Pulpo", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Muchos animales pueden cambiar de color: camaleones, pulpos, algunos peces, iguanas y otros reptiles.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos litros de agua puede almacenar un cactus saguaro?",
+      "options": ["100 litros", "500 litros", "1,000 litros", "3,000 litros"],
+      "correct_answer": 3,
+      "explanation": "Un cactus saguaro adulto puede almacenar hasta 3,000 litros de agua en su tronco y brazos para sobrevivir en el desierto.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué animal tiene la presión sanguínea más alta?",
+      "options": ["Elefante", "Ballena", "Jirafa", "Rinoceronte"],
+      "correct_answer": 2,
+      "explanation": "Las jirafas tienen la presión sanguínea más alta de todos los animales para bombear sangre hasta su cerebro a 5 metros de altura.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el pez más grande del mundo?",
+      "options": ["Tiburón blanco", "Tiburón ballena", "Manta raya", "Atún rojo"],
+      "correct_answer": 1,
+      "explanation": "El tiburón ballena es el pez más grande del mundo, pudiendo alcanzar hasta 18 metros de longitud, aunque se alimenta de plancton.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué porcentaje del cuerpo humano es agua?",
+      "options": ["50%", "60%", "70%", "80%"],
+      "correct_answer": 1,
+      "explanation": "El cuerpo humano adulto está compuesto aproximadamente por 60% de agua, porcentaje que varía con la edad y composición corporal.",
+      "category": "naturaleza",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el animal que produce el sonido más fuerte?",
+      "options": ["León", "Ballena azul", "Elefante", "Grillo"],
+      "correct_answer": 1,
+      "explanation": "Las ballenas azules producen el sonido más fuerte del reino animal, con llamadas que pueden alcanzar 188 decibelios.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué tipo de sangre tienen los pulpos?",
+      "options": ["Roja", "Azul", "Verde", "Transparente"],
+      "correct_answer": 1,
+      "explanation": "Los pulpos tienen sangre azul debido a la hemocianina, una proteína rica en cobre que transporta oxígeno en lugar de hemoglobina.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántas cámaras tiene el corazón de un pez?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": 1,
+      "explanation": "Los peces tienen un corazón con dos cámaras: una aurícula que recibe sangre y un ventrículo que la bombea.",
+      "category": "naturaleza",
+      "difficulty": "medium"
+    }
+  ]
+    }
