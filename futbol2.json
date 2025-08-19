@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién es conocido como 'El Rey del Fútbol'?",
+      "options": ["Diego Maradona", "Lionel Messi", "Pelé", "Cristiano Ronaldo"],
+      "correct_answer": 2,
+      "explanation": "Pelé, el legendario futbolista brasileño, es mundialmente conocido como 'El Rey del Fútbol' por sus logros únicos y 3 Copas del Mundo.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué país ha ganado más Copas del Mundo?",
+      "options": ["Argentina", "Alemania", "Italia", "Brasil"],
+      "correct_answer": 3,
+      "explanation": "Brasil ha ganado 5 Copas del Mundo de fútbol (1958, 1962, 1970, 1994, 2002), más que cualquier otro país.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+      "options": ["9", "10", "11", "12"],
+      "correct_answer": 2,
+      "explanation": "En fútbol, cada equipo tiene 11 jugadores en el campo: 10 jugadores de campo y 1 portero.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se disputó el primer Mundial de Fútbol?",
+      "options": ["1928", "1930", "1932", "1934"],
+      "correct_answer": 1,
+      "explanation": "La primera Copa del Mundo de fútbol se disputó en Uruguay en 1930, con Uruguay como país anfitrión y campeón.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el club más exitoso en la Champions League?",
+      "options": ["Barcelona", "Real Madrid", "AC Milan", "Bayern Munich"],
+      "correct_answer": 1,
+      "explanation": "El Real Madrid ha ganado la Champions League/Copa de Europa más veces en la historia, con 14 títulos.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos minutos dura un partido de fútbol profesional?",
+      "options": ["80 minutos", "90 minutos", "100 minutos", "120 minutos"],
+      "correct_answer": 1,
+      "explanation": "Un partido de fútbol dura 90 minutos divididos en dos tiempos de 45 minutos, más el tiempo de descuento que añada el árbitro.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién es el máximo goleador en la historia de los Mundiales?",
+      "options": ["Pelé", "Diego Maradona", "Miroslav Klose", "Ronaldo Nazário"],
+      "correct_answer": 2,
+      "explanation": "Miroslav Klose de Alemania es el máximo goleador en la historia de los Mundiales con 16 goles en 4 Copas del Mundo.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país se encuentra el estadio Maracaná?",
+      "options": ["Argentina", "Brasil", "Uruguay", "Chile"],
+      "correct_answer": 1,
+      "explanation": "El estadio Maracaná se encuentra en Río de Janeiro, Brasil, y es uno de los estadios más famosos del mundo.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién ganó el Balón de Oro 2023?",
+      "options": ["Lionel Messi", "Erling Haaland", "Kylian Mbappé", "Karim Benzema"],
+      "correct_answer": 0,
+      "explanation": "Lionel Messi ganó el Balón de Oro 2023, su octavo galardón, principalmente por liderar a Argentina al título mundial en Qatar 2022.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el récord de más goles en un Mundial de fútbol?",
+      "options": ["11 goles", "13 goles", "15 goles", "16 goles"],
+      "correct_answer": 1,
+      "explanation": "Just Fontaine de Francia marcó 13 goles en el Mundial de 1958 en Suecia, récord que aún no ha sido superado.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué club jugó la mayor parte de su carrera Diego Maradona?",
+      "options": ["Boca Juniors", "Barcelona", "Napoli", "Sevilla"],
+      "correct_answer": 2,
+      "explanation": "Diego Maradona tuvo su período más exitoso en el Napoli (1984-1991), donde ganó 2 títulos de Serie A y se convirtió en leyenda.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuándo se fundó la FIFA?",
+      "options": ["1900", "1904", "1908", "1912"],
+      "correct_answer": 1,
+      "explanation": "La FIFA (Federación Internacional de Fútbol Asociación) fue fundada el 21 de mayo de 1904 en París, Francia.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué selección ganó la Eurocopa 2021?",
+      "options": ["Francia", "Inglaterra", "Italia", "España"],
+      "correct_answer": 2,
+      "explanation": "Italia ganó la Eurocopa 2021 (jugada en 2021 por la pandemia), derrotando a Inglaterra en la final por penales en Wembley.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del máximo trofeo del fútbol de clubes en Europa?",
+      "options": ["Liga de Campeones", "Champions League", "Copa de Europa", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "El torneo ha tenido varios nombres: Copa de Europa (1955-1992) y Champions League (desde 1992), pero se refiere al mismo trofeo.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué posición juega un 'libero'?",
+      "options": ["Portero", "Defensa", "Centrocampista", "Delantero"],
+      "correct_answer": 1,
+      "explanation": "Un libero es un defensa central libre que no marca a ningún jugador específico y puede subir al ataque cuando es necesario.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién es el jugador con más Champions League ganadas?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Francisco Gento", "Alfredo Di Stéfano"],
+      "correct_answer": 2,
+      "explanation": "Francisco Gento del Real Madrid ganó 6 Copas de Europa/Champions League (1956, 1957, 1958, 1959, 1960, 1966).",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el estadio con mayor capacidad del mundo?",
+      "options": ["Camp Nou", "Estadio Azteca", "Wembley", "Rungrado 1º de Mayo"],
+      "correct_answer": 3,
+      "explanation": "El Rungrado 1º de Mayo en Pyongyang, Corea del Norte, tiene capacidad para 114,000 espectadores.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué Mundial Diego Maradona hizo el 'Gol del Siglo'?",
+      "options": ["España 1982", "México 1986", "Italia 1990", "Estados Unidos 1994"],
+      "correct_answer": 1,
+      "explanation": "Maradona hizo el famoso 'Gol del Siglo' en el Mundial de México 1986 contra Inglaterra, en el mismo partido de la 'Mano de Dios'.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué jugador tiene más goles en la historia del fútbol?",
+      "options": ["Pelé", "Cristiano Ronaldo", "Lionel Messi", "Josef Bican"],
+      "correct_answer": 1,
+      "explanation": "Cristiano Ronaldo es oficialmente el máximo goleador de la historia con más de 850 goles en partidos oficiales.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el equipo más exitoso en la Copa Libertadores?",
+      "options": ["Boca Juniors", "River Plate", "Independiente", "Peñarol"],
+      "correct_answer": 2,
+      "explanation": "Independiente de Argentina ha ganado 7 Copas Libertadores (1964, 1965, 1972, 1973, 1974, 1975, 1984).",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año Lionel Messi ganó su primera Champions League?",
+      "options": ["2006", "2009", "2011", "2015"],
+      "correct_answer": 1,
+      "explanation": "Messi ganó su primera Champions League en 2009 con el Barcelona, en la temporada del primer triplete del club.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la selección conocida como 'La Roja'?",
+      "options": ["España", "Chile", "Suiza", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Varias selecciones son conocidas como 'La Roja' por sus camisetas rojas: España, Chile y Suiza son las principales.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el primer jugador en ganar 5 Balones de Oro?",
+      "options": ["Johan Cruyff", "Michel Platini", "Lionel Messi", "Cristiano Ronaldo"],
+      "correct_answer": 2,
+      "explanation": "Lionel Messi fue el primer jugador en ganar 5 Balones de Oro (2009, 2010, 2011, 2012, 2015), récord que luego extendió.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué club inglés jugó Cristiano Ronaldo?",
+      "options": ["Arsenal", "Chelsea", "Manchester United", "Liverpool"],
+      "correct_answer": 2,
+      "explanation": "Cristiano Ronaldo jugó en Manchester United en dos períodos: 2003-2009 y 2021-2022.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el apodo de la selección brasileña?",
+      "options": ["La Canarinha", "La Seleção", "O Escrete", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "La selección brasileña es conocida por varios apodos: La Canarinha (por la camiseta amarilla), La Seleção y O Escrete.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué Mundial se usó por primera vez el VAR?",
+      "options": ["Brasil 2014", "Rusia 2018", "Qatar 2022", "No se ha usado"],
+      "correct_answer": 1,
+      "explanation": "El VAR (Video Assistant Referee) se usó por primera vez en un Mundial en Rusia 2018.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién es el entrenador con más títulos de Champions League?",
+      "options": ["Pep Guardiola", "Carlo Ancelotti", "Zinedine Zidane", "Sir Alex Ferguson"],
+      "correct_answer": 1,
+      "explanation": "Carlo Ancelotti ha ganado 4 Champions League como entrenador: 2 con AC Milan (2003, 2007) y 2 con Real Madrid (2014, 2022).",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la liga de fútbol más antigua del mundo?",
+      "options": ["Premier League", "La Liga", "Serie A", "Football League"],
+      "correct_answer": 3,
+      "explanation": "La Football League inglesa, fundada en 1888, es la liga de fútbol más antigua del mundo (ahora llamada EFL).",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se jugó la primera Copa del Mundo femenina?",
+      "options": ["1988", "1991", "1995", "1999"],
+      "correct_answer": 1,
+      "explanation": "La primera Copa del Mundo Femenina de la FIFA se jugó en China en 1991, ganada por Estados Unidos.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el club con más títulos de liga en España?",
+      "options": ["Barcelona", "Real Madrid", "Athletic Bilbao", "Atlético Madrid"],
+      "correct_answer": 1,
+      "explanation": "El Real Madrid ha ganado 35 títulos de La Liga española, más que cualquier otro club.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'offside' en fútbol?",
+      "options": ["Fuera de juego", "Falta", "Corner", "Penalty"],
+      "correct_answer": 0,
+      "explanation": "Offside significa 'fuera de juego', una regla que impide que un jugador esté en posición adelantada cuando recibe el balón.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién ganó el Mundial de Qatar 2022?",
+      "options": ["Francia", "Argentina", "Brasil", "Croacia"],
+      "correct_answer": 1,
+      "explanation": "Argentina ganó el Mundial de Qatar 2022, derrotando a Francia en la final por penales tras empatar 3-3.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué club jugó la mayor parte de su carrera Pelé?",
+      "options": ["Flamengo", "Santos", "São Paulo", "Corinthians"],
+      "correct_answer": 1,
+      "explanation": "Pelé jugó la mayor parte de su carrera en Santos de Brasil (1956-1974), donde se convirtió en leyenda mundial.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el récord de goles en una temporada europea?",
+      "options": ["73 goles", "91 goles", "89 goles", "85 goles"],
+      "correct_answer": 1,
+      "explanation": "Lionel Messi estableció el récord con 91 goles en 2012 (69 con Barcelona y 22 con Argentina).",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué selección es conocida como 'Los Azzurri'?",
+      "options": ["Francia", "Argentina", "Italia", "Uruguay"],
+      "correct_answer": 2,
+      "explanation": "La selección italiana es conocida como 'Los Azzurri' por el color azul característico de su camiseta.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se creó la Champions League moderna?",
+      "options": ["1990", "1992", "1995", "1997"],
+      "correct_answer": 1,
+      "explanation": "La Champions League en su formato moderno se creó en 1992, reemplazando a la Copa de Europa que existía desde 1955.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el jugador más joven en ganar un Mundial?",
+      "options": ["Pelé", "Ronaldo Nazário", "Kylian Mbappé", "Michael Owen"],
+      "correct_answer": 0,
+      "explanation": "Pelé ganó su primer Mundial en 1958 con solo 17 años, siendo el jugador más joven en conseguir este logro.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué club es conocido como 'Los Merengues'?",
+      "options": ["Barcelona", "Real Madrid", "Atlético Madrid", "Valencia"],
+      "correct_answer": 1,
+      "explanation": "El Real Madrid es conocido como 'Los Merengues' por el color blanco de su camiseta, similar al merengue.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué posición jugaba Franz Beckenbauer?",
+      "options": ["Portero", "Defensa (libero)", "Centrocampista", "Delantero"],
+      "correct_answer": 1,
+      "explanation": "Franz Beckenbauer jugaba como libero (defensa libre), posición que revolucionó y popularizó en el fútbol mundial.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el equipo con más Copas Libertadores de Argentina?",
+      "options": ["River Plate", "Boca Juniors", "Independiente", "Racing"],
+      "correct_answer": 2,
+      "explanation": "Independiente de Argentina ha ganado 7 Copas Libertadores, más que cualquier otro equipo argentino.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué Mundial Pelé NO participó por lesión?",
+      "options": ["Chile 1962", "Inglaterra 1966", "México 1970", "Alemania 1974"],
+      "correct_answer": 1,
+      "explanation": "Pelé se lesionó en el Mundial de Inglaterra 1966 y apenas pudo participar, siendo eliminado Brasil prematuramente.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el estadio del FC Barcelona?",
+      "options": ["Santiago Bernabéu", "Camp Nou", "Mestalla", "Ramón Sánchez Pizjuán"],
+      "correct_answer": 1,
+      "explanation": "El Camp Nou es el estadio del FC Barcelona desde 1957 y tiene capacidad para 99,354 espectadores.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién fue el primer africano en ganar el Balón de Oro?",
+      "options": ["Samuel Eto'o", "Didier Drogba", "George Weah", "Jay-Jay Okocha"],
+      "correct_answer": 2,
+      "explanation": "George Weah de Liberia fue el primer jugador africano en ganar el Balón de Oro en 1995 cuando jugaba en AC Milan.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué año se introdujo la tarjeta amarilla y roja?",
+      "options": ["1966", "1970", "1974", "1978"],
+      "correct_answer": 1,
+      "explanation": "Las tarjetas amarilla y roja se introdujeron en el Mundial de México 1970 para mejorar la comunicación arbitral.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la selección conocida como 'La Albiceleste'?",
+      "options": ["Uruguay", "Argentina", "Paraguay", "Chile"],
+      "correct_answer": 1,
+      "explanation": "Argentina es conocida como 'La Albiceleste' por los colores blanco y celeste de su camiseta.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién es el máximo goleador de la selección argentina?",
+      "options": ["Diego Maradona", "Gabriel Batistuta", "Lionel Messi", "Hernán Crespo"],
+      "correct_answer": 2,
+      "explanation": "Lionel Messi es el máximo goleador de la selección argentina con más de 100 goles internacionales.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué club jugó Ronaldinho en su mejor época?",
+      "options": ["PSG", "Barcelona", "AC Milan", "Flamengo"],
+      "correct_answer": 1,
+      "explanation": "Ronaldinho tuvo su mejor época en el FC Barcelona (2003-2008), donde ganó 2 Liga española y 1 Champions League.",
+      "category": "futbol",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue el resultado de la final del Mundial 2014?",
+      "options": ["Alemania 1-0 Argentina", "Alemania 2-1 Argentina", "Alemania 1-0 Brasil", "Argentina 1-0 Alemania"],
+      "correct_answer": 0,
+      "explanation": "Alemania venció a Argentina 1-0 en la final del Mundial de Brasil 2014, con gol de Mario Götze en el tiempo extra.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué jugador tiene más asistencias en la historia de La Liga?",
+      "options": ["Xavi Hernández", "Lionel Messi", "Andrés Iniesta", "Karim Benzema"],
+      "correct_answer": 1,
+      "explanation": "Lionel Messi tiene el récord de más asistencias en La Liga española con más de 190 asistencias oficiales.",
+      "category": "futbol",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué país se jugará el Mundial 2026?",
+      "options": ["Estados Unidos", "Canadá y México", "Estados Unidos, Canadá y México", "Solo México"],
+      "correct_answer": 2,
+      "explanation": "El Mundial 2026 será el primer Mundial conjunto de la historia, jugándose en Estados Unidos, Canadá y México.",
+      "category": "futbol",
+      "difficulty": "easy"
+    }
+  ]
+    }
