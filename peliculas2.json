@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién dirigió la película 'Pulp Fiction'?",
+      "options": ["Martin Scorsese", "Quentin Tarantino", "Christopher Nolan", "David Fincher"],
+      "correct_answer": 1,
+      "explanation": "Quentin Tarantino dirigió 'Pulp Fiction' (1994), considerada una de las mejores películas de la década de los 90.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película más taquillera de todos los tiempos?",
+      "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars: El despertar de la Fuerza"],
+      "correct_answer": 2,
+      "explanation": "'Avengers: Endgame' (2019) es la película más taquillera de todos los tiempos con más de 2.79 mil millones de dólares.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó 'El Padrino'?",
+      "options": ["1970", "1971", "1972", "1973"],
+      "correct_answer": 2,
+      "explanation": "'El Padrino' dirigida por Francis Ford Coppola se estrenó en 1972 y ganó el Oscar a Mejor Película.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpretó a Jack en 'Titanic'?",
+      "options": ["Brad Pitt", "Leonardo DiCaprio", "Matt Damon", "Ryan Gosling"],
+      "correct_answer": 1,
+      "explanation": "Leonardo DiCaprio interpretó a Jack Dawson en 'Titanic' (1997), uno de sus papeles más memorables.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del personaje principal en 'Matrix'?",
+      "options": ["Neo", "Morpheus", "Agent Smith", "Trinity"],
+      "correct_answer": 0,
+      "explanation": "Neo (Thomas Anderson) es el protagonista de 'Matrix', interpretado por Keanu Reeves.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió 'Inception'?",
+      "options": ["Denis Villeneuve", "Christopher Nolan", "David Fincher", "Darren Aronofsky"],
+      "correct_answer": 1,
+      "explanation": "Christopher Nolan dirigió 'Inception' (2010), conocida por su compleja narrativa sobre sueños dentro de sueños.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué película aparece la frase 'Que la fuerza te acompañe'?",
+      "options": ["Star Trek", "Star Wars", "Guardianes de la Galaxia", "Blade Runner"],
+      "correct_answer": 1,
+      "explanation": "'Que la fuerza te acompañe' (May the Force be with you) es la frase icónica de la saga Star Wars.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién interpretó a Joker en 'The Dark Knight'?",
+      "options": ["Jack Nicholson", "Heath Ledger", "Joaquin Phoenix", "Jared Leto"],
+      "correct_answer": 1,
+      "explanation": "Heath Ledger interpretó al Joker en 'The Dark Knight' (2008), ganando un Oscar póstumo por su actuación.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la primera película de Pixar?",
+      "options": ["A Bug's Life", "Toy Story", "Monsters, Inc.", "Finding Nemo"],
+      "correct_answer": 1,
+      "explanation": "'Toy Story' (1995) fue la primera película completamente generada por computadora y la primera de Pixar.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película Tom Hanks dice 'La vida es como una caja de chocolates'?",
+      "options": ["Cast Away", "Philadelphia", "Forrest Gump", "Saving Private Ryan"],
+      "correct_answer": 2,
+      "explanation": "Esta famosa frase aparece en 'Forrest Gump' (1994), donde Tom Hanks interpreta al protagonista.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió 'Jaws' (Tiburón)?",
+      "options": ["George Lucas", "Steven Spielberg", "Francis Ford Coppola", "Martin Scorsese"],
+      "correct_answer": 1,
+      "explanation": "Steven Spielberg dirigió 'Jaws' (1975), que se considera la primera gran película blockbuster de Hollywood.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película de horror más taquillera de todos los tiempos?",
+      "options": ["El Exorcista", "It", "Halloween", "Scream"],
+      "correct_answer": 1,
+      "explanation": "'It' (2017) es la película de terror más taquillera de todos los tiempos con más de 700 millones de dólares.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película aparece el personaje de Hannibal Lecter por primera vez?",
+      "options": ["El silencio de los corderos", "Manhunter", "Hannibal", "Dragón Rojo"],
+      "correct_answer": 1,
+      "explanation": "Hannibal Lecter apareció por primera vez en 'Manhunter' (1986), basada en la novela 'Dragón Rojo'.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpretó a Forrest Gump?",
+      "options": ["Robin Williams", "Tom Hanks", "Kevin Costner", "Russell Crowe"],
+      "correct_answer": 1,
+      "explanation": "Tom Hanks interpretó a Forrest Gump en la película de 1994, ganando el Oscar al Mejor Actor.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película más premiada en la historia de los Oscar?",
+      "options": ["Ben-Hur", "Titanic", "El Señor de los Anillos: El Retorno del Rey", "Todas empatadas con 11"],
+      "correct_answer": 3,
+      "explanation": "Ben-Hur (1959), Titanic (1997) y El Señor de los Anillos: El Retorno del Rey (2003) comparten el récord con 11 Oscar cada una.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película Disney aparece la canción 'Hakuna Matata'?",
+      "options": ["Aladdin", "El Rey León", "Pocahontas", "Mulan"],
+      "correct_answer": 1,
+      "explanation": "'Hakuna Matata' es la famosa canción de 'El Rey León' (1994), cantada por Timón y Pumba.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió la trilogía original de 'Star Wars'?",
+      "options": ["Steven Spielberg", "George Lucas", "Irvin Kershner", "Richard Marquand"],
+      "correct_answer": 1,
+      "explanation": "George Lucas dirigió 'Una Nueva Esperanza' y fue el creador de toda la saga, aunque otros directores se encargaron de los siguientes episodios.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó la primera película de 'Rocky'?",
+      "options": ["1974", "1975", "1976", "1977"],
+      "correct_answer": 2,
+      "explanation": "'Rocky' se estrenó en 1976 y ganó el Oscar a Mejor Película, lanzando la carrera de Sylvester Stallone.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Chris Hemsworth"],
+      "correct_answer": 1,
+      "explanation": "Robert Downey Jr. interpretó a Tony Stark/Iron Man desde 2008 hasta 2019 en el MCU.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película animada más taquillera de Disney?",
+      "options": ["El Rey León", "Frozen", "Frozen II", "Los Increíbles"],
+      "correct_answer": 2,
+      "explanation": "'Frozen II' (2019) es la película de animación más taquillera de Disney con más de 1.45 mil millones de dólares.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película aparece la icónica escena de la ducha?",
+      "options": ["El resplandor", "Psicosis", "Los pájaros", "Vértigo"],
+      "correct_answer": 1,
+      "explanation": "La icónica escena de la ducha aparece en 'Psicosis' (1960) de Alfred Hitchcock, considerada una de las más famosas del cine.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió 'The Godfather' (El Padrino)?",
+      "options": ["Martin Scorsese", "Francis Ford Coppola", "Robert De Niro", "Al Pacino"],
+      "correct_answer": 1,
+      "explanation": "Francis Ford Coppola dirigió 'The Godfather' (1972), considerada una de las mejores películas de la historia del cine.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la saga de películas de terror más exitosa comercialmente?",
+      "options": ["Halloween", "Viernes 13", "Saw", "Scream"],
+      "correct_answer": 2,
+      "explanation": "La saga 'Saw' (El juego del miedo) es la franquicia de terror más exitosa comercialmente con más de $1 mil millones recaudados.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpretó a Neo en 'The Matrix'?",
+      "options": ["Brad Pitt", "Keanu Reeves", "Will Smith", "Tom Cruise"],
+      "correct_answer": 1,
+      "explanation": "Keanu Reeves interpretó a Neo en la trilogía 'The Matrix', convirtiéndose en uno de sus papeles más icónicos.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se realizó la primera ceremonia de los Premios Oscar?",
+      "options": ["1927", "1929", "1931", "1933"],
+      "correct_answer": 1,
+      "explanation": "La primera ceremonia de los Premios Oscar se realizó el 16 de mayo de 1929, honrando películas de 1927 y 1928.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el festival de cine más prestigioso del mundo?",
+      "options": ["Festival de Cannes", "Oscar", "Festival de Venecia", "Festival de Sundance"],
+      "correct_answer": 0,
+      "explanation": "El Festival de Cannes es considerado el festival de cine más prestigioso del mundo, celebrado anualmente en Francia desde 1946.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Quién dirigió 'Citizen Kane'?",
+      "options": ["John Ford", "Orson Welles", "Frank Capra", "Billy Wilder"],
+      "correct_answer": 1,
+      "explanation": "Orson Welles dirigió y protagonizó 'Citizen Kane' (1941), considerada por muchos críticos como la mejor película de todos los tiempos.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película Bruce Willis descubre que está muerto?",
+      "options": ["Die Hard", "Pulp Fiction", "El Sexto Sentido", "Armageddon"],
+      "correct_answer": 2,
+      "explanation": "En 'El Sexto Sentido' (1999), Bruce Willis interpreta a un psicólogo que descubre que ha estado muerto todo el tiempo.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la primera película en ganar el Oscar a Mejor Película?",
+      "options": ["Wings", "Sunrise", "The Jazz Singer", "7th Heaven"],
+      "correct_answer": 0,
+      "explanation": "'Wings' (1927) fue la primera película en ganar el Premio de la Academia a la Mejor Película en la primera ceremonia de 1929.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpretó a Vito Corleone en 'El Padrino'?",
+      "options": ["Al Pacino", "James Caan", "Marlon Brando", "Robert Duvall"],
+      "correct_answer": 2,
+      "explanation": "Marlon Brando interpretó magistralmente a Vito Corleone en 'El Padrino', ganando el Oscar al Mejor Actor.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué década se popularizó el término 'blockbuster'?",
+      "options": ["1960s", "1970s", "1980s", "1990s"],
+      "correct_answer": 1,
+      "explanation": "El término 'blockbuster' se popularizó en los años 70 con películas como 'Jaws' y 'Star Wars' que generaron enormes taquillas.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la película más cara jamás producida?",
+      "options": ["Pirates of the Caribbean: On Stranger Tides", "Avengers: Age of Ultron", "Avengers: Endgame", "Justice League"],
+      "correct_answer": 0,
+      "explanation": "'Pirates of the Caribbean: On Stranger Tides' (2011) es oficialmente la película más cara jamás producida con un presupuesto de $379 millones.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién dirigió 'Apocalypse Now'?",
+      "options": ["Stanley Kubrick", "Francis Ford Coppola", "Martin Scorsese", "Michael Cimino"],
+      "correct_answer": 1,
+      "explanation": "Francis Ford Coppola dirigió 'Apocalypse Now' (1979), épica película de guerra ambientada en Vietnam.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película aparece la frase 'I'll be back'?",
+      "options": ["Predator", "Conan", "Terminator", "Total Recall"],
+      "correct_answer": 2,
+      "explanation": "'I'll be back' es la frase icónica de Arnold Schwarzenegger en 'Terminator' (1984).",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la película de ciencia ficción más influyente de todos los tiempos?",
+      "options": ["2001: Una Odisea del Espacio", "Blade Runner", "Star Wars", "Metropolis"],
+      "correct_answer": 0,
+      "explanation": "'2001: Una Odisea del Espacio' (1968) de Stanley Kubrick es considerada la película de ciencia ficción más influyente por su visión y técnica.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién interpretó a Clarice Starling en 'El Silencio de los Corderos'?",
+      "options": ["Meryl Streep", "Jodie Foster", "Glenn Close", "Michelle Pfeiffer"],
+      "correct_answer": 1,
+      "explanation": "Jodie Foster interpretó a Clarice Starling en 'El Silencio de los Corderos' (1991), ganando el Oscar a Mejor Actriz.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál fue la primera película de la saga 'Fast & Furious'?",
+      "options": ["The Fast and the Furious", "2 Fast 2 Furious", "Fast & Furious", "Fast Five"],
+      "correct_answer": 0,
+      "explanation": "'The Fast and the Furious' (2001) fue la primera película de la exitosa saga protagonizada por Paul Walker y Vin Diesel.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó 'Casablanca'?",
+      "options": ["1941", "1942", "1943", "1944"],
+      "correct_answer": 1,
+      "explanation": "'Casablanca' se estrenó en 1942 y se convirtió en un clásico del cine, protagonizada por Humphrey Bogart e Ingrid Bergman.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién dirigió 'Taxi Driver'?",
+      "options": ["Francis Ford Coppola", "Martin Scorsese", "Sidney Lumet", "William Friedkin"],
+      "correct_answer": 1,
+      "explanation": "Martin Scorsese dirigió 'Taxi Driver' (1976), protagonizada por Robert De Niro en uno de sus papeles más memorables.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la película más larga jamás lanzada comercialmente?",
+      "options": ["Gone with the Wind", "Lawrence of Arabia", "Cleopatra", "The Irishman"],
+      "correct_answer": 1,
+      "explanation": "'Lawrence of Arabia' (1962) en su versión director's cut tiene 227 minutos, siendo una de las películas comerciales más largas.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿En qué película Tom Cruise corre por la pared de un rascacielos?",
+      "options": ["Mission: Impossible", "Mission: Impossible - Ghost Protocol", "Mission: Impossible - Fallout", "Top Gun"],
+      "correct_answer": 1,
+      "explanation": "En 'Mission: Impossible - Ghost Protocol' (2011), Tom Cruise escaló el Burj Khalifa en Dubai, el edificio más alto del mundo.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién compuso la música de 'Star Wars'?",
+      "options": ["Hans Zimmer", "John Williams", "Danny Elfman", "Howard Shore"],
+      "correct_answer": 1,
+      "explanation": "John Williams compuso la icónica banda sonora de Star Wars, una de las más reconocibles de la historia del cine.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es la primera película de superhéroes del MCU?",
+      "options": ["Thor", "Captain America", "Iron Man", "The Incredible Hulk"],
+      "correct_answer": 2,
+      "explanation": "'Iron Man' (2008) fue la primera película del Universo Cinematográfico de Marvel, iniciando la exitosa franquicia.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué película Kevin Costner construye un campo de béisbol?",
+      "options": ["The Natural", "Field of Dreams", "Bull Durham", "For Love of the Game"],
+      "correct_answer": 1,
+      "explanation": "En 'Field of Dreams' (1989), Kevin Costner construye un campo de béisbol en su granja después de escuchar voces misteriosas.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál fue la última película de Heath Ledger?",
+      "options": ["The Dark Knight", "Brokeback Mountain", "The Imaginarium of Doctor Parnassus", "I'm Not There"],
+      "correct_answer": 2,
+      "explanation": "'The Imaginarium of Doctor Parnassus' (2009) fue la última película de Heath Ledger, completada después de su muerte.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Quién dirigió 'Goodfellas'?",
+      "options": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "Sidney Lumet"],
+      "correct_answer": 1,
+      "explanation": "Martin Scorsese dirigió 'Goodfellas' (1990), considerada una de las mejores películas de gángsters de todos los tiempos.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó 'E.T. the Extra-Terrestrial'?",
+      "options": ["1980", "1981", "1982", "1983"],
+      "correct_answer": 2,
+      "explanation": "'E.T. the Extra-Terrestrial' dirigida por Steven Spielberg se estrenó en 1982 y se convirtió en un fenómeno cultural.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la película de animación más taquillera de todos los tiempos?",
+      "options": ["Frozen II", "Incredibles 2", "Minions", "Toy Story 4"],
+      "correct_answer": 0,
+      "explanation": "'Frozen II' (2019) es la película de animación más taquillera de todos los tiempos con más de 1.45 mil millones de dólares.",
+      "category": "peliculas",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué actor interpretó a Wolverine en las películas de X-Men?",
+      "options": ["Ryan Reynolds", "Hugh Jackman", "Patrick Stewart", "Ian McKellen"],
+      "correct_answer": 1,
+      "explanation": "Hugh Jackman interpretó a Wolverine durante 17 años en múltiples películas de X-Men, desde 2000 hasta 2017.",
+      "category": "peliculas",
+      "difficulty": "easy"
+    }
+  ]
+    }
