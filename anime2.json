@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién es el protagonista de 'Dragon Ball'?",
+      "options": ["Vegeta", "Goku", "Piccolo", "Gohan"],
+      "correct_answer": 1,
+      "explanation": "Goku (Son Goku) es el protagonista principal de Dragon Ball, creado por Akira Toriyama en 1984.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre real de 'L' en Death Note?",
+      "options": ["Lawliet", "L Lawliet", "Ryuzaki", "Hideki Ryuga"],
+      "correct_answer": 1,
+      "explanation": "El nombre real completo de L es L Lawliet, aunque también usa los alias Ryuzaki y Hideki Ryuga.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'Sensei' en japonés?",
+      "options": ["Amigo", "Maestro", "Hermano", "Rival"],
+      "correct_answer": 1,
+      "explanation": "Sensei significa 'maestro' o 'profesor' en japonés, y se usa como título de respeto hacia educadores o expertos.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué anime aparece el personaje 'Monkey D. Luffy'?",
+      "options": ["Naruto", "One Piece", "Bleach", "Hunter x Hunter"],
+      "correct_answer": 1,
+      "explanation": "Monkey D. Luffy es el protagonista de One Piece, creado por Eiichiro Oda, que busca convertirse en el Rey de los Piratas.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del ninja de cabello rubio en 'Naruto'?",
+      "options": ["Sasuke Uchiha", "Naruto Uzumaki", "Kakashi Hatake", "Shikamaru Nara"],
+      "correct_answer": 1,
+      "explanation": "Naruto Uzumaki es el protagonista de la serie, un ninja con cabello rubio que sueña con ser Hokage.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué tipo de criatura es 'Pikachu' en Pokémon?",
+      "options": ["Tipo Agua", "Tipo Fuego", "Tipo Eléctrico", "Tipo Planta"],
+      "correct_answer": 2,
+      "explanation": "Pikachu es un Pokémon de tipo Eléctrico, conocido por su habilidad para generar electricidad y su famoso ataque 'Rayo'.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el poder especial de 'Saitama' en One Punch Man?",
+      "options": ["Velocidad extrema", "Puede derrotar a cualquier enemigo de un golpe", "Regeneración", "Telequinesis"],
+      "correct_answer": 1,
+      "explanation": "Saitama puede derrotar a cualquier enemigo con un solo golpe, lo que ironicamente lo lleva al aburrimiento por falta de desafío.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuántas Esferas del Dragón se necesitan para invocar a Shenron?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": 2,
+      "explanation": "Se necesitan las 7 Esferas del Dragón para invocar a Shenron y pedir un deseo en Dragon Ball.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cómo se llama el Shinigami en 'Death Note'?",
+      "options": ["Ryuk", "Rem", "Sidoh", "Gelus"],
+      "correct_answer": 0,
+      "explanation": "Ryuk es el Shinigami que deja caer el Death Note al mundo humano, iniciando la historia con Light Yagami.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del estudio de animación que creó 'Mi Vecino Totoro'?",
+      "options": ["Madhouse", "Studio Ghibli", "Toei Animation", "Pierrot"],
+      "correct_answer": 1,
+      "explanation": "Studio Ghibli, dirigido por Hayao Miyazaki, creó 'Mi Vecino Totoro' y muchas otras obras maestras del anime.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué significa 'Otaku' en la cultura japonesa?",
+      "options": ["Fan del anime", "Persona obsesiva", "Estudiante", "Artista"],
+      "correct_answer": 1,
+      "explanation": "Otaku originalmente significa persona con obsesiones poco saludables, aunque fuera de Japón se usa para referirse a fans del anime/manga.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el apellido de 'Edward' en Fullmetal Alchemist?",
+      "options": ["Mustang", "Elric", "Hughes", "Armstrong"],
+      "correct_answer": 1,
+      "explanation": "Edward Elric es el 'Alquimista de Acero' protagonista de Fullmetal Alchemist, junto con su hermano Alphonse Elric.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué anime aparece el 'Sharingan'?",
+      "options": ["Bleach", "Naruto", "Dragon Ball", "One Piece"],
+      "correct_answer": 1,
+      "explanation": "El Sharingan es un dojutsu (técnica ocular) del clan Uchiha en Naruto, que permite copiar técnicas y predecir movimientos.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del capitán de la nave en 'Space Battleship Yamato'?",
+      "options": ["Okita", "Kodai", "Yuki", "Sanada"],
+      "correct_answer": 0,
+      "explanation": "El Capitán Okita es el comandante del Yamato en esta clásica serie de ciencia ficción de los años 70.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos episodios tiene la serie original de 'Dragon Ball Z'?",
+      "options": ["200", "250", "291", "300"],
+      "correct_answer": 2,
+      "explanation": "Dragon Ball Z tiene 291 episodios en total, siendo una de las series de anime más largas y populares.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cómo se llama la técnica especial de Goku que se aprende con el Maestro Roshi?",
+      "options": ["Kame Hame Ha", "Makankosappo", "Genkidama", "Taiyoken"],
+      "correct_answer": 0,
+      "explanation": "El Kame Hame Ha es la técnica insignia de Goku, aprendida del Maestro Roshi en sus primeros entrenamientos.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué anime popularizó la frase 'Creer en ti mismo'?",
+      "options": ["Dragon Ball", "Gurren Lagann", "Naruto", "My Hero Academia"],
+      "correct_answer": 1,
+      "explanation": "Tengen Toppa Gurren Lagann popularizó temas sobre creer en uno mismo y superar lo imposible con determinación.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre del robot gigante en 'Neon Genesis Evangelion'?",
+      "options": ["Gundam", "Evangelion", "Mazinger", "Macross"],
+      "correct_answer": 1,
+      "explanation": "Los Evangelion son los mechas biológicos piloteados por los protagonistas en Neon Genesis Evangelion.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se estrenó 'Akira'?",
+      "options": ["1986", "1988", "1990", "1992"],
+      "correct_answer": 1,
+      "explanation": "'Akira' se estrenó en 1988 y es considerada una de las películas de anime más influyentes de todos los tiempos.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el poder de 'Ichigo Kurosaki' en Bleach?",
+      "options": ["Ninja", "Shinigami", "Alquimista", "Pirata"],
+      "correct_answer": 1,
+      "explanation": "Ichigo Kurosaki es un Shinigami sustituto en Bleach, con el poder de ver y combatir espíritus malignos llamados Hollows.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cómo se llama la hermana menor de 'Nezuko' en Demon Slayer?",
+      "options": ["Nezuko es la hermana menor", "Hanako", "Rokuta", "Takeo"],
+      "correct_answer": 0,
+      "explanation": "Nezuko Kamado ES la hermana menor de Tanjiro en Demon Slayer (Kimetsu no Yaiba), convertida en demonio.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'Senpai' en la cultura japonesa?",
+      "options": ["Compañero de clase", "Superior/veterano", "Amigo cercano", "Rival"],
+      "correct_answer": 1,
+      "explanation": "Senpai se refiere a una persona de mayor experiencia o rango, como un estudiante de grado superior o veterano en el trabajo.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del estudio que animó 'Attack on Titan'?",
+      "options": ["Madhouse", "Studio Pierrot", "WIT Studio/MAPPA", "Bones"],
+      "correct_answer": 2,
+      "explanation": "Attack on Titan fue animado inicialmente por WIT Studio (temporadas 1-3) y posteriormente por MAPPA (temporada final).",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cómo se llama el padre de 'Gon' en Hunter x Hunter?",
+      "options": ["Ging Freecss", "Leorio", "Kurapika", "Killua"],
+      "correct_answer": 0,
+      "explanation": "Ging Freecss es el padre de Gon y un Hunter legendario, cuya búsqueda motiva el viaje de Gon en la serie.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es la fruta del diablo que comió Luffy en One Piece?",
+      "options": ["Fruta de Fuego", "Fruta de Goma", "Fruta de Hielo", "Fruta de Luz"],
+      "correct_answer": 1,
+      "explanation": "Luffy comió la Gomu Gomu no Mi (Fruta de Goma), que le permite estirar su cuerpo como si fuera de goma.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué anime aparece el personaje 'Levi Ackerman'?",
+      "options": ["Tokyo Ghoul", "Attack on Titan", "Demon Slayer", "Jujutsu Kaisen"],
+      "correct_answer": 1,
+      "explanation": "Levi Ackerman es el 'Soldado más fuerte de la humanidad' en Attack on Titan (Shingeki no Kyojin).",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del gato robot en 'Doraemon'?",
+      "options": ["Doraemon", "Nobita", "Dorami", "Dorakumon"],
+      "correct_answer": 0,
+      "explanation": "Doraemon es el gato robot cósmico del siglo XXII que ayuda a Nobita con sus gadgets futuristas.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué estudio animó 'Your Name' (Kimi no Na wa)?",
+      "options": ["Studio Ghibli", "CoMix Wave Films", "Madhouse", "Toei Animation"],
+      "correct_answer": 1,
+      "explanation": "'Your Name' fue producida por CoMix Wave Films y dirigida por Makoto Shinkai en 2016.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el apellido de 'Natsu' en Fairy Tail?",
+      "options": ["Heartfilia", "Dragneel", "Scarlet", "Fernandes"],
+      "correct_answer": 1,
+      "explanation": "Natsu Dragneel es el protagonista Dragon Slayer de fuego en Fairy Tail, criado por el dragón Igneel.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuántos Almirantes hay en la Marina de One Piece?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": 1,
+      "explanation": "Tradicionalmente hay 3 Almirantes en la Marina de One Piece, aunque ha habido cambios a lo largo de la serie.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cómo se llama la espada de 'Tanjiro' en Demon Slayer?",
+      "options": ["Nichirin", "Zanpakuto", "Tessaiga", "Excalibur"],
+      "correct_answer": 0,
+      "explanation": "Tanjiro usa una espada Nichirin, forjada con metal especial que puede dañar a los demonios en Demon Slayer.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué anime tiene como protagonista a 'Senku Ishigami'?",
+      "options": ["Dr. Stone", "Steins;Gate", "Science Fell in Love", "Cells at Work"],
+      "correct_answer": 0,
+      "explanation": "Senku Ishigami es el protagonista genio científico de Dr. Stone, quien busca reconstruir la civilización con ciencia.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre del instituto en 'My Hero Academia'?",
+      "options": ["UA High School", "Shiketsu High", "Ketsubutsu Academy", "Seiai Academy"],
+      "correct_answer": 0,
+      "explanation": "UA High School (U.A.) es la prestigiosa academia donde estudian los futuros héroes en My Hero Academia.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'Baka' en japonés?",
+      "options": ["Inteligente", "Tonto", "Rápido", "Fuerte"],
+      "correct_answer": 1,
+      "explanation": "'Baka' significa 'tonto' o 'idiota' en japonés, siendo una de las palabras más conocidas del anime entre los fans occidentales.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué año se fundó el estudio 'Studio Ghibli'?",
+      "options": ["1982", "1985", "1988", "1990"],
+      "correct_answer": 1,
+      "explanation": "Studio Ghibli fue fundado en 1985 por Hayao Miyazaki, Isao Takahata y Toshio Suzuki.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre del protagonista de 'Code Geass'?",
+      "options": ["Suzaku Kururugi", "Lelouch Lamperouge", "Kallen Kozuki", "C.C."],
+      "correct_answer": 1,
+      "explanation": "Lelouch Lamperouge (vi Britannia) es el protagonista de Code Geass, que obtiene el poder del Geass de C.C.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Qué Pokémon evoluciona de 'Charmander'?",
+      "options": ["Charizard", "Charmeleon", "Blastoise", "Wartortle"],
+      "correct_answer": 1,
+      "explanation": "Charmander evoluciona a Charmeleon en el nivel 16, y luego Charmeleon evoluciona a Charizard en el nivel 36.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el poder de 'All Might' en My Hero Academia?",
+      "options": ["One For All", "All For One", "Explosion", "Half-Cold Half-Hot"],
+      "correct_answer": 0,
+      "explanation": "All Might posee el Quirk 'One For All', un poder que se puede transferir y acumula fuerza de generación en generación.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cómo se llama el festival cultural japonés que aparece frecuentemente en anime escolar?",
+      "options": ["Tanabata", "Bunka-sai", "Hanami", "Bon Odori"],
+      "correct_answer": 1,
+      "explanation": "Bunka-sai (Festival Cultural) es un evento escolar común en anime donde los estudiantes organizan actividades y presentaciones.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el nombre del notebook mágico en Death Note?",
+      "options": ["Death Note", "Life Note", "Shinigami Note", "Killer Note"],
+      "correct_answer": 0,
+      "explanation": "El Death Note es el cuaderno sobrenatural que permite matar a cualquier persona escribiendo su nombre mientras se visualiza su rostro.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué anime aparece el personaje 'Kakashi Hatake'?",
+      "options": ["Bleach", "Naruto", "One Piece", "Dragon Ball"],
+      "correct_answer": 1,
+      "explanation": "Kakashi Hatake es el sensei del Equipo 7 en Naruto, conocido como el 'Ninja que Copia' por su Sharingan.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del clan de 'Sasuke' en Naruto?",
+      "options": ["Hyuga", "Uchiha", "Nara", "Akimichi"],
+      "correct_answer": 1,
+      "explanation": "Sasuke pertenece al clan Uchiha, famoso por su dojutsu Sharingan y su trágica historia en la serie.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué significa 'Tsundere' en el anime?",
+      "options": ["Personaje tímido", "Personaje agresivo que oculta afecto", "Personaje alegre", "Personaje misterioso"],
+      "correct_answer": 1,
+      "explanation": "Tsundere describe a un personaje que inicialmente es hostil o frío pero gradualmente muestra su lado más cálido y afectuoso.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el anime más largo en emisión?",
+      "options": ["One Piece", "Detective Conan", "Doraemon", "Sazae-san"],
+      "correct_answer": 3,
+      "explanation": "Sazae-san es el anime más largo en emisión, comenzando en 1969 y aún continuando, con más de 7,000 episodios.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cómo se llama la transformación más famosa de Goku?",
+      "options": ["Kaio-ken", "Super Saiyan", "Ultra Instinto", "Fusion"],
+      "correct_answer": 1,
+      "explanation": "La transformación Super Saiyan es la más icónica de Goku, caracterizada por el cabello dorado y el aura de energía.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿En qué anime aparece la 'Puerta de la Verdad'?",
+      "options": ["Fullmetal Alchemist", "Steins;Gate", "Attack on Titan", "Code Geass"],
+      "correct_answer": 0,
+      "explanation": "La Puerta de la Verdad aparece en Fullmetal Alchemist como el lugar místico donde se encuentra toda la información del universo.",
+      "category": "anime",
+      "difficulty": "medium"
+    },
+    {
+      "question": "¿Cuál es el apellido de 'Izuku' en My Hero Academia?",
+      "options": ["Bakugo", "Todoroki", "Midoriya", "Iida"],
+      "correct_answer": 2,
+      "explanation": "Izuku Midoriya, también conocido como 'Deku', es el protagonista principal de My Hero Academia.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Qué studio animó la película 'Spirited Away'?",
+      "options": ["Madhouse", "Studio Ghibli", "Toei Animation", "Bones"],
+      "correct_answer": 1,
+      "explanation": "'Spirited Away' (El viaje de Chihiro) fue creada por Studio Ghibli bajo la dirección de Hayao Miyazaki en 2001.",
+      "category": "anime",
+      "difficulty": "easy"
+    },
+    {
+      "question": "¿Cuál es el nombre del torneo de artes marciales en Dragon Ball?",
+      "options": ["Torneo del Poder", "Tenkaichi Budokai", "Cell Games", "Torneo de Baba"],
+      "correct_answer": 1,
+      "explanation": "El Tenkaichi Budokai es el torneo mundial de artes marciales que aparece frecuentemente en Dragon Ball como evento central.",
+      "category": "anime",
+      "difficulty": "medium"
+    }
+  ]
+    }
