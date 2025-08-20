@@ -1,0 +1,146 @@
+{
+  "category": "ciencias",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "q": "¿Cuál es el elemento químico más abundante en el universo?",
+      "opts": ["Helio", "Hidrógeno", "Oxígeno", "Carbono"],
+      "ans": 1,
+      "correct": "¡HIDRÓGENO ES CORRECTO!",
+      "explanation": "El hidrógeno constituye aproximadamente el 75% de la masa normal del universo"
+    },
+    {
+      "q": "¿Cuántos huesos tiene un ser humano adulto?",
+      "opts": ["186", "206", "226", "246"],
+      "ans": 1,
+      "correct": "¡206 HUESOS ES CORRECTO!",
+      "explanation": "Los bebés nacen con 270 huesos, pero muchos se fusionan durante el crecimiento"
+    },
+    {
+      "q": "¿Qué científico formuló las tres leyes del movimiento?",
+      "opts": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Johannes Kepler"],
+      "ans": 1,
+      "correct": "¡ISAAC NEWTON ES CORRECTO!",
+      "explanation": "Newton publicó sus leyes del movimiento en 1687 en su obra 'Principia Mathematica'"
+    },
+    {
+      "q": "¿Cuál es la velocidad de la luz en el vacío?",
+      "opts": ["299,792,458 m/s", "300,000,000 m/s", "299,000,000 m/s", "301,000,000 m/s"],
+      "ans": 0,
+      "correct": "¡299,792,458 M/S ES CORRECTO!",
+      "explanation": "Esta es la velocidad exacta de la luz en el vacío, una constante fundamental de la física"
+    },
+    {
+      "q": "¿Qué orgánulo celular es conocido como 'la central energética'?",
+      "opts": ["Núcleo", "Ribosoma", "Mitocondria", "Retículo endoplasmático"],
+      "ans": 2,
+      "correct": "¡MITOCONDRIA ES CORRECTO!",
+      "explanation": "Las mitocondrias producen ATP, la 'moneda energética' de las células"
+    },
+    {
+      "q": "¿Cuál es el planeta más grande del sistema solar?",
+      "opts": ["Saturno", "Júpiter", "Neptuno", "Urano"],
+      "ans": 1,
+      "correct": "¡JÚPITER ES CORRECTO!",
+      "explanation": "Júpiter es más masivo que todos los demás planetas del sistema solar combinados"
+    },
+    {
+      "q": "¿Qué gas representa aproximadamente el 78% de la atmósfera terrestre?",
+      "opts": ["Oxígeno", "Dióxido de carbono", "Nitrógeno", "Argón"],
+      "ans": 2,
+      "correct": "¡NITRÓGENO ES CORRECTO!",
+      "explanation": "El nitrógeno (N₂) constituye el 78% de la atmósfera, el oxígeno solo el 21%"
+    },
+    {
+      "q": "¿Cuál es la unidad básica de la herencia?",
+      "opts": ["Cromosoma", "Gen", "ADN", "Proteína"],
+      "ans": 1,
+      "correct": "¡GEN ES CORRECTO!",
+      "explanation": "Los genes son segmentos de ADN que contienen información para características específicas"
+    },
+    {
+      "q": "¿A qué temperatura hierve el agua a nivel del mar?",
+      "opts": ["90°C", "95°C", "100°C", "105°C"],
+      "ans": 2,
+      "correct": "¡100°C ES CORRECTO!",
+      "explanation": "A 1 atmósfera de presión, el agua hierve exactamente a 100°C o 212°F"
+    },
+    {
+      "q": "¿Cuál es la fórmula química del dióxido de carbono?",
+      "opts": ["CO", "CO₂", "C₂O", "C₂O₂"],
+      "ans": 1,
+      "correct": "¡CO₂ ES CORRECTO!",
+      "explanation": "Una molécula de carbono (C) unida a dos moléculas de oxígeno (O₂)"
+    },
+    {
+      "q": "¿Qué tipo de animal es una ballena?",
+      "opts": ["Pez", "Anfibio", "Mamífero", "Reptil"],
+      "ans": 2,
+      "correct": "¡MAMÍFERO ES CORRECTO!",
+      "explanation": "Las ballenas son mamíferos marinos que respiran aire y amamantan a sus crías"
+    },
+    {
+      "q": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "opts": ["Hierro", "Aluminio", "Cobre", "Zinc"],
+      "ans": 1,
+      "correct": "¡ALUMINIO ES CORRECTO!",
+      "explanation": "El aluminio representa aproximadamente el 8% de la corteza terrestre"
+    },
+    {
+      "q": "¿Qué científica descubrió la radiactividad?",
+      "opts": ["Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin", "Lise Meitner"],
+      "ans": 0,
+      "correct": "¡MARIE CURIE ES CORRECTO!",
+      "explanation": "Marie Curie fue pionera en la investigación de la radiactividad, término que ella misma acuñó"
+    },
+    {
+      "q": "¿Cuántas cámaras tiene el corazón humano?",
+      "opts": ["2", "3", "4", "5"],
+      "ans": 2,
+      "correct": "¡4 CÁMARAS ES CORRECTO!",
+      "explanation": "Dos aurículas (superior) y dos ventrículos (inferior), derecha e izquierda"
+    },
+    {
+      "q": "¿Cuál es la escala utilizada para medir la acidez?",
+      "opts": ["Escala Richter", "Escala Celsius", "Escala pH", "Escala Kelvin"],
+      "ans": 2,
+      "correct": "¡ESCALA pH ES CORRECTO!",
+      "explanation": "La escala pH mide la concentración de iones hidrógeno, de 0 (ácido) a 14 (básico)"
+    },
+    {
+      "q": "¿Qué proceso utilizan las plantas para producir energía?",
+      "opts": ["Respiración", "Fotosíntesis", "Fermentación", "Digestión"],
+      "ans": 1,
+      "correct": "¡FOTOSÍNTESIS ES CORRECTO!",
+      "explanation": "Las plantas convierten luz solar, CO₂ y agua en glucosa y oxígeno"
+    },
+    {
+      "q": "¿Cuál es la partícula subatómica con carga positiva?",
+      "opts": ["Electrón", "Neutrón", "Protón", "Positrón"],
+      "ans": 2,
+      "correct": "¡PROTÓN ES CORRECTO!",
+      "explanation": "Los protones se encuentran en el núcleo atómico y determinan el número atómico"
+    },
+    {
+      "q": "¿Qué órgano del cuerpo humano produce la insulina?",
+      "opts": ["Hígado", "Riñón", "Páncreas", "Bazo"],
+      "ans": 2,
+      "correct": "¡PÁNCREAS ES CORRECTO!",
+      "explanation": "Las células beta de los islotes de Langerhans en el páncreas producen insulina"
+    },
+    {
+      "q": "¿Cuál es la galaxia más cercana a la Vía Láctea?",
+      "opts": ["Galaxia del Triángulo", "Galaxia de Andrómeda", "Galaxia del Sombrero", "Galaxia Elíptica"],
+      "ans": 1,
+      "correct": "¡GALAXIA DE ANDRÓMEDA ES CORRECTO!",
+      "explanation": "Andrómeda está a 2.5 millones de años luz y se acerca hacia nosotros"
+    },
+    {
+      "q": "¿Qué ley establece que la energía no se crea ni se destruye?",
+      "opts": ["Ley de Newton", "Ley de Ohm", "Ley de conservación de la energía", "Ley de gravitación"],
+      "ans": 2,
+      "correct": "¡LEY DE CONSERVACIÓN DE LA ENERGÍA ES CORRECTO!",
+      "explanation": "También conocida como la primera ley de la termodinámica"
+    }
+  ]
+        }
