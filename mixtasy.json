@@ -1,0 +1,147 @@
+{
+  "category": "Dragon Ball Z",
+  "description": "Preguntas sobre el anime Dragon Ball Z",
+  "icon": "🐉",
+  "questions": [
+    {
+      "q": "¿Cómo se llama el planeta natal de Goku?",
+      "opts": ["Planeta Vegeta", "Namek", "Tierra", "Kaio"],
+      "ans": 0,
+      "correct": "Planeta Vegeta",
+      "explanation": "Goku nació en el Planeta Vegeta, hogar de la raza Saiyan, antes de que fuera destruido por Freezer."
+    },
+    {
+      "q": "¿Cuál es el nombre real de Goku?",
+      "opts": ["Son Goku", "Kakarot", "Bardock", "Raditz"],
+      "ans": 1,
+      "correct": "Kakarot",
+      "explanation": "El nombre Saiyan de Goku es Kakarot, aunque fue criado en la Tierra como Son Goku."
+    },
+    {
+      "q": "¿Quién fue el primer villano en alcanzar la transformación Super Saiyan?",
+      "opts": ["Vegeta", "Goku", "Gohan", "Ninguno"],
+      "ans": 3,
+      "correct": "Ninguno",
+      "explanation": "Goku fue el primer Saiyan en transformarse en Super Saiyan durante su pelea contra Freezer en Namek."
+    },
+    {
+      "q": "¿Cómo se llama la técnica especial de Vegeta?",
+      "opts": ["Kamehameha", "Big Bang Attack", "Makankosappo", "Kikoho"],
+      "ans": 1,
+      "correct": "Big Bang Attack",
+      "explanation": "El Big Bang Attack es una de las técnicas signature de Vegeta, una poderosa esfera de energía."
+    },
+    {
+      "q": "¿Quién mató a Freezer en su primera aparición?",
+      "opts": ["Goku", "Vegeta", "Trunks del futuro", "Gohan"],
+      "ans": 2,
+      "correct": "Trunks del futuro",
+      "explanation": "Trunks del futuro llegó del futuro y derrotó fácilmente a Freezer y al Rey Cold."
+    },
+    {
+      "q": "¿Cuántas Dragon Balls hay en total en la Tierra?",
+      "opts": ["5", "6", "7", "8"],
+      "ans": 2,
+      "correct": "7",
+      "explanation": "Hay 7 Dragon Balls en la Tierra, cada una con un número diferente de estrellas del 1 al 7."
+    },
+    {
+      "q": "¿Cómo se llama la fusión entre Goku y Vegeta usando los pendientes Potara?",
+      "opts": ["Gogeta", "Vegito", "Gotenks", "Vegeku"],
+      "ans": 1,
+      "correct": "Vegito",
+      "explanation": "Vegito es la fusión de Goku y Vegeta usando los pendientes Potara del Kaio-shin."
+    },
+    {
+      "q": "¿Quién es el maestro que entrena a Goku en el Más Allá?",
+      "opts": ["Maestro Roshi", "Rey Kai", "Kami", "Mr. Popo"],
+      "ans": 1,
+      "correct": "Rey Kai",
+      "explanation": "El Rey Kai entrena a Goku en su planeta después de que Goku muere luchando contra Raditz."
+    },
+    {
+      "q": "¿Cuál es la transformación más poderosa de Gohan durante la saga de Cell?",
+      "opts": ["Super Saiyan", "Super Saiyan 2", "Super Saiyan 3", "Místico"],
+      "ans": 1,
+      "correct": "Super Saiyan 2",
+      "explanation": "Gohan alcanza el Super Saiyan 2 durante su pelea contra Cell, siendo el primero en lograr esta transformación."
+    },
+    {
+      "q": "¿Cómo se llama la técnica que Goku aprende del Rey Kai?",
+      "opts": ["Kamehameha", "Kaioken", "Teletransportación", "Genkidama"],
+      "ans": 3,
+      "correct": "Genkidama",
+      "explanation": "La Genkidama (Bomba de Energía) es la técnica que Goku aprende del Rey Kai, reuniendo energía de todos los seres vivos."
+    },
+    {
+      "q": "¿Quién absorbe a los androides 17 y 18?",
+      "opts": ["Dr. Gero", "Cell", "Babidi", "Majin Buu"],
+      "ans": 1,
+      "correct": "Cell",
+      "explanation": "Cell absorbe a los androides 17 y 18 para alcanzar su forma perfecta durante la saga de Cell."
+    },
+    {
+      "q": "¿Cuál es el nombre del torneo donde Goku conoce a Vegeta?",
+      "opts": ["Torneo de Artes Marciales", "Torneo del Poder", "No se conocen en un torneo", "Torneo de Cell"],
+      "ans": 2,
+      "correct": "No se conocen en un torneo",
+      "explanation": "Goku y Vegeta se conocen cuando Vegeta invade la Tierra buscando las Dragon Balls, no en un torneo."
+    },
+    {
+      "q": "¿Cómo se llama el padre de Vegeta?",
+      "opts": ["Rey Vegeta", "Príncipe Vegeta", "Bardock", "Nappa"],
+      "ans": 0,
+      "correct": "Rey Vegeta",
+      "explanation": "El Rey Vegeta era el padre de Vegeta y el rey de todos los Saiyans en el Planeta Vegeta."
+    },
+    {
+      "q": "¿Quién es el creador de los androides?",
+      "opts": ["Dr. Brief", "Dr. Gero", "Bulma", "Profesor Oak"],
+      "ans": 1,
+      "correct": "Dr. Gero",
+      "explanation": "Dr. Gero es el científico loco que creó los androides para vengarse de Goku."
+    },
+    {
+      "q": "¿Cuál es la debilidad de Majin Buu?",
+      "opts": ["El chocolate", "La leche", "Los dulces", "No tiene debilidades"],
+      "ans": 2,
+      "correct": "Los dulces",
+      "explanation": "Majin Buu tiene una gran debilidad por los dulces, especialmente el chocolate y los postres."
+    },
+    {
+      "q": "¿Cómo se llama la esposa de Goku?",
+      "opts": ["Bulma", "Chi-Chi", "18", "Videl"],
+      "ans": 1,
+      "correct": "Chi-Chi",
+      "explanation": "Chi-Chi es la esposa de Goku y madre de Gohan y Goten."
+    },
+    {
+      "q": "¿Cuántas formas tiene Freezer?",
+      "opts": ["3", "4", "5", "6"],
+      "ans": 1,
+      "correct": "4",
+      "explanation": "Freezer tiene 4 formas principales: su forma inicial, segunda forma, tercera forma y forma final."
+    },
+    {
+      "q": "¿Quién es el hermano mayor de Goku?",
+      "opts": ["Vegeta", "Raditz", "Nappa", "Turles"],
+      "ans": 1,
+      "correct": "Raditz",
+      "explanation": "Raditz es el hermano mayor de Goku y el primer Saiyan que aparece en Dragon Ball Z."
+    },
+    {
+      "q": "¿En qué planeta entrenan Goku y Gohan para enfrentar a Cell?",
+      "opts": ["Namek", "Planeta Kai", "Cámara del Tiempo", "Tierra"],
+      "ans": 2,
+      "correct": "Cámara del Tiempo",
+      "explanation": "Goku y Gohan entrenan en la Cámara del Tiempo y el Espíritu, donde un día equivale a un año."
+    },
+    {
+      "q": "¿Cómo se llama la transformación donde el cabello se vuelve dorado?",
+      "opts": ["Super Saiyan", "Kaioken", "Ultra Instinto", "Modo Oozaru"],
+      "ans": 0,
+      "correct": "Super Saiyan",
+      "explanation": "La transformación Super Saiyan convierte el cabello negro en dorado y aumenta dramáticamente el poder."
+    }
+  ]
+}
