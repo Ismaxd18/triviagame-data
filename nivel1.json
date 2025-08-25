@@ -1,0 +1,48 @@
+{
+  "level": 1,
+  "category": "cristianismo",
+  "name": "Cristianismo Básico",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "id": "cris1-1",
+      "question": "¿Cuántos libros tiene la Biblia?",
+      "options": ["64 libros", "66 libros", "68 libros", "70 libros"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 1000
+    },
+    {
+      "id": "cris1-2",
+      "question": "¿En qué ciudad nació Jesús?",
+      "options": ["Nazaret", "Belén", "Jerusalén", "Capernaúm"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 1000
+    },
+    {
+      "id": "cris1-3",
+      "question": "¿Cuántos apóstoles tuvo Jesús?",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2,
+      "difficulty": "easy",
+      "points": 1000
+    },
+    {
+      "id": "cris1-4",
+      "question": "¿Quién traicionó a Jesús?",
+      "options": ["Pedro", "Juan", "Judas", "Tomás"],
+      "answer": 2,
+      "difficulty": "easy",
+      "points": 1000
+    },
+    {
+      "id": "cris1-5",
+      "question": "¿En cuántos días creó Dios el mundo?",
+      "options": ["5 días", "6 días", "7 días", "8 días"],
+      "answer": 1,
+      "difficulty": "easy",
+      "points": 1000
+    }
+  ]
+}
