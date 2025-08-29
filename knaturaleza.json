@@ -1,0 +1,62 @@
+[
+  {
+    "question": "¿Qué necesitan las plantas para crecer?",
+    "options": ["Solo agua", "Solo sol", "Agua y sol", "Solo tierra"],
+    "correct": 2,
+    "explanation": "Las plantas necesitan agua, sol y tierra para crecer"
+  },
+  {
+    "question": "¿En qué estación del año caen las hojas?",
+    "options": ["Primavera", "Verano", "Otoño", "Invierno"],
+    "correct": 2,
+    "explanation": "En otoño las hojas cambian de color y caen"
+  },
+  {
+    "question": "¿Qué sale después de la lluvia con sol?",
+    "options": ["Nieve", "Arcoíris", "Granizo", "Viento"],
+    "correct": 1,
+    "explanation": "Después de la lluvia con sol sale el arcoíris"
+  },
+  {
+    "question": "¿Dónde viven los peces?",
+    "options": ["En los árboles", "En el agua", "En el aire", "Bajo la tierra"],
+    "correct": 1,
+    "explanation": "Los peces viven en el agua"
+  },
+  {
+    "question": "¿Cuál es la estrella más cercana a la Tierra?",
+    "options": ["La Luna", "El Sol", "Venus", "Marte"],
+    "correct": 1,
+    "explanation": "El Sol es la estrella más cercana a nosotros"
+  },
+  {
+    "question": "¿Qué hacen las abejas?",
+    "options": ["Leche", "Miel", "Queso", "Pan"],
+    "correct": 1,
+    "explanation": "Las abejas hacen miel"
+  },
+  {
+    "question": "¿Cuántas estaciones tiene el año?",
+    "options": ["2", "3", "4", "5"],
+    "correct": 2,
+    "explanation": "El año tiene 4 estaciones: primavera, verano, otoño e invierno"
+  },
+  {
+    "question": "¿De dónde viene la lluvia?",
+    "options": ["De los árboles", "De las nubes", "Del sol", "De la tierra"],
+    "correct": 1,
+    "explanation": "La lluvia viene de las nubes"
+  },
+  {
+    "question": "¿Qué parte de la planta crece bajo la tierra?",
+    "options": ["Las hojas", "Las flores", "Las raíces", "El tronco"],
+    "correct": 2,
+    "explanation": "Las raíces crecen bajo la tierra"
+  },
+  {
+    "question": "¿Cuál es el planeta más grande de nuestro sistema solar?",
+    "options": ["Tierra", "Marte", "Júpiter", "Venus"],
+    "correct": 2,
+    "explanation": "Júpiter es el planeta más grande"
+  }
+]
