@@ -1,0 +1,62 @@
+[
+  {
+    "question": "¿Cuál es el animal más grande del mundo?",
+    "options": ["Elefante", "Ballena azul", "Jirafa", "Tiburón"],
+    "correct": 1,
+    "explanation": "La ballena azul puede medir hasta 30 metros de largo"
+  },
+  {
+    "question": "¿Cuántas patas tiene una araña?",
+    "options": ["6 patas", "8 patas", "10 patas", "4 patas"],
+    "correct": 1,
+    "explanation": "Todas las arañas tienen exactamente 8 patas"
+  },
+  {
+    "question": "¿Qué animal es el rey de la selva?",
+    "options": ["Tigre", "León", "Elefante", "Jaguar"],
+    "correct": 1,
+    "explanation": "El león es conocido como el rey de la selva"
+  },
+  {
+    "question": "¿Cuál es el ave más grande que no puede volar?",
+    "options": ["Pingüino", "Avestruz", "Gallina", "Pavo"],
+    "correct": 1,
+    "explanation": "El avestruz es el ave más grande y no puede volar"
+  },
+  {
+    "question": "¿Qué animal hace 'muu'?",
+    "options": ["Cabra", "Oveja", "Vaca", "Cerdo"],
+    "correct": 2,
+    "explanation": "Las vacas hacen 'muu' cuando se comunican"
+  },
+  {
+    "question": "¿Cuántos corazones tiene un pulpo?",
+    "options": ["1 corazón", "2 corazones", "3 corazones", "4 corazones"],
+    "correct": 2,
+    "explanation": "Los pulpos tienen 3 corazones que bombean sangre azul"
+  },
+  {
+    "question": "¿Qué animal cambia de color?",
+    "options": ["Iguana", "Camaleón", "Lagarto", "Salamandra"],
+    "correct": 1,
+    "explanation": "Los camaleones cambian de color para camuflarse"
+  },
+  {
+    "question": "¿Cuál es el mamífero más pequeño del mundo?",
+    "options": ["Ratón", "Murciélago abejorro", "Hámster", "Ardilla"],
+    "correct": 1,
+    "explanation": "El murciélago abejorro pesa menos que una moneda"
+  },
+  {
+    "question": "¿Qué animal duerme de pie?",
+    "options": ["Vaca", "Caballo", "Jirafa", "Todos los anteriores"],
+    "correct": 3,
+    "explanation": "Vacas, caballos y jirafas pueden dormir de pie"
+  },
+  {
+    "question": "¿Cuánto tiempo puede estar bajo el agua una ballena?",
+    "options": ["5 minutos", "30 minutos", "90 minutos", "3 horas"],
+    "correct": 2,
+    "explanation": "Las ballenas pueden estar hasta 90 minutos sin respirar"
+  }
+    ]
