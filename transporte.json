@@ -1,0 +1,62 @@
+[
+  {
+    "question": "¿Cuántas ruedas tiene un carro?",
+    "options": ["2", "3", "4", "6"],
+    "correct": 2,
+    "explanation": "Los carros tienen 4 ruedas"
+  },
+  {
+    "question": "¿Dónde vuelan los aviones?",
+    "options": ["En el mar", "En el cielo", "Bajo tierra", "En los ríos"],
+    "correct": 1,
+    "explanation": "Los aviones vuelan en el cielo"
+  },
+  {
+    "question": "¿Cuántas ruedas tiene una bicicleta?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Las bicicletas tienen 2 ruedas"
+  },
+  {
+    "question": "¿Dónde navegan los barcos?",
+    "options": ["En el aire", "En el agua", "En la tierra", "En las montañas"],
+    "correct": 1,
+    "explanation": "Los barcos navegan en el agua"
+  },
+  {
+    "question": "¿Qué vehículo usa los bomberos?",
+    "options": ["Ambulancia", "Camión de bomberos", "Taxi", "Autobús"],
+    "correct": 1,
+    "explanation": "Los bomberos usan camiones de bomberos"
+  },
+  {
+    "question": "¿Por dónde corre el tren?",
+    "options": ["Carretera", "Rieles", "Cielo", "Mar"],
+    "correct": 1,
+    "explanation": "Los trenes corren por rieles o vías"
+  },
+  {
+    "question": "¿Qué vehículo lleva enfermos al hospital?",
+    "options": ["Taxi", "Autobús", "Ambulancia", "Camión"],
+    "correct": 2,
+    "explanation": "Las ambulancias llevan enfermos al hospital"
+  },
+  {
+    "question": "¿Cuántas ruedas tiene una motocicleta?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 1,
+    "explanation": "Las motocicletas tienen 2 ruedas"
+  },
+  {
+    "question": "¿Qué necesita un carro para moverse?",
+    "options": ["Agua", "Gasolina", "Comida", "Aire"],
+    "correct": 1,
+    "explanation": "Los carros necesitan gasolina para moverse"
+  },
+  {
+    "question": "¿Qué vehículo va por el aire y tiene hélices?",
+    "options": ["Avión", "Helicóptero", "Globo", "Cohete"],
+    "correct": 1,
+    "explanation": "Los helicópteros tienen hélices y vuelan"
+  }
+]
