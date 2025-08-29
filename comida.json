@@ -1,0 +1,61 @@
+{
+    "question": "¿De qué árbol vienen las manzanas?",
+    "options": ["Peral", "Manzano", "Naranjo", "Limonero"],
+    "correct": 1,
+    "explanation": "Las manzanas crecen en los manzanos"
+  },
+  {
+    "question": "¿Cuál es la fruta más grande?",
+    "options": ["Manzana", "Sandía", "Piña", "Mango"],
+    "correct": 1,
+    "explanation": "La sandía es una de las frutas más grandes"
+  },
+  {
+    "question": "¿De qué color es un plátano maduro?",
+    "options": ["Verde", "Amarillo", "Rojo", "Morado"],
+    "correct": 1,
+    "explanation": "Los plátanos maduros son amarillos"
+  },
+  {
+    "question": "¿Qué animal nos da la leche?",
+    "options": ["Gallina", "Vaca", "Cerdo", "Caballo"],
+    "correct": 1,
+    "explanation": "Las vacas nos dan la leche"
+  },
+  {
+    "question": "¿Cuál es el ingrediente principal del pan?",
+    "options": ["Azúcar", "Harina", "Sal", "Agua"],
+    "correct": 1,
+    "explanation": "La harina es el ingrediente principal del pan"
+  },
+  {
+    "question": "¿Qué verdura hace llorar cuando la cortas?",
+    "options": ["Zanahoria", "Cebolla", "Papa", "Tomate"],
+    "correct": 1,
+    "explanation": "La cebolla hace llorar cuando la cortamos"
+  },
+  {
+    "question": "¿De qué están hechos los huevos fritos?",
+    "options": ["Leche", "Huevos", "Queso", "Mantequilla"],
+    "correct": 1,
+    "explanation": "Los huevos fritos están hechos de huevos"
+  },
+  {
+    "question": "¿Cuál es la fruta más ácida?",
+    "options": ["Manzana", "Plátano", "Limón", "Fresa"],
+    "correct": 2,
+    "explanation": "El limón es muy ácido"
+  },
+  {
+    "question": "¿Qué bebida es transparente y no tiene sabor?",
+    "options": ["Jugo", "Leche", "Agua", "Gaseosa"],
+    "correct": 2,
+    "explanation": "El agua es transparente y no tiene sabor"
+  },
+  {
+    "question": "¿De qué color son las fresas?",
+    "options": ["Azul", "Rojo", "Verde", "Amarillo"],
+    "correct": 1,
+    "explanation": "Las fresas son rojas"
+  }
+]
