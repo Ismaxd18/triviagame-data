@@ -1,0 +1,62 @@
+[
+  {
+    "question": "¿Qué color sale al mezclar azul y amarillo?",
+    "options": ["Morado", "Verde", "Naranja", "Rosa"],
+    "correct": 1,
+    "explanation": "Azul + amarillo = verde, es un color secundario"
+  },
+  {
+    "question": "¿Qué color sale al mezclar rojo y amarillo?",
+    "options": ["Verde", "Naranja", "Morado", "Rosa"],
+    "correct": 1,
+    "explanation": "Rojo + amarillo = naranja"
+  },
+  {
+    "question": "¿Cuál es el color del sol?",
+    "options": ["Blanco", "Amarillo", "Rojo", "Azul"],
+    "correct": 1,
+    "explanation": "El sol se ve amarillo desde la Tierra"
+  },
+  {
+    "question": "¿De qué color son las nubes cuando va a llover?",
+    "options": ["Blancas", "Grises", "Negras", "Azules"],
+    "correct": 1,
+    "explanation": "Las nubes grises indican que puede llover"
+  },
+  {
+    "question": "¿Cuáles son los colores del arcoíris?",
+    "options": ["5 colores", "6 colores", "7 colores", "8 colores"],
+    "correct": 2,
+    "explanation": "El arcoíris tiene 7 colores: rojo, naranja, amarillo, verde, azul, añil y violeta"
+  },
+  {
+    "question": "¿Qué color sale al mezclar rojo y azul?",
+    "options": ["Verde", "Naranja", "Morado", "Rosa"],
+    "correct": 2,
+    "explanation": "Rojo + azul = morado o violeta"
+  },
+  {
+    "question": "¿De qué color es la sangre?",
+    "options": ["Azul", "Rojo", "Verde", "Amarillo"],
+    "correct": 1,
+    "explanation": "La sangre es roja por la hemoglobina"
+  },
+  {
+    "question": "¿Cuáles son los colores primarios?",
+    "options": ["Rojo, verde, azul", "Rojo, amarillo, azul", "Azul, verde, amarillo", "Rojo, naranja, amarillo"],
+    "correct": 1,
+    "explanation": "Los colores primarios son rojo, amarillo y azul"
+  },
+  {
+    "question": "¿De qué color son las hojas en otoño?",
+    "options": ["Verdes", "Amarillas y naranjas", "Azules", "Moradas"],
+    "correct": 1,
+    "explanation": "En otoño las hojas se vuelven amarillas, naranjas y marrones"
+  },
+  {
+    "question": "¿Qué color obtienes al mezclar todos los colores de pintura?",
+    "options": ["Blanco", "Negro", "Gris", "Marrón"],
+    "correct": 3,
+    "explanation": "Al mezclar todos los colores de pintura obtienes un color marrón oscuro"
+  }
+]
