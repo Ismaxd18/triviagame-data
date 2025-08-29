@@ -1,0 +1,62 @@
+[
+  {
+    "question": "¿Cuánto es 5 + 3?",
+    "options": ["6", "8", "9", "7"],
+    "correct": 1,
+    "explanation": "5 + 3 = 8"
+  },
+  {
+    "question": "¿Cuántos dedos tenemos en las dos manos?",
+    "options": ["8", "10", "12", "5"],
+    "correct": 1,
+    "explanation": "Tenemos 5 dedos en cada mano, total 10"
+  },
+  {
+    "question": "¿Cuántas patas tiene un perro?",
+    "options": ["2", "3", "4", "6"],
+    "correct": 2,
+    "explanation": "Los perros tienen 4 patas"
+  },
+  {
+    "question": "¿Cuánto es 10 - 4?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 1,
+    "explanation": "10 - 4 = 6"
+  },
+  {
+    "question": "¿Cuántos lados tiene un triángulo?",
+    "options": ["2", "3", "4", "5"],
+    "correct": 1,
+    "explanation": "Un triángulo tiene 3 lados"
+  },
+  {
+    "question": "¿Cuánto es 2 × 4?",
+    "options": ["6", "8", "10", "12"],
+    "correct": 1,
+    "explanation": "2 × 4 = 8"
+  },
+  {
+    "question": "¿Cuántas horas tiene un día?",
+    "options": ["20", "22", "24", "26"],
+    "correct": 2,
+    "explanation": "Un día tiene 24 horas"
+  },
+  {
+    "question": "¿Cuántos meses tiene un año?",
+    "options": ["10", "11", "12", "13"],
+    "correct": 2,
+    "explanation": "Un año tiene 12 meses"
+  },
+  {
+    "question": "¿Cuánto es la mitad de 20?",
+    "options": ["5", "10", "15", "25"],
+    "correct": 1,
+    "explanation": "La mitad de 20 es 10"
+  },
+  {
+    "question": "¿Cuántos lados tiene un cuadrado?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 1,
+    "explanation": "Un cuadrado tiene 4 lados iguales"
+  }
+]
