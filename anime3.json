@@ -1,0 +1,292 @@
+{
+  "questions": [
+    {
+      "question": "¿Cómo se llama el maestro de Goku en su infancia?",
+      "options": ["Maestro Roshi", "Piccolo", "Kaiosama", "Vegeta"],
+      "correct_answer": 0,
+      "explanation": "El Maestro Roshi entrenó a Goku y Krillin en sus primeros años."
+    },
+    {
+      "question": "¿Quién es el mejor amigo de Naruto?",
+      "options": ["Gaara", "Sasuke", "Shikamaru", "Neji"],
+      "correct_answer": 1,
+      "explanation": "Naruto siempre consideró a Sasuke su mejor amigo y rival."
+    },
+    {
+      "question": "¿Cómo se llama el capitán del Sombrero de Paja?",
+      "options": ["Zoro", "Sanji", "Luffy", "Usopp"],
+      "correct_answer": 2,
+      "explanation": "Monkey D. Luffy es el capitán de los Piratas del Sombrero de Paja."
+    },
+    {
+      "question": "¿Qué poder tiene Nezuko en Demon Slayer?",
+      "options": ["Usar agua", "Convertirse en demonio", "Hacer fuego azul", "Leer mentes"],
+      "correct_answer": 1,
+      "explanation": "Nezuko fue convertida en demonio pero mantiene parte de su humanidad."
+    },
+    {
+      "question": "¿Cuál es el apellido de Light en Death Note?",
+      "options": ["Yagami", "Kamado", "Suzuki", "Shinigami"],
+      "correct_answer": 0,
+      "explanation": "El protagonista de Death Note es Light Yagami."
+    },
+    {
+      "question": "¿Qué animal acompaña a Gon en Hunter x Hunter?",
+      "options": ["Un tigre", "Un zorro", "Un pez", "Ninguno"],
+      "correct_answer": 3,
+      "explanation": "Gon no tiene un animal acompañante fijo en la serie."
+    },
+    {
+      "question": "¿Quién es conocido como el 'Príncipe de los Saiyajin'?",
+      "options": ["Broly", "Trunks", "Vegeta", "Raditz"],
+      "correct_answer": 2,
+      "explanation": "Vegeta es llamado el Príncipe de los Saiyajin."
+    },
+    {
+      "question": "¿Cómo se llama el titán principal de Eren en Attack on Titan?",
+      "options": ["Titán Colosal", "Titán Acorazado", "Titán de Ataque", "Titán Bestia"],
+      "correct_answer": 2,
+      "explanation": "Eren hereda el Titán de Ataque desde el inicio de la serie."
+    },
+    {
+      "question": "¿Qué tipo de criatura es Pikachu?",
+      "options": ["Un perro eléctrico", "Un pokémon", "Un espíritu", "Un ninja"],
+      "correct_answer": 1,
+      "explanation": "Pikachu es un Pokémon de tipo eléctrico, símbolo de la franquicia."
+    },
+    {
+      "question": "¿Quién creó el manga Dragon Ball?",
+      "options": ["Eiichiro Oda", "Masashi Kishimoto", "Akira Toriyama", "Yoshihiro Togashi"],
+      "correct_answer": 2,
+      "explanation": "Dragon Ball fue creado por Akira Toriyama."
+    },
+    {
+      "question": "¿Cuál es el objetivo de Luffy?",
+      "options": ["Convertirse en Hokage", "Ser el Rey de los Piratas", "Salvar a Nezuko", "Ganar el Torneo de Poder"],
+      "correct_answer": 1,
+      "explanation": "El sueño de Luffy es convertirse en el Rey de los Piratas."
+    },
+    {
+      "question": "¿Qué significa 'kamehameha' en Dragon Ball?",
+      "options": ["Un saludo", "Una técnica de pelea", "Un planeta", "Un dios"],
+      "correct_answer": 1,
+      "explanation": "El kamehameha es una técnica de energía creada por el Maestro Roshi."
+    },
+    {
+      "question": "¿Quién es el rival principal de Yugi en Yu-Gi-Oh?",
+      "options": ["Kaiba", "Joey", "Bakura", "Pegasus"],
+      "correct_answer": 0,
+      "explanation": "Seto Kaiba es el principal rival de Yugi."
+    },
+    {
+      "question": "¿Qué villano es conocido como el 'Freezer del nuevo mundo' en One Piece?",
+      "options": ["Kaido", "Big Mom", "Doflamingo", "Crocodile"],
+      "correct_answer": 2,
+      "explanation": "Donquixote Doflamingo es uno de los villanos más temidos en One Piece."
+    },
+    {
+      "question": "¿Quién es el protagonista de Bleach?",
+      "options": ["Ichigo Kurosaki", "Rukia Kuchiki", "Aizen", "Renji"],
+      "correct_answer": 0,
+      "explanation": "Ichigo Kurosaki es el protagonista de Bleach."
+    },
+    {
+      "question": "¿Qué examen debe pasar Naruto para convertirse en ninja?",
+      "options": ["Examen Chunin", "Examen Jonin", "Examen Genin", "Examen ANBU"],
+      "correct_answer": 2,
+      "explanation": "Naruto inicia intentando pasar el examen Genin para graduarse de la academia."
+    },
+    {
+      "question": "¿Quién es el sensei del equipo 7 en Naruto?",
+      "options": ["Jiraiya", "Kakashi Hatake", "Orochimaru", "Iruka"],
+      "correct_answer": 1,
+      "explanation": "Kakashi Hatake es el sensei del equipo 7 formado por Naruto, Sasuke y Sakura."
+    },
+    {
+      "question": "¿Qué fruta comió Luffy en One Piece?",
+      "options": ["Fruta de fuego", "Fruta Gomu Gomu", "Fruta Hie Hie", "Fruta Neko Neko"],
+      "correct_answer": 1,
+      "explanation": "Luffy comió la Fruta Gomu Gomu, que le dio habilidades de goma."
+    },
+    {
+      "question": "¿Quién es conocido como el 'Shinigami del Cuaderno' en Death Note?",
+      "options": ["Ryuk", "Rem", "Light", "Misa"],
+      "correct_answer": 0,
+      "explanation": "Ryuk es el Shinigami que deja caer el Death Note en el mundo humano."
+    },
+    {
+      "question": "¿Qué villano mata a Krillin en Dragon Ball Z?",
+      "options": ["Cell", "Freezer", "Majin Buu", "Nappa"],
+      "correct_answer": 1,
+      "explanation": "Freezer mata a Krillin en Namek, lo que desata la furia de Goku y su transformación en Super Saiyajin."
+    },
+    {
+      "question": "¿Cómo se llama el hermano de Itachi?",
+      "options": ["Madara", "Kakashi", "Sasuke", "Nagato"],
+      "correct_answer": 2,
+      "explanation": "Sasuke es el hermano menor de Itachi Uchiha."
+    },
+    {
+      "question": "¿Qué personaje grita 'Plus Ultra' en My Hero Academia?",
+      "options": ["Deku", "All Might", "Bakugo", "Todoroki"],
+      "correct_answer": 1,
+      "explanation": "All Might, el héroe número uno, usa la frase 'Plus Ultra' como motivación."
+    },
+    {
+      "question": "¿Qué tipo de titán es Armin?",
+      "options": ["Titán Colosal", "Titán Bestia", "Titán Hembra", "Titán Carguero"],
+      "correct_answer": 0,
+      "explanation": "Armin hereda el poder del Titán Colosal."
+    },
+    {
+      "question": "¿Cuál es el verdadero nombre de Zoro?",
+      "options": ["Roronoa Zoro", "Zoro Kamado", "Zoro Kusanagi", "Zoro Hatake"],
+      "correct_answer": 0,
+      "explanation": "El espadachín de One Piece se llama Roronoa Zoro."
+    },
+    {
+      "question": "¿Qué poder tiene Gon al transformarse en su forma adulta?",
+      "options": ["Velocidad extrema", "Fuerza descomunal", "Curación", "Telepatía"],
+      "correct_answer": 1,
+      "explanation": "Gon obtiene una fuerza descomunal al sacrificar su futuro como Cazador."
+    },
+    {
+      "question": "¿Quién es el maestro de Tanjiro en Demon Slayer?",
+      "options": ["Kyojuro Rengoku", "Urokodaki", "Tengen Uzui", "Gyomei"],
+      "correct_answer": 1,
+      "explanation": "Urokodaki entrenó a Tanjiro en las técnicas de respiración del agua."
+    },
+    {
+      "question": "¿Qué organización persigue a los Akatsuki?",
+      "options": ["La Alianza Shinobi", "Los 7 Espadachines", "ANBU", "Raíz"],
+      "correct_answer": 0,
+      "explanation": "La Alianza Shinobi fue creada para combatir la amenaza de los Akatsuki."
+    },
+    {
+      "question": "¿Cómo se llama el maestro de Edward y Alphonse en Fullmetal Alchemist?",
+      "options": ["Izumi Curtis", "Roy Mustang", "Van Hohenheim", "Greed"],
+      "correct_answer": 0,
+      "explanation": "Izumi Curtis fue la maestra de alquimia de Edward y Alphonse."
+    },
+    {
+      "question": "¿Qué fruta del diablo comió Brook en One Piece?",
+      "options": ["Yomi Yomi no Mi", "Suke Suke no Mi", "Gura Gura no Mi", "Mera Mera no Mi"],
+      "correct_answer": 0,
+      "explanation": "Brook comió la Yomi Yomi no Mi, que le permitió volver a la vida."
+    },
+    {
+      "question": "¿Cuál es el verdadero nombre de 'Deku' en My Hero Academia?",
+      "options": ["Shoto Todoroki", "Izuku Midoriya", "Katsuki Bakugo", "Tenya Iida"],
+      "correct_answer": 1,
+      "explanation": "Deku es el apodo de Izuku Midoriya."
+    },
+    {
+      "question": "¿Cómo se llama el dragón de Fairy Tail?",
+      "options": ["Igneel", "Acnologia", "Dragunov", "Dragneel"],
+      "correct_answer": 0,
+      "explanation": "Igneel es el dragón que crió a Natsu Dragneel."
+    },
+    {
+      "question": "¿Qué pokémon es conocido como el 'legendario del tiempo'?",
+      "options": ["Dialga", "Palkia", "Giratina", "Mewtwo"],
+      "correct_answer": 0,
+      "explanation": "Dialga controla el tiempo en el universo Pokémon."
+    },
+    {
+      "question": "¿Quién es el autor de One Piece?",
+      "options": ["Masashi Kishimoto", "Eiichiro Oda", "Akira Toriyama", "Tite Kubo"],
+      "correct_answer": 1,
+      "explanation": "One Piece fue creado por Eiichiro Oda."
+    },
+    {
+      "question": "¿Cómo se llama el padre de Inuyasha?",
+      "options": ["Sesshomaru", "Toga", "Naraku", "Koga"],
+      "correct_answer": 1,
+      "explanation": "El Gran Perro Demonio Toga es el padre de Inuyasha."
+    },
+    {
+      "question": "¿Qué poder tiene Shoto Todoroki?",
+      "options": ["Aire y agua", "Hielo y fuego", "Arena y hierro", "Sombras y luz"],
+      "correct_answer": 1,
+      "explanation": "Shoto Todoroki domina el hielo con su lado derecho y el fuego con su lado izquierdo."
+    },
+    {
+      "question": "¿Qué gema tiene Killua en Hunter x Hunter?",
+      "options": ["Ninguna", "Gema eléctrica", "Anillo de poder", "La piedra Greed Island"],
+      "correct_answer": 0,
+      "explanation": "Killua no tiene ninguna gema especial, su poder viene de su entrenamiento."
+    },
+    {
+      "question": "¿Cómo se llama el padre de Gon?",
+      "options": ["Hisoka", "Pariston", "Ging Freecss", "Leorio"],
+      "correct_answer": 2,
+      "explanation": "Ging Freecss es el padre de Gon."
+    },
+    {
+      "question": "¿Qué carta prohíbe Pegasus en Yu-Gi-Oh?",
+      "options": ["Exodia", "Dragón Blanco", "Mago Oscuro", "Cartas de Dioses"],
+      "correct_answer": 3,
+      "explanation": "Pegasus creó las Cartas de Dioses Egipcios que eran extremadamente poderosas."
+    },
+    {
+      "question": "¿Cómo se llama el estudio que produjo Evangelion?",
+      "options": ["Toei Animation", "Studio Ghibli", "Gainax", "Madhouse"],
+      "correct_answer": 2,
+      "explanation": "Neon Genesis Evangelion fue producido por Gainax."
+    },
+    {
+      "question": "¿Qué significa ANBU en Naruto?",
+      "options": ["Unidad de asesinato", "Fuerza especial ninja", "Policía de Konoha", "Grupo de médicos"],
+      "correct_answer": 1,
+      "explanation": "ANBU son ninjas de operaciones especiales que trabajan bajo órdenes directas de Hokage."
+    },
+    {
+      "question": "¿Qué héroe tiene el poder de 'One For All'?",
+      "options": ["All For One", "Deku", "All Might", "Ambos"],
+      "correct_answer": 3,
+      "explanation": "All Might fue portador del One For All y luego lo heredó a Deku."
+    },
+    {
+      "question": "¿Quién es el creador de Naruto?",
+      "options": ["Eiichiro Oda", "Akira Toriyama", "Tite Kubo", "Masashi Kishimoto"],
+      "correct_answer": 3,
+      "explanation": "Naruto fue creado por Masashi Kishimoto."
+    },
+    {
+      "question": "¿Cuál es el poder de Zenitsu en Demon Slayer?",
+      "options": ["Respiración de la Bestia", "Respiración de Rayo", "Respiración de Agua", "Respiración de Sol"],
+      "correct_answer": 1,
+      "explanation": "Zenitsu domina la respiración del Rayo."
+    },
+    {
+      "question": "¿Qué clase de criatura es Totoro?",
+      "options": ["Un espíritu del bosque", "Un gato", "Un dragón", "Un conejo"],
+      "correct_answer": 0,
+      "explanation": "Totoro es un espíritu del bosque en la película de Studio Ghibli."
+    },
+    {
+      "question": "¿Quién es el fundador de los Quincy en Bleach?",
+      "options": ["Uryu Ishida", "Yhwach", "Aizen", "Byakuya"],
+      "correct_answer": 1,
+      "explanation": "Yhwach es el padre de todos los Quincy."
+    },
+    {
+      "question": "¿Qué espada usa Inuyasha?",
+      "options": ["Samehada", "Tessaiga", "Zanpakuto", "Muramasa"],
+      "correct_answer": 1,
+      "explanation": "Inuyasha empuña la espada Tessaiga hecha del colmillo de su padre."
+    },
+    {
+      "question": "¿Qué personaje es conocido como el 'Shinigami Sustituto'?",
+      "options": ["Ichigo Kurosaki", "Renji Abarai", "Rukia Kuchiki", "Byakuya"],
+      "correct_answer": 0,
+      "explanation": "Ichigo es conocido como el Shinigami Sustituto en Bleach."
+    },
+    {
+      "question": "¿Qué ninja crea los clones de sombra?",
+      "options": ["Naruto", "Sakura", "Kakashi", "Rock Lee"],
+      "correct_answer": 0,
+      "explanation": "Naruto es famoso por usar la técnica de los clones de sombra."
+    }
+  ]
+        }
