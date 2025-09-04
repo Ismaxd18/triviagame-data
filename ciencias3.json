@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": ["Venus", "Mercurio", "Marte", "Tierra"],
+      "correct_answer": 1,
+      "explanation": "Mercurio es el planeta más cercano al Sol."
+    },
+    {
+      "question": "¿Qué partícula tiene carga negativa?",
+      "options": ["Protón", "Electrón", "Neutrón", "Fotón"],
+      "correct_answer": 1,
+      "explanation": "El electrón posee carga negativa."
+    },
+    {
+      "question": "¿Cuál es el metal más usado en cables eléctricos?",
+      "options": ["Hierro", "Aluminio", "Cobre", "Plata"],
+      "correct_answer": 2,
+      "explanation": "El cobre es el mejor conductor y se usa en la mayoría de cables."
+    },
+    {
+      "question": "¿Qué gas es esencial para la respiración humana?",
+      "options": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+      "correct_answer": 0,
+      "explanation": "El oxígeno es vital para la respiración celular."
+    },
+    {
+      "question": "¿Quién formuló la teoría de la relatividad?",
+      "options": ["Newton", "Einstein", "Tesla", "Galileo"],
+      "correct_answer": 1,
+      "explanation": "Albert Einstein propuso la teoría de la relatividad."
+    },
+    {
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": ["Hígado", "Piel", "Pulmón", "Cerebro"],
+      "correct_answer": 1,
+      "explanation": "La piel es el órgano más grande del cuerpo humano."
+    },
+    {
+      "question": "¿Cuál es la estrella más cercana a la Tierra?",
+      "options": ["Sirio", "Sol", "Alfa Centauri", "Betelgeuse"],
+      "correct_answer": 1,
+      "explanation": "El Sol es la estrella más cercana a nuestro planeta."
+    },
+    {
+      "question": "¿Qué unidad mide la intensidad de corriente eléctrica?",
+      "options": ["Voltio", "Amperio", "Ohmio", "Watt"],
+      "correct_answer": 1,
+      "explanation": "El amperio mide la intensidad de la corriente eléctrica."
+    },
+    {
+      "question": "¿Qué tipo de sangre es donante universal?",
+      "options": ["A+", "O-", "B+", "AB+"],
+      "correct_answer": 1,
+      "explanation": "El tipo O- puede donar a cualquier otro grupo sanguíneo."
+    },
+    {
+      "question": "¿Cuál es el satélite natural de la Tierra?",
+      "options": ["Europa", "Luna", "Ío", "Titán"],
+      "correct_answer": 1,
+      "explanation": "La Luna es el único satélite natural de la Tierra."
+    },
+    {
+      "question": "¿Qué científico propuso las leyes del movimiento?",
+      "options": ["Galileo Galilei", "Isaac Newton", "Albert Einstein", "Niels Bohr"],
+      "correct_answer": 1,
+      "explanation": "Newton formuló las tres leyes del movimiento."
+    },
+    {
+      "question": "¿Cuál es el planeta conocido como el planeta rojo?",
+      "options": ["Venus", "Saturno", "Marte", "Júpiter"],
+      "correct_answer": 2,
+      "explanation": "Marte es llamado planeta rojo por el óxido de hierro en su superficie."
+    },
+    {
+      "question": "¿Qué parte de la célula contiene el ADN?",
+      "options": ["Mitocondria", "Citoplasma", "Núcleo", "Ribosoma"],
+      "correct_answer": 2,
+      "explanation": "El núcleo contiene la mayor parte del ADN de la célula."
+    },
+    {
+      "question": "¿Qué gas hace que los globos de fiesta floten?",
+      "options": ["Hidrógeno", "Oxígeno", "Helio", "Nitrógeno"],
+      "correct_answer": 2,
+      "explanation": "El helio es más ligero que el aire y no es inflamable."
+    },
+    {
+      "question": "¿Cuál es la unidad de la fuerza?",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "correct_answer": 0,
+      "explanation": "La fuerza se mide en Newtons en honor a Isaac Newton."
+    },
+    {
+      "question": "¿Cuál es el proceso por el que las plantas producen su alimento?",
+      "options": ["Fotosíntesis", "Respiración", "Digestión", "Transpiración"],
+      "correct_answer": 0,
+      "explanation": "La fotosíntesis transforma energía solar en alimento para las plantas."
+    },
+    {
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": ["Saturno", "Urano", "Júpiter", "Neptuno"],
+      "correct_answer": 2,
+      "explanation": "Júpiter es el planeta más grande del sistema solar."
+    },
+    {
+      "question": "¿Qué instrumento mide la temperatura?",
+      "options": ["Manómetro", "Termómetro", "Barómetro", "Anemómetro"],
+      "correct_answer": 1,
+      "explanation": "El termómetro mide la temperatura."
+    },
+    {
+      "question": "¿Qué mineral forma el diamante?",
+      "options": ["Carbono", "Silicio", "Oxígeno", "Hierro"],
+      "correct_answer": 0,
+      "explanation": "El diamante está compuesto por carbono cristalizado."
+    },
+    {
+      "question": "¿Cuál es el planeta con más anillos?",
+      "options": ["Urano", "Saturno", "Júpiter", "Neptuno"],
+      "correct_answer": 1,
+      "explanation": "Saturno es famoso por sus grandes anillos visibles."
+    },
+    {
+      "question": "¿Qué científico inventó la bombilla eléctrica práctica?",
+      "options": ["Nikola Tesla", "Thomas Edison", "Benjamin Franklin", "James Watt"],
+      "correct_answer": 1,
+      "explanation": "Thomas Edison perfeccionó la bombilla eléctrica en 1879."
+    },
+    {
+      "question": "¿Qué planeta tiene un día más largo que su año?",
+      "options": ["Venus", "Mercurio", "Urano", "Marte"],
+      "correct_answer": 0,
+      "explanation": "En Venus un día dura más que un año debido a su lenta rotación."
+    },
+    {
+      "question": "¿Cuál es el elemento químico con símbolo O?",
+      "options": ["Oro", "Oxígeno", "Osmio", "Oxalato"],
+      "correct_answer": 1,
+      "explanation": "La letra O representa al Oxígeno en la tabla periódica."
+    },
+    {
+      "question": "¿Qué planeta es famoso por su gran mancha roja?",
+      "options": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+      "correct_answer": 0,
+      "explanation": "La Gran Mancha Roja es una tormenta gigante en Júpiter."
+    },
+    {
+      "question": "¿Qué vitamina produce el cuerpo con la luz solar?",
+      "options": ["Vitamina A", "Vitamina B", "Vitamina C", "Vitamina D"],
+      "correct_answer": 3,
+      "explanation": "La piel produce Vitamina D con la exposición al sol."
+    },
+    {
+      "question": "¿Cuál es la molécula que transporta oxígeno en la sangre?",
+      "options": ["Insulina", "Glucosa", "Hemoglobina", "Adrenalina"],
+      "correct_answer": 2,
+      "explanation": "La hemoglobina es responsable del transporte de oxígeno."
+    },
+    {
+      "question": "¿Qué planeta tiene la mayor cantidad de lunas conocidas?",
+      "options": ["Saturno", "Júpiter", "Urano", "Marte"],
+      "correct_answer": 0,
+      "explanation": "Saturno actualmente tiene más lunas confirmadas que Júpiter."
+    },
+    {
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": ["300 km/s", "300,000 km/s", "30,000 km/s", "3,000 km/s"],
+      "correct_answer": 1,
+      "explanation": "La velocidad de la luz es aproximadamente 300,000 km/s."
+    },
+    {
+      "question": "¿Cuál es el planeta más frío del sistema solar?",
+      "options": ["Neptuno", "Urano", "Saturno", "Plutón"],
+      "correct_answer": 1,
+      "explanation": "Urano tiene temperaturas extremadamente bajas, cercanas a -224 °C."
+    },
+    {
+      "question": "¿Qué científico descubrió la penicilina?",
+      "options": ["Pasteur", "Newton", "Fleming", "Darwin"],
+      "correct_answer": 2,
+      "explanation": "Alexander Fleming descubrió la penicilina en 1928."
+    },
+    {
+      "question": "¿Qué planeta es conocido como el gemelo de la Tierra?",
+      "options": ["Venus", "Marte", "Mercurio", "Urano"],
+      "correct_answer": 0,
+      "explanation": "Venus se conoce como gemelo de la Tierra por su tamaño similar."
+    },
+    {
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": ["Oxígeno", "Nitrógeno", "Argón", "CO2"],
+      "correct_answer": 1,
+      "explanation": "El nitrógeno representa aproximadamente el 78% del aire."
+    },
+    {
+      "question": "¿Cuál es la unidad de medida de la energía?",
+      "options": ["Watt", "Joule", "Newton", "Pascal"],
+      "correct_answer": 1,
+      "explanation": "La energía se mide en Joules."
+    },
+    {
+      "question": "¿Qué científico propuso la teoría de la evolución?",
+      "options": ["Darwin", "Mendel", "Lamarck", "Pasteur"],
+      "correct_answer": 0,
+      "explanation": "Charles Darwin propuso la teoría de la evolución por selección natural."
+    },
+    {
+      "question": "¿Cuál es el metal líquido a temperatura ambiente?",
+      "options": ["Plomo", "Mercurio", "Aluminio", "Sodio"],
+      "correct_answer": 1,
+      "explanation": "El mercurio es un metal líquido a temperatura ambiente."
+    },
+    {
+      "question": "¿Qué planeta está inclinado casi de costado?",
+      "options": ["Urano", "Saturno", "Neptuno", "Venus"],
+      "correct_answer": 0,
+      "explanation": "Urano tiene una inclinación de eje de 98°."
+    },
+    {
+      "question": "¿Cuál es el órgano encargado de bombear la sangre?",
+      "options": ["Pulmón", "Hígado", "Corazón", "Riñón"],
+      "correct_answer": 2,
+      "explanation": "El corazón es el órgano que bombea la sangre a todo el cuerpo."
+    },
+    {
+      "question": "¿Qué invento de Gutenberg revolucionó la humanidad?",
+      "options": ["Teléfono", "Imprenta", "Telégrafo", "Radio"],
+      "correct_answer": 1,
+      "explanation": "La imprenta permitió la difusión masiva del conocimiento."
+    },
+    {
+      "question": "¿Qué planeta tiene vientos más veloces?",
+      "options": ["Marte", "Neptuno", "Saturno", "Júpiter"],
+      "correct_answer": 1,
+      "explanation": "Neptuno tiene vientos que superan los 2,000 km/h."
+    },
+    {
+      "question": "¿Cuál es la función de los glóbulos rojos?",
+      "options": ["Defender el cuerpo", "Transportar oxígeno", "Coagular la sangre", "Eliminar desechos"],
+      "correct_answer": 1,
+      "explanation": "Los glóbulos rojos transportan oxígeno a las células."
+    },
+    {
+      "question": "¿Qué científico formuló la ley de la gravedad?",
+      "options": ["Newton", "Galileo", "Kepler", "Copérnico"],
+      "correct_answer": 0,
+      "explanation": "Isaac Newton formuló la ley de la gravitación universal."
+    },
+    {
+      "question": "¿Cuál es el animal más estudiado en los laboratorios?",
+      "options": ["Ratón", "Perro", "Conejo", "Mono"],
+      "correct_answer": 0,
+      "explanation": "Los ratones se usan comúnmente en experimentos por su similitud genética con humanos."
+    },
+    {
+      "question": "¿Qué célula del cuerpo produce anticuerpos?",
+      "options": ["Linfocitos B", "Neutrófilos", "Macrófagos", "Glóbulos rojos"],
+      "correct_answer": 0,
+      "explanation": "Los linfocitos B producen anticuerpos para defender el organismo."
+    },
+    {
+      "question": "¿Qué científico desarrolló la teoría heliocéntrica?",
+      "options": ["Copérnico", "Ptolomeo", "Kepler", "Galileo"],
+      "correct_answer": 0,
+      "explanation": "Nicolás Copérnico propuso que la Tierra gira alrededor del Sol."
+    },
+    {
+      "question": "¿Qué nombre recibe el cambio de agua de líquido a gas?",
+      "options": ["Condensación", "Evaporación", "Fusión", "Sublimación"],
+      "correct_answer": 1,
+      "explanation": "El agua pasa de estado líquido a gaseoso por evaporación."
+    },
+    {
+      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "options": ["Aluminio", "Hierro", "Cobre", "Plata"],
+      "correct_answer": 0,
+      "explanation": "El aluminio es el metal más abundante en la corteza terrestre."
+    },
+    {
+      "question": "¿Qué inventó Alexander Graham Bell?",
+      "options": ["Radio", "Teléfono", "Bombilla", "Avión"],
+      "correct_answer": 1,
+      "explanation": "Alexander Graham Bell inventó el teléfono en 1876."
+    },
+    {
+      "question": "¿Cuál es la galaxia donde está el sistema solar?",
+      "options": ["Andrómeda", "Vía Láctea", "Sombrero", "Triángulo"],
+      "correct_answer": 1,
+      "explanation": "El sistema solar se encuentra en la galaxia Vía Láctea."
+    },
+    {
+      "question": "¿Qué aparato mide la presión atmosférica?",
+      "options": ["Termómetro", "Anemómetro", "Barómetro", "Higrómetro"],
+      "correct_answer": 2,
+      "explanation": "El barómetro se utiliza para medir la presión atmosférica."
+    }
+  ]
+    }
