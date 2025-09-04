@@ -1,0 +1,292 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué animal es conocido como el rey de la selva?",
+      "options": ["León", "Tigre", "Elefante", "Gorila"],
+      "correct_answer": 0,
+      "explanation": "El león es conocido popularmente como el rey de la selva."
+    },
+    {
+      "question": "¿Cuál es el océano más grande del mundo?",
+      "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+      "correct_answer": 2,
+      "explanation": "El océano Pacífico es el más grande, cubriendo más del 30% de la Tierra."
+    },
+    {
+      "question": "¿Qué fruta inspiró el nombre de una famosa empresa tecnológica?",
+      "options": ["Banana", "Manzana", "Uva", "Cereza"],
+      "correct_answer": 1,
+      "explanation": "Apple tomó su nombre de la fruta manzana."
+    },
+    {
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": ["Venus", "Mercurio", "Marte", "Júpiter"],
+      "correct_answer": 1,
+      "explanation": "Mercurio es el planeta más cercano al Sol."
+    },
+    {
+      "question": "¿Qué animal puede dormir de pie?",
+      "options": ["Gato", "Vaca", "Caballo", "Perro"],
+      "correct_answer": 2,
+      "explanation": "Los caballos pueden dormir de pie gracias a un sistema especial en sus patas."
+    },
+    {
+      "question": "¿Qué país inventó la pizza?",
+      "options": ["Italia", "Francia", "Grecia", "España"],
+      "correct_answer": 0,
+      "explanation": "La pizza moderna fue creada en Italia, específicamente en Nápoles."
+    },
+    {
+      "question": "¿Cuál es el ave más grande del mundo?",
+      "options": ["Águila", "Cóndor", "Avestruz", "Pelícano"],
+      "correct_answer": 2,
+      "explanation": "El avestruz es el ave más grande y no puede volar."
+    },
+    {
+      "question": "¿En qué país se originaron los Juegos Olímpicos?",
+      "options": ["Italia", "China", "Grecia", "Egipto"],
+      "correct_answer": 2,
+      "explanation": "Los Juegos Olímpicos nacieron en la antigua Grecia."
+    },
+    {
+      "question": "¿Qué gas necesitan las plantas para vivir?",
+      "options": ["Oxígeno", "Hidrógeno", "Dióxido de carbono", "Helio"],
+      "correct_answer": 2,
+      "explanation": "Las plantas absorben dióxido de carbono para la fotosíntesis."
+    },
+    {
+      "question": "¿Cuál es el metal más ligero?",
+      "options": ["Hierro", "Litio", "Plata", "Aluminio"],
+      "correct_answer": 1,
+      "explanation": "El litio es el metal más ligero de todos."
+    },
+    {
+      "question": "¿Qué instrumento musical tiene teclas blancas y negras?",
+      "options": ["Violín", "Guitarra", "Piano", "Trompeta"],
+      "correct_answer": 2,
+      "explanation": "El piano es conocido por sus teclas blancas y negras."
+    },
+    {
+      "question": "¿Cuál es el desierto más grande del mundo?",
+      "options": ["Sahara", "Gobi", "Kalahari", "Antártida"],
+      "correct_answer": 3,
+      "explanation": "Aunque no lo parezca, la Antártida es el mayor desierto por su falta de precipitaciones."
+    },
+    {
+      "question": "¿Qué país es famoso por el sushi?",
+      "options": ["China", "Japón", "Corea", "Tailandia"],
+      "correct_answer": 1,
+      "explanation": "El sushi es uno de los platos más representativos de Japón."
+    },
+    {
+      "question": "¿Qué gas respiramos para vivir?",
+      "options": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+      "correct_answer": 1,
+      "explanation": "El oxígeno es esencial para la vida humana."
+    },
+    {
+      "question": "¿Cuál es el animal terrestre más rápido?",
+      "options": ["Caballo", "Leopardo", "Chita", "Lobo"],
+      "correct_answer": 2,
+      "explanation": "La chita puede alcanzar hasta 100 km/h en carreras cortas."
+    },
+    {
+      "question": "¿Qué invento permitió comunicarse a distancia con voz?",
+      "options": ["Teléfono", "Radio", "Televisión", "Telégrafo"],
+      "correct_answer": 0,
+      "explanation": "El teléfono permitió hablar a distancia usando la voz."
+    },
+    {
+      "question": "¿Cuál es el continente con más países?",
+      "options": ["Asia", "África", "Europa", "América"],
+      "correct_answer": 1,
+      "explanation": "África tiene 54 países, más que cualquier otro continente."
+    },
+    {
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "options": ["Marte", "Júpiter", "Saturno", "Neptuno"],
+      "correct_answer": 0,
+      "explanation": "Marte es llamado planeta rojo por el óxido de hierro en su superficie."
+    },
+    {
+      "question": "¿Qué mamífero puede volar?",
+      "options": ["Murciélago", "Águila", "Pingüino", "Ninguno"],
+      "correct_answer": 0,
+      "explanation": "El murciélago es el único mamífero capaz de volar."
+    },
+    {
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "options": ["Húmero", "Fémur", "Radio", "Tibia"],
+      "correct_answer": 1,
+      "explanation": "El fémur es el hueso más largo y fuerte del cuerpo."
+    },
+    {
+      "question": "¿Qué planeta tiene un gran anillo visible?",
+      "options": ["Marte", "Saturno", "Urano", "Júpiter"],
+      "correct_answer": 1,
+      "explanation": "Saturno es famoso por su sistema de anillos."
+    },
+    {
+      "question": "¿Dónde se encuentra la Torre Eiffel?",
+      "options": ["Roma", "Madrid", "París", "Londres"],
+      "correct_answer": 2,
+      "explanation": "La Torre Eiffel es el símbolo más reconocido de París."
+    },
+    {
+      "question": "¿Qué animal pone huevos y da leche?",
+      "options": ["Murciélago", "Ornitorrinco", "Vaca", "Tortuga"],
+      "correct_answer": 1,
+      "explanation": "El ornitorrinco es uno de los pocos mamíferos que pone huevos."
+    },
+    {
+      "question": "¿Qué gas abunda más en la atmósfera?",
+      "options": ["Oxígeno", "Nitrógeno", "CO2", "Argón"],
+      "correct_answer": 1,
+      "explanation": "El nitrógeno representa alrededor del 78% del aire."
+    },
+    {
+      "question": "¿Cuál es el animal más grande del mundo?",
+      "options": ["Elefante", "Ballena azul", "Jirafa", "Orca"],
+      "correct_answer": 1,
+      "explanation": "La ballena azul puede medir más de 30 metros."
+    },
+    {
+      "question": "¿En qué continente está Egipto?",
+      "options": ["Asia", "África", "Europa", "Oceanía"],
+      "correct_answer": 1,
+      "explanation": "Egipto se encuentra en el noreste de África."
+    },
+    {
+      "question": "¿Qué planeta es famoso por sus tormentas gigantes?",
+      "options": ["Júpiter", "Venus", "Mercurio", "Neptuno"],
+      "correct_answer": 0,
+      "explanation": "Júpiter tiene la Gran Mancha Roja, una tormenta gigante."
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo?",
+      "options": ["China", "Estados Unidos", "Canadá", "Rusia"],
+      "correct_answer": 3,
+      "explanation": "Rusia es el país más extenso del planeta."
+    },
+    {
+      "question": "¿Qué animal tiene la lengua más larga en proporción a su cuerpo?",
+      "options": ["Perro", "Camaleón", "Gato", "Serpiente"],
+      "correct_answer": 1,
+      "explanation": "El camaleón puede sacar la lengua más larga que su propio cuerpo."
+    },
+    {
+      "question": "¿Qué país es famoso por la Torre de Pisa?",
+      "options": ["Italia", "Francia", "España", "Alemania"],
+      "correct_answer": 0,
+      "explanation": "La Torre inclinada de Pisa se encuentra en Italia."
+    },
+    {
+      "question": "¿Cuál es la moneda oficial de Japón?",
+      "options": ["Yuan", "Yen", "Won", "Dólar"],
+      "correct_answer": 1,
+      "explanation": "La moneda japonesa es el yen."
+    },
+    {
+      "question": "¿Qué animal tiene tres corazones?",
+      "options": ["Pulpo", "Ballena", "Caballo", "Gato"],
+      "correct_answer": 0,
+      "explanation": "El pulpo tiene tres corazones y sangre azulada."
+    },
+    {
+      "question": "¿Qué vitamina produce el cuerpo con el sol?",
+      "options": ["Vitamina C", "Vitamina D", "Vitamina A", "Vitamina B12"],
+      "correct_answer": 1,
+      "explanation": "La vitamina D se sintetiza en la piel gracias a la luz solar."
+    },
+    {
+      "question": "¿Qué río es el más largo del mundo?",
+      "options": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+      "correct_answer": 1,
+      "explanation": "Hoy se considera al Amazonas como el río más largo del mundo."
+    },
+    {
+      "question": "¿Qué continente no tiene osos?",
+      "options": ["Asia", "Europa", "África", "Australia"],
+      "correct_answer": 3,
+      "explanation": "Australia no tiene especies de osos nativos."
+    },
+    {
+      "question": "¿Qué parte del cuerpo produce insulina?",
+      "options": ["Hígado", "Páncreas", "Riñón", "Estómago"],
+      "correct_answer": 1,
+      "explanation": "El páncreas es el órgano encargado de producir insulina."
+    },
+    {
+      "question": "¿Qué país es conocido como la tierra del sol naciente?",
+      "options": ["China", "Japón", "Corea", "India"],
+      "correct_answer": 1,
+      "explanation": "Japón es conocido como la tierra del sol naciente."
+    },
+    {
+      "question": "¿Qué animal puede cambiar de color para camuflarse?",
+      "options": ["Camaleón", "Leopardo", "Pulpo", "Rana"],
+      "correct_answer": 0,
+      "explanation": "El camaleón es famoso por su capacidad de camuflaje."
+    },
+    {
+      "question": "¿Cuál es la capital de Francia?",
+      "options": ["Roma", "Berlín", "Madrid", "París"],
+      "correct_answer": 3,
+      "explanation": "París es la capital de Francia."
+    },
+    {
+      "question": "¿Qué elemento químico tiene el símbolo O?",
+      "options": ["Oro", "Oxígeno", "Osmio", "Ozono"],
+      "correct_answer": 1,
+      "explanation": "El oxígeno tiene como símbolo la letra O."
+    },
+    {
+      "question": "¿Qué deporte se juega en Wimbledon?",
+      "options": ["Fútbol", "Tenis", "Golf", "Béisbol"],
+      "correct_answer": 1,
+      "explanation": "Wimbledon es el torneo de tenis más famoso del mundo."
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "options": ["Chile", "Italia", "México", "Grecia"],
+      "correct_answer": 1,
+      "explanation": "Italia tiene forma de bota en el mapa."
+    },
+    {
+      "question": "¿Cuál es el animal más venenoso del mundo?",
+      "options": ["Cobra", "Avispa marina", "Rana dorada", "Escorpión"],
+      "correct_answer": 1,
+      "explanation": "La avispa marina es considerada el animal más venenoso."
+    },
+    {
+      "question": "¿Qué planeta es el más grande del sistema solar?",
+      "options": ["Júpiter", "Saturno", "Neptuno", "Urano"],
+      "correct_answer": 0,
+      "explanation": "Júpiter es el planeta más grande del sistema solar."
+    },
+    {
+      "question": "¿Qué país tiene una ciudad llamada El Cairo?",
+      "options": ["India", "Egipto", "Marruecos", "Turquía"],
+      "correct_answer": 1,
+      "explanation": "El Cairo es la capital de Egipto."
+    },
+    {
+      "question": "¿Qué animal es símbolo de Australia?",
+      "options": ["Koala", "Canguro", "Dingo", "Emú"],
+      "correct_answer": 1,
+      "explanation": "El canguro es el animal más representativo de Australia."
+    },
+    {
+      "question": "¿Cuál es el planeta más frío del sistema solar?",
+      "options": ["Urano", "Neptuno", "Saturno", "Plutón"],
+      "correct_answer": 0,
+      "explanation": "Urano tiene las temperaturas más frías registradas."
+    },
+    {
+      "question": "¿Qué animal tiene el corazón en la cabeza?",
+      "options": ["Camarón", "Pulga de agua", "Caracol", "Mosca"],
+      "correct_answer": 0,
+      "explanation": "El camarón tiene su corazón en la cabeza."
+    }
+  ]
+    }
