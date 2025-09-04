@@ -1,0 +1,292 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién fue el primer presidente de Estados Unidos?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "correct_answer": 1,
+      "explanation": "George Washington fue el primer presidente de Estados Unidos en 1789."
+    },
+    {
+      "question": "¿En qué año llegó Cristóbal Colón a América?",
+      "options": ["1492", "1500", "1453", "1519"],
+      "correct_answer": 0,
+      "explanation": "Colón llegó a América el 12 de octubre de 1492."
+    },
+    {
+      "question": "¿Quién fue el emperador francés conocido como 'El Corso'?",
+      "options": ["Luis XIV", "Carlomagno", "Napoleón Bonaparte", "Luis XVI"],
+      "correct_answer": 2,
+      "explanation": "Napoleón Bonaparte fue un líder militar y emperador francés."
+    },
+    {
+      "question": "¿En qué país se construyó la Gran Muralla?",
+      "options": ["Japón", "China", "India", "Corea"],
+      "correct_answer": 1,
+      "explanation": "La Gran Muralla fue construida en China como defensa contra invasiones."
+    },
+    {
+      "question": "¿Qué civilización construyó las pirámides de Giza?",
+      "options": ["Mayas", "Egipcios", "Aztecas", "Incas"],
+      "correct_answer": 1,
+      "explanation": "Las pirámides de Giza fueron construidas por los antiguos egipcios."
+    },
+    {
+      "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "options": ["1914", "1918", "1939", "1920"],
+      "correct_answer": 0,
+      "explanation": "La Primera Guerra Mundial comenzó en 1914 tras el asesinato del archiduque Francisco Fernando."
+    },
+    {
+      "question": "¿Quién fue el conquistador del Imperio Azteca?",
+      "options": ["Francisco Pizarro", "Hernán Cortés", "Cristóbal Colón", "Pedro de Alvarado"],
+      "correct_answer": 1,
+      "explanation": "Hernán Cortés conquistó el Imperio Azteca en 1521."
+    },
+    {
+      "question": "¿Cuál fue la capital del Imperio Romano?",
+      "options": ["Atenas", "Roma", "Constantinopla", "Cartago"],
+      "correct_answer": 1,
+      "explanation": "La capital del Imperio Romano fue Roma."
+    },
+    {
+      "question": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "options": ["1940", "1945", "1950", "1939"],
+      "correct_answer": 1,
+      "explanation": "La Segunda Guerra Mundial terminó en 1945."
+    },
+    {
+      "question": "¿Quién fue el líder de la independencia de la India?",
+      "options": ["Jawaharlal Nehru", "Gandhi", "Subhas Chandra Bose", "Indira Gandhi"],
+      "correct_answer": 1,
+      "explanation": "Mahatma Gandhi lideró el movimiento de independencia pacífica de la India."
+    },
+    {
+      "question": "¿Cuál fue la primera civilización de la historia?",
+      "options": ["Egipcia", "China", "Sumeria", "India"],
+      "correct_answer": 2,
+      "explanation": "La civilización sumeria en Mesopotamia es considerada la primera."
+    },
+    {
+      "question": "¿Quién pintó la Capilla Sixtina?",
+      "options": ["Leonardo da Vinci", "Rafael", "Miguel Ángel", "Donatello"],
+      "correct_answer": 2,
+      "explanation": "Miguel Ángel pintó la bóveda de la Capilla Sixtina en el Vaticano."
+    },
+    {
+      "question": "¿Quién fue el dictador de Alemania durante la Segunda Guerra Mundial?",
+      "options": ["Adolf Hitler", "Benito Mussolini", "Josef Stalin", "Francisco Franco"],
+      "correct_answer": 0,
+      "explanation": "Adolf Hitler gobernó Alemania durante la Segunda Guerra Mundial."
+    },
+    {
+      "question": "¿En qué país se originaron los Juegos Olímpicos?",
+      "options": ["Italia", "Grecia", "Egipto", "Roma"],
+      "correct_answer": 1,
+      "explanation": "Los Juegos Olímpicos se originaron en la antigua Grecia."
+    },
+    {
+      "question": "¿Quién descubrió la penicilina?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Isaac Newton", "Albert Einstein"],
+      "correct_answer": 1,
+      "explanation": "Alexander Fleming descubrió la penicilina en 1928."
+    },
+    {
+      "question": "¿Qué imperio construyó Machu Picchu?",
+      "options": ["Azteca", "Inca", "Maya", "Olmeca"],
+      "correct_answer": 1,
+      "explanation": "Machu Picchu fue construida por el Imperio Inca."
+    },
+    {
+      "question": "¿En qué año cayó el Muro de Berlín?",
+      "options": ["1989", "1991", "1975", "2000"],
+      "correct_answer": 0,
+      "explanation": "El Muro de Berlín cayó en 1989, marcando el fin de la Guerra Fría."
+    },
+    {
+      "question": "¿Quién fue el faraón más famoso de Egipto?",
+      "options": ["Tutankamón", "Ramsés II", "Cleopatra", "Keops"],
+      "correct_answer": 0,
+      "explanation": "Tutankamón es el faraón más famoso debido a su tumba descubierta intacta."
+    },
+    {
+      "question": "¿Qué país lanzó las bombas atómicas en 1945?",
+      "options": ["Alemania", "Rusia", "Estados Unidos", "Japón"],
+      "correct_answer": 2,
+      "explanation": "Estados Unidos lanzó las bombas sobre Hiroshima y Nagasaki."
+    },
+    {
+      "question": "¿Quién escribió 'La Ilíada' y 'La Odisea'?",
+      "options": ["Sófocles", "Homero", "Platón", "Aristóteles"],
+      "correct_answer": 1,
+      "explanation": "Homero es el autor de estas epopeyas griegas."
+    },
+    {
+      "question": "¿Quién fue el primer emperador romano?",
+      "options": ["Julio César", "César Augusto", "Nerón", "Trajano"],
+      "correct_answer": 1,
+      "explanation": "César Augusto fue el primer emperador romano."
+    },
+    {
+      "question": "¿Qué civilización inventó la escritura cuneiforme?",
+      "options": ["Sumerios", "Egipcios", "Fenicios", "Mayas"],
+      "correct_answer": 0,
+      "explanation": "Los sumerios inventaron la escritura cuneiforme en Mesopotamia."
+    },
+    {
+      "question": "¿Quién fue el libertador de Venezuela?",
+      "options": ["Simón Bolívar", "San Martín", "Antonio José de Sucre", "O’Higgins"],
+      "correct_answer": 0,
+      "explanation": "Simón Bolívar lideró la independencia de varios países sudamericanos."
+    },
+    {
+      "question": "¿En qué año comenzó la Revolución Francesa?",
+      "options": ["1776", "1789", "1804", "1815"],
+      "correct_answer": 1,
+      "explanation": "La Revolución Francesa inició en 1789 con la Toma de la Bastilla."
+    },
+    {
+      "question": "¿Quién fue conocido como 'El Libertador de Argentina'?",
+      "options": ["San Martín", "Simón Bolívar", "Belgrano", "Artigas"],
+      "correct_answer": 0,
+      "explanation": "José de San Martín liberó Argentina, Chile y Perú."
+    },
+    {
+      "question": "¿Qué guerra se libró entre el Norte y el Sur de Estados Unidos?",
+      "options": ["Segunda Guerra Mundial", "Guerra Civil", "Guerra Fría", "Guerra de Independencia"],
+      "correct_answer": 1,
+      "explanation": "La Guerra Civil de Estados Unidos ocurrió entre 1861 y 1865."
+    },
+    {
+      "question": "¿Qué civilización construyó Chichén Itzá?",
+      "options": ["Inca", "Azteca", "Maya", "Olmeca"],
+      "correct_answer": 2,
+      "explanation": "Chichén Itzá fue una gran ciudad de la civilización maya."
+    },
+    {
+      "question": "¿Quién fue el primer hombre en pisar la Luna?",
+      "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "Michael Collins"],
+      "correct_answer": 2,
+      "explanation": "Neil Armstrong pisó la Luna en 1969 con la misión Apolo 11."
+    },
+    {
+      "question": "¿Cuál fue la capital del Imperio Bizantino?",
+      "options": ["Roma", "Constantinopla", "Atenas", "Éfeso"],
+      "correct_answer": 1,
+      "explanation": "La capital del Imperio Bizantino fue Constantinopla."
+    },
+    {
+      "question": "¿En qué año se firmó la independencia de Estados Unidos?",
+      "options": ["1776", "1789", "1800", "1812"],
+      "correct_answer": 0,
+      "explanation": "La independencia de Estados Unidos se declaró en 1776."
+    },
+    {
+      "question": "¿Quién fue el líder sudafricano que luchó contra el apartheid?",
+      "options": ["Mandela", "Desmond Tutu", "Samora Machel", "Kenyatta"],
+      "correct_answer": 0,
+      "explanation": "Nelson Mandela fue un símbolo de la lucha contra el apartheid."
+    },
+    {
+      "question": "¿Qué civilización construyó Teotihuacán?",
+      "options": ["Toltecas", "Aztecas", "Mayas", "Olmecas"],
+      "correct_answer": 1,
+      "explanation": "Los aztecas adoptaron Teotihuacán como lugar sagrado."
+    },
+    {
+      "question": "¿Quién fue el científico que propuso la teoría de la relatividad?",
+      "options": ["Newton", "Einstein", "Copérnico", "Galileo"],
+      "correct_answer": 1,
+      "explanation": "Albert Einstein formuló la teoría de la relatividad."
+    },
+    {
+      "question": "¿Qué país fue conocido como la URSS?",
+      "options": ["Alemania", "Unión Soviética", "China", "Rusia"],
+      "correct_answer": 1,
+      "explanation": "La Unión de Repúblicas Socialistas Soviéticas existió de 1922 a 1991."
+    },
+    {
+      "question": "¿Quién fue Cleopatra?",
+      "options": ["Una filósofa griega", "Reina de Egipto", "Esposa de Julio César", "Una diosa romana"],
+      "correct_answer": 1,
+      "explanation": "Cleopatra fue la última reina del antiguo Egipto."
+    },
+    {
+      "question": "¿En qué año cayó el Imperio Romano de Occidente?",
+      "options": ["476", "800", "1492", "1000"],
+      "correct_answer": 0,
+      "explanation": "El Imperio Romano de Occidente cayó en el año 476."
+    },
+    {
+      "question": "¿Quién fue el dictador italiano aliado de Hitler?",
+      "options": ["Mussolini", "Franco", "Salazar", "Cavour"],
+      "correct_answer": 0,
+      "explanation": "Benito Mussolini gobernó Italia y fue aliado de Hitler."
+    },
+    {
+      "question": "¿Qué barco se hundió en 1912?",
+      "options": ["Titanic", "Lusitania", "Mayflower", "Santa María"],
+      "correct_answer": 0,
+      "explanation": "El Titanic se hundió en 1912 en su viaje inaugural."
+    },
+    {
+      "question": "¿Qué inventó Gutenberg?",
+      "options": ["Telescopio", "Imprenta", "Reloj", "Papel"],
+      "correct_answer": 1,
+      "explanation": "Gutenberg inventó la imprenta moderna en el siglo XV."
+    },
+    {
+      "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "options": ["Versalles", "Tordesillas", "París", "Potsdam"],
+      "correct_answer": 0,
+      "explanation": "El Tratado de Versalles puso fin a la Primera Guerra Mundial en 1919."
+    },
+    {
+      "question": "¿Qué país colonizó Filipinas?",
+      "options": ["Portugal", "España", "Inglaterra", "Francia"],
+      "correct_answer": 1,
+      "explanation": "España colonizó Filipinas durante más de 300 años."
+    },
+    {
+      "question": "¿Quién fue Sócrates?",
+      "options": ["Un pintor", "Un filósofo griego", "Un emperador romano", "Un poeta"],
+      "correct_answer": 1,
+      "explanation": "Sócrates fue un filósofo griego considerado padre de la filosofía occidental."
+    },
+    {
+      "question": "¿Qué guerra enfrentó a Estados Unidos y la URSS indirectamente?",
+      "options": ["Guerra Fría", "Guerra Civil", "Primera Guerra Mundial", "Segunda Guerra Mundial"],
+      "correct_answer": 0,
+      "explanation": "La Guerra Fría enfrentó ideológicamente a Estados Unidos y la URSS."
+    },
+    {
+      "question": "¿Quién fue Julio César?",
+      "options": ["Un emperador egipcio", "Un general romano", "Un filósofo griego", "Un rey francés"],
+      "correct_answer": 1,
+      "explanation": "Julio César fue un líder militar y político romano."
+    },
+    {
+      "question": "¿Qué país lideró la colonización de Brasil?",
+      "options": ["España", "Portugal", "Inglaterra", "Francia"],
+      "correct_answer": 1,
+      "explanation": "Portugal colonizó Brasil desde 1500."
+    },
+    {
+      "question": "¿Qué presidente abolió la esclavitud en Estados Unidos?",
+      "options": ["George Washington", "Abraham Lincoln", "John F. Kennedy", "Franklin Roosevelt"],
+      "correct_answer": 1,
+      "explanation": "Abraham Lincoln abolió la esclavitud en 1863."
+    },
+    {
+      "question": "¿Quién fue el primer hombre en viajar al espacio?",
+      "options": ["Neil Armstrong", "Yuri Gagarin", "Alan Shepard", "Buzz Aldrin"],
+      "correct_answer": 1,
+      "explanation": "Yuri Gagarin fue el primer humano en el espacio en 1961."
+    },
+    {
+      "question": "¿Qué civilización inventó el calendario de 365 días?",
+      "options": ["Egipcios", "Mayas", "Griegos", "Sumerios"],
+      "correct_answer": 0,
+      "explanation": "Los egipcios crearon un calendario solar de 365 días."
+    }
+  ]
+}
