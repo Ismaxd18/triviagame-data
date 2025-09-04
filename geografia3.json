@@ -1,0 +1,298 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es el río más largo del mundo?",
+      "options": ["Nilo", "Amazonas", "Yangtsé", "Misisipi"],
+      "correct_answer": 1,
+      "explanation": "El Amazonas es considerado el río más largo y caudaloso del mundo."
+    },
+    {
+      "question": "¿Cuál es la montaña más alta del planeta?",
+      "options": ["K2", "Everest", "Kilimanjaro", "Aconcagua"],
+      "correct_answer": 1,
+      "explanation": "El monte Everest mide 8,848 metros sobre el nivel del mar."
+    },
+    {
+      "question": "¿Cuál es el océano más grande de la Tierra?",
+      "options": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+      "correct_answer": 2,
+      "explanation": "El océano Pacífico es el más grande, cubriendo un tercio del planeta."
+    },
+    {
+      "question": "¿Cuál es el desierto más grande del mundo?",
+      "options": ["Sahara", "Gobi", "Antártico", "Kalahari"],
+      "correct_answer": 2,
+      "explanation": "El desierto antártico es el más grande, aunque está cubierto de hielo."
+    },
+    {
+      "question": "¿Cuál es el país con mayor población?",
+      "options": ["India", "China", "Estados Unidos", "Indonesia"],
+      "correct_answer": 1,
+      "explanation": "China ha sido el país más poblado, aunque India la está alcanzando."
+    },
+    {
+      "question": "¿En qué continente está Egipto?",
+      "options": ["Asia", "África", "Europa", "Oceanía"],
+      "correct_answer": 1,
+      "explanation": "Egipto se encuentra en África, aunque su península del Sinaí está en Asia."
+    },
+    {
+      "question": "¿Cuál es la capital de Australia?",
+      "options": ["Sídney", "Melbourne", "Canberra", "Brisbane"],
+      "correct_answer": 2,
+      "explanation": "La capital de Australia es Canberra, no Sídney ni Melbourne."
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo?",
+      "options": ["Estados Unidos", "Canadá", "China", "Rusia"],
+      "correct_answer": 3,
+      "explanation": "Rusia es el país más grande, con más de 17 millones de km²."
+    },
+    {
+      "question": "¿Cuál es el lago más profundo del mundo?",
+      "options": ["Tanganica", "Victoria", "Baikal", "Superior"],
+      "correct_answer": 2,
+      "explanation": "El lago Baikal en Rusia es el más profundo, con más de 1,600 m."
+    },
+    {
+      "question": "¿En qué país está la Torre Eiffel?",
+      "options": ["Italia", "España", "Francia", "Alemania"],
+      "correct_answer": 2,
+      "explanation": "La Torre Eiffel se encuentra en París, Francia."
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "options": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
+      "correct_answer": 2,
+      "explanation": "Ottawa es la capital de Canadá, no Toronto ni Montreal."
+    },
+    {
+      "question": "¿Cuál es el país más pequeño del mundo?",
+      "options": ["Mónaco", "Liechtenstein", "San Marino", "Vaticano"],
+      "correct_answer": 3,
+      "explanation": "La Ciudad del Vaticano es el país más pequeño, con 0.44 km²."
+    },
+    {
+      "question": "¿Cuál es la isla más grande del mundo?",
+      "options": ["Groenlandia", "Madagascar", "Australia", "Borneo"],
+      "correct_answer": 0,
+      "explanation": "Groenlandia es la isla más grande, aunque Australia es un continente."
+    },
+    {
+      "question": "¿Cuál es la capital de Japón?",
+      "options": ["Osaka", "Tokio", "Kioto", "Nagoya"],
+      "correct_answer": 1,
+      "explanation": "Tokio es la capital de Japón."
+    },
+    {
+      "question": "¿En qué continente está Brasil?",
+      "options": ["América del Norte", "América del Sur", "África", "Asia"],
+      "correct_answer": 1,
+      "explanation": "Brasil está en América del Sur y es el país más grande del continente."
+    },
+    {
+      "question": "¿Cuál es la capital de Argentina?",
+      "options": ["Lima", "Buenos Aires", "Montevideo", "Bogotá"],
+      "correct_answer": 1,
+      "explanation": "La capital de Argentina es Buenos Aires."
+    },
+    {
+      "question": "¿En qué país se encuentra la muralla más famosa del mundo?",
+      "options": ["Japón", "China", "India", "Corea del Sur"],
+      "correct_answer": 1,
+      "explanation": "La Gran Muralla está en China."
+    },
+    {
+      "question": "¿Qué río pasa por Egipto?",
+      "options": ["Nilo", "Amazonas", "Tigris", "Éufrates"],
+      "correct_answer": 0,
+      "explanation": "El río Nilo atraviesa Egipto y ha sido vital para su historia."
+    },
+    {
+      "question": "¿Qué país tiene forma de bota?",
+      "options": ["España", "Portugal", "Italia", "Grecia"],
+      "correct_answer": 2,
+      "explanation": "Italia es conocida como la península con forma de bota."
+    },
+    {
+      "question": "¿Cuál es el continente con más países?",
+      "options": ["Europa", "África", "Asia", "América"],
+      "correct_answer": 1,
+      "explanation": "África tiene 54 países, más que cualquier otro continente."
+    },
+    {
+      "question": "¿Cuál es la capital de México?",
+      "options": ["Guadalajara", "Monterrey", "Ciudad de México", "Acapulco"],
+      "correct_answer": 2,
+      "explanation": "La capital de México es Ciudad de México (CDMX)."
+    },
+    {
+      "question": "¿Cuál es el continente más frío?",
+      "options": ["Ártico", "Asia", "Antártida", "Europa"],
+      "correct_answer": 2,
+      "explanation": "La Antártida es el continente más frío y seco."
+    },
+    {
+      "question": "¿Cuál es la capital de España?",
+      "options": ["Madrid", "Barcelona", "Sevilla", "Valencia"],
+      "correct_answer": 0,
+      "explanation": "Madrid es la capital de España."
+    },
+    {
+      "question": "¿Qué cordillera atraviesa Sudamérica?",
+      "options": ["Alpes", "Andes", "Himalaya", "Rocosas"],
+      "correct_answer": 1,
+      "explanation": "La cordillera de los Andes recorre gran parte de Sudamérica."
+    },
+    {
+      "question": "¿Cuál es la capital de Rusia?",
+      "options": ["San Petersburgo", "Moscú", "Kiev", "Varsovia"],
+      "correct_answer": 1,
+      "explanation": "Moscú es la capital de Rusia."
+    },
+    {
+      "question": "¿Qué país tiene más volcanes?",
+      "options": ["Japón", "Chile", "Indonesia", "México"],
+      "correct_answer": 2,
+      "explanation": "Indonesia tiene más de 120 volcanes activos."
+    },
+    {
+      "question": "¿Cuál es el país más largo del mundo?",
+      "options": ["Argentina", "Chile", "Rusia", "Canadá"],
+      "correct_answer": 1,
+      "explanation": "Chile es el país más largo, con más de 4,000 km de norte a sur."
+    },
+    {
+      "question": "¿Cuál es el país más poblado de América?",
+      "options": ["Brasil", "México", "Estados Unidos", "Argentina"],
+      "correct_answer": 2,
+      "explanation": "Estados Unidos es el país más poblado de América."
+    },
+    {
+      "question": "¿Cuál es el país más grande de África?",
+      "options": ["Nigeria", "Sudáfrica", "Argelia", "Egipto"],
+      "correct_answer": 2,
+      "explanation": "Argelia es el país más grande de África."
+    },
+    {
+      "question": "¿Qué país está entre Francia y España?",
+      "options": ["Andorra", "Suiza", "Mónaco", "Liechtenstein"],
+      "correct_answer": 0,
+      "explanation": "Andorra se encuentra entre Francia y España."
+    },
+    {
+      "question": "¿Cuál es la capital de Alemania?",
+      "options": ["Hamburgo", "Berlín", "Múnich", "Fráncfort"],
+      "correct_answer": 1,
+      "explanation": "Berlín es la capital de Alemania."
+    },
+    {
+      "question": "¿En qué país se encuentra el Taj Mahal?",
+      "options": ["Pakistán", "India", "Nepal", "Bangladesh"],
+      "correct_answer": 1,
+      "explanation": "El Taj Mahal está en Agra, India."
+    },
+    {
+      "question": "¿Cuál es la capital de Perú?",
+      "options": ["Cusco", "Lima", "Arequipa", "Trujillo"],
+      "correct_answer": 1,
+      "explanation": "La capital de Perú es Lima."
+    },
+    {
+      "question": "¿Qué país tiene más islas en el mundo?",
+      "options": ["Suecia", "Indonesia", "Filipinas", "Canadá"],
+      "correct_answer": 0,
+      "explanation": "Suecia tiene más de 200,000 islas, aunque muchas son pequeñas."
+    },
+    {
+      "question": "¿Qué cordillera divide Europa y Asia?",
+      "options": ["Andes", "Rocosas", "Urales", "Alpes"],
+      "correct_answer": 2,
+      "explanation": "Los montes Urales dividen Europa y Asia."
+    },
+    {
+      "question": "¿Cuál es el país más grande de América del Sur?",
+      "options": ["Argentina", "Brasil", "Colombia", "Venezuela"],
+      "correct_answer": 1,
+      "explanation": "Brasil es el país más grande de Sudamérica."
+    },
+    {
+      "question": "¿En qué país está Machu Picchu?",
+      "options": ["Perú", "Ecuador", "Chile", "Bolivia"],
+      "correct_answer": 0,
+      "explanation": "Machu Picchu se encuentra en Perú."
+    },
+    {
+      "question": "¿Cuál es la capital de Italia?",
+      "options": ["Milán", "Roma", "Florencia", "Venecia"],
+      "correct_answer": 1,
+      "explanation": "Roma es la capital de Italia."
+    },
+    {
+      "question": "¿Cuál es el continente más grande?",
+      "options": ["África", "Asia", "América", "Europa"],
+      "correct_answer": 1,
+      "explanation": "Asia es el continente más grande y más poblado."
+    },
+    {
+      "question": "¿Cuál es el país con más fronteras?",
+      "options": ["China", "Brasil", "Rusia", "Alemania"],
+      "correct_answer": 2,
+      "explanation": "Rusia comparte frontera con 16 países."
+    },
+    {
+      "question": "¿Cuál es la capital de Inglaterra?",
+      "options": ["Liverpool", "Manchester", "Londres", "Oxford"],
+      "correct_answer": 2,
+      "explanation": "Londres es la capital de Inglaterra y del Reino Unido."
+    },
+    {
+      "question": "¿Cuál es la capital de Colombia?",
+      "options": ["Medellín", "Bogotá", "Cali", "Cartagena"],
+      "correct_answer": 1,
+      "explanation": "Bogotá es la capital de Colombia."
+    },
+    {
+      "question": "¿En qué país está la Estatua de la Libertad?",
+      "options": ["Francia", "Canadá", "Estados Unidos", "México"],
+      "correct_answer": 2,
+      "explanation": "La Estatua de la Libertad se encuentra en Nueva York, Estados Unidos."
+    },
+    {
+      "question": "¿Cuál es la capital de Chile?",
+      "options": ["Santiago", "Valparaíso", "Concepción", "La Serena"],
+      "correct_answer": 0,
+      "explanation": "La capital de Chile es Santiago."
+    },
+    {
+      "question": "¿Cuál es la ciudad más poblada del mundo?",
+      "options": ["Tokio", "Nueva York", "Ciudad de México", "Bombay"],
+      "correct_answer": 0,
+      "explanation": "Tokio es considerada la ciudad más poblada del mundo."
+    },
+    {
+      "question": "¿Cuál es el país más poblado de África?",
+      "options": ["Egipto", "Nigeria", "Sudáfrica", "Etiopía"],
+      "correct_answer": 1,
+      "explanation": "Nigeria es el país más poblado de África."
+    },
+    {
+      "question": "¿En qué país está el monte Kilimanjaro?",
+      "options": ["Kenia", "Etiopía", "Tanzania", "Uganda"],
+      "correct_answer": 2,
+      "explanation": "El Kilimanjaro se encuentra en Tanzania."
+    },
+    {
+      "question": "¿Qué país está entre Estados Unidos y Centroamérica?",
+      "options": ["Panamá", "Nicaragua", "México", "Guatemala"],
+      "correct_answer": 2,
+      "explanation": "México conecta América del Norte con Centroamérica."
+    },
+    {
+      "question": "¿Cuál es la capital de Grecia?",
+      "options": ["Atenas", "Esparta", "Tesalónica", "Creta"],
+      "correct_answer": 0,
+      "explanation": "Atenas es la capital de Grecia."
+    }
+  ]
+    }
