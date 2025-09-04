@@ -1,0 +1,292 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué país ganó el Mundial de Fútbol 2018?",
+      "options": ["Alemania", "Francia", "Brasil", "Argentina"],
+      "correct_answer": 1,
+      "explanation": "Francia se coronó campeón en Rusia 2018 tras vencer a Croacia 4-2 en la final."
+    },
+    {
+      "question": "¿Quién es considerado el máximo goleador histórico del fútbol?",
+      "options": ["Pelé", "Cristiano Ronaldo", "Lionel Messi", "Maradona"],
+      "correct_answer": 1,
+      "explanation": "Cristiano Ronaldo es reconocido por la FIFA como máximo goleador con más de 850 goles oficiales."
+    },
+    {
+      "question": "¿En qué país se celebró el Mundial de 2014?",
+      "options": ["Brasil", "Sudáfrica", "Alemania", "Rusia"],
+      "correct_answer": 0,
+      "explanation": "El Mundial 2014 se celebró en Brasil y fue recordado por el 7-1 de Alemania a Brasil en semifinales."
+    },
+    {
+      "question": "¿Qué selección ha ganado más Copas del Mundo de fútbol?",
+      "options": ["Italia", "Brasil", "Alemania", "Argentina"],
+      "correct_answer": 1,
+      "explanation": "Brasil tiene 5 títulos mundiales, la selección más laureada en la historia."
+    },
+    {
+      "question": "¿Quién ganó el Balón de Oro 2023?",
+      "options": ["Erling Haaland", "Cristiano Ronaldo", "Lionel Messi", "Kylian Mbappé"],
+      "correct_answer": 2,
+      "explanation": "Lionel Messi ganó su octavo Balón de Oro en 2023 tras brillar en el Mundial de Qatar 2022."
+    },
+    {
+      "question": "¿Qué club europeo es conocido como 'Los Merengues'?",
+      "options": ["Real Madrid", "Barcelona", "Juventus", "Bayern Múnich"],
+      "correct_answer": 0,
+      "explanation": "El Real Madrid es apodado 'Los Merengues' por el color blanco de su uniforme."
+    },
+    {
+      "question": "¿Quién es el jugador con más títulos de Champions League?",
+      "options": ["Cristiano Ronaldo", "Paco Gento", "Messi", "Xavi"],
+      "correct_answer": 1,
+      "explanation": "Paco Gento ganó 6 Copas de Europa con el Real Madrid, récord histórico."
+    },
+    {
+      "question": "¿Cuál fue el primer país en ganar un Mundial de fútbol?",
+      "options": ["Argentina", "Uruguay", "Brasil", "Italia"],
+      "correct_answer": 1,
+      "explanation": "Uruguay ganó el primer Mundial en 1930 como anfitrión."
+    },
+    {
+      "question": "¿En qué club debutó Lionel Messi como profesional?",
+      "options": ["Barcelona", "Newell's Old Boys", "PSG", "River Plate"],
+      "correct_answer": 0,
+      "explanation": "Messi debutó en el FC Barcelona en 2004, aunque jugó en juveniles de Newell’s en Argentina."
+    },
+    {
+      "question": "¿Quién anotó el famoso gol de la 'Mano de Dios'?",
+      "options": ["Maradona", "Pelé", "Messi", "Batistuta"],
+      "correct_answer": 0,
+      "explanation": "Diego Maradona marcó la 'Mano de Dios' en el Mundial de 1986 contra Inglaterra."
+    },
+    {
+      "question": "¿Cuál es el club con más Champions League ganadas?",
+      "options": ["Barcelona", "Milan", "Real Madrid", "Liverpool"],
+      "correct_answer": 2,
+      "explanation": "El Real Madrid es el máximo ganador con 14 títulos de Champions League."
+    },
+    {
+      "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2008?",
+      "options": ["Atenas", "Sídney", "Londres", "Pekín"],
+      "correct_answer": 3,
+      "explanation": "Los Juegos Olímpicos de 2008 se celebraron en Pekín, China."
+    },
+    {
+      "question": "¿Qué país organizó el Mundial de 2022?",
+      "options": ["Rusia", "Qatar", "Emiratos Árabes", "Arabia Saudita"],
+      "correct_answer": 1,
+      "explanation": "Qatar organizó la Copa del Mundo 2022, la primera en Medio Oriente."
+    },
+    {
+      "question": "¿Qué selección ganó el Mundial 2010?",
+      "options": ["Holanda", "España", "Alemania", "Italia"],
+      "correct_answer": 1,
+      "explanation": "España ganó su primer Mundial en Sudáfrica 2010 con gol de Iniesta en la final."
+    },
+    {
+      "question": "¿Qué selección tiene más Copas América?",
+      "options": ["Argentina", "Brasil", "Uruguay", "Chile"],
+      "correct_answer": 2,
+      "explanation": "Uruguay ha ganado 15 Copas América, compartiendo récord con Argentina."
+    },
+    {
+      "question": "¿Quién fue campeón de la NBA 2023?",
+      "options": ["Lakers", "Denver Nuggets", "Golden State Warriors", "Celtics"],
+      "correct_answer": 1,
+      "explanation": "Los Denver Nuggets ganaron su primer campeonato de NBA en 2023 liderados por Nikola Jokic."
+    },
+    {
+      "question": "¿Qué futbolista es conocido como 'El Fenómeno'?",
+      "options": ["Ronaldinho", "Ronaldo Nazário", "Neymar", "Romário"],
+      "correct_answer": 1,
+      "explanation": "Ronaldo Nazário, delantero brasileño, fue apodado 'El Fenómeno'."
+    },
+    {
+      "question": "¿Qué selección ganó el primer Mundial femenino en 1991?",
+      "options": ["EE.UU.", "Noruega", "China", "Alemania"],
+      "correct_answer": 0,
+      "explanation": "La selección femenina de Estados Unidos ganó el primer Mundial en 1991 en China."
+    },
+    {
+      "question": "¿En qué club jugó Diego Maradona en Italia?",
+      "options": ["Milan", "Inter", "Napoli", "Roma"],
+      "correct_answer": 2,
+      "explanation": "Maradona jugó en el Napoli, donde se convirtió en leyenda y ganó títulos históricos."
+    },
+    {
+      "question": "¿Cuántos jugadores hay en un equipo de baloncesto en cancha?",
+      "options": ["5", "6", "7", "11"],
+      "correct_answer": 0,
+      "explanation": "En baloncesto cada equipo juega con 5 jugadores en la cancha."
+    },
+    {
+      "question": "¿Qué selección eliminó a Brasil en el Mundial 2014 con un 7-1?",
+      "options": ["Alemania", "Argentina", "Holanda", "Italia"],
+      "correct_answer": 0,
+      "explanation": "Alemania goleó 7-1 a Brasil en semifinales del Mundial 2014."
+    },
+    {
+      "question": "¿Qué equipo inglés ganó la Champions en 2021?",
+      "options": ["Chelsea", "Manchester City", "Liverpool", "Manchester United"],
+      "correct_answer": 0,
+      "explanation": "El Chelsea ganó la Champions League 2021 venciendo 1-0 al Manchester City."
+    },
+    {
+      "question": "¿Quién es conocido como 'La Pulga'?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Maradona", "Agüero"],
+      "correct_answer": 1,
+      "explanation": "Lionel Messi es apodado 'La Pulga' por su estatura y agilidad."
+    },
+    {
+      "question": "¿Qué deporte practicaba Michael Jordan?",
+      "options": ["Béisbol", "Baloncesto", "Atletismo", "Tenis"],
+      "correct_answer": 1,
+      "explanation": "Michael Jordan es considerado el mejor jugador de baloncesto de la historia."
+    },
+    {
+      "question": "¿Qué país ha ganado más medallas olímpicas en la historia?",
+      "options": ["Rusia", "EE.UU.", "China", "Alemania"],
+      "correct_answer": 1,
+      "explanation": "Estados Unidos lidera el medallero histórico de los Juegos Olímpicos."
+    },
+    {
+      "question": "¿Quién ganó el Mundial de 2006?",
+      "options": ["Italia", "Francia", "Brasil", "Alemania"],
+      "correct_answer": 0,
+      "explanation": "Italia ganó el Mundial 2006 en Alemania tras vencer a Francia en penales."
+    },
+    {
+      "question": "¿Qué selección es conocida como 'La Naranja Mecánica'?",
+      "options": ["Alemania", "Holanda", "Suecia", "España"],
+      "correct_answer": 1,
+      "explanation": "Holanda es llamada 'La Naranja Mecánica' por su estilo de juego y uniforme naranja."
+    },
+    {
+      "question": "¿Quién ganó Roland Garros 2022 en tenis masculino?",
+      "options": ["Djokovic", "Rafael Nadal", "Federer", "Thiem"],
+      "correct_answer": 1,
+      "explanation": "Rafael Nadal ganó Roland Garros 2022, sumando su título número 14 en París."
+    },
+    {
+      "question": "¿Qué selección ganó la Eurocopa 2016?",
+      "options": ["España", "Francia", "Portugal", "Alemania"],
+      "correct_answer": 2,
+      "explanation": "Portugal ganó la Eurocopa 2016 al vencer a Francia con gol de Eder."
+    },
+    {
+      "question": "¿Qué jugador argentino es apodado 'La Araña'?",
+      "options": ["Di María", "Álvarez", "Dybala", "Martínez"],
+      "correct_answer": 1,
+      "explanation": "Julián Álvarez es conocido como 'La Araña' en Argentina."
+    },
+    {
+      "question": "¿En qué club jugaba Ronaldinho cuando ganó el Balón de Oro?",
+      "options": ["PSG", "Barcelona", "Milan", "Flamengo"],
+      "correct_answer": 1,
+      "explanation": "Ronaldinho ganó el Balón de Oro 2005 jugando en el FC Barcelona."
+    },
+    {
+      "question": "¿Qué país organizó los Juegos Olímpicos de 2016?",
+      "options": ["España", "Brasil", "Japón", "China"],
+      "correct_answer": 1,
+      "explanation": "Brasil organizó los Juegos Olímpicos 2016 en Río de Janeiro."
+    },
+    {
+      "question": "¿Quién ganó la Copa Libertadores 2023?",
+      "options": ["Fluminense", "Boca Juniors", "Palmeiras", "River Plate"],
+      "correct_answer": 0,
+      "explanation": "Fluminense ganó la Copa Libertadores 2023 venciendo a Boca Juniors en la final."
+    },
+    {
+      "question": "¿Quién es el máximo goleador de la historia del Mundial?",
+      "options": ["Klose", "Ronaldo Nazário", "Messi", "Müller"],
+      "correct_answer": 0,
+      "explanation": "Miroslav Klose (Alemania) es el máximo goleador de los Mundiales con 16 goles."
+    },
+    {
+      "question": "¿Qué selección ganó la Copa América 2021?",
+      "options": ["Argentina", "Brasil", "Uruguay", "Chile"],
+      "correct_answer": 0,
+      "explanation": "Argentina ganó la Copa América 2021 venciendo a Brasil en el Maracaná."
+    },
+    {
+      "question": "¿Qué selección africana llegó por primera vez a semifinales en un Mundial?",
+      "options": ["Ghana", "Senegal", "Marruecos", "Camerún"],
+      "correct_answer": 2,
+      "explanation": "Marruecos llegó a semifinales en Qatar 2022, la primera selección africana en lograrlo."
+    },
+    {
+      "question": "¿Qué selección ganó el Mundial 1970 con Pelé?",
+      "options": ["Brasil", "Argentina", "Italia", "Alemania"],
+      "correct_answer": 0,
+      "explanation": "Brasil ganó el Mundial de 1970 en México con Pelé como figura."
+    },
+    {
+      "question": "¿Quién es conocido como 'O Rei' en el fútbol?",
+      "options": ["Pelé", "Garrincha", "Romário", "Ronaldo"],
+      "correct_answer": 0,
+      "explanation": "Pelé es conocido como 'O Rei' (El Rey) por su grandeza en el fútbol."
+    },
+    {
+      "question": "¿Qué selección fue campeona del Mundial 1986?",
+      "options": ["Argentina", "Alemania", "Brasil", "Italia"],
+      "correct_answer": 0,
+      "explanation": "Argentina ganó el Mundial 1986 en México con Maradona como líder."
+    },
+    {
+      "question": "¿Qué club ganó la Champions League 2022?",
+      "options": ["Liverpool", "Real Madrid", "Chelsea", "PSG"],
+      "correct_answer": 1,
+      "explanation": "El Real Madrid ganó la Champions League 2022 venciendo 1-0 al Liverpool."
+    },
+    {
+      "question": "¿Qué selección ganó la Copa del Mundo 1998?",
+      "options": ["Brasil", "Francia", "Italia", "Alemania"],
+      "correct_answer": 1,
+      "explanation": "Francia ganó el Mundial 1998 como anfitrión derrotando a Brasil 3-0."
+    },
+    {
+      "question": "¿En qué deporte se destaca Usain Bolt?",
+      "options": ["Natación", "Atletismo", "Ciclismo", "Fútbol"],
+      "correct_answer": 1,
+      "explanation": "Usain Bolt es el velocista más rápido del mundo en atletismo."
+    },
+    {
+      "question": "¿Qué país ganó más mundiales de rugby?",
+      "options": ["Sudáfrica", "Australia", "Nueva Zelanda", "Inglaterra"],
+      "correct_answer": 0,
+      "explanation": "Sudáfrica lidera con 4 Copas del Mundo de rugby."
+    },
+    {
+      "question": "¿Qué selección fue campeona del Mundial 1994?",
+      "options": ["Brasil", "Italia", "Alemania", "Argentina"],
+      "correct_answer": 0,
+      "explanation": "Brasil ganó el Mundial 1994 en EE.UU. venciendo a Italia en penales."
+    },
+    {
+      "question": "¿Qué selección ganó el Mundial femenino 2019?",
+      "options": ["Alemania", "EE.UU.", "Japón", "Francia"],
+      "correct_answer": 1,
+      "explanation": "Estados Unidos ganó el Mundial femenino 2019 en Francia."
+    },
+    {
+      "question": "¿Quién es considerado el mejor tenista de todos los tiempos por sus Grand Slams?",
+      "options": ["Federer", "Djokovic", "Nadal", "Sampras"],
+      "correct_answer": 1,
+      "explanation": "Novak Djokovic lidera con más Grand Slams en la historia del tenis."
+    },
+    {
+      "question": "¿Quién fue el portero campeón del mundo con España en 2010?",
+      "options": ["Casillas", "Valdés", "Reina", "De Gea"],
+      "correct_answer": 0,
+      "explanation": "Iker Casillas fue el portero titular de España en el Mundial 2010."
+    },
+    {
+      "question": "¿Qué selección ganó el Mundial 2002?",
+      "options": ["Brasil", "Alemania", "Italia", "Argentina"],
+      "correct_answer": 0,
+      "explanation": "Brasil ganó el Mundial 2002 en Corea-Japón con Ronaldo como goleador."
+    }
+  ]
+    }
