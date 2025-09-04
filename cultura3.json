@@ -1,0 +1,286 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién pintó la famosa obra 'La última cena'?",
+      "options": ["Leonardo da Vinci", "Miguel Ángel", "Pablo Picasso", "Vincent van Gogh"],
+      "correct_answer": 0,
+      "explanation": "Leonardo da Vinci pintó 'La última cena' en el convento de Santa Maria delle Grazie en Milán."
+    },
+    {
+      "question": "¿En qué país se encuentra la torre Eiffel?",
+      "options": ["Italia", "Francia", "España", "Alemania"],
+      "correct_answer": 1,
+      "explanation": "La torre Eiffel está en París, Francia, y es uno de los monumentos más icónicos del mundo."
+    },
+    {
+      "question": "¿Cuál es la capital de Japón?",
+      "options": ["Pekín", "Tokio", "Seúl", "Osaka"],
+      "correct_answer": 1,
+      "explanation": "Tokio es la capital de Japón y una de las ciudades más pobladas del planeta."
+    },
+    {
+      "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+      "options": ["Gabriel García Márquez", "Miguel de Cervantes", "Lope de Vega", "Jorge Luis Borges"],
+      "correct_answer": 1,
+      "explanation": "Miguel de Cervantes Saavedra es el autor de 'Don Quijote de la Mancha'."
+    },
+    {
+      "question": "¿Qué civilización construyó las pirámides de Egipto?",
+      "options": ["Los romanos", "Los mayas", "Los egipcios", "Los incas"],
+      "correct_answer": 2,
+      "explanation": "Las pirámides fueron construidas por la civilización egipcia como tumbas para faraones."
+    },
+    {
+      "question": "¿Cuál es la moneda oficial de Estados Unidos?",
+      "options": ["Euro", "Peso", "Dólar", "Libra"],
+      "correct_answer": 2,
+      "explanation": "El dólar estadounidense (USD) es la moneda oficial de Estados Unidos."
+    },
+    {
+      "question": "¿Quién es el autor de la obra 'La Odisea'?",
+      "options": ["Homero", "Sófocles", "Virgilio", "Platón"],
+      "correct_answer": 0,
+      "explanation": "Homero, poeta griego, escribió 'La Odisea' y 'La Ilíada'."
+    },
+    {
+      "question": "¿Cuál es el país más grande del mundo en superficie?",
+      "options": ["Estados Unidos", "Rusia", "China", "Canadá"],
+      "correct_answer": 1,
+      "explanation": "Rusia es el país más extenso del planeta."
+    },
+    {
+      "question": "¿En qué continente está Brasil?",
+      "options": ["América", "África", "Asia", "Europa"],
+      "correct_answer": 0,
+      "explanation": "Brasil se encuentra en América del Sur."
+    },
+    {
+      "question": "¿Quién pintó la Mona Lisa?",
+      "options": ["Pablo Picasso", "Leonardo da Vinci", "Salvador Dalí", "Claude Monet"],
+      "correct_answer": 1,
+      "explanation": "La Mona Lisa fue pintada por Leonardo da Vinci en el Renacimiento."
+    },
+    {
+      "question": "¿Qué idioma se habla en Brasil?",
+      "options": ["Español", "Portugués", "Inglés", "Francés"],
+      "correct_answer": 1,
+      "explanation": "En Brasil el idioma oficial es el portugués."
+    },
+    {
+      "question": "¿Qué científico propuso la teoría de la relatividad?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "correct_answer": 1,
+      "explanation": "Albert Einstein desarrolló la teoría de la relatividad."
+    },
+    {
+      "question": "¿Qué país inventó la pólvora?",
+      "options": ["Japón", "China", "India", "Alemania"],
+      "correct_answer": 1,
+      "explanation": "La pólvora fue inventada en China en la Edad Media."
+    },
+    {
+      "question": "¿Qué ciudad es conocida como 'La Gran Manzana'?",
+      "options": ["Los Ángeles", "Nueva York", "Chicago", "Miami"],
+      "correct_answer": 1,
+      "explanation": "Nueva York es conocida como 'La Gran Manzana'."
+    },
+    {
+      "question": "¿Qué instrumento utilizaba Ludwig van Beethoven?",
+      "options": ["Violín", "Piano", "Arpa", "Guitarra"],
+      "correct_answer": 1,
+      "explanation": "Beethoven fue un genio del piano y la composición musical."
+    },
+    {
+      "question": "¿Cuál es el país con más habitantes del mundo?",
+      "options": ["India", "China", "Estados Unidos", "Indonesia"],
+      "correct_answer": 1,
+      "explanation": "China ha sido por décadas el país más poblado, aunque India la alcanzó recientemente."
+    },
+    {
+      "question": "¿Qué famoso físico formuló las leyes del movimiento?",
+      "options": ["Galileo", "Newton", "Kepler", "Einstein"],
+      "correct_answer": 1,
+      "explanation": "Isaac Newton formuló las leyes del movimiento y la gravitación universal."
+    },
+    {
+      "question": "¿En qué país se encuentra la Muralla China?",
+      "options": ["Corea del Sur", "China", "Japón", "India"],
+      "correct_answer": 1,
+      "explanation": "La Gran Muralla está en China y tiene miles de kilómetros de extensión."
+    },
+    {
+      "question": "¿Cuál es la capital de México?",
+      "options": ["Guadalajara", "Ciudad de México", "Monterrey", "Cancún"],
+      "correct_answer": 1,
+      "explanation": "La capital de México es la Ciudad de México."
+    },
+    {
+      "question": "¿Quién pintó 'Guernica'?",
+      "options": ["Picasso", "Dalí", "Velázquez", "Miró"],
+      "correct_answer": 0,
+      "explanation": "Pablo Picasso pintó 'Guernica' como denuncia del bombardeo en la Guerra Civil Española."
+    },
+    {
+      "question": "¿Cuál es el continente más pequeño?",
+      "options": ["Oceanía", "Europa", "América del Sur", "África"],
+      "correct_answer": 0,
+      "explanation": "Oceanía es el continente más pequeño en superficie terrestre."
+    },
+    {
+      "question": "¿Quién escribió 'Cien años de soledad'?",
+      "options": ["Mario Vargas Llosa", "Gabriel García Márquez", "Isabel Allende", "Pablo Neruda"],
+      "correct_answer": 1,
+      "explanation": "Gabriel García Márquez, escritor colombiano, ganó el Nobel por su obra 'Cien años de soledad'."
+    },
+    {
+      "question": "¿Qué guerra finalizó en 1945?",
+      "options": ["Primera Guerra Mundial", "Guerra de Vietnam", "Segunda Guerra Mundial", "Guerra Fría"],
+      "correct_answer": 2,
+      "explanation": "La Segunda Guerra Mundial finalizó en 1945."
+    },
+    {
+      "question": "¿Qué país tiene forma de bota en el mapa?",
+      "options": ["España", "Italia", "Grecia", "Portugal"],
+      "correct_answer": 1,
+      "explanation": "Italia tiene forma de bota en el mapa de Europa."
+    },
+    {
+      "question": "¿En qué país nació el tango?",
+      "options": ["Chile", "Uruguay", "Argentina", "Brasil"],
+      "correct_answer": 2,
+      "explanation": "El tango nació en Argentina y Uruguay, aunque es más representativo de Argentina."
+    },
+    {
+      "question": "¿Cuál es el idioma oficial de Egipto?",
+      "options": ["Inglés", "Árabe", "Francés", "Hebreo"],
+      "correct_answer": 1,
+      "explanation": "El árabe es el idioma oficial de Egipto."
+    },
+    {
+      "question": "¿Quién descubrió América en 1492?",
+      "options": ["Cristóbal Colón", "Marco Polo", "Américo Vespucio", "Magallanes"],
+      "correct_answer": 0,
+      "explanation": "Cristóbal Colón llegó a América en 1492 bajo el patrocinio de los Reyes Católicos."
+    },
+    {
+      "question": "¿Qué ciudad italiana es famosa por sus canales?",
+      "options": ["Roma", "Venecia", "Florencia", "Milán"],
+      "correct_answer": 1,
+      "explanation": "Venecia es conocida por sus canales y góndolas."
+    },
+    {
+      "question": "¿Qué científico fue condenado por decir que la Tierra gira alrededor del Sol?",
+      "options": ["Galileo Galilei", "Copérnico", "Newton", "Kepler"],
+      "correct_answer": 0,
+      "explanation": "Galileo defendió la teoría heliocéntrica y fue condenado por la Inquisición."
+    },
+    {
+      "question": "¿Cuál es la capital de Argentina?",
+      "options": ["Buenos Aires", "Montevideo", "Lima", "Santiago"],
+      "correct_answer": 0,
+      "explanation": "Buenos Aires es la capital de Argentina."
+    },
+    {
+      "question": "¿Quién escribió 'Hamlet'?",
+      "options": ["Shakespeare", "Dickens", "Cervantes", "Tolstói"],
+      "correct_answer": 0,
+      "explanation": "William Shakespeare escribió la famosa tragedia 'Hamlet'."
+    },
+    {
+      "question": "¿En qué país se encuentran las ruinas de Machu Picchu?",
+      "options": ["Colombia", "Perú", "Ecuador", "Bolivia"],
+      "correct_answer": 1,
+      "explanation": "Machu Picchu está en Perú, construida por los incas."
+    },
+    {
+      "question": "¿Qué continente tiene más países?",
+      "options": ["América", "Asia", "Europa", "África"],
+      "correct_answer": 3,
+      "explanation": "África tiene 54 países reconocidos, más que cualquier otro continente."
+    },
+    {
+      "question": "¿Quién pintó 'La noche estrellada'?",
+      "options": ["Monet", "Van Gogh", "Dalí", "Rembrandt"],
+      "correct_answer": 1,
+      "explanation": "Vincent van Gogh pintó 'La noche estrellada' en 1889."
+    },
+    {
+      "question": "¿Cuál es el idioma oficial de Japón?",
+      "options": ["Chino", "Coreano", "Japonés", "Inglés"],
+      "correct_answer": 2,
+      "explanation": "El idioma oficial de Japón es el japonés."
+    },
+    {
+      "question": "¿Qué continente es conocido como 'el viejo continente'?",
+      "options": ["Asia", "Europa", "África", "América"],
+      "correct_answer": 1,
+      "explanation": "Europa es llamado 'el viejo continente' por su historia."
+    },
+    {
+      "question": "¿En qué país nació Mozart?",
+      "options": ["Alemania", "Austria", "Italia", "Francia"],
+      "correct_answer": 1,
+      "explanation": "Wolfgang Amadeus Mozart nació en Salzburgo, Austria."
+    },
+    {
+      "question": "¿Qué monumento fue regalo de Francia a Estados Unidos?",
+      "options": ["El Capitolio", "La Estatua de la Libertad", "El Empire State", "El Puente de Brooklyn"],
+      "correct_answer": 1,
+      "explanation": "La Estatua de la Libertad fue un regalo de Francia en 1886."
+    },
+    {
+      "question": "¿Qué país es conocido como la tierra del sol naciente?",
+      "options": ["China", "Japón", "Corea del Sur", "Tailandia"],
+      "correct_answer": 1,
+      "explanation": "Japón es llamado así por su ubicación al este de Asia."
+    },
+    {
+      "question": "¿Quién escribió 'La divina comedia'?",
+      "options": ["Dante Alighieri", "Maquiavelo", "Boccaccio", "Petrarca"],
+      "correct_answer": 0,
+      "explanation": "Dante Alighieri escribió 'La divina comedia', obra maestra de la literatura italiana."
+    },
+    {
+      "question": "¿Qué país tiene forma de corazón en Europa?",
+      "options": ["Bélgica", "Bosnia y Herzegovina", "Croacia", "Suiza"],
+      "correct_answer": 1,
+      "explanation": "Bosnia y Herzegovina se conoce como el país con forma de corazón."
+    },
+    {
+      "question": "¿Cuál es la capital de España?",
+      "options": ["Barcelona", "Madrid", "Sevilla", "Valencia"],
+      "correct_answer": 1,
+      "explanation": "Madrid es la capital de España."
+    },
+    {
+      "question": "¿Quién descubrió la penicilina?",
+      "options": ["Marie Curie", "Alexander Fleming", "Pasteur", "Einstein"],
+      "correct_answer": 1,
+      "explanation": "Alexander Fleming descubrió la penicilina en 1928."
+    },
+    {
+      "question": "¿Qué país organizó los Juegos Olímpicos de 2008?",
+      "options": ["Japón", "China", "Reino Unido", "Grecia"],
+      "correct_answer": 1,
+      "explanation": "China organizó los Juegos Olímpicos de Pekín en 2008."
+    },
+    {
+      "question": "¿Qué ciudad es la capital de Alemania?",
+      "options": ["Hamburgo", "Berlín", "Múnich", "Frankfurt"],
+      "correct_answer": 1,
+      "explanation": "Berlín es la capital de Alemania."
+    },
+    {
+      "question": "¿Qué escritora creó a Harry Potter?",
+      "options": ["Suzanne Collins", "Verónica Roth", "J.K. Rowling", "Stephanie Meyer"],
+      "correct_answer": 2,
+      "explanation": "J.K. Rowling es la autora de la saga Harry Potter."
+    },
+    {
+      "question": "¿Cuál es la capital de Canadá?",
+      "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correct_answer": 2,
+      "explanation": "La capital de Canadá es Ottawa, aunque Toronto es su ciudad más grande."
+    }
+  ]
+    }
