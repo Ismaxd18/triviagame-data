@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién interpreta a Eleven en Stranger Things?",
+      "options": ["Sadie Sink", "Millie Bobby Brown", "Natalia Dyer", "Winona Ryder"],
+      "correct_answer": 1,
+      "explanation": "Millie Bobby Brown interpreta a Eleven, la niña con poderes telequinéticos en Stranger Things."
+    },
+    {
+      "question": "¿Cuál es el nombre del reino ficticio en Black Panther?",
+      "options": ["Genovia", "Wakanda", "Latveria", "Sokovia"],
+      "correct_answer": 1,
+      "explanation": "El reino de Black Panther es Wakanda, una nación ficticia de Marvel conocida por su tecnología avanzada y el vibranium."
+    },
+    {
+      "question": "¿Qué actor interpreta a Geralt de Rivia en The Witcher de Netflix?",
+      "options": ["Henry Cavill", "Chris Hemsworth", "Tom Hardy", "Kit Harington"],
+      "correct_answer": 0,
+      "explanation": "Henry Cavill interpreta a Geralt de Rivia en la serie The Witcher."
+    },
+    {
+      "question": "¿En qué año se estrenó Avengers: Endgame?",
+      "options": ["2017", "2018", "2019", "2020"],
+      "correct_answer": 2,
+      "explanation": "Avengers: Endgame se estrenó en 2019, cerrando la saga del Infinito de Marvel."
+    },
+    {
+      "question": "¿Qué actriz da vida a Wonder Woman en el DCEU?",
+      "options": ["Gal Gadot", "Brie Larson", "Scarlett Johansson", "Margot Robbie"],
+      "correct_answer": 0,
+      "explanation": "Gal Gadot es la actriz que interpreta a Wonder Woman en el Universo Extendido de DC."
+    },
+    {
+      "question": "¿Qué serie de Netflix cuenta la historia de una familia real británica?",
+      "options": ["The Crown", "Peaky Blinders", "Bridgerton", "Downton Abbey"],
+      "correct_answer": 0,
+      "explanation": "The Crown retrata la historia de la reina Isabel II y la familia real británica."
+    },
+    {
+      "question": "¿Qué director ganó el Oscar por Parasite?",
+      "options": ["Bong Joon-ho", "Park Chan-wook", "Ang Lee", "Hayao Miyazaki"],
+      "correct_answer": 0,
+      "explanation": "Bong Joon-ho dirigió Parasite, la primera película en lengua no inglesa en ganar el Oscar a Mejor Película."
+    },
+    {
+      "question": "¿Cuál es el verdadero nombre de Baby Yoda en The Mandalorian?",
+      "options": ["Grogu", "Yaddle", "Din", "Ezra"],
+      "correct_answer": 0,
+      "explanation": "Baby Yoda es conocido como Grogu en la serie The Mandalorian."
+    },
+    {
+      "question": "¿Quién dirigió Titanic?",
+      "options": ["Steven Spielberg", "James Cameron", "Ridley Scott", "Martin Scorsese"],
+      "correct_answer": 1,
+      "explanation": "Titanic fue dirigida por James Cameron y ganó 11 premios Oscar."
+    },
+    {
+      "question": "¿Qué actor interpreta a Loki en el MCU?",
+      "options": ["Tom Hiddleston", "Benedict Cumberbatch", "Paul Bettany", "Chris Evans"],
+      "correct_answer": 0,
+      "explanation": "Tom Hiddleston interpreta a Loki, el dios del engaño en Marvel."
+    },
+    {
+      "question": "¿Qué superhéroe es conocido como el Caballero Oscuro?",
+      "options": ["Superman", "Iron Man", "Batman", "Doctor Strange"],
+      "correct_answer": 2,
+      "explanation": "Batman es conocido como el Caballero Oscuro en los cómics y películas de DC."
+    },
+    {
+      "question": "¿En qué franquicia aparece el personaje Jack Sparrow?",
+      "options": ["Indiana Jones", "Piratas del Caribe", "El Señor de los Anillos", "Star Wars"],
+      "correct_answer": 1,
+      "explanation": "Jack Sparrow es el capitán pirata protagonista de la saga Piratas del Caribe."
+    },
+    {
+      "question": "¿Qué serie de Netflix se basa en un juego de ajedrez?",
+      "options": ["The Queen’s Gambit", "Dark", "Mindhunter", "The Society"],
+      "correct_answer": 0,
+      "explanation": "The Queen’s Gambit cuenta la historia de Beth Harmon, una prodigio del ajedrez."
+    },
+    {
+      "question": "¿Qué actor interpreta a Iron Man en el MCU?",
+      "options": ["Chris Evans", "Robert Downey Jr.", "Mark Ruffalo", "Jeremy Renner"],
+      "correct_answer": 1,
+      "explanation": "Robert Downey Jr. interpreta a Tony Stark, también conocido como Iron Man."
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a Mejor Película en 2023?",
+      "options": ["Avatar: The Way of Water", "The Fabelmans", "Everything Everywhere All at Once", "Top Gun: Maverick"],
+      "correct_answer": 2,
+      "explanation": "Everything Everywhere All at Once ganó el Oscar a Mejor Película en 2023."
+    },
+    {
+      "question": "¿Cómo se llama el villano principal en Avengers: Infinity War?",
+      "options": ["Thanos", "Ultron", "Loki", "Red Skull"],
+      "correct_answer": 0,
+      "explanation": "Thanos es el villano principal en Infinity War, buscando las Gemas del Infinito."
+    },
+    {
+      "question": "¿Qué actriz interpreta a Harley Quinn en el DCEU?",
+      "options": ["Zendaya", "Margot Robbie", "Emma Stone", "Anne Hathaway"],
+      "correct_answer": 1,
+      "explanation": "Margot Robbie interpreta a Harley Quinn en Escuadrón Suicida y Aves de Presa."
+    },
+    {
+      "question": "¿Qué saga cinematográfica presenta a la familia Skywalker?",
+      "options": ["Star Trek", "Harry Potter", "Star Wars", "Dune"],
+      "correct_answer": 2,
+      "explanation": "Star Wars se centra en gran parte en la familia Skywalker."
+    },
+    {
+      "question": "¿Qué director es conocido como 'El Maestro del Suspenso'?",
+      "options": ["Alfred Hitchcock", "Stanley Kubrick", "Quentin Tarantino", "Francis Ford Coppola"],
+      "correct_answer": 0,
+      "explanation": "Alfred Hitchcock es famoso por sus películas de suspenso como Psicosis y Vértigo."
+    },
+    {
+      "question": "¿Quién interpreta a Wednesday Addams en la serie de Netflix Wednesday?",
+      "options": ["Jenna Ortega", "Chloë Grace Moretz", "Emma Watson", "Maisie Williams"],
+      "correct_answer": 0,
+      "explanation": "Jenna Ortega interpreta a Wednesday Addams en la serie de Netflix."
+    },
+    {
+      "question": "¿En qué película aparece la canción 'Let It Go'?",
+      "options": ["Frozen", "Moana", "Encanto", "Coco"],
+      "correct_answer": 0,
+      "explanation": "Let It Go es la famosa canción de Frozen, interpretada por Idina Menzel."
+    },
+    {
+      "question": "¿Qué actor interpreta a Neo en Matrix?",
+      "options": ["Keanu Reeves", "Tom Cruise", "Brad Pitt", "Matt Damon"],
+      "correct_answer": 0,
+      "explanation": "Keanu Reeves interpreta a Neo en la saga Matrix."
+    },
+    {
+      "question": "¿Cuál es el nombre de la escuela de magia en Harry Potter?",
+      "options": ["Beauxbatons", "Durmstrang", "Ilvermorny", "Hogwarts"],
+      "correct_answer": 3,
+      "explanation": "Hogwarts es la escuela de magia principal en la saga Harry Potter."
+    },
+    {
+      "question": "¿Qué película de Pixar tiene como protagonistas a dos hermanos elfos?",
+      "options": ["Onward", "Soul", "Luca", "Inside Out"],
+      "correct_answer": 0,
+      "explanation": "Onward cuenta la historia de dos hermanos elfos en busca de pasar un último día con su padre."
+    },
+    {
+      "question": "¿Qué actriz interpreta a Katniss Everdeen en Los Juegos del Hambre?",
+      "options": ["Jennifer Lawrence", "Emma Watson", "Shailene Woodley", "Kristen Stewart"],
+      "correct_answer": 0,
+      "explanation": "Jennifer Lawrence da vida a Katniss, la protagonista de Los Juegos del Hambre."
+    },
+    {
+      "question": "¿Qué serie de HBO sigue a la familia Roy y su imperio mediático?",
+      "options": ["Succession", "Euphoria", "The Wire", "Chernobyl"],
+      "correct_answer": 0,
+      "explanation": "Succession sigue las luchas de poder de la familia Roy, dueña de un imperio mediático."
+    },
+    {
+      "question": "¿Qué director es responsable de la trilogía El Señor de los Anillos?",
+      "options": ["Peter Jackson", "Guillermo del Toro", "Christopher Nolan", "Sam Raimi"],
+      "correct_answer": 0,
+      "explanation": "Peter Jackson dirigió la trilogía de El Señor de los Anillos y ganó varios premios Oscar."
+    },
+    {
+      "question": "¿Qué personaje de Marvel dice 'Yo soy Groot'?",
+      "options": ["Rocket", "Thor", "Groot", "Drax"],
+      "correct_answer": 2,
+      "explanation": "Groot solo repite la frase 'Yo soy Groot' en Guardianes de la Galaxia."
+    },
+    {
+      "question": "¿En qué ciudad transcurre la mayor parte de la serie Friends?",
+      "options": ["Los Ángeles", "Chicago", "Nueva York", "San Francisco"],
+      "correct_answer": 2,
+      "explanation": "Friends está ambientada en Nueva York, principalmente en Manhattan."
+    },
+    {
+      "question": "¿Quién interpreta a Spider-Man en el MCU?",
+      "options": ["Andrew Garfield", "Tobey Maguire", "Tom Holland", "Miles Teller"],
+      "correct_answer": 2,
+      "explanation": "Tom Holland interpreta a Peter Parker/Spider-Man en el MCU."
+    },
+    {
+      "question": "¿Qué película animada de Disney está inspirada en Hamlet?",
+      "options": ["Aladdin", "El Rey León", "La Sirenita", "Hércules"],
+      "correct_answer": 1,
+      "explanation": "El Rey León tiene una historia inspirada en Hamlet de Shakespeare."
+    },
+    {
+      "question": "¿Qué serie de Netflix muestra un misterioso pueblo con viajes en el tiempo?",
+      "options": ["Dark", "Stranger Things", "Locke & Key", "The OA"],
+      "correct_answer": 0,
+      "explanation": "Dark es una serie alemana que mezcla misterio y viajes en el tiempo."
+    },
+    {
+      "question": "¿Qué actriz ganó el Oscar por su papel en La La Land?",
+      "options": ["Emma Stone", "Natalie Portman", "Amy Adams", "Anne Hathaway"],
+      "correct_answer": 0,
+      "explanation": "Emma Stone ganó el Oscar a Mejor Actriz por La La Land."
+    },
+    {
+      "question": "¿Cuál es el nombre del dragón en Cómo entrenar a tu dragón?",
+      "options": ["Furia Nocturna", "Chimuelo", "Hipo", "Desdentado"],
+      "correct_answer": 1,
+      "explanation": "El dragón protagonista se llama Chimuelo (Toothless en inglés)."
+    },
+    {
+      "question": "¿Quién dirigió Inception (El Origen)?",
+      "options": ["Christopher Nolan", "James Cameron", "David Fincher", "Denis Villeneuve"],
+      "correct_answer": 0,
+      "explanation": "Christopher Nolan dirigió Inception, una película de ciencia ficción y sueños."
+    },
+    {
+      "question": "¿Qué actriz interpreta a Mística en la saga X-Men moderna?",
+      "options": ["Jennifer Lawrence", "Charlize Theron", "Scarlett Johansson", "Zoe Saldana"],
+      "correct_answer": 0,
+      "explanation": "Jennifer Lawrence interpretó a Mística en las películas modernas de X-Men."
+    },
+    {
+      "question": "¿Cuál fue la primera película animada de Disney?",
+      "options": ["Dumbo", "Fantasía", "Blancanieves y los siete enanitos", "Pinocho"],
+      "correct_answer": 2,
+      "explanation": "Blancanieves y los siete enanitos (1937) fue el primer largometraje animado de Disney."
+    },
+    {
+      "question": "¿Qué serie de HBO muestra la historia de dragones y casas nobles?",
+      "options": ["Game of Thrones", "House of the Dragon", "The Witcher", "The Last Kingdom"],
+      "correct_answer": 1,
+      "explanation": "House of the Dragon es la precuela de Game of Thrones, centrada en la Casa Targaryen."
+    },
+    {
+      "question": "¿Quién interpreta al Joker en The Dark Knight?",
+      "options": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+      "correct_answer": 0,
+      "explanation": "Heath Ledger interpretó al Joker en The Dark Knight, ganando un Oscar póstumo."
+    },
+    {
+      "question": "¿Qué director realizó la trilogía The Dark Knight?",
+      "options": ["Christopher Nolan", "Zack Snyder", "Tim Burton", "Sam Raimi"],
+      "correct_answer": 0,
+      "explanation": "Christopher Nolan dirigió la trilogía The Dark Knight con Christian Bale."
+    },
+    {
+      "question": "¿En qué película aparece el personaje Olaf?",
+      "options": ["Moana", "Frozen", "Encanto", "Zootopia"],
+      "correct_answer": 1,
+      "explanation": "Olaf es el muñeco de nieve amigo de Elsa y Anna en Frozen."
+    },
+    {
+      "question": "¿Qué serie de Netflix muestra a un asesino con una gorra y obsesiones románticas?",
+      "options": ["You", "Elite", "Dark", "Outer Banks"],
+      "correct_answer": 0,
+      "explanation": "You sigue a Joe Goldberg, un acosador obsesivo con un estilo encantador y peligroso."
+    },
+    {
+      "question": "¿Qué película de Marvel ganó el Oscar a Mejor Banda Sonora?",
+      "options": ["Iron Man", "Avengers: Endgame", "Black Panther", "Doctor Strange"],
+      "correct_answer": 2,
+      "explanation": "Black Panther ganó el Oscar a Mejor Banda Sonora y a otros dos premios."
+    },
+    {
+      "question": "¿Qué actriz protagoniza Cruella (2021)?",
+      "options": ["Emma Watson", "Emma Stone", "Margot Robbie", "Anne Hathaway"],
+      "correct_answer": 1,
+      "explanation": "Emma Stone protagoniza Cruella, la historia de origen de la villana de 101 Dálmatas."
+    },
+    {
+      "question": "¿Qué película popularizó la frase 'Yo soy tu padre'?",
+      "options": ["Harry Potter", "Star Wars: El Imperio Contraataca", "Matrix", "Jurassic Park"],
+      "correct_answer": 1,
+      "explanation": "La frase 'Yo soy tu padre' es dicha por Darth Vader en Star Wars: El Imperio Contraataca."
+    },
+    {
+      "question": "¿Qué actriz interpreta a MJ en las películas modernas de Spider-Man?",
+      "options": ["Zendaya", "Hailee Steinfeld", "Sophie Turner", "Lily Collins"],
+      "correct_answer": 0,
+      "explanation": "Zendaya interpreta a Michelle Jones, conocida como MJ, en el MCU."
+    },
+    {
+      "question": "¿Qué película de ciencia ficción de Denis Villeneuve se estrenó en 2021?",
+      "options": ["Arrival", "Blade Runner 2049", "Dune", "Interstellar"],
+      "correct_answer": 2,
+      "explanation": "Dune (2021), dirigida por Denis Villeneuve, adapta la famosa novela de Frank Herbert."
+    },
+    {
+      "question": "¿Qué serie de Disney+ sigue al dios del engaño después de Endgame?",
+      "options": ["WandaVision", "Hawkeye", "Loki", "Moon Knight"],
+      "correct_answer": 2,
+      "explanation": "Loki sigue al personaje de Tom Hiddleston tras los eventos de Avengers: Endgame."
+    },
+    {
+      "question": "¿Qué película ganó el Oscar a Mejor Película en 1994?",
+      "options": ["Pulp Fiction", "Forrest Gump", "Cadena Perpetua", "La lista de Schindler"],
+      "correct_answer": 1,
+      "explanation": "Forrest Gump ganó el Oscar a Mejor Película en 1994, protagonizada por Tom Hanks."
+    },
+    {
+      "question": "¿Qué serie de Netflix muestra a un grupo de ladrones con máscaras de Dalí?",
+      "options": ["Lupin", "La Casa de Papel", "Elite", "Money Heist: Korea"],
+      "correct_answer": 1,
+      "explanation": "La Casa de Papel muestra a un grupo de ladrones liderados por 'El Profesor' usando máscaras de Dalí."
+    }
+  ]
+    }
