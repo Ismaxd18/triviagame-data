@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "Si puedes girar en círculo 5 veces sin marearte, ¿qué pasa?",
+      "options": ["Nada", "Eres un ninja", "Te mareas igual", "Tu equilibrio es increíble"],
+      "correct_answer": 3,
+      "explanation": "Girar 5 veces rápido suele marear, pero si no lo haces, tienes un gran equilibrio."
+    },
+    {
+      "question": "Si aguantas la respiración 20 segundos, ¿qué estás probando?",
+      "options": ["Tu paciencia", "Tu capacidad pulmonar", "Tu fuerza", "Tu velocidad"],
+      "correct_answer": 1,
+      "explanation": "Aguantar la respiración es una forma de medir tu capacidad pulmonar."
+    },
+    {
+      "question": "Reto viral: ¿Cuántos dedos ves ahora mismo sin mirar tu mano?",
+      "options": ["5", "10", "Depende de la mano", "Ninguno"],
+      "correct_answer": 2,
+      "explanation": "Depende de la mano que imagines: si es una, 5; si son dos, 10."
+    },
+    {
+      "question": "Si te ríes sin parar 1 minuto, ¿qué ejercitas?",
+      "options": ["Los abdominales", "Los pulmones", "La garganta", "Los brazos"],
+      "correct_answer": 0,
+      "explanation": "La risa intensa ejercita los abdominales y los músculos faciales."
+    },
+    {
+      "question": "Si dices 'tongue twister' 3 veces rápido, ¿qué pasa?",
+      "options": ["Nada", "Se te traba la lengua", "Hablas inglés perfecto", "Ganas un reto"],
+      "correct_answer": 1,
+      "explanation": "Es un reto de trabalenguas que confunde la pronunciación."
+    },
+    {
+      "question": "Si intentas parpadear sin cerrar los ojos, ¿qué ocurre?",
+      "options": ["Lo logras", "Es imposible", "Te mareas", "Te duermes"],
+      "correct_answer": 1,
+      "explanation": "Parpadear sin cerrar los ojos es imposible."
+    },
+    {
+      "question": "Si saltas 10 veces seguidas, ¿qué parte del cuerpo usas más?",
+      "options": ["Piernas", "Brazos", "Cuello", "Espalda"],
+      "correct_answer": 0,
+      "explanation": "El salto repetido fortalece principalmente las piernas."
+    },
+    {
+      "question": "Si te tapas los oídos, ¿qué sentido dejas de usar?",
+      "options": ["La vista", "El olfato", "El oído", "El gusto"],
+      "correct_answer": 2,
+      "explanation": "Al tapar tus oídos reduces o bloqueas la audición."
+    },
+    {
+      "question": "Reto rápido: ¿Qué mano usas más para escribir?",
+      "options": ["Izquierda", "Derecha", "Ambas", "Ninguna"],
+      "correct_answer": 1,
+      "explanation": "La mayoría de las personas son diestras, aunque hay zurdos y ambidiestros."
+    },
+    {
+      "question": "Si pronuncias 'murciélago' al revés, ¿qué logras?",
+      "options": ["Un trabalenguas", "Un reto divertido", "Nada", "Hablar otro idioma"],
+      "correct_answer": 1,
+      "explanation": "Decir 'murciélago' al revés es un reto viral de pronunciación."
+    },
+    {
+      "question": "¿Qué pasa si intentas lamer tu codo?",
+      "options": ["Lo logras", "Es imposible", "Te duele", "Nada"],
+      "correct_answer": 1,
+      "explanation": "La mayoría de las personas no puede lamerse el codo."
+    },
+    {
+      "question": "Si te ríes mientras bebes agua, ¿qué riesgo hay?",
+      "options": ["Nada", "Ahogarte", "Cantar", "Te mareas"],
+      "correct_answer": 1,
+      "explanation": "Beber agua riendo puede hacer que se vaya por el camino equivocado y te atragantes."
+    },
+    {
+      "question": "Reto: ¿Cuántos saltos puedes dar en 10 segundos?",
+      "options": ["5", "10", "Más de 15", "Ninguno"],
+      "correct_answer": 2,
+      "explanation": "La mayoría de personas puede dar más de 15 saltos en 10 segundos."
+    },
+    {
+      "question": "Si dices 'hola' sin abrir la boca, ¿qué sonido sale?",
+      "options": ["Nada", "Un murmullo raro", "Se entiende perfecto", "Gritas"],
+      "correct_answer": 1,
+      "explanation": "Decir palabras sin abrir la boca genera un murmullo gracioso."
+    },
+    {
+      "question": "¿Qué ocurre si intentas caminar con los ojos cerrados?",
+      "options": ["Nada", "Pierdes el equilibrio", "Caminar recto", "Te mareas"],
+      "correct_answer": 1,
+      "explanation": "Con los ojos cerrados es difícil mantener la orientación y el equilibrio."
+    },
+    {
+      "question": "Si sostienes una sonrisa por 30 segundos, ¿qué sientes?",
+      "options": ["Nada", "Felicidad", "Dolor en la cara", "Sueño"],
+      "correct_answer": 1,
+      "explanation": "Sonreír de manera forzada puede provocar sensaciones de felicidad."
+    },
+    {
+      "question": "Reto viral: ¿Qué pasa si dices '123' al revés?",
+      "options": ["Nada", "Dices 321", "Se vuelve trabalenguas", "Inicias un hechizo"],
+      "correct_answer": 1,
+      "explanation": "El número al revés es simplemente 321."
+    },
+    {
+      "question": "¿Qué pasa si intentas saltar y tocar el techo?",
+      "options": ["Lo logras", "Es difícil", "Rompes algo", "Nada"],
+      "correct_answer": 1,
+      "explanation": "Para la mayoría de las personas, saltar y alcanzar el techo es complicado."
+    },
+    {
+      "question": "Si repites 'me mareo' 10 veces, ¿qué sientes?",
+      "options": ["Nada", "Te mareas", "Risa", "Dolor de garganta"],
+      "correct_answer": 2,
+      "explanation": "Es más probable que te rías de lo absurdo que realmente marearte."
+    },
+    {
+      "question": "Si caminas hacia atrás 1 minuto, ¿qué entrenas?",
+      "options": ["La memoria", "El equilibrio", "La velocidad", "Los brazos"],
+      "correct_answer": 1,
+      "explanation": "Caminar hacia atrás ayuda a entrenar el equilibrio y coordinación."
+    },
+    {
+      "question": "Reto: Si cuentas de 1 a 20 sin equivocarte, ¿qué pruebas?",
+      "options": ["Paciencia", "Memoria", "Concentración", "Velocidad"],
+      "correct_answer": 2,
+      "explanation": "El reto está en mantener la concentración mientras cuentas rápido."
+    },
+    {
+      "question": "Si intentas hablar sin mover los labios, ¿qué ocurre?",
+      "options": ["Nada", "Se escucha raro", "Se entiende perfecto", "Te mareas"],
+      "correct_answer": 1,
+      "explanation": "Hablar sin mover los labios genera un sonido extraño."
+    },
+    {
+      "question": "Si sostienes un vaso con un dedo, ¿qué demuestras?",
+      "options": ["Nada", "Fuerza", "Equilibrio", "Rapidez"],
+      "correct_answer": 2,
+      "explanation": "Mantener el vaso con un dedo requiere equilibrio."
+    },
+    {
+      "question": "Reto viral: ¿Puedes tocarte la nariz con la lengua?",
+      "options": ["Sí", "No", "A veces", "Solo algunos"],
+      "correct_answer": 3,
+      "explanation": "Muy pocas personas tienen la flexibilidad para lograrlo."
+    },
+    {
+      "question": "Si corres en el lugar por 20 segundos, ¿qué trabajas?",
+      "options": ["Piernas", "Pulmones", "Abdomen", "Todo lo anterior"],
+      "correct_answer": 3,
+      "explanation": "Correr en el lugar ejercita varios músculos y mejora la resistencia."
+    },
+    {
+      "question": "¿Qué pasa si intentas decir 'arroz con leche' 5 veces rápido?",
+      "options": ["Nada", "Es un trabalenguas", "Se entiende mejor", "Cantas"],
+      "correct_answer": 1,
+      "explanation": "Es un reto popular porque la lengua se traba fácilmente."
+    },
+    {
+      "question": "Si te acuestas en el piso y cuentas hasta 30, ¿qué estás haciendo?",
+      "options": ["Nada", "Un descanso", "Un reto de paciencia", "Un reto viral"],
+      "correct_answer": 2,
+      "explanation": "Es un reto de resistencia y paciencia muy simple."
+    },
+    {
+      "question": "Reto: ¿Cuánto tiempo puedes estar con un ojo cerrado?",
+      "options": ["10 seg", "30 seg", "1 min", "Más de 5 min"],
+      "correct_answer": 3,
+      "explanation": "Hay gente que logra mantenerlo mucho tiempo cerrado sin esfuerzo."
+    },
+    {
+      "question": "Si te das tres palmadas seguidas, ¿qué ocurre?",
+      "options": ["Nada", "Te animas", "Suena gracioso", "Es un reto"],
+      "correct_answer": 1,
+      "explanation": "Dar palmadas seguidas puede animarte y activar tu energía."
+    },
+    {
+      "question": "Si dices tu nombre al revés, ¿qué logras?",
+      "options": ["Nada", "Un reto divertido", "Un trabalenguas", "Otro idioma"],
+      "correct_answer": 1,
+      "explanation": "Decir tu nombre al revés siempre resulta gracioso."
+    },
+    {
+      "question": "Reto rápido: ¿Qué pasa si miras al techo 30 segundos?",
+      "options": ["Nada", "Te mareas", "Te duele el cuello", "Ganas"],
+      "correct_answer": 2,
+      "explanation": "Mirar hacia arriba mucho tiempo puede cansar el cuello."
+    },
+    {
+      "question": "Si saltas en un pie 15 veces, ¿qué entrenas?",
+      "options": ["Pierna", "Equilibrio", "Paciencia", "Todo lo anterior"],
+      "correct_answer": 3,
+      "explanation": "El reto combina fuerza, resistencia y equilibrio."
+    },
+    {
+      "question": "¿Qué pasa si dices 'papá' 20 veces seguidas?",
+      "options": ["Nada", "Te confundes", "Risa", "Cantas"],
+      "correct_answer": 2,
+      "explanation": "Repetir palabras muchas veces provoca risa."
+    },
+    {
+      "question": "Si corres y gritas '¡Reto!' ¿qué ocurre?",
+      "options": ["Nada", "Un reto viral", "Te diviertes", "Te mareas"],
+      "correct_answer": 2,
+      "explanation": "La gente suele hacerlo como broma y genera diversión."
+    },
+    {
+      "question": "Si cuentas de 100 hacia atrás hasta 90, ¿qué entrenas?",
+      "options": ["Memoria", "Velocidad", "Paciencia", "Matemáticas"],
+      "correct_answer": 3,
+      "explanation": "Contar hacia atrás es un ejercicio mental de matemáticas."
+    },
+    {
+      "question": "Reto: ¿Cuántos aplausos puedes dar en 5 segundos?",
+      "options": ["5", "10", "Más de 15", "Ninguno"],
+      "correct_answer": 2,
+      "explanation": "Si eres rápido puedes aplaudir más de 15 veces en 5 segundos."
+    },
+    {
+      "question": "Si dices 'cinco' y levantas 4 dedos, ¿qué ocurre?",
+      "options": ["Nada", "Confusión", "Reto viral", "Te equivocas"],
+      "correct_answer": 1,
+      "explanation": "El reto juega con la confusión entre palabra y acción."
+    },
+    {
+      "question": "Si brincas y aplaudes al mismo tiempo, ¿qué ejercitas?",
+      "options": ["Piernas", "Coordinación", "Pulmones", "Memoria"],
+      "correct_answer": 1,
+      "explanation": "Es un reto de coordinación divertida."
+    },
+    {
+      "question": "Si tratas de silbar mientras comes, ¿qué pasa?",
+      "options": ["Nada", "Es difícil", "Lo logras", "Cantas"],
+      "correct_answer": 1,
+      "explanation": "Silbar y comer a la vez es casi imposible."
+    },
+    {
+      "question": "Reto rápido: ¿Puedes parpadear 40 veces en 20 segundos?",
+      "options": ["Sí", "No", "Solo algunos", "Es fácil"],
+      "correct_answer": 0,
+      "explanation": "La mayoría sí logra hacerlo, aunque puede cansar."
+    },
+    {
+      "question": "¿Qué pasa si te quedas quieto como estatua 1 minuto?",
+      "options": ["Nada", "Un reto viral", "Te duele algo", "Te aburres"],
+      "correct_answer": 1,
+      "explanation": "Es un reto clásico llamado 'maniquí'."
+    },
+    {
+      "question": "Si dices 'avión' y haces un ruido de coche, ¿qué ocurre?",
+      "options": ["Nada", "Confusión", "Un reto divertido", "Te mareas"],
+      "correct_answer": 2,
+      "explanation": "El reto consiste en hacer sonidos diferentes a la palabra dicha."
+    },
+    {
+      "question": "Si caminas como robot 20 pasos, ¿qué pasa?",
+      "options": ["Nada", "Te diviertes", "Es un reto viral", "Te caes"],
+      "correct_answer": 1,
+      "explanation": "Caminar como robot suele ser gracioso y divertido."
+    },
+    {
+      "question": "Si intentas no parpadear en 30 segundos, ¿qué ocurre?",
+      "options": ["Nada", "Es imposible", "Te lloran los ojos", "Lo logras fácil"],
+      "correct_answer": 2,
+      "explanation": "No parpadear hace que los ojos se resequen y lloren."
+    },
+    {
+      "question": "Reto viral: ¿Puedes decir el alfabeto al revés?",
+      "options": ["Sí", "No", "Algunos", "Es fácil"],
+      "correct_answer": 1,
+      "explanation": "Decir el alfabeto al revés es muy difícil para la mayoría."
+    },
+    {
+      "question": "Si te ríes sin hacer ruido, ¿qué parece?",
+      "options": ["Nada", "Un reto", "Que toses", "Que lloras"],
+      "correct_answer": 3,
+      "explanation": "La risa silenciosa a veces parece llanto."
+    },
+    {
+      "question": "Si dices 'adiós' 30 veces rápido, ¿qué pasa?",
+      "options": ["Nada", "Risa", "Te trabas", "Es un reto"],
+      "correct_answer": 2,
+      "explanation": "La repetición rápida provoca trabarse."
+    },
+    {
+      "question": "Reto: ¿Cuántos segundos puedes mantener una pierna levantada?",
+      "options": ["10", "20", "30", "Más de 1 min"],
+      "correct_answer": 3,
+      "explanation": "Es un reto de equilibrio que puede durar mucho."
+    },
+    {
+      "question": "Si saltas y dices tu nombre, ¿qué pasa?",
+      "options": ["Nada", "Es divertido", "Es un reto viral", "Lo logras"],
+      "correct_answer": 1,
+      "explanation": "Es un reto simple y gracioso."
+    },
+    {
+      "question": "Si das 5 pasos atrás y gritas 'Ganador', ¿qué ocurre?",
+      "options": ["Nada", "Reto viral", "Diversión", "Todos ríen"],
+      "correct_answer": 2,
+      "explanation": "Es un reto pensado para divertirse."
+    }
+  ]
+    }
