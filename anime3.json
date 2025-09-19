@@ -79,10 +79,10 @@
       "explanation": "Seto Kaiba es el principal rival de Yugi."
     },
     {
-      "question": "¿Qué villano es conocido como el 'Freezer del nuevo mundo' en One Piece?",
+      "question": "¿Quién es uno de los Shichibukai más peligrosos en One Piece?",
       "options": ["Kaido", "Big Mom", "Doflamingo", "Crocodile"],
       "correct_answer": 2,
-      "explanation": "Donquixote Doflamingo es uno de los villanos más temidos en One Piece."
+      "explanation": "Donquixote Doflamingo fue uno de los Shichibukai más temidos y poderosos."
     },
     {
       "question": "¿Quién es el protagonista de Bleach?",
@@ -211,10 +211,10 @@
       "explanation": "Shoto Todoroki domina el hielo con su lado derecho y el fuego con su lado izquierdo."
     },
     {
-      "question": "¿Qué gema tiene Killua en Hunter x Hunter?",
-      "options": ["Ninguna", "Gema eléctrica", "Anillo de poder", "La piedra Greed Island"],
-      "correct_answer": 0,
-      "explanation": "Killua no tiene ninguna gema especial, su poder viene de su entrenamiento."
+      "question": "¿Cuál es la especialidad de combate de Killua?",
+      "options": ["Técnicas de asesinato", "Magia de cartas", "Artes marciales", "Todas las anteriores"],
+      "correct_answer": 3,
+      "explanation": "Killua domina técnicas de asesinato de su familia, usa electricidad y es experto en combate."
     },
     {
       "question": "¿Cómo se llama el padre de Gon?",
@@ -223,10 +223,10 @@
       "explanation": "Ging Freecss es el padre de Gon."
     },
     {
-      "question": "¿Qué carta prohíbe Pegasus en Yu-Gi-Oh?",
-      "options": ["Exodia", "Dragón Blanco", "Mago Oscuro", "Cartas de Dioses"],
-      "correct_answer": 3,
-      "explanation": "Pegasus creó las Cartas de Dioses Egipcios que eran extremadamente poderosas."
+      "question": "¿Quién creó las Cartas de Dioses Egipcios en Yu-Gi-Oh?",
+      "options": ["Yugi", "Kaiba", "Pegasus", "Marik"],
+      "correct_answer": 2,
+      "explanation": "Pegasus creó las Cartas de Dioses Egipcios basándose en tablillas egipcias."
     },
     {
       "question": "¿Cómo se llama el estudio que produjo Evangelion?",
@@ -287,6 +287,18 @@
       "options": ["Naruto", "Sakura", "Kakashi", "Rock Lee"],
       "correct_answer": 0,
       "explanation": "Naruto es famoso por usar la técnica de los clones de sombra."
+    },
+    {
+      "question": "¿Cómo se llama la espada de Tanjiro en Demon Slayer?",
+      "options": ["Katana Negra", "Nichirin", "Tessaiga", "Zanpakuto"],
+      "correct_answer": 1,
+      "explanation": "Tanjiro usa una espada Nichirin para combatir demonios."
+    },
+    {
+      "question": "¿Qué transformación alcanza Goku primero en Dragon Ball Z?",
+      "options": ["Super Saiyajin 2", "Super Saiyajin", "Super Saiyajin 3", "Super Saiyajin God"],
+      "correct_answer": 1,
+      "explanation": "Goku se transforma por primera vez en Super Saiyajin durante la pelea con Freezer."
     }
   ]
         }
